@@ -1,0 +1,38 @@
+Object_Name	Object_Type
+TO Generic JPN offshore	Generator
+JAPAN Onshore 100m 652 35.5 138.125 105M Windspeed	Variable
+JAPAN Onshore 100m 652 35.5 138.125 105M HHxWS	Variable
+JAPAN Onshore 100m 652 35.5 138.125 105M HHxWSc	Variable
+JAPAN Onshore 100m 652 35.5 138.125 105M HHc	Variable
+JAPAN Onshore 100m 652 35.5 138.125 105M WSc	Variable
+JAPAN Onshore 100m 652 35.5 138.125 105M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 652 35.5 138.125 105M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 652 35.5 138.125 105M HHxWSc+HHc+WSc+C	Variable
+TO Ibaraki Kashima port North	Generator
+JAPAN Offshore 100m 670 36.0 141.25 90M Windspeed	Variable
+JAPAN Offshore 100m 670 36.0 141.25 90M HHxWS	Variable
+JAPAN Offshore 100m 670 36.0 141.25 90M HHxWSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 90M HHc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 90M WSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 90M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 90M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 90M HHxWSc+HHc+WSc+C	Variable
+TO Ibaraki Kashima port South	Generator
+JAPAN Offshore 100m 670 36.0 141.25 78M Windspeed	Variable
+JAPAN Offshore 100m 670 36.0 141.25 78M HHxWS	Variable
+JAPAN Offshore 100m 670 36.0 141.25 78M HHxWSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 78M HHc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 78M WSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 78M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 78M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 78M HHxWSc+HHc+WSc+C	Variable
+TO Kamisu Offshore	Generator
+JAPAN Offshore 100m 670 36.0 141.25 60M Windspeed	Variable
+JAPAN Offshore 100m 670 36.0 141.25 60M HHxWS	Variable
+JAPAN Offshore 100m 670 36.0 141.25 60M HHxWSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 60M HHc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 60M WSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 60M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 60M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 670 36.0 141.25 60M HHxWSc+HHc+WSc+C	Variable
+TO Kashima Wind	Generator

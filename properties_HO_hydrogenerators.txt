@@ -1,0 +1,155 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+HO JP_PP_Hokkaido			gross_capacity	2010-01-01	2100-01-01	275	0.6	Multiply					
+HO JP_PP_Hokkaido			conversion_rate	2010-01-01	2100-01-01	2							
+HO JP_PP_Hokkaido			save_data	2010-01-01	2100-01-01	1							
+HO JP_PP_Hokkaido			save_blocks	2010-01-01	2100-01-01	0							
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					1		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l10 p1	 .3453916	Add			1		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					1		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					2		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l10 p2	 .5476685	Add			2		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					2		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					3		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l10 p3	 .9229546	Add			3		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					3		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					4		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l10 p4	 .5382463	Add			4		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					4		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					5		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l10 p5	 .4064213	Add			5		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					5		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					6		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l20 p1	 .8472455	Add			6		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					6		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					7		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l20 p2	 .8262255	Add			7		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					7		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					8		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l20 p3	 .6724276	Add			8		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					8		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					9		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l20 p4	 .7218951	Add			9		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					9		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					10		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l20 p5	 .9967714	Add			10		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					10		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					11		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l30 p1	 .3398061	Add			11		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					11		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					12		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l30 p2	 .4952113	Add			12		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					12		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					13		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l30 p3	 .4129678	Add			13		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					13		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					14		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l30 p4	 .6952818	Add			14		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					14		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					15		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l30 p5	 .1790893	Add			15		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					15		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					16		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l40 p1	 .4229183	Add			16		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					16		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					17		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l40 p2	 .543177	Add			17		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					17		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					18		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l40 p3	 .8146639	Add			18		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					18		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					19		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l40 p4	 .5409136	Add			19		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					19		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					20		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l40 p5	 .4275333	Add			20		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					20		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					21		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l50 p1	 .5090681	Add			21		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					21		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					22		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l50 p2	 .2277816	Add			22		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					22		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					23		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l50 p3	 .6191876	Add			23		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					23		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					24		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l50 p4	 .4898304	Add			24		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					24		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					25		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l50 p5	 .6808194	Add			25		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					25		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					26		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l60 p1	 .8866001	Add			26		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					26		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					27		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l60 p2	 .3705153	Add			27		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					27		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					28		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l60 p3	 .3024976	Add			28		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					28		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					29		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l60 p4	 .2928668	Add			29		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					29		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					30		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l60 p5	 .1503113	Add			30		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					30		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					31		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l70 p1	 .5298212	Add			31		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					31		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					32		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l70 p2	 .2232618	Add			32		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					32		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					33		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l70 p3	 .5845293	Add			33		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					33		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					34		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l70 p4	 .3634587	Add			34		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					34		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					35		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l70 p5	 .8759747	Add			35		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					35		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					36		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l80 p1	 .4780142	Add			36		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					36		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					37		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l80 p2	 .1906334	Add			37		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					37		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					38		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l80 p3	 .6840623	Add			38		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					38		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					39		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l80 p4	 .7474158	Add			39		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					39		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					40		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l80 p5	 .6139349	Add			40		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					40		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					41		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l90 p1	 .7821387	Add			41		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					41		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					42		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l90 p2	 .1617437	Add			42		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					42		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					43		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l90 p3	 .8077798	Add			43		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					43		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					44		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l90 p4	 .2026183	Add			44		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					44		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					45		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l90 p5	 .9567624	Add			45		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					45		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					46		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l100 p1	 6.585103E-02	Add			46		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					46		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					47		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l100 p2	 6.152225E-02	Add			47		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					47		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					48		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l100 p3	 .7931976	Add			48		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					48		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					49		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l100 p4	 .3796047	Add			49		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					49		
+HO JP_PP_Hokkaido			offer_volume_percent	2010-01-01	2100-01-01	20					50		
+HO JP_PP_Hokkaido			offer_price	2010-01-01	2100-01-01	HO Hydro Price l100 p5	 .463584	Add			50		
+HO JP_PP_Hokkaido			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					50		

@@ -1,0 +1,359 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TU Daily Demand Stochastic			Value	2010-01-01	2100-01-01	TU Daily Demand Stochastic File	TU Base Demand	Multiply					
+TU Demand DIY			Value	2010-01-01	2100-01-01	TU Demand DIY File	TU Daily Demand Stochastic	Multiply					
+TU Demand DOW			Value	2010-01-01	2100-01-01	TU Demand DOW File	TU Demand DIY	Multiply					
+TU Demand HOD			Value	2010-01-01	2100-01-01	TU Demand HOD File	TU Demand DOW	Multiply					
+TU Demand Historic Day Ahead			Value	2010-01-01	2100-01-01	TU Demand Historic Day Ahead File							
+TU Base Demand			Value	2010-01-01	2100-01-01	Base Demand File							
+TU Demand			Bid Volume	2010-01-01	2100-01-01	TU Demand HOD	TU DSR Adjustment	Add			1	1	
+TU Demand			Bid Price	2010-01-01	2100-01-01	100000					1	1	
+TU DSR Bid Volume 2017			Value	2017-01-01	2100-01-01	800							
+TU Demand			Bid Volume	2017-01-01	2100-01-01	TU DSR Bid Volume 2017					2	2	
+TU DSR Bid Price 2017			Value	2017-01-01	2100-01-01	400							
+TU Demand			Bid Price	2017-01-01	2100-01-01	TU DSR Bid Price 2017					2	2	
+TU DSR Adjustment			Value	2017-01-01	2100-01-01	-800							
+TU DSR Bid Volume 2018			Value	2018-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2018-01-01	2100-01-01	TU DSR Bid Volume 2018					3	3	
+TU DSR Bid Price 2018			Value	2018-01-01	2100-01-01	575.5							
+TU Demand			Bid Price	2018-01-01	2100-01-01	TU DSR Bid Price 2018					3	3	
+TU DSR Adjustment			Value	2018-01-01	2100-01-01	-880							
+TU DSR Bid Volume 2019			Value	2019-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2019-01-01	2100-01-01	TU DSR Bid Volume 2019					4	4	
+TU DSR Bid Price 2019			Value	2019-01-01	2100-01-01	405							
+TU Demand			Bid Price	2019-01-01	2100-01-01	TU DSR Bid Price 2019					4	4	
+TU DSR Adjustment			Value	2019-01-01	2100-01-01	-960							
+TU DSR Bid Volume 2020			Value	2020-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2020-01-01	2100-01-01	TU DSR Bid Volume 2020					5	5	
+TU DSR Bid Price 2020			Value	2020-01-01	2100-01-01	570.5							
+TU Demand			Bid Price	2020-01-01	2100-01-01	TU DSR Bid Price 2020					5	5	
+TU DSR Adjustment			Value	2020-01-01	2100-01-01	-1040							
+TU DSR Bid Volume 2021			Value	2021-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2021-01-01	2100-01-01	TU DSR Bid Volume 2021					6	6	
+TU DSR Bid Price 2021			Value	2021-01-01	2100-01-01	410							
+TU Demand			Bid Price	2021-01-01	2100-01-01	TU DSR Bid Price 2021					6	6	
+TU DSR Adjustment			Value	2021-01-01	2100-01-01	-1120							
+TU DSR Bid Volume 2022			Value	2022-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2022-01-01	2100-01-01	TU DSR Bid Volume 2022					7	7	
+TU DSR Bid Price 2022			Value	2022-01-01	2100-01-01	565.5							
+TU Demand			Bid Price	2022-01-01	2100-01-01	TU DSR Bid Price 2022					7	7	
+TU DSR Adjustment			Value	2022-01-01	2100-01-01	-1200							
+TU DSR Bid Volume 2023			Value	2023-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2023-01-01	2100-01-01	TU DSR Bid Volume 2023					8	8	
+TU DSR Bid Price 2023			Value	2023-01-01	2100-01-01	415							
+TU Demand			Bid Price	2023-01-01	2100-01-01	TU DSR Bid Price 2023					8	8	
+TU DSR Adjustment			Value	2023-01-01	2100-01-01	-1280							
+TU DSR Bid Volume 2024			Value	2024-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2024-01-01	2100-01-01	TU DSR Bid Volume 2024					9	9	
+TU DSR Bid Price 2024			Value	2024-01-01	2100-01-01	560.5							
+TU Demand			Bid Price	2024-01-01	2100-01-01	TU DSR Bid Price 2024					9	9	
+TU DSR Adjustment			Value	2024-01-01	2100-01-01	-1360							
+TU DSR Bid Volume 2025			Value	2025-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2025-01-01	2100-01-01	TU DSR Bid Volume 2025					10	10	
+TU DSR Bid Price 2025			Value	2025-01-01	2100-01-01	420							
+TU Demand			Bid Price	2025-01-01	2100-01-01	TU DSR Bid Price 2025					10	10	
+TU DSR Adjustment			Value	2025-01-01	2100-01-01	-1440							
+TU DSR Bid Volume 2026			Value	2026-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2026-01-01	2100-01-01	TU DSR Bid Volume 2026					11	11	
+TU DSR Bid Price 2026			Value	2026-01-01	2100-01-01	555.5							
+TU Demand			Bid Price	2026-01-01	2100-01-01	TU DSR Bid Price 2026					11	11	
+TU DSR Adjustment			Value	2026-01-01	2100-01-01	-1520							
+TU DSR Bid Volume 2027			Value	2027-01-01	2100-01-01	80							
+TU Demand			Bid Volume	2027-01-01	2100-01-01	TU DSR Bid Volume 2027					12	12	
+TU DSR Bid Price 2027			Value	2027-01-01	2100-01-01	425							
+TU Demand			Bid Price	2027-01-01	2100-01-01	TU DSR Bid Price 2027					12	12	
+TU DSR Adjustment			Value	2027-01-01	2100-01-01	-1600							
+TU DSR Bid Volume 2028			Value	2028-01-01	2100-01-01	4145.45							
+TU Demand			Bid Volume	2028-01-01	2100-01-01	TU DSR Bid Volume 2028					13	13	
+TU DSR Bid Price 2028			Value	2028-01-01	2100-01-01	550.5							
+TU Demand			Bid Price	2028-01-01	2100-01-01	TU DSR Bid Price 2028					13	13	
+TU DSR Adjustment			Value	2028-01-01	2100-01-01	-5745.45							
+TU DSR Bid Volume 2029			Value	2029-01-01	2100-01-01	130							
+TU Demand			Bid Volume	2029-01-01	2100-01-01	TU DSR Bid Volume 2029					14	14	
+TU DSR Bid Price 2029			Value	2029-01-01	2100-01-01	430							
+TU Demand			Bid Price	2029-01-01	2100-01-01	TU DSR Bid Price 2029					14	14	
+TU DSR Adjustment			Value	2029-01-01	2100-01-01	-5875.45							
+TU DSR Bid Volume 2030			Value	2030-01-01	2100-01-01	380							
+TU Demand			Bid Volume	2030-01-01	2100-01-01	TU DSR Bid Volume 2030					15	15	
+TU DSR Bid Price 2030			Value	2030-01-01	2100-01-01	545.5							
+TU Demand			Bid Price	2030-01-01	2100-01-01	TU DSR Bid Price 2030					15	15	
+TU DSR Adjustment			Value	2030-01-01	2100-01-01	-6255.45							
+TU DSR Bid Volume 2031			Value	2031-01-01	2100-01-01	1611.1							
+TU Demand			Bid Volume	2031-01-01	2100-01-01	TU DSR Bid Volume 2031					16	16	
+TU DSR Bid Price 2031			Value	2031-01-01	2100-01-01	435							
+TU Demand			Bid Price	2031-01-01	2100-01-01	TU DSR Bid Price 2031					16	16	
+TU DSR Adjustment			Value	2031-01-01	2100-01-01	-7866.55							
+TU DSR Bid Volume 2032			Value	2032-01-01	2100-01-01	2580.1							
+TU Demand			Bid Volume	2032-01-01	2100-01-01	TU DSR Bid Volume 2032					17	17	
+TU DSR Bid Price 2032			Value	2032-01-01	2100-01-01	540.5							
+TU Demand			Bid Price	2032-01-01	2100-01-01	TU DSR Bid Price 2032					17	17	
+TU DSR Adjustment			Value	2032-01-01	2100-01-01	-10446.65							
+TU DSR Bid Volume 2033			Value	2033-01-01	2100-01-01	1180.1							
+TU Demand			Bid Volume	2033-01-01	2100-01-01	TU DSR Bid Volume 2033					18	18	
+TU DSR Bid Price 2033			Value	2033-01-01	2100-01-01	440							
+TU Demand			Bid Price	2033-01-01	2100-01-01	TU DSR Bid Price 2033					18	18	
+TU DSR Adjustment			Value	2033-01-01	2100-01-01	-11626.75							
+TU DSR Bid Volume 2034			Value	2034-01-01	2100-01-01	3038.6							
+TU Demand			Bid Volume	2034-01-01	2100-01-01	TU DSR Bid Volume 2034					19	19	
+TU DSR Bid Price 2034			Value	2034-01-01	2100-01-01	535.5							
+TU Demand			Bid Price	2034-01-01	2100-01-01	TU DSR Bid Price 2034					19	19	
+TU DSR Adjustment			Value	2034-01-01	2100-01-01	-14665.35							
+TU DSR Bid Volume 2035			Value	2035-01-01	2100-01-01	1835.2							
+TU Demand			Bid Volume	2035-01-01	2100-01-01	TU DSR Bid Volume 2035					20	20	
+TU DSR Bid Price 2035			Value	2035-01-01	2100-01-01	445							
+TU Demand			Bid Price	2035-01-01	2100-01-01	TU DSR Bid Price 2035					20	20	
+TU DSR Adjustment			Value	2035-01-01	2100-01-01	-16500.55							
+TU DSR Bid Volume 2036			Value	2036-01-01	2100-01-01	1233.7							
+TU Demand			Bid Volume	2036-01-01	2100-01-01	TU DSR Bid Volume 2036					21	21	
+TU DSR Bid Price 2036			Value	2036-01-01	2100-01-01	530.5							
+TU Demand			Bid Price	2036-01-01	2100-01-01	TU DSR Bid Price 2036					21	21	
+TU DSR Adjustment			Value	2036-01-01	2100-01-01	-17734.25							
+TU DSR Bid Volume 2037			Value	2037-01-01	2100-01-01	6763.9							
+TU Demand			Bid Volume	2037-01-01	2100-01-01	TU DSR Bid Volume 2037					22	22	
+TU DSR Bid Price 2037			Value	2037-01-01	2100-01-01	450							
+TU Demand			Bid Price	2037-01-01	2100-01-01	TU DSR Bid Price 2037					22	22	
+TU DSR Adjustment			Value	2037-01-01	2100-01-01	-24498.15							
+TU DSR Bid Volume 2038			Value	2038-01-01	2100-01-01	3175.35							
+TU Demand			Bid Volume	2038-01-01	2100-01-01	TU DSR Bid Volume 2038					23	23	
+TU DSR Bid Price 2038			Value	2038-01-01	2100-01-01	525.5							
+TU Demand			Bid Price	2038-01-01	2100-01-01	TU DSR Bid Price 2038					23	23	
+TU DSR Adjustment			Value	2038-01-01	2100-01-01	-27673.5							
+TU DSR Bid Volume 2039			Value	2039-01-01	2100-01-01	4296.55							
+TU Demand			Bid Volume	2039-01-01	2100-01-01	TU DSR Bid Volume 2039					24	24	
+TU DSR Bid Price 2039			Value	2039-01-01	2100-01-01	455							
+TU Demand			Bid Price	2039-01-01	2100-01-01	TU DSR Bid Price 2039					24	24	
+TU DSR Adjustment			Value	2039-01-01	2100-01-01	-31970.05							
+TU DSR Bid Volume 2040			Value	2040-01-01	2100-01-01	534.700000000001							
+TU Demand			Bid Volume	2040-01-01	2100-01-01	TU DSR Bid Volume 2040					25	25	
+TU DSR Bid Price 2040			Value	2040-01-01	2100-01-01	520.5							
+TU Demand			Bid Price	2040-01-01	2100-01-01	TU DSR Bid Price 2040					25	25	
+TU DSR Adjustment			Value	2040-01-01	2100-01-01	-32504.75							
+TU DSR Bid Volume 2041			Value	2041-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2041-01-01	2100-01-01	TU DSR Bid Volume 2041					26	26	
+TU DSR Bid Price 2041			Value	2041-01-01	2100-01-01	460							
+TU Demand			Bid Price	2041-01-01	2100-01-01	TU DSR Bid Price 2041					26	26	
+TU DSR Adjustment			Value	2041-01-01	2100-01-01	-32554.75							
+TU DSR Bid Volume 2042			Value	2042-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2042-01-01	2100-01-01	TU DSR Bid Volume 2042					27	27	
+TU DSR Bid Price 2042			Value	2042-01-01	2100-01-01	515.5							
+TU Demand			Bid Price	2042-01-01	2100-01-01	TU DSR Bid Price 2042					27	27	
+TU DSR Adjustment			Value	2042-01-01	2100-01-01	-32604.75							
+TU DSR Bid Volume 2043			Value	2043-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2043-01-01	2100-01-01	TU DSR Bid Volume 2043					28	28	
+TU DSR Bid Price 2043			Value	2043-01-01	2100-01-01	465							
+TU Demand			Bid Price	2043-01-01	2100-01-01	TU DSR Bid Price 2043					28	28	
+TU DSR Adjustment			Value	2043-01-01	2100-01-01	-32654.75							
+TU DSR Bid Volume 2044			Value	2044-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2044-01-01	2100-01-01	TU DSR Bid Volume 2044					29	29	
+TU DSR Bid Price 2044			Value	2044-01-01	2100-01-01	510.5							
+TU Demand			Bid Price	2044-01-01	2100-01-01	TU DSR Bid Price 2044					29	29	
+TU DSR Adjustment			Value	2044-01-01	2100-01-01	-32704.75							
+TU DSR Bid Volume 2045			Value	2045-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2045-01-01	2100-01-01	TU DSR Bid Volume 2045					30	30	
+TU DSR Bid Price 2045			Value	2045-01-01	2100-01-01	470							
+TU Demand			Bid Price	2045-01-01	2100-01-01	TU DSR Bid Price 2045					30	30	
+TU DSR Adjustment			Value	2045-01-01	2100-01-01	-32754.75							
+TU DSR Bid Volume 2046			Value	2046-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2046-01-01	2100-01-01	TU DSR Bid Volume 2046					31	31	
+TU DSR Bid Price 2046			Value	2046-01-01	2100-01-01	505.5							
+TU Demand			Bid Price	2046-01-01	2100-01-01	TU DSR Bid Price 2046					31	31	
+TU DSR Adjustment			Value	2046-01-01	2100-01-01	-32804.75							
+TU DSR Bid Volume 2047			Value	2047-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2047-01-01	2100-01-01	TU DSR Bid Volume 2047					32	32	
+TU DSR Bid Price 2047			Value	2047-01-01	2100-01-01	475							
+TU Demand			Bid Price	2047-01-01	2100-01-01	TU DSR Bid Price 2047					32	32	
+TU DSR Adjustment			Value	2047-01-01	2100-01-01	-32854.75							
+TU DSR Bid Volume 2048			Value	2048-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2048-01-01	2100-01-01	TU DSR Bid Volume 2048					33	33	
+TU DSR Bid Price 2048			Value	2048-01-01	2100-01-01	500.5							
+TU Demand			Bid Price	2048-01-01	2100-01-01	TU DSR Bid Price 2048					33	33	
+TU DSR Adjustment			Value	2048-01-01	2100-01-01	-32904.75							
+TU DSR Bid Volume 2049			Value	2049-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2049-01-01	2100-01-01	TU DSR Bid Volume 2049					34	34	
+TU DSR Bid Price 2049			Value	2049-01-01	2100-01-01	480							
+TU Demand			Bid Price	2049-01-01	2100-01-01	TU DSR Bid Price 2049					34	34	
+TU DSR Adjustment			Value	2049-01-01	2100-01-01	-32954.75							
+TU DSR Bid Volume 2050			Value	2050-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2050-01-01	2100-01-01	TU DSR Bid Volume 2050					35	35	
+TU DSR Bid Price 2050			Value	2050-01-01	2100-01-01	495.5							
+TU Demand			Bid Price	2050-01-01	2100-01-01	TU DSR Bid Price 2050					35	35	
+TU DSR Adjustment			Value	2050-01-01	2100-01-01	-33004.75							
+TU DSR Bid Volume 2051			Value	2051-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2051-01-01	2100-01-01	TU DSR Bid Volume 2051					36	36	
+TU DSR Bid Price 2051			Value	2051-01-01	2100-01-01	485							
+TU Demand			Bid Price	2051-01-01	2100-01-01	TU DSR Bid Price 2051					36	36	
+TU DSR Adjustment			Value	2051-01-01	2100-01-01	-33054.75							
+TU DSR Bid Volume 2052			Value	2052-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2052-01-01	2100-01-01	TU DSR Bid Volume 2052					37	37	
+TU DSR Bid Price 2052			Value	2052-01-01	2100-01-01	490.5							
+TU Demand			Bid Price	2052-01-01	2100-01-01	TU DSR Bid Price 2052					37	37	
+TU DSR Adjustment			Value	2052-01-01	2100-01-01	-33104.75							
+TU DSR Bid Volume 2053			Value	2053-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2053-01-01	2100-01-01	TU DSR Bid Volume 2053					38	38	
+TU DSR Bid Price 2053			Value	2053-01-01	2100-01-01	490							
+TU Demand			Bid Price	2053-01-01	2100-01-01	TU DSR Bid Price 2053					38	38	
+TU DSR Adjustment			Value	2053-01-01	2100-01-01	-33154.75							
+TU DSR Bid Volume 2054			Value	2054-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2054-01-01	2100-01-01	TU DSR Bid Volume 2054					39	39	
+TU DSR Bid Price 2054			Value	2054-01-01	2100-01-01	485.5							
+TU Demand			Bid Price	2054-01-01	2100-01-01	TU DSR Bid Price 2054					39	39	
+TU DSR Adjustment			Value	2054-01-01	2100-01-01	-33204.75							
+TU DSR Bid Volume 2055			Value	2055-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2055-01-01	2100-01-01	TU DSR Bid Volume 2055					40	40	
+TU DSR Bid Price 2055			Value	2055-01-01	2100-01-01	495							
+TU Demand			Bid Price	2055-01-01	2100-01-01	TU DSR Bid Price 2055					40	40	
+TU DSR Adjustment			Value	2055-01-01	2100-01-01	-33254.75							
+TU DSR Bid Volume 2056			Value	2056-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2056-01-01	2100-01-01	TU DSR Bid Volume 2056					41	41	
+TU DSR Bid Price 2056			Value	2056-01-01	2100-01-01	480.5							
+TU Demand			Bid Price	2056-01-01	2100-01-01	TU DSR Bid Price 2056					41	41	
+TU DSR Adjustment			Value	2056-01-01	2100-01-01	-33304.75							
+TU DSR Bid Volume 2057			Value	2057-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2057-01-01	2100-01-01	TU DSR Bid Volume 2057					42	42	
+TU DSR Bid Price 2057			Value	2057-01-01	2100-01-01	500							
+TU Demand			Bid Price	2057-01-01	2100-01-01	TU DSR Bid Price 2057					42	42	
+TU DSR Adjustment			Value	2057-01-01	2100-01-01	-33354.75							
+TU DSR Bid Volume 2058			Value	2058-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2058-01-01	2100-01-01	TU DSR Bid Volume 2058					43	43	
+TU DSR Bid Price 2058			Value	2058-01-01	2100-01-01	475.5							
+TU Demand			Bid Price	2058-01-01	2100-01-01	TU DSR Bid Price 2058					43	43	
+TU DSR Adjustment			Value	2058-01-01	2100-01-01	-33404.75							
+TU DSR Bid Volume 2059			Value	2059-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2059-01-01	2100-01-01	TU DSR Bid Volume 2059					44	44	
+TU DSR Bid Price 2059			Value	2059-01-01	2100-01-01	505							
+TU Demand			Bid Price	2059-01-01	2100-01-01	TU DSR Bid Price 2059					44	44	
+TU DSR Adjustment			Value	2059-01-01	2100-01-01	-33454.75							
+TU DSR Bid Volume 2060			Value	2060-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2060-01-01	2100-01-01	TU DSR Bid Volume 2060					45	45	
+TU DSR Bid Price 2060			Value	2060-01-01	2100-01-01	470.5							
+TU Demand			Bid Price	2060-01-01	2100-01-01	TU DSR Bid Price 2060					45	45	
+TU DSR Adjustment			Value	2060-01-01	2100-01-01	-33504.75							
+TU DSR Bid Volume 2061			Value	2061-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2061-01-01	2100-01-01	TU DSR Bid Volume 2061					46	46	
+TU DSR Bid Price 2061			Value	2061-01-01	2100-01-01	510							
+TU Demand			Bid Price	2061-01-01	2100-01-01	TU DSR Bid Price 2061					46	46	
+TU DSR Adjustment			Value	2061-01-01	2100-01-01	-33554.75							
+TU DSR Bid Volume 2062			Value	2062-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2062-01-01	2100-01-01	TU DSR Bid Volume 2062					47	47	
+TU DSR Bid Price 2062			Value	2062-01-01	2100-01-01	465.5							
+TU Demand			Bid Price	2062-01-01	2100-01-01	TU DSR Bid Price 2062					47	47	
+TU DSR Adjustment			Value	2062-01-01	2100-01-01	-33604.75							
+TU DSR Bid Volume 2063			Value	2063-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2063-01-01	2100-01-01	TU DSR Bid Volume 2063					48	48	
+TU DSR Bid Price 2063			Value	2063-01-01	2100-01-01	515							
+TU Demand			Bid Price	2063-01-01	2100-01-01	TU DSR Bid Price 2063					48	48	
+TU DSR Adjustment			Value	2063-01-01	2100-01-01	-33654.75							
+TU DSR Bid Volume 2064			Value	2064-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2064-01-01	2100-01-01	TU DSR Bid Volume 2064					49	49	
+TU DSR Bid Price 2064			Value	2064-01-01	2100-01-01	460.5							
+TU Demand			Bid Price	2064-01-01	2100-01-01	TU DSR Bid Price 2064					49	49	
+TU DSR Adjustment			Value	2064-01-01	2100-01-01	-33704.75							
+TU DSR Bid Volume 2065			Value	2065-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2065-01-01	2100-01-01	TU DSR Bid Volume 2065					50	50	
+TU DSR Bid Price 2065			Value	2065-01-01	2100-01-01	520							
+TU Demand			Bid Price	2065-01-01	2100-01-01	TU DSR Bid Price 2065					50	50	
+TU DSR Adjustment			Value	2065-01-01	2100-01-01	-33754.75							
+TU DSR Bid Volume 2066			Value	2066-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2066-01-01	2100-01-01	TU DSR Bid Volume 2066					51	51	
+TU DSR Bid Price 2066			Value	2066-01-01	2100-01-01	455.5							
+TU Demand			Bid Price	2066-01-01	2100-01-01	TU DSR Bid Price 2066					51	51	
+TU DSR Adjustment			Value	2066-01-01	2100-01-01	-33804.75							
+TU DSR Bid Volume 2067			Value	2067-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2067-01-01	2100-01-01	TU DSR Bid Volume 2067					52	52	
+TU DSR Bid Price 2067			Value	2067-01-01	2100-01-01	525							
+TU Demand			Bid Price	2067-01-01	2100-01-01	TU DSR Bid Price 2067					52	52	
+TU DSR Adjustment			Value	2067-01-01	2100-01-01	-33854.75							
+TU DSR Bid Volume 2068			Value	2068-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2068-01-01	2100-01-01	TU DSR Bid Volume 2068					53	53	
+TU DSR Bid Price 2068			Value	2068-01-01	2100-01-01	450.5							
+TU Demand			Bid Price	2068-01-01	2100-01-01	TU DSR Bid Price 2068					53	53	
+TU DSR Adjustment			Value	2068-01-01	2100-01-01	-33904.75							
+TU DSR Bid Volume 2069			Value	2069-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2069-01-01	2100-01-01	TU DSR Bid Volume 2069					54	54	
+TU DSR Bid Price 2069			Value	2069-01-01	2100-01-01	530							
+TU Demand			Bid Price	2069-01-01	2100-01-01	TU DSR Bid Price 2069					54	54	
+TU DSR Adjustment			Value	2069-01-01	2100-01-01	-33954.75							
+TU DSR Bid Volume 2070			Value	2070-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2070-01-01	2100-01-01	TU DSR Bid Volume 2070					55	55	
+TU DSR Bid Price 2070			Value	2070-01-01	2100-01-01	445.5							
+TU Demand			Bid Price	2070-01-01	2100-01-01	TU DSR Bid Price 2070					55	55	
+TU DSR Adjustment			Value	2070-01-01	2100-01-01	-34004.75							
+TU DSR Bid Volume 2071			Value	2071-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2071-01-01	2100-01-01	TU DSR Bid Volume 2071					56	56	
+TU DSR Bid Price 2071			Value	2071-01-01	2100-01-01	535							
+TU Demand			Bid Price	2071-01-01	2100-01-01	TU DSR Bid Price 2071					56	56	
+TU DSR Adjustment			Value	2071-01-01	2100-01-01	-34054.75							
+TU DSR Bid Volume 2072			Value	2072-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2072-01-01	2100-01-01	TU DSR Bid Volume 2072					57	57	
+TU DSR Bid Price 2072			Value	2072-01-01	2100-01-01	440.5							
+TU Demand			Bid Price	2072-01-01	2100-01-01	TU DSR Bid Price 2072					57	57	
+TU DSR Adjustment			Value	2072-01-01	2100-01-01	-34104.75							
+TU DSR Bid Volume 2073			Value	2073-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2073-01-01	2100-01-01	TU DSR Bid Volume 2073					58	58	
+TU DSR Bid Price 2073			Value	2073-01-01	2100-01-01	540							
+TU Demand			Bid Price	2073-01-01	2100-01-01	TU DSR Bid Price 2073					58	58	
+TU DSR Adjustment			Value	2073-01-01	2100-01-01	-34154.75							
+TU DSR Bid Volume 2074			Value	2074-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2074-01-01	2100-01-01	TU DSR Bid Volume 2074					59	59	
+TU DSR Bid Price 2074			Value	2074-01-01	2100-01-01	435.5							
+TU Demand			Bid Price	2074-01-01	2100-01-01	TU DSR Bid Price 2074					59	59	
+TU DSR Adjustment			Value	2074-01-01	2100-01-01	-34204.75							
+TU DSR Bid Volume 2075			Value	2075-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2075-01-01	2100-01-01	TU DSR Bid Volume 2075					60	60	
+TU DSR Bid Price 2075			Value	2075-01-01	2100-01-01	545							
+TU Demand			Bid Price	2075-01-01	2100-01-01	TU DSR Bid Price 2075					60	60	
+TU DSR Adjustment			Value	2075-01-01	2100-01-01	-34254.75							
+TU DSR Bid Volume 2076			Value	2076-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2076-01-01	2100-01-01	TU DSR Bid Volume 2076					61	61	
+TU DSR Bid Price 2076			Value	2076-01-01	2100-01-01	430.5							
+TU Demand			Bid Price	2076-01-01	2100-01-01	TU DSR Bid Price 2076					61	61	
+TU DSR Adjustment			Value	2076-01-01	2100-01-01	-34304.75							
+TU DSR Bid Volume 2077			Value	2077-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2077-01-01	2100-01-01	TU DSR Bid Volume 2077					62	62	
+TU DSR Bid Price 2077			Value	2077-01-01	2100-01-01	550							
+TU Demand			Bid Price	2077-01-01	2100-01-01	TU DSR Bid Price 2077					62	62	
+TU DSR Adjustment			Value	2077-01-01	2100-01-01	-34354.75							
+TU DSR Bid Volume 2078			Value	2078-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2078-01-01	2100-01-01	TU DSR Bid Volume 2078					63	63	
+TU DSR Bid Price 2078			Value	2078-01-01	2100-01-01	425.5							
+TU Demand			Bid Price	2078-01-01	2100-01-01	TU DSR Bid Price 2078					63	63	
+TU DSR Adjustment			Value	2078-01-01	2100-01-01	-34404.75							
+TU DSR Bid Volume 2079			Value	2079-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2079-01-01	2100-01-01	TU DSR Bid Volume 2079					64	64	
+TU DSR Bid Price 2079			Value	2079-01-01	2100-01-01	555							
+TU Demand			Bid Price	2079-01-01	2100-01-01	TU DSR Bid Price 2079					64	64	
+TU DSR Adjustment			Value	2079-01-01	2100-01-01	-34454.75							
+TU DSR Bid Volume 2080			Value	2080-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2080-01-01	2100-01-01	TU DSR Bid Volume 2080					65	65	
+TU DSR Bid Price 2080			Value	2080-01-01	2100-01-01	420.5							
+TU Demand			Bid Price	2080-01-01	2100-01-01	TU DSR Bid Price 2080					65	65	
+TU DSR Adjustment			Value	2080-01-01	2100-01-01	-34504.75							
+TU DSR Bid Volume 2081			Value	2081-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2081-01-01	2100-01-01	TU DSR Bid Volume 2081					66	66	
+TU DSR Bid Price 2081			Value	2081-01-01	2100-01-01	560							
+TU Demand			Bid Price	2081-01-01	2100-01-01	TU DSR Bid Price 2081					66	66	
+TU DSR Adjustment			Value	2081-01-01	2100-01-01	-34554.75							
+TU DSR Bid Volume 2082			Value	2082-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2082-01-01	2100-01-01	TU DSR Bid Volume 2082					67	67	
+TU DSR Bid Price 2082			Value	2082-01-01	2100-01-01	415.5							
+TU Demand			Bid Price	2082-01-01	2100-01-01	TU DSR Bid Price 2082					67	67	
+TU DSR Adjustment			Value	2082-01-01	2100-01-01	-34604.75							
+TU DSR Bid Volume 2083			Value	2083-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2083-01-01	2100-01-01	TU DSR Bid Volume 2083					68	68	
+TU DSR Bid Price 2083			Value	2083-01-01	2100-01-01	565							
+TU Demand			Bid Price	2083-01-01	2100-01-01	TU DSR Bid Price 2083					68	68	
+TU DSR Adjustment			Value	2083-01-01	2100-01-01	-34654.75							
+TU DSR Bid Volume 2084			Value	2084-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2084-01-01	2100-01-01	TU DSR Bid Volume 2084					69	69	
+TU DSR Bid Price 2084			Value	2084-01-01	2100-01-01	410.5							
+TU Demand			Bid Price	2084-01-01	2100-01-01	TU DSR Bid Price 2084					69	69	
+TU DSR Adjustment			Value	2084-01-01	2100-01-01	-34704.75							
+TU DSR Bid Volume 2085			Value	2085-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2085-01-01	2100-01-01	TU DSR Bid Volume 2085					70	70	
+TU DSR Bid Price 2085			Value	2085-01-01	2100-01-01	570							
+TU Demand			Bid Price	2085-01-01	2100-01-01	TU DSR Bid Price 2085					70	70	
+TU DSR Adjustment			Value	2085-01-01	2100-01-01	-34754.75							
+TU DSR Bid Volume 2086			Value	2086-01-01	2100-01-01	50							
+TU Demand			Bid Volume	2086-01-01	2100-01-01	TU DSR Bid Volume 2086					71	71	
+TU DSR Bid Price 2086			Value	2086-01-01	2100-01-01	405.5							
+TU Demand			Bid Price	2086-01-01	2100-01-01	TU DSR Bid Price 2086					71	71	
+TU DSR Adjustment			Value	2086-01-01	2100-01-01	-34804.75							

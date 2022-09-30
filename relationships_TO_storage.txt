@@ -1,0 +1,129 @@
+Object_Name	Parent_Object
+TO Batteries 2020	TO
+TO Batteries 2020	JP Batteries
+TO Batteries 2021	TO
+TO Batteries 2021	JP Batteries
+TO Batteries 2022	TO
+TO Batteries 2022	JP Batteries
+TO Batteries 2023	TO
+TO Batteries 2023	JP Batteries
+TO Batteries 2024	TO
+TO Batteries 2024	JP Batteries
+TO Batteries 2025	TO
+TO Batteries 2025	JP Batteries
+TO Batteries 2026	TO
+TO Batteries 2026	JP Batteries
+TO Batteries 2027	TO
+TO Batteries 2027	JP Batteries
+TO Batteries 2028	TO
+TO Batteries 2028	JP Batteries
+TO Batteries 2029	TO
+TO Batteries 2029	JP Batteries
+TO Batteries 2030	TO
+TO Batteries 2030	JP Batteries
+TO Batteries 2031	TO
+TO Batteries 2031	JP Batteries
+TO Batteries 2032	TO
+TO Batteries 2032	JP Batteries
+TO Batteries 2033	TO
+TO Batteries 2033	JP Batteries
+TO Batteries 2034	TO
+TO Batteries 2034	JP Batteries
+TO Batteries 2035	TO
+TO Batteries 2035	JP Batteries
+TO Batteries 2036	TO
+TO Batteries 2036	JP Batteries
+TO Batteries 2037	TO
+TO Batteries 2037	JP Batteries
+TO Batteries 2038	TO
+TO Batteries 2038	JP Batteries
+TO Batteries 2039	TO
+TO Batteries 2039	JP Batteries
+TO Batteries 2040	TO
+TO Batteries 2040	JP Batteries
+TO Pumped Storage	TO
+TO Pumped Storage	JP PumpedStorage Generators
+TO Batteries 2h 2020	TO
+TO Batteries 2h 2020	JP Batteries
+TO Batteries 2h 2021	TO
+TO Batteries 2h 2021	JP Batteries
+TO Batteries 2h 2022	TO
+TO Batteries 2h 2022	JP Batteries
+TO Batteries 2h 2023	TO
+TO Batteries 2h 2023	JP Batteries
+TO Batteries 2h 2024	TO
+TO Batteries 2h 2024	JP Batteries
+TO Batteries 2h 2025	TO
+TO Batteries 2h 2025	JP Batteries
+TO Batteries 2h 2026	TO
+TO Batteries 2h 2026	JP Batteries
+TO Batteries 2h 2027	TO
+TO Batteries 2h 2027	JP Batteries
+TO Batteries 2h 2028	TO
+TO Batteries 2h 2028	JP Batteries
+TO Batteries 2h 2029	TO
+TO Batteries 2h 2029	JP Batteries
+TO Batteries 2h 2030	TO
+TO Batteries 2h 2030	JP Batteries
+TO Batteries 2h 2031	TO
+TO Batteries 2h 2031	JP Batteries
+TO Batteries 2h 2032	TO
+TO Batteries 2h 2032	JP Batteries
+TO Batteries 2h 2033	TO
+TO Batteries 2h 2033	JP Batteries
+TO Batteries 2h 2034	TO
+TO Batteries 2h 2034	JP Batteries
+TO Batteries 2h 2035	TO
+TO Batteries 2h 2035	JP Batteries
+TO Batteries 2h 2036	TO
+TO Batteries 2h 2036	JP Batteries
+TO Batteries 2h 2037	TO
+TO Batteries 2h 2037	JP Batteries
+TO Batteries 2h 2038	TO
+TO Batteries 2h 2038	JP Batteries
+TO Batteries 2h 2039	TO
+TO Batteries 2h 2039	JP Batteries
+TO Batteries 2h 2040	TO
+TO Batteries 2h 2040	JP Batteries
+TO Batteries 4h 2020	TO
+TO Batteries 4h 2020	JP Batteries
+TO Batteries 4h 2021	TO
+TO Batteries 4h 2021	JP Batteries
+TO Batteries 4h 2022	TO
+TO Batteries 4h 2022	JP Batteries
+TO Batteries 4h 2023	TO
+TO Batteries 4h 2023	JP Batteries
+TO Batteries 4h 2024	TO
+TO Batteries 4h 2024	JP Batteries
+TO Batteries 4h 2025	TO
+TO Batteries 4h 2025	JP Batteries
+TO Batteries 4h 2026	TO
+TO Batteries 4h 2026	JP Batteries
+TO Batteries 4h 2027	TO
+TO Batteries 4h 2027	JP Batteries
+TO Batteries 4h 2028	TO
+TO Batteries 4h 2028	JP Batteries
+TO Batteries 4h 2029	TO
+TO Batteries 4h 2029	JP Batteries
+TO Batteries 4h 2030	TO
+TO Batteries 4h 2030	JP Batteries
+TO Batteries 4h 2031	TO
+TO Batteries 4h 2031	JP Batteries
+TO Batteries 4h 2032	TO
+TO Batteries 4h 2032	JP Batteries
+TO Batteries 4h 2033	TO
+TO Batteries 4h 2033	JP Batteries
+TO Batteries 4h 2034	TO
+TO Batteries 4h 2034	JP Batteries
+TO Batteries 4h 2035	TO
+TO Batteries 4h 2035	JP Batteries
+TO Batteries 4h 2036	TO
+TO Batteries 4h 2036	JP Batteries
+TO Batteries 4h 2037	TO
+TO Batteries 4h 2037	JP Batteries
+TO Batteries 4h 2038	TO
+TO Batteries 4h 2038	JP Batteries
+TO Batteries 4h 2039	TO
+TO Batteries 4h 2039	JP Batteries
+TO Batteries 4h 2040	TO
+TO Batteries 4h 2040	JP Batteries

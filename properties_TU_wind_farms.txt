@@ -1,0 +1,43 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TU Generic JPN offshore			Capacity	2020-01-01	2050-01-01	10							
+TU Generic JPN offshore			Variable Cost	2010-01-01	2100-01-01	1.999							
+TU Generic JPN offshore			Save Data	2010-01-01	2100-01-01	1							
+TU Generic JPN offshore			Save Blocks	2010-01-01	2100-01-01	0							
+TU Generic JPN offshore			Bid Up Price	2020-01-01	2045-01-01	-44							
+TU Generic JPN offshore			Bid Up Price	2045-01-01	2100-01-01	0							
+TU Generic JPN offshore			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 708 37.5 140.625 105M Windspeed	NWST Wind Power Curve	Lookup					
+TU Yurihonjo			Capacity	2029-01-01	2059-01-01	780							
+TU Yurihonjo			Variable Cost	2010-01-01	2100-01-01	1.157							
+TU Yurihonjo			Save Data	2010-01-01	2100-01-01	1							
+TU Yurihonjo			Save Blocks	2010-01-01	2100-01-01	0							
+TU Yurihonjo			Bid Up Price	2029-01-01	2054-01-01	-44							
+TU Yurihonjo			Bid Up Price	2054-01-01	2100-01-01	0							
+TU Yurihonjo			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 323 39.5 140.0 0M Windspeed	NWST Wind Power Curve	Lookup					
+TU Happou-Noshiro			Capacity	2024-01-01	2054-01-01	155							
+TU Happou-Noshiro			Variable Cost	2010-01-01	2100-01-01	1.871							
+TU Happou-Noshiro			Save Data	2010-01-01	2100-01-01	1							
+TU Happou-Noshiro			Save Blocks	2010-01-01	2100-01-01	0							
+TU Happou-Noshiro			Bid Up Price	2024-01-01	2049-01-01	-44							
+TU Happou-Noshiro			Bid Up Price	2049-01-01	2100-01-01	0							
+TU Happou-Noshiro			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 323 39.5 140.0 0M Windspeed	NWST Wind Power Curve	Lookup					
+TU Noshiro Port			Capacity	2023-01-01	2053-01-01	88							
+TU Noshiro Port			Variable Cost	2010-01-01	2100-01-01	2.211							
+TU Noshiro Port			Save Data	2010-01-01	2100-01-01	1							
+TU Noshiro Port			Save Blocks	2010-01-01	2100-01-01	0							
+TU Noshiro Port			Bid Up Price	2023-01-01	2048-01-01	-44							
+TU Noshiro Port			Bid Up Price	2048-01-01	2100-01-01	0							
+TU Noshiro Port			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 323 39.5 140.0 0M Windspeed	NWST Wind Power Curve	Lookup					
+TU Akita Port			Capacity	2023-01-01	2053-01-01	55							
+TU Akita Port			Variable Cost	2010-01-01	2100-01-01	2.086							
+TU Akita Port			Save Data	2010-01-01	2100-01-01	1							
+TU Akita Port			Save Blocks	2010-01-01	2100-01-01	0							
+TU Akita Port			Bid Up Price	2023-01-01	2048-01-01	-44							
+TU Akita Port			Bid Up Price	2048-01-01	2100-01-01	0							
+TU Akita Port			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 323 39.5 140.0 0M Windspeed	NWST Wind Power Curve	Lookup					
+TU Noheji			Capacity	2008-01-01	2038-01-01	50							
+TU Noheji			Variable Cost	2010-01-01	2100-01-01	1.128							
+TU Noheji			Save Data	2010-01-01	2100-01-01	1							
+TU Noheji			Save Blocks	2010-01-01	2100-01-01	0							
+TU Noheji			Bid Up Price	2008-01-01	2033-01-01	-44							
+TU Noheji			Bid Up Price	2033-01-01	2100-01-01	0							
+TU Noheji			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 878 41.0 141.25 78M Windspeed	NWST Wind Power Curve	Lookup					

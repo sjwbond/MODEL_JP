@@ -1,0 +1,36 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TO Generic JPN offshore			Capacity	2020-01-01	2050-01-01	10							
+TO Generic JPN offshore			Variable Cost	2010-01-01	2100-01-01	2.597							
+TO Generic JPN offshore			Save Data	2010-01-01	2100-01-01	1							
+TO Generic JPN offshore			Save Blocks	2010-01-01	2100-01-01	0							
+TO Generic JPN offshore			Bid Up Price	2020-01-01	2045-01-01	-44							
+TO Generic JPN offshore			Bid Up Price	2045-01-01	2100-01-01	0							
+TO Generic JPN offshore			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 652 35.5 138.125 105M Windspeed	NWST Wind Power Curve	Lookup					
+TO Ibaraki Kashima port North			Capacity	2026-01-01	2056-01-01	93.6							
+TO Ibaraki Kashima port North			Variable Cost	2010-01-01	2100-01-01	2.362							
+TO Ibaraki Kashima port North			Save Data	2010-01-01	2100-01-01	1							
+TO Ibaraki Kashima port North			Save Blocks	2010-01-01	2100-01-01	0							
+TO Ibaraki Kashima port North			Bid Up Price	2026-01-01	2051-01-01	-44							
+TO Ibaraki Kashima port North			Bid Up Price	2051-01-01	2100-01-01	0							
+TO Ibaraki Kashima port North			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 670 36.0 141.25 90M Windspeed	NWST Wind Power Curve	Lookup					
+TO Ibaraki Kashima port South			Capacity	2026-01-01	2056-01-01	93.6							
+TO Ibaraki Kashima port South			Variable Cost	2010-01-01	2100-01-01	1.612							
+TO Ibaraki Kashima port South			Save Data	2010-01-01	2100-01-01	1							
+TO Ibaraki Kashima port South			Save Blocks	2010-01-01	2100-01-01	0							
+TO Ibaraki Kashima port South			Bid Up Price	2026-01-01	2051-01-01	-44							
+TO Ibaraki Kashima port South			Bid Up Price	2051-01-01	2100-01-01	0							
+TO Ibaraki Kashima port South			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 670 36.0 141.25 90M Windspeed	NWST Wind Power Curve	Lookup					
+TO Kashima Wind			Capacity	2020-01-01	2050-01-01	20							
+TO Kashima Wind			Variable Cost	2010-01-01	2100-01-01	1.121							
+TO Kashima Wind			Save Data	2010-01-01	2100-01-01	1							
+TO Kashima Wind			Save Blocks	2010-01-01	2100-01-01	0							
+TO Kashima Wind			Bid Up Price	2020-01-01	2045-01-01	-44							
+TO Kashima Wind			Bid Up Price	2045-01-01	2100-01-01	0							
+TO Kashima Wind			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 670 36.0 141.25 78M Windspeed	NWST Wind Power Curve	Lookup					
+TO Kamisu Offshore			Capacity	2020-01-01	2050-01-01	16							
+TO Kamisu Offshore			Variable Cost	2010-01-01	2100-01-01	2.505							
+TO Kamisu Offshore			Save Data	2010-01-01	2100-01-01	1							
+TO Kamisu Offshore			Save Blocks	2010-01-01	2100-01-01	0							
+TO Kamisu Offshore			Bid Up Price	2020-01-01	2045-01-01	-44							
+TO Kamisu Offshore			Bid Up Price	2045-01-01	2100-01-01	0							
+TO Kamisu Offshore			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 670 36.0 141.25 60M Windspeed	NWST Wind Power Curve	Lookup					

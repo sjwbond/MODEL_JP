@@ -1,0 +1,37 @@
+Object_Name	Object_Type
+HO Station Coal	Fuel
+HO Station Coal Base	Variable
+HO Station Coal Price	Variable
+HO Station Coal Delivery Adjustment	Variable
+HO Station Coal Stochastic	Variable
+HO Station Coal Stochastic File	DataSource
+HO Station Gas	Fuel
+HO Station Gas Base	Variable
+HO Station Gas Price	Variable
+HO Station Gas Delivery Adjustment	Variable
+HO Station Gas Stochastic	Variable
+HO Station Gas Stochastic File	DataSource
+HO Station Biomass	Fuel
+HO Station Biomass Base	Variable
+HO Station Biomass Price	Variable
+HO Station Biomass Delivery Adjustment	Variable
+HO Station Biomass Stochastic	Variable
+HO Station Biomass Stochastic File	DataSource
+HO Station Lignite	Fuel
+HO Station Lignite Base	Variable
+HO Station Lignite Price	Variable
+HO Station Lignite Delivery Adjustment	Variable
+HO Station Lignite Stochastic	Variable
+HO Station Lignite Stochastic File	DataSource
+HO Station Uranium	Fuel
+HO Station Uranium Base	Variable
+HO Station Uranium Price	Variable
+HO Station Uranium Delivery Adjustment	Variable
+HO Station Uranium Stochastic	Variable
+HO Station Uranium Stochastic File	DataSource
+HO Station LSFO	Fuel
+HO Station LSFO Base	Variable
+HO Station LSFO Price	Variable
+HO Station LSFO Delivery Adjustment	Variable
+HO Station LSFO Stochastic	Variable
+HO Station LSFO Stochastic File	DataSource

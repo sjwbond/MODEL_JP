@@ -1,0 +1,4 @@
+Object_Name	Object_Type
+HO ROR Generator	Generator
+HO ROR Capacity Factor	Variable
+HO ROR File	DataSource

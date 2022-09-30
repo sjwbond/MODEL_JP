@@ -1,0 +1,11 @@
+Object_Name	Parent_Object
+JAPAN PVSAT 100m 681 36.5 140.0 Generator	JP Solar Generators
+JAPAN PVSAT 100m 681 36.5 140.0 Generator	TO
+JAPAN PVSAT 100m 653 35.5 138.75 Generator	JP Solar Generators
+JAPAN PVSAT 100m 653 35.5 138.75 Generator	TO
+ca_db_pv	JAPAN PVSAT 100m 681 36.5 140.0 TS
+ca_db_pv	JAPAN PVSAT 100m 681 36.5 140.0 TS
+ca_db_pv	JAPAN PVSAT 100m 653 35.5 138.75 TS
+ca_db_pv	JAPAN PVSAT 100m 653 35.5 138.75 TS
+JAPAN PVSAT 100m 681 36.5 140.0 Generator	TO Solar Generators
+JAPAN PVSAT 100m 653 35.5 138.75 Generator	TO Solar Generators

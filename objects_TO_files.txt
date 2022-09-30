@@ -1,0 +1,4 @@
+Object_Name	Object_Type
+JP Fuel Price File	DataSource
+JP Historic Day Ahead File	DataSource
+JP Installed Capacity File	DataSource

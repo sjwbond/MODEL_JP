@@ -1,0 +1,566 @@
+Object_Name	Parent_Object
+TU Coal 1990	TU Coal Generators
+TU Coal 1990	TU Hard Coal Generators
+TU Coal 1990	TU
+TU Coal 1995	TU Coal Generators
+TU Coal 1995	TU Hard Coal Generators
+TU Coal 1995	TU
+TU Coal 2000	TU Coal Generators
+TU Coal 2000	TU Hard Coal Generators
+TU Coal 2000	TU
+TU Coal 2005	TU Coal Generators
+TU Coal 2005	TU Hard Coal Generators
+TU Coal 2005	TU
+TU Coal 2010	TU Coal Generators
+TU Coal 2010	TU Hard Coal Generators
+TU Coal 2010	TU
+TU Coal 2015	TU Coal Generators
+TU Coal 2015	TU Hard Coal Generators
+TU Coal 2015	TU
+TU Coal 2020	TU Coal Generators
+TU Coal 2020	TU Hard Coal Generators
+TU Coal 2020	TU
+TU Coal 2025	TU Coal Generators
+TU Coal 2025	TU Hard Coal Generators
+TU Coal 2025	TU
+TU Coal 2030	TU Coal Generators
+TU Coal 2030	TU Hard Coal Generators
+TU Coal 2030	TU
+TU Coal 2035	TU Coal Generators
+TU Coal 2035	TU Hard Coal Generators
+TU Coal 2035	TU
+TU Coal 2040	TU Coal Generators
+TU Coal 2040	TU Hard Coal Generators
+TU Coal 2040	TU
+TU Coal 2045	TU Coal Generators
+TU Coal 2045	TU Hard Coal Generators
+TU Coal 2045	TU
+TU Coal 2050	TU Coal Generators
+TU Coal 2050	TU Hard Coal Generators
+TU Coal 2050	TU
+TU Coal 2055	TU Coal Generators
+TU Coal 2055	TU Hard Coal Generators
+TU Coal 2055	TU
+TU Coal 2060	TU Coal Generators
+TU Coal 2060	TU Hard Coal Generators
+TU Coal 2060	TU
+TU Coal 2065	TU Coal Generators
+TU Coal 2065	TU Hard Coal Generators
+TU Coal 2065	TU
+TU CCGT 1990	TU Gas Generators
+TU CCGT 1990	TU CCGT Generators
+TU CCGT 1990	TU
+TU CCGT 1995	TU Gas Generators
+TU CCGT 1995	TU CCGT Generators
+TU CCGT 1995	TU
+TU CCGT 2000	TU Gas Generators
+TU CCGT 2000	TU CCGT Generators
+TU CCGT 2000	TU
+TU CCGT 2005	TU Gas Generators
+TU CCGT 2005	TU CCGT Generators
+TU CCGT 2005	TU
+TU CCGT 2010	TU Gas Generators
+TU CCGT 2010	TU CCGT Generators
+TU CCGT 2010	TU
+TU CCGT 2015	TU Gas Generators
+TU CCGT 2015	TU CCGT Generators
+TU CCGT 2015	TU
+TU CCGT 2020	TU Gas Generators
+TU CCGT 2020	TU CCGT Generators
+TU CCGT 2020	TU
+TU CCGT 2025	TU Gas Generators
+TU CCGT 2025	TU CCGT Generators
+TU CCGT 2025	TU
+TU CCGT 2030	TU Gas Generators
+TU CCGT 2030	TU CCGT Generators
+TU CCGT 2030	TU
+TU CCGT 2031	TU Gas Generators
+TU CCGT 2031	TU CCGT Generators
+TU CCGT 2031	TU
+TU CCGT 2032	TU Gas Generators
+TU CCGT 2032	TU CCGT Generators
+TU CCGT 2032	TU
+TU CCGT 2033	TU Gas Generators
+TU CCGT 2033	TU CCGT Generators
+TU CCGT 2033	TU
+TU CCGT 2034	TU Gas Generators
+TU CCGT 2034	TU CCGT Generators
+TU CCGT 2034	TU
+TU CCGT 2035	TU Gas Generators
+TU CCGT 2035	TU CCGT Generators
+TU CCGT 2035	TU
+TU CCGT 2036	TU Gas Generators
+TU CCGT 2036	TU CCGT Generators
+TU CCGT 2036	TU
+TU CCGT 2037	TU Gas Generators
+TU CCGT 2037	TU CCGT Generators
+TU CCGT 2037	TU
+TU CCGT 2038	TU Gas Generators
+TU CCGT 2038	TU CCGT Generators
+TU CCGT 2038	TU
+TU CCGT 2039	TU Gas Generators
+TU CCGT 2039	TU CCGT Generators
+TU CCGT 2039	TU
+TU CCGT 2040	TU Gas Generators
+TU CCGT 2040	TU CCGT Generators
+TU CCGT 2040	TU
+TU CCGT 2041	TU Gas Generators
+TU CCGT 2041	TU CCGT Generators
+TU CCGT 2041	TU
+TU CCGT 2042	TU Gas Generators
+TU CCGT 2042	TU CCGT Generators
+TU CCGT 2042	TU
+TU CCGT 2043	TU Gas Generators
+TU CCGT 2043	TU CCGT Generators
+TU CCGT 2043	TU
+TU CCGT 2044	TU Gas Generators
+TU CCGT 2044	TU CCGT Generators
+TU CCGT 2044	TU
+TU CCGT 2045	TU Gas Generators
+TU CCGT 2045	TU CCGT Generators
+TU CCGT 2045	TU
+TU CCGT 2046	TU Gas Generators
+TU CCGT 2046	TU CCGT Generators
+TU CCGT 2046	TU
+TU CCGT 2047	TU Gas Generators
+TU CCGT 2047	TU CCGT Generators
+TU CCGT 2047	TU
+TU CCGT 2048	TU Gas Generators
+TU CCGT 2048	TU CCGT Generators
+TU CCGT 2048	TU
+TU CCGT 2049	TU Gas Generators
+TU CCGT 2049	TU CCGT Generators
+TU CCGT 2049	TU
+TU CCGT 2050	TU Gas Generators
+TU CCGT 2050	TU CCGT Generators
+TU CCGT 2050	TU
+TU CCGT 2051	TU Gas Generators
+TU CCGT 2051	TU CCGT Generators
+TU CCGT 2051	TU
+TU CCGT 2052	TU Gas Generators
+TU CCGT 2052	TU CCGT Generators
+TU CCGT 2052	TU
+TU CCGT 2053	TU Gas Generators
+TU CCGT 2053	TU CCGT Generators
+TU CCGT 2053	TU
+TU CCGT 2054	TU Gas Generators
+TU CCGT 2054	TU CCGT Generators
+TU CCGT 2054	TU
+TU CCGT 2055	TU Gas Generators
+TU CCGT 2055	TU CCGT Generators
+TU CCGT 2055	TU
+TU CCGT 2056	TU Gas Generators
+TU CCGT 2056	TU CCGT Generators
+TU CCGT 2056	TU
+TU CCGT 2057	TU Gas Generators
+TU CCGT 2057	TU CCGT Generators
+TU CCGT 2057	TU
+TU CCGT 2058	TU Gas Generators
+TU CCGT 2058	TU CCGT Generators
+TU CCGT 2058	TU
+TU CCGT 2059	TU Gas Generators
+TU CCGT 2059	TU CCGT Generators
+TU CCGT 2059	TU
+TU CCGT 2060	TU Gas Generators
+TU CCGT 2060	TU CCGT Generators
+TU CCGT 2060	TU
+TU CCGT 2061	TU Gas Generators
+TU CCGT 2061	TU CCGT Generators
+TU CCGT 2061	TU
+TU CCGT 2062	TU Gas Generators
+TU CCGT 2062	TU CCGT Generators
+TU CCGT 2062	TU
+TU CCGT 2063	TU Gas Generators
+TU CCGT 2063	TU CCGT Generators
+TU CCGT 2063	TU
+TU CCGT 2064	TU Gas Generators
+TU CCGT 2064	TU CCGT Generators
+TU CCGT 2064	TU
+TU CCGT 2065	TU Gas Generators
+TU CCGT 2065	TU CCGT Generators
+TU CCGT 2065	TU
+TU OCGT 1990	TU Gas Generators
+TU OCGT 1990	TU OCGT Generators
+TU OCGT 1990	TU
+TU OCGT 1995	TU Gas Generators
+TU OCGT 1995	TU OCGT Generators
+TU OCGT 1995	TU
+TU OCGT 2000	TU Gas Generators
+TU OCGT 2000	TU OCGT Generators
+TU OCGT 2000	TU
+TU OCGT 2005	TU Gas Generators
+TU OCGT 2005	TU OCGT Generators
+TU OCGT 2005	TU
+TU OCGT 2010	TU Gas Generators
+TU OCGT 2010	TU OCGT Generators
+TU OCGT 2010	TU
+TU OCGT 2015	TU Gas Generators
+TU OCGT 2015	TU OCGT Generators
+TU OCGT 2015	TU
+TU OCGT 2020	TU Gas Generators
+TU OCGT 2020	TU OCGT Generators
+TU OCGT 2020	TU
+TU OCGT 2025	TU Gas Generators
+TU OCGT 2025	TU OCGT Generators
+TU OCGT 2025	TU
+TU OCGT 2030	TU Gas Generators
+TU OCGT 2030	TU OCGT Generators
+TU OCGT 2030	TU
+TU OCGT 2035	TU Gas Generators
+TU OCGT 2035	TU OCGT Generators
+TU OCGT 2035	TU
+TU OCGT 2040	TU Gas Generators
+TU OCGT 2040	TU OCGT Generators
+TU OCGT 2040	TU
+TU OCGT 2045	TU Gas Generators
+TU OCGT 2045	TU OCGT Generators
+TU OCGT 2045	TU
+TU OCGT 2050	TU Gas Generators
+TU OCGT 2050	TU OCGT Generators
+TU OCGT 2050	TU
+TU OCGT 2055	TU Gas Generators
+TU OCGT 2055	TU OCGT Generators
+TU OCGT 2055	TU
+TU OCGT 2060	TU Gas Generators
+TU OCGT 2060	TU OCGT Generators
+TU OCGT 2060	TU
+TU OCGT 2065	TU Gas Generators
+TU OCGT 2065	TU OCGT Generators
+TU OCGT 2065	TU
+TU Biomass 1990	TU Biomass Generators
+TU Biomass 1990	TU
+TU Biomass 1995	TU Biomass Generators
+TU Biomass 1995	TU
+TU Biomass 2000	TU Biomass Generators
+TU Biomass 2000	TU
+TU Biomass 2005	TU Biomass Generators
+TU Biomass 2005	TU
+TU Biomass 2010	TU Biomass Generators
+TU Biomass 2010	TU
+TU Biomass 2015	TU Biomass Generators
+TU Biomass 2015	TU
+TU Biomass 2020	TU Biomass Generators
+TU Biomass 2020	TU
+TU Biomass 2025	TU Biomass Generators
+TU Biomass 2025	TU
+TU Biomass 2030	TU Biomass Generators
+TU Biomass 2030	TU
+TU Biomass 2035	TU Biomass Generators
+TU Biomass 2035	TU
+TU Biomass 2040	TU Biomass Generators
+TU Biomass 2040	TU
+TU Biomass 2045	TU Biomass Generators
+TU Biomass 2045	TU
+TU Biomass 2050	TU Biomass Generators
+TU Biomass 2050	TU
+TU Biomass 2055	TU Biomass Generators
+TU Biomass 2055	TU
+TU Biomass 2060	TU Biomass Generators
+TU Biomass 2060	TU
+TU Biomass 2065	TU Biomass Generators
+TU Biomass 2065	TU
+TU Lignite 1990	TU Coal Generators
+TU Lignite 1990	TU Lignite Generators
+TU Lignite 1990	TU
+TU Lignite 1995	TU Coal Generators
+TU Lignite 1995	TU Lignite Generators
+TU Lignite 1995	TU
+TU Lignite 2000	TU Coal Generators
+TU Lignite 2000	TU Lignite Generators
+TU Lignite 2000	TU
+TU Lignite 2005	TU Coal Generators
+TU Lignite 2005	TU Lignite Generators
+TU Lignite 2005	TU
+TU Lignite 2010	TU Coal Generators
+TU Lignite 2010	TU Lignite Generators
+TU Lignite 2010	TU
+TU Lignite 2015	TU Coal Generators
+TU Lignite 2015	TU Lignite Generators
+TU Lignite 2015	TU
+TU Lignite 2020	TU Coal Generators
+TU Lignite 2020	TU Lignite Generators
+TU Lignite 2020	TU
+TU Lignite 2025	TU Coal Generators
+TU Lignite 2025	TU Lignite Generators
+TU Lignite 2025	TU
+TU Lignite 2030	TU Coal Generators
+TU Lignite 2030	TU Lignite Generators
+TU Lignite 2030	TU
+TU Lignite 2035	TU Coal Generators
+TU Lignite 2035	TU Lignite Generators
+TU Lignite 2035	TU
+TU Lignite 2040	TU Coal Generators
+TU Lignite 2040	TU Lignite Generators
+TU Lignite 2040	TU
+TU Lignite 2045	TU Coal Generators
+TU Lignite 2045	TU Lignite Generators
+TU Lignite 2045	TU
+TU Lignite 2050	TU Coal Generators
+TU Lignite 2050	TU Lignite Generators
+TU Lignite 2050	TU
+TU Lignite 2055	TU Coal Generators
+TU Lignite 2055	TU Lignite Generators
+TU Lignite 2055	TU
+TU Lignite 2060	TU Coal Generators
+TU Lignite 2060	TU Lignite Generators
+TU Lignite 2060	TU
+TU Lignite 2065	TU Coal Generators
+TU Lignite 2065	TU Lignite Generators
+TU Lignite 2065	TU
+TU Nuclear 1990	TU Nuclear Generators
+TU Nuclear 1990	TU
+TU Nuclear 1995	TU Nuclear Generators
+TU Nuclear 1995	TU
+TU Nuclear 2000	TU Nuclear Generators
+TU Nuclear 2000	TU
+TU Nuclear 2005	TU Nuclear Generators
+TU Nuclear 2005	TU
+TU Nuclear 2010	TU Nuclear Generators
+TU Nuclear 2010	TU
+TU Nuclear 2015	TU Nuclear Generators
+TU Nuclear 2015	TU
+TU Nuclear 2020	TU Nuclear Generators
+TU Nuclear 2020	TU
+TU CHP 1990	TU Gas Generators
+TU CHP 1990	TU CHP Generators
+TU CHP 1990	TU
+TU CHP 1995	TU Gas Generators
+TU CHP 1995	TU CHP Generators
+TU CHP 1995	TU
+TU CHP 2000	TU Gas Generators
+TU CHP 2000	TU CHP Generators
+TU CHP 2000	TU
+TU CHP 2005	TU Gas Generators
+TU CHP 2005	TU CHP Generators
+TU CHP 2005	TU
+TU CHP 2010	TU Gas Generators
+TU CHP 2010	TU CHP Generators
+TU CHP 2010	TU
+TU CHP 2015	TU Gas Generators
+TU CHP 2015	TU CHP Generators
+TU CHP 2015	TU
+TU CHP 2020	TU Gas Generators
+TU CHP 2020	TU CHP Generators
+TU CHP 2020	TU
+TU CHP 2025	TU Gas Generators
+TU CHP 2025	TU CHP Generators
+TU CHP 2025	TU
+TU CHP 2030	TU Gas Generators
+TU CHP 2030	TU CHP Generators
+TU CHP 2030	TU
+TU CHP 2035	TU Gas Generators
+TU CHP 2035	TU CHP Generators
+TU CHP 2035	TU
+TU CHP 2040	TU Gas Generators
+TU CHP 2040	TU CHP Generators
+TU CHP 2040	TU
+TU CHP 2045	TU Gas Generators
+TU CHP 2045	TU CHP Generators
+TU CHP 2045	TU
+TU CHP 2050	TU Gas Generators
+TU CHP 2050	TU CHP Generators
+TU CHP 2050	TU
+TU CHP 2055	TU Gas Generators
+TU CHP 2055	TU CHP Generators
+TU CHP 2055	TU
+TU CHP 2060	TU Gas Generators
+TU CHP 2060	TU CHP Generators
+TU CHP 2060	TU
+TU CHP 2065	TU Gas Generators
+TU CHP 2065	TU CHP Generators
+TU CHP 2065	TU
+TU Liquid 1990	TU Liquid Generators
+TU Liquid 1990	TU
+TU Liquid 1995	TU Liquid Generators
+TU Liquid 1995	TU
+TU Liquid 2000	TU Liquid Generators
+TU Liquid 2000	TU
+TU Liquid 2005	TU Liquid Generators
+TU Liquid 2005	TU
+TU Liquid 2010	TU Liquid Generators
+TU Liquid 2010	TU
+TU Liquid 2015	TU Liquid Generators
+TU Liquid 2015	TU
+TU Liquid 2020	TU Liquid Generators
+TU Liquid 2020	TU
+TU Liquid 2025	TU Liquid Generators
+TU Liquid 2025	TU
+TU Liquid 2030	TU Liquid Generators
+TU Liquid 2030	TU
+TU Liquid 2035	TU Liquid Generators
+TU Liquid 2035	TU
+TU Liquid 2040	TU Liquid Generators
+TU Liquid 2040	TU
+TU Liquid 2045	TU Liquid Generators
+TU Liquid 2045	TU
+TU Liquid 2050	TU Liquid Generators
+TU Liquid 2050	TU
+TU Liquid 2055	TU Liquid Generators
+TU Liquid 2055	TU
+TU Liquid 2060	TU Liquid Generators
+TU Liquid 2060	TU
+TU Liquid 2100	TU Liquid Generators
+TU Liquid 2100	TU
+TU Sendai Coal	TU Coal Generators
+TU Sendai Coal	TU Hard Coal Generators
+TU Sendai Coal	TU
+TU Soma	TU Coal Generators
+TU Soma	TU Hard Coal Generators
+TU Soma	TU
+TU NSC Kamaishi Works	TU Coal Generators
+TU NSC Kamaishi Works	TU Hard Coal Generators
+TU NSC Kamaishi Works	TU
+TU Itoigawa	TU Coal Generators
+TU Itoigawa	TU Hard Coal Generators
+TU Itoigawa	TU
+TU Nippon Paper Miyagi	TU Coal Generators
+TU Nippon Paper Miyagi	TU Hard Coal Generators
+TU Nippon Paper Miyagi	TU
+TU Nakoso n7	TU Coal Generators
+TU Nakoso n7	TU Hard Coal Generators
+TU Nakoso n7	TU
+TU Sakata Kyodo n1	TU Coal Generators
+TU Sakata Kyodo n1	TU Hard Coal Generators
+TU Sakata Kyodo n1	TU
+TU Sakata Kyodo n2	TU Coal Generators
+TU Sakata Kyodo n2	TU Hard Coal Generators
+TU Sakata Kyodo n2	TU
+TU Noshiro n1	TU Coal Generators
+TU Noshiro n1	TU Hard Coal Generators
+TU Noshiro n1	TU
+TU Noshiro n2	TU Coal Generators
+TU Noshiro n2	TU Hard Coal Generators
+TU Noshiro n2	TU
+TU Noshiro n3	TU Coal Generators
+TU Noshiro n3	TU Hard Coal Generators
+TU Noshiro n3	TU
+TU Haramachi n1	TU Coal Generators
+TU Haramachi n1	TU Hard Coal Generators
+TU Haramachi n1	TU
+TU Haramachi n2	TU Coal Generators
+TU Haramachi n2	TU Hard Coal Generators
+TU Haramachi n2	TU
+TU Shinchi n1	TU Coal Generators
+TU Shinchi n1	TU Hard Coal Generators
+TU Shinchi n1	TU
+TU Shinchi n2	TU Coal Generators
+TU Shinchi n2	TU Hard Coal Generators
+TU Shinchi n2	TU
+TU Niigata CC n5	TU Gas Generators
+TU Niigata CC n5	TU CCGT Generators
+TU Niigata CC n5	TU
+TU Higashi Niigata CC n3_1GT	TU Gas Generators
+TU Higashi Niigata CC n3_1GT	TU CCGT Generators
+TU Higashi Niigata CC n3_1GT	TU
+TU Higashi Niigata CC n3_2GT	TU Gas Generators
+TU Higashi Niigata CC n3_2GT	TU CCGT Generators
+TU Higashi Niigata CC n3_2GT	TU
+TU Higashi Niigata CC n3_3GT	TU Gas Generators
+TU Higashi Niigata CC n3_3GT	TU CCGT Generators
+TU Higashi Niigata CC n3_3GT	TU
+TU Higashi Niigata CC n3_4GT	TU Gas Generators
+TU Higashi Niigata CC n3_4GT	TU CCGT Generators
+TU Higashi Niigata CC n3_4GT	TU
+TU Higashi Niigata CC n3_5GT	TU Gas Generators
+TU Higashi Niigata CC n3_5GT	TU CCGT Generators
+TU Higashi Niigata CC n3_5GT	TU
+TU Higashi Niigata CC n3_6GT	TU Gas Generators
+TU Higashi Niigata CC n3_6GT	TU CCGT Generators
+TU Higashi Niigata CC n3_6GT	TU
+TU Hachinohe n5ST	TU Gas Generators
+TU Hachinohe n5ST	TU CCGT Generators
+TU Hachinohe n5ST	TU
+TU Higashi Niigata CC n3_1ST	TU Gas Generators
+TU Higashi Niigata CC n3_1ST	TU CCGT Generators
+TU Higashi Niigata CC n3_1ST	TU
+TU Higashi Niigata CC n3_2ST	TU Gas Generators
+TU Higashi Niigata CC n3_2ST	TU CCGT Generators
+TU Higashi Niigata CC n3_2ST	TU
+TU Hachinohe n5GT	TU Gas Generators
+TU Hachinohe n5GT	TU CCGT Generators
+TU Hachinohe n5GT	TU
+TU Higashi Niigata CC n4_1ST	TU Gas Generators
+TU Higashi Niigata CC n4_1ST	TU CCGT Generators
+TU Higashi Niigata CC n4_1ST	TU
+TU Higashi Niigata CC n4_2ST	TU Gas Generators
+TU Higashi Niigata CC n4_2ST	TU CCGT Generators
+TU Higashi Niigata CC n4_2ST	TU
+TU Higashi Niigata CC n4_3GT	TU Gas Generators
+TU Higashi Niigata CC n4_3GT	TU CCGT Generators
+TU Higashi Niigata CC n4_3GT	TU
+TU Higashi Niigata CC n4_4GT	TU Gas Generators
+TU Higashi Niigata CC n4_4GT	TU CCGT Generators
+TU Higashi Niigata CC n4_4GT	TU
+TU Higashi Niigata CC n4_1GT	TU Gas Generators
+TU Higashi Niigata CC n4_1GT	TU CCGT Generators
+TU Higashi Niigata CC n4_1GT	TU
+TU Higashi Niigata CC n4_2GT	TU Gas Generators
+TU Higashi Niigata CC n4_2GT	TU CCGT Generators
+TU Higashi Niigata CC n4_2GT	TU
+TU Sendai CC n4	TU Gas Generators
+TU Sendai CC n4	TU CCGT Generators
+TU Sendai CC n4	TU
+TU Shin Sendai CC n3_1	TU Gas Generators
+TU Shin Sendai CC n3_1	TU CCGT Generators
+TU Shin Sendai CC n3_1	TU
+TU Shin Sendai CC n3_2	TU Gas Generators
+TU Shin Sendai CC n3_2	TU CCGT Generators
+TU Shin Sendai CC n3_2	TU
+TU Fukushima CC n1	TU Gas Generators
+TU Fukushima CC n1	TU CCGT Generators
+TU Fukushima CC n1	TU
+TU Fukushima CC n2	TU Gas Generators
+TU Fukushima CC n2	TU CCGT Generators
+TU Fukushima CC n2	TU
+TU Joetsu CC n1_1	TU Gas Generators
+TU Joetsu CC n1_1	TU CCGT Generators
+TU Joetsu CC n1_1	TU
+TU Joetsu CC n1_2	TU Gas Generators
+TU Joetsu CC n1_2	TU CCGT Generators
+TU Joetsu CC n1_2	TU
+TU Joetsu CC n2_1	TU Gas Generators
+TU Joetsu CC n2_1	TU CCGT Generators
+TU Joetsu CC n2_1	TU
+TU Joetsu CC n2_2	TU Gas Generators
+TU Joetsu CC n2_2	TU CCGT Generators
+TU Joetsu CC n2_2	TU
+TU Niigata n4	TU Liquid Generators
+TU Niigata n4	TU LSFO Generators
+TU Niigata n4	TU
+TU Akita n5	TU Liquid Generators
+TU Akita n5	TU LSFO Generators
+TU Akita n5	TU
+TU Akita n2	TU Liquid Generators
+TU Akita n2	TU LSFO Generators
+TU Akita n2	TU
+TU Akita n3	TU Liquid Generators
+TU Akita n3	TU LSFO Generators
+TU Akita n3	TU
+TU Higashi Niigata Minato_2	TU Liquid Generators
+TU Higashi Niigata Minato_2	TU LSFO Generators
+TU Higashi Niigata Minato_2	TU
+TU Higashi Niigata Minato_1	TU Liquid Generators
+TU Higashi Niigata Minato_1	TU LSFO Generators
+TU Higashi Niigata Minato_1	TU
+TU Akita n4	TU Liquid Generators
+TU Akita n4	TU LSFO Generators
+TU Akita n4	TU
+TU Higashi Niigata ST n1	TU Liquid Generators
+TU Higashi Niigata ST n1	TU LSFO Generators
+TU Higashi Niigata ST n1	TU
+TU Fukushima Daini Nuclear n2	TU Nuclear Generators
+TU Fukushima Daini Nuclear n2	TU
+TU Fukushima Daini Nuclear n1	TU Nuclear Generators
+TU Fukushima Daini Nuclear n1	TU
+TU Fukushima Daini Nuclear n4	TU Nuclear Generators
+TU Fukushima Daini Nuclear n4	TU
+TU Fukushima Daini Nuclear n3	TU Nuclear Generators
+TU Fukushima Daini Nuclear n3	TU
+TU Onagawa Nuclear n1	TU Nuclear Generators
+TU Onagawa Nuclear n1	TU
+TU Onagawa Nuclear n2	TU Nuclear Generators
+TU Onagawa Nuclear n2	TU
+TU Onagawa Nuclear n3	TU Nuclear Generators
+TU Onagawa Nuclear n3	TU
+TU Higashidori n1	TU Nuclear Generators
+TU Higashidori n1	TU

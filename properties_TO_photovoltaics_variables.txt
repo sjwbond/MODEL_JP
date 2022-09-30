@@ -1,0 +1,15 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+JAPAN PVSAT 100m 681 36.5 140.0 Capacity Factor			Value	2010-01-01	2100-01-01	JAPAN PVSAT 100m 681 36.5 140.0 File	0.1	Multiply					
+JAPAN PVSAT 100m 681 36.5 140.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN PVSAT 100m 681 36.5 140.0/							
+JAPAN PVSAT 100m 681 36.5 140.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN PVSAT 100m 681 36.5 140.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN PVSAT 100m 681 36.5 140.0 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN PVSAT 100m 681 36.5 140.0 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+JAPAN PVSAT 100m 681 36.5 140.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN PVSAT 100m 681 36.5 140.0							
+JAPAN PVSAT 100m 653 35.5 138.75 Capacity Factor			Value	2010-01-01	2100-01-01	JAPAN PVSAT 100m 653 35.5 138.75 File	0.1	Multiply					
+JAPAN PVSAT 100m 653 35.5 138.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN PVSAT 100m 653 35.5 138.75/							
+JAPAN PVSAT 100m 653 35.5 138.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN PVSAT 100m 653 35.5 138.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN PVSAT 100m 653 35.5 138.75 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+JAPAN PVSAT 100m 653 35.5 138.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN PVSAT 100m 653 35.5 138.75							
+JAPAN PVSAT 100m 653 35.5 138.75 File			Hourly_Offset	2010-01-01	2100-01-01	9							

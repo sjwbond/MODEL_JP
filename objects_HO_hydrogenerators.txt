@@ -1,0 +1,2 @@
+Object_Name	Object_Type
+HO JP_PP_Hokkaido	Hydro_Generator

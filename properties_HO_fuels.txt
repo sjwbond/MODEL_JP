@@ -1,0 +1,56 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+HO Station Coal			Currency	2010-01-01	2100-01-01	EUR							
+HO Station Coal			LHV	2010-01-01	2100-01-01	0.97							
+HO Station Coal			Price	2010-01-01	2100-01-01	HO Station Coal Price	HO Station Coal Stochastic	Multiply					
+HO Station Coal			ton/GJ	2010-01-01	2100-01-01	0.09							
+HO Station Coal			Unit	2010-01-01	2100-01-01	GJ							
+HO Station Coal Base			Value	2010-01-01	2100-01-01	Japan Coal							
+HO Station Coal Price			Value	2010-01-01	2100-01-01	HO Station Coal Base	HO Station Coal Delivery Adjustment	Multiply					
+HO Station Coal Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+HO Station Coal Stochastic			Value	2010-01-01	2100-01-01	1							
+HO Station Gas			Currency	2010-01-01	2100-01-01	EUR							
+HO Station Gas			LHV	2010-01-01	2100-01-01	0.92							
+HO Station Gas			Price	2010-01-01	2100-01-01	HO Station Gas Price	HO Station Gas Stochastic	Multiply					
+HO Station Gas			ton/GJ	2010-01-01	2100-01-01	0.056							
+HO Station Gas			Unit	2010-01-01	2100-01-01	GJ							
+HO Station Gas Base			Value	2010-01-01	2100-01-01	Japan Gas							
+HO Station Gas Price			Value	2010-01-01	2100-01-01	HO Station Gas Base	HO Station Gas Delivery Adjustment	Multiply					
+HO Station Gas Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+HO Station Gas Stochastic			Value	2010-01-01	2100-01-01	1							
+HO Station Biomass			Currency	2010-01-01	2100-01-01	EUR							
+HO Station Biomass			LHV	2010-01-01	2100-01-01	1							
+HO Station Biomass			Price	2010-01-01	2100-01-01	HO Station Biomass Price	HO Station Biomass Stochastic	Multiply					
+HO Station Biomass			ton/GJ	2010-01-01	2100-01-01	0							
+HO Station Biomass			Unit	2010-01-01	2100-01-01	GJ							
+HO Station Biomass Base			Value	2010-01-01	2100-01-01	Japan Biomass							
+HO Station Biomass Price			Value	2010-01-01	2100-01-01	HO Station Biomass Base	HO Station Biomass Delivery Adjustment	Multiply					
+HO Station Biomass Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+HO Station Biomass Stochastic			Value	2010-01-01	2100-01-01	1							
+HO Station Lignite			Currency	2010-01-01	2100-01-01	EUR							
+HO Station Lignite			LHV	2010-01-01	2100-01-01	0.96							
+HO Station Lignite			Price	2010-01-01	2100-01-01	HO Station Lignite Price	HO Station Lignite Stochastic	Multiply					
+HO Station Lignite			ton/GJ	2010-01-01	2100-01-01	0.114							
+HO Station Lignite			Unit	2010-01-01	2100-01-01	GJ							
+HO Station Lignite Base			Value	2010-01-01	2100-01-01	Japan Lignite							
+HO Station Lignite Price			Value	2010-01-01	2100-01-01	HO Station Lignite Base	HO Station Lignite Delivery Adjustment	Multiply					
+HO Station Lignite Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+HO Station Lignite Stochastic			Value	2010-01-01	2100-01-01	1							
+HO Station Uranium			Currency	2010-01-01	2100-01-01	EUR							
+HO Station Uranium			LHV	2010-01-01	2100-01-01	1							
+HO Station Uranium			Price	2010-01-01	2100-01-01	HO Station Uranium Price	HO Station Uranium Stochastic	Multiply					
+HO Station Uranium			ton/GJ	2010-01-01	2100-01-01	0							
+HO Station Uranium			Unit	2010-01-01	2100-01-01	GJ							
+HO Station Uranium Base			Value	2010-01-01	2100-01-01	Japan Uranium							
+HO Station Uranium Price			Value	2010-01-01	2100-01-01	HO Station Uranium Base	HO Station Uranium Delivery Adjustment	Multiply					
+HO Station Uranium Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+HO Station Uranium Stochastic			Value	2010-01-01	2100-01-01	1							
+HO Station LSFO			Currency	2010-01-01	2100-01-01	EUR							
+HO Station LSFO			LHV	2010-01-01	2100-01-01	0.95							
+HO Station LSFO			Price	2010-01-01	2100-01-01	HO Station LSFO Price	HO Station LSFO Stochastic	Multiply					
+HO Station LSFO			ton/GJ	2010-01-01	2100-01-01	0.06							
+HO Station LSFO			Unit	2010-01-01	2100-01-01	GJ							
+HO Station LSFO Base			Value	2010-01-01	2100-01-01	Japan LSFO							
+HO Station LSFO Price			Value	2010-01-01	2100-01-01	HO Station LSFO Base	HO Station LSFO Delivery Adjustment	Multiply					
+HO Station LSFO Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+HO Station LSFO Stochastic			Value	2010-01-01	2100-01-01	1							
+HO Station Gas Stochastic			Value	2010-01-01	2100-01-01	Gas Stochastic File							UseFuelStochastics

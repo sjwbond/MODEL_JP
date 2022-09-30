@@ -1,0 +1,61 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+JAPAN PVSAT 100m 774 44.5 141.875 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 774 44.5 141.875 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 774 44.5 141.875 Capacity Factor							
+JAPAN PVSAT 100m 774 44.5 141.875 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 774 44.5 141.875 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 774 44.5 141.875 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 774 44.5 141.875 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 792 44.0 143.75 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 792 44.0 143.75 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 792 44.0 143.75 Capacity Factor							
+JAPAN PVSAT 100m 792 44.0 143.75 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 792 44.0 143.75 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 792 44.0 143.75 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 792 44.0 143.75 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 794 44.0 145.0 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 794 44.0 145.0 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 794 44.0 145.0 Capacity Factor							
+JAPAN PVSAT 100m 794 44.0 145.0 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 794 44.0 145.0 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 794 44.0 145.0 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 794 44.0 145.0 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 805 43.5 142.5 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 805 43.5 142.5 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 805 43.5 142.5 Capacity Factor							
+JAPAN PVSAT 100m 805 43.5 142.5 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 805 43.5 142.5 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 805 43.5 142.5 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 805 43.5 142.5 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 808 43.5 144.375 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 808 43.5 144.375 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 808 43.5 144.375 Capacity Factor							
+JAPAN PVSAT 100m 808 43.5 144.375 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 808 43.5 144.375 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 808 43.5 144.375 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 808 43.5 144.375 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 818 43.0 141.25 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 818 43.0 141.25 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 818 43.0 141.25 Capacity Factor							
+JAPAN PVSAT 100m 818 43.0 141.25 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 818 43.0 141.25 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 818 43.0 141.25 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 818 43.0 141.25 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 822 43.0 143.75 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 822 43.0 143.75 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 822 43.0 143.75 Capacity Factor							
+JAPAN PVSAT 100m 822 43.0 143.75 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 822 43.0 143.75 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 822 43.0 143.75 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 822 43.0 143.75 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 824 43.0 145.0 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 824 43.0 145.0 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 824 43.0 145.0 Capacity Factor							
+JAPAN PVSAT 100m 824 43.0 145.0 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 824 43.0 145.0 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 824 43.0 145.0 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 824 43.0 145.0 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 836 42.5 143.125 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 836 42.5 143.125 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 836 42.5 143.125 Capacity Factor							
+JAPAN PVSAT 100m 836 42.5 143.125 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 836 42.5 143.125 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 836 42.5 143.125 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 836 42.5 143.125 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 529 45.5 148.75 Generator			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 529 45.5 148.75 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 529 45.5 148.75 Capacity Factor							
+JAPAN PVSAT 529 45.5 148.75 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 529 45.5 148.75 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 529 45.5 148.75 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 529 45.5 148.75 Generator			Bid Up Price	2010-01-01	2100-01-01	0							

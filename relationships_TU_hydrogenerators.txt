@@ -1,0 +1,4 @@
+Object_Name	Parent_Object	Parent_Property
+TU JP_PP_Shiroyama	TU
+TU JP_PP_Shiroyama	TU Hydro Storage Generators
+TU JP_RES_Shiroyama	TU JP_PP_Shiroyama	upstream_reservoir

@@ -1,0 +1,1354 @@
+Object_Name	Parent_Object
+TO Chiba_CC_u1-1	TO
+TO Chiba_CC_u1-2	TO
+TO Chiba_CC_u1-3	TO
+TO Chiba_CC_u1-4	TO
+TO Chiba_CC_u2-1	TO
+TO Futtsu_CC_u1-3	TO
+TO Futtsu_CC_u1-6	TO
+TO Futtsu_CC_u3-1	TO
+TO Futtsu_CC_u3-2	TO
+TO Futtsu_CC_u3-3	TO
+TO Futtsu_CC_u3-4	TO
+TO Futtsu_CC_u4-2	TO
+TO Goi_u5	TO
+TO Goi_u6	TO
+TO Higashi_Ogishima_u1	TO
+TO Kawasaki_CC_u2-2	TO
+TO Kawasaki_CC_u2-3	TO
+TO Kawasaki_JR_CC_u2	TO
+TO Shinagawa_CC_u1-1	TO
+TO Shinagawa_CC_u1-2	TO
+TO Yokohama_CC_u8-4	TO
+TO Yokohama_u5	TO
+TO Biomass 1990	JP Biomass Generators
+TO Biomass 1995	JP Biomass Generators
+TO Biomass 2000	JP Biomass Generators
+TO Biomass 2005	JP Biomass Generators
+TO Biomass 2010	JP Biomass Generators
+TO Biomass 2015	JP Biomass Generators
+TO Biomass 2020	JP Biomass Generators
+TO Biomass 2025	JP Biomass Generators
+TO Biomass 2030	JP Biomass Generators
+TO Biomass 2035	JP Biomass Generators
+TO Biomass 2040	JP Biomass Generators
+TO Biomass 2045	JP Biomass Generators
+TO Biomass 2050	JP Biomass Generators
+TO Biomass 2055	JP Biomass Generators
+TO Biomass 2060	JP Biomass Generators
+TO Biomass 2065	JP Biomass Generators
+TO Anegasaki_u1	JP CCGT Generators
+TO Anegasaki_u2	JP CCGT Generators
+TO CCGT 1990	JP CCGT Generators
+TO CCGT 1995	JP CCGT Generators
+TO CCGT 2000	JP CCGT Generators
+TO CCGT 2005	JP CCGT Generators
+TO CCGT 2010	JP CCGT Generators
+TO CCGT 2015	JP CCGT Generators
+TO CCGT 2020	JP CCGT Generators
+TO CCGT 2025	JP CCGT Generators
+TO CCGT 2030	JP CCGT Generators
+TO CCGT 2031	JP CCGT Generators
+TO CCGT 2032	JP CCGT Generators
+TO CCGT 2033	JP CCGT Generators
+TO CCGT 2034	JP CCGT Generators
+TO CCGT 2035	JP CCGT Generators
+TO CCGT 2036	JP CCGT Generators
+TO CCGT 2037	JP CCGT Generators
+TO CCGT 2038	JP CCGT Generators
+TO CCGT 2039	JP CCGT Generators
+TO CCGT 2040	JP CCGT Generators
+TO CCGT 2041	JP CCGT Generators
+TO CCGT 2042	JP CCGT Generators
+TO CCGT 2043	JP CCGT Generators
+TO CCGT 2044	JP CCGT Generators
+TO CCGT 2045	JP CCGT Generators
+TO CCGT 2046	JP CCGT Generators
+TO CCGT 2047	JP CCGT Generators
+TO CCGT 2048	JP CCGT Generators
+TO CCGT 2049	JP CCGT Generators
+TO CCGT 2050	JP CCGT Generators
+TO CCGT 2051	JP CCGT Generators
+TO CCGT 2052	JP CCGT Generators
+TO CCGT 2053	JP CCGT Generators
+TO CCGT 2054	JP CCGT Generators
+TO CCGT 2055	JP CCGT Generators
+TO CCGT 2056	JP CCGT Generators
+TO CCGT 2057	JP CCGT Generators
+TO CCGT 2058	JP CCGT Generators
+TO CCGT 2059	JP CCGT Generators
+TO CCGT 2060	JP CCGT Generators
+TO CCGT 2061	JP CCGT Generators
+TO CCGT 2062	JP CCGT Generators
+TO CCGT 2063	JP CCGT Generators
+TO CCGT 2064	JP CCGT Generators
+TO CCGT 2065	JP CCGT Generators
+TO Chiba_CC_u2-2	JP CCGT Generators
+TO Chiba_CC_u2-3	JP CCGT Generators
+TO Chiba_CC_u2-4	JP CCGT Generators
+TO Chiba_CC_u3-1	JP CCGT Generators
+TO Futtsu_CC_u1-2	JP CCGT Generators
+TO Futtsu_CC_u1-4	JP CCGT Generators
+TO Futtsu_CC_u1-5	JP CCGT Generators
+TO Futtsu_CC_u1-7	JP CCGT Generators
+TO Futtsu_CC_u2-1	JP CCGT Generators
+TO Futtsu_CC_u2-2	JP CCGT Generators
+TO Futtsu_CC_u2-4	JP CCGT Generators
+TO Futtsu_CC_u2-5	JP CCGT Generators
+TO Futtsu_CC_u2-6	JP CCGT Generators
+TO Futtsu_CC_u2-7	JP CCGT Generators
+TO Futtsu_CC_u4-3	JP CCGT Generators
+TO Goi_u2	JP CCGT Generators
+TO Goi_u3	JP CCGT Generators
+TO Goi_u4	JP CCGT Generators
+TO Higashi_Ogishima_u2	JP CCGT Generators
+TO Hirono_u3	JP CCGT Generators
+TO Hirono_u4	JP CCGT Generators
+TO Hirono_u6	JP CCGT Generators
+TO Hitachinaka_Kyodo_u1	JP CCGT Generators
+TO Hitachinaka_u1	JP CCGT Generators
+TO Hitachinaka_u2	JP CCGT Generators
+TO Ibaraki_CC_u2	JP CCGT Generators
+TO Ibaraki_CC_u3	JP CCGT Generators
+TO Ichihara_CC	JP CCGT Generators
+TO Isogo_u1	JP CCGT Generators
+TO Isogo_u2	JP CCGT Generators
+TO JFE_Chiba_IPP	JP CCGT Generators
+TO JFE_East_Japan_Works_(Chiba)_CC	JP CCGT Generators
+TO JFE_East_Japan_Works_(Chiba)_u3	JP CCGT Generators
+TO JFE_East_Japan_Works_(Chiba)_u4	JP CCGT Generators
+TO JFE_East_Japan_Works_(Keihin)_u1	JP CCGT Generators
+TO JFE_East_Japan_Works_(Keihin)_u2	JP CCGT Generators
+TO JFE_East_Japan_Works_(Keihin)_u3	JP CCGT Generators
+TO Kashima_CC_u7-1	JP CCGT Generators
+TO Kashima_CC_u7-2	JP CCGT Generators
+TO Kashima_CC_u7-3	JP CCGT Generators
+TO Kashima_Kyodo_u3	JP CCGT Generators
+TO Kashima_u1	JP CCGT Generators
+TO Kashima_u2	JP CCGT Generators
+TO Kashima_u3	JP CCGT Generators
+TO Kashima_u4	JP CCGT Generators
+TO Kashima_u5	JP CCGT Generators
+TO Kashima_u6	JP CCGT Generators
+TO Kashima_Works_u2	JP CCGT Generators
+TO Kawasaki_CC_u1-1	JP CCGT Generators
+TO Kawasaki_CC_u1-2	JP CCGT Generators
+TO Kawasaki_Natural_Gas_Power_Generation_u1	JP CCGT Generators
+TO Kawasaki_Natural_Gas_Power_Generation_u2	JP CCGT Generators
+TO Kimitsu_Kyodo_CC_u6	JP CCGT Generators
+TO Minami_Yokohama_u1	JP CCGT Generators
+TO Minami_Yokohama_u3	JP CCGT Generators
+TO Moka_CC_u1	JP CCGT Generators
+TO Moka_CC_u2	JP CCGT Generators
+TO Nakasode_CC	JP CCGT Generators
+TO Nakoso_u8	JP CCGT Generators
+TO Nakoso_u9	JP CCGT Generators
+TO Ogishima_Power_CC_u1	JP CCGT Generators
+TO Ogishima_Power_CC_u2	JP CCGT Generators
+TO Ogishima_Power_CC_u3	JP CCGT Generators
+TO Ohi_u2	JP CCGT Generators
+TO Ohi_u3	JP CCGT Generators
+TO Shin_Nakasode_CC	JP CCGT Generators
+TO Shinagawa_CC_u1-3	JP CCGT Generators
+TO Sodegaura_u1	JP CCGT Generators
+TO Sodegaura_u2	JP CCGT Generators
+TO Sodegaura_u3	JP CCGT Generators
+TO Sodegaura_u4	JP CCGT Generators
+TO Tokyo_Gas_Bay_Power	JP CCGT Generators
+TO Yokohama_CC_u7-4	JP CCGT Generators
+TO CHP 1990	JP CHP Generators
+TO CHP 1995	JP CHP Generators
+TO CHP 2000	JP CHP Generators
+TO CHP 2005	JP CHP Generators
+TO CHP 2010	JP CHP Generators
+TO CHP 2015	JP CHP Generators
+TO CHP 2020	JP CHP Generators
+TO CHP 2025	JP CHP Generators
+TO CHP 2030	JP CHP Generators
+TO CHP 2035	JP CHP Generators
+TO CHP 2040	JP CHP Generators
+TO CHP 2045	JP CHP Generators
+TO CHP 2050	JP CHP Generators
+TO CHP 2055	JP CHP Generators
+TO CHP 2060	JP CHP Generators
+TO CHP 2065	JP CHP Generators
+TO Anegasaki_u3	JP Coal Generators
+TO Anegasaki_u4	JP Coal Generators
+TO Anegasaki_u5	JP Coal Generators
+TO Anegasaki_u6	JP Coal Generators
+TO Coal 1990	JP Coal Generators
+TO Coal 1995	JP Coal Generators
+TO Coal 2000	JP Coal Generators
+TO Coal 2005	JP Coal Generators
+TO Coal 2010	JP Coal Generators
+TO Coal 2015	JP Coal Generators
+TO Coal 2020	JP Coal Generators
+TO Coal 2025	JP Coal Generators
+TO Coal 2030	JP Coal Generators
+TO Coal 2035	JP Coal Generators
+TO Coal 2040	JP Coal Generators
+TO Coal 2045	JP Coal Generators
+TO Coal 2050	JP Coal Generators
+TO Coal 2055	JP Coal Generators
+TO Coal 2060	JP Coal Generators
+TO Coal 2065	JP Coal Generators
+TO Goi_u1	JP Coal Generators
+TO JFE_East_Japan_Works_(Keihin)_New_u1	JP Coal Generators
+TO Kashima_Kyodo_u5	JP Coal Generators
+TO Kashiwazaki_Kariwa_Nuclear_u1	JP Coal Generators
+TO Kawasaki_JR_CC_u3	JP Coal Generators
+TO Kawasaki_JR_CC_u4	JP Coal Generators
+TO Kimitsu_Kyodo_CC_u5	JP Coal Generators
+TO Lignite 1990	JP Coal Generators
+TO Lignite 1995	JP Coal Generators
+TO Lignite 2000	JP Coal Generators
+TO Lignite 2005	JP Coal Generators
+TO Lignite 2010	JP Coal Generators
+TO Lignite 2015	JP Coal Generators
+TO Lignite 2020	JP Coal Generators
+TO Lignite 2025	JP Coal Generators
+TO Lignite 2030	JP Coal Generators
+TO Lignite 2035	JP Coal Generators
+TO Lignite 2040	JP Coal Generators
+TO Lignite 2045	JP Coal Generators
+TO Lignite 2050	JP Coal Generators
+TO Lignite 2055	JP Coal Generators
+TO Lignite 2060	JP Coal Generators
+TO Lignite 2065	JP Coal Generators
+TO Ohi_u1	JP Coal Generators
+TO Tokyo_Gas_Yokosuka_CC	JP Coal Generators
+TO Yokohama_CC_u8-2	JP Coal Generators
+TO Yokohama_CC_u8-3	JP Coal Generators
+TO Chiba_CC_u3-2	JP Gas Boilers
+TO Chiba_CC_u3-3	JP Gas Boilers
+TO Futtsu_CC_u1-1	JP Gas Boilers
+TO Futtsu_CC_u2-3	JP Gas Boilers
+TO Futtsu_CC_u4-1	JP Gas Boilers
+TO Hirono_u1	JP Gas Boilers
+TO Hirono_u2	JP Gas Boilers
+TO Hirono_u5	JP Gas Boilers
+TO Kamisu	JP Gas Boilers
+TO Kashima	JP Gas Boilers
+TO Kashima_Kyodo_u4	JP Gas Boilers
+TO Kashiwazaki_Kariwa_Nuclear_u2	JP Gas Boilers
+TO Kashiwazaki_Kariwa_Nuclear_u3	JP Gas Boilers
+TO Kashiwazaki_Kariwa_Nuclear_u4	JP Gas Boilers
+TO Kashiwazaki_Kariwa_Nuclear_u5	JP Gas Boilers
+TO Kashiwazaki_Kariwa_Nuclear_u6	JP Gas Boilers
+TO Kashiwazaki_Kariwa_Nuclear_u7	JP Gas Boilers
+TO Kawasaki_CC_u1-3	JP Gas Boilers
+TO Kawasaki_CC_u2-1	JP Gas Boilers
+TO Kawasaki_JR_CC_u1	JP Gas Boilers
+TO Kimitsu_Kyodo_u3	JP Gas Boilers
+TO Kimitsu_Kyodo_u4	JP Gas Boilers
+TO Minami_Yokohama_u2	JP Gas Boilers
+TO Mizue_u1	JP Gas Boilers
+TO Nakoso_u10	JP Gas Boilers
+TO Negishi_IGCC	JP Gas Boilers
+TO NSC_Kashima_Works	JP Gas Boilers
+TO Suzukawa_Energy_Center	JP Gas Boilers
+TO Yokohama_CC_u7-1	JP Gas Boilers
+TO Yokohama_CC_u7-2	JP Gas Boilers
+TO Yokohama_CC_u7-3	JP Gas Boilers
+TO Yokohama_CC_u8-1	JP Gas Boilers
+TO Yokohama_u6	JP Gas Boilers
+TO Anegasaki_u1	JP Gas Generators
+TO Anegasaki_u2	JP Gas Generators
+TO CCGT 1990	JP Gas Generators
+TO CCGT 1995	JP Gas Generators
+TO CCGT 2000	JP Gas Generators
+TO CCGT 2005	JP Gas Generators
+TO CCGT 2010	JP Gas Generators
+TO CCGT 2015	JP Gas Generators
+TO CCGT 2020	JP Gas Generators
+TO CCGT 2025	JP Gas Generators
+TO CCGT 2030	JP Gas Generators
+TO CCGT 2031	JP Gas Generators
+TO CCGT 2032	JP Gas Generators
+TO CCGT 2033	JP Gas Generators
+TO CCGT 2034	JP Gas Generators
+TO CCGT 2035	JP Gas Generators
+TO CCGT 2036	JP Gas Generators
+TO CCGT 2037	JP Gas Generators
+TO CCGT 2038	JP Gas Generators
+TO CCGT 2039	JP Gas Generators
+TO CCGT 2040	JP Gas Generators
+TO CCGT 2041	JP Gas Generators
+TO CCGT 2042	JP Gas Generators
+TO CCGT 2043	JP Gas Generators
+TO CCGT 2044	JP Gas Generators
+TO CCGT 2045	JP Gas Generators
+TO CCGT 2046	JP Gas Generators
+TO CCGT 2047	JP Gas Generators
+TO CCGT 2048	JP Gas Generators
+TO CCGT 2049	JP Gas Generators
+TO CCGT 2050	JP Gas Generators
+TO CCGT 2051	JP Gas Generators
+TO CCGT 2052	JP Gas Generators
+TO CCGT 2053	JP Gas Generators
+TO CCGT 2054	JP Gas Generators
+TO CCGT 2055	JP Gas Generators
+TO CCGT 2056	JP Gas Generators
+TO CCGT 2057	JP Gas Generators
+TO CCGT 2058	JP Gas Generators
+TO CCGT 2059	JP Gas Generators
+TO CCGT 2060	JP Gas Generators
+TO CCGT 2061	JP Gas Generators
+TO CCGT 2062	JP Gas Generators
+TO CCGT 2063	JP Gas Generators
+TO CCGT 2064	JP Gas Generators
+TO CCGT 2065	JP Gas Generators
+TO Chiba_CC_u2-2	JP Gas Generators
+TO Chiba_CC_u2-3	JP Gas Generators
+TO Chiba_CC_u2-4	JP Gas Generators
+TO Chiba_CC_u3-1	JP Gas Generators
+TO Chiba_CC_u3-2	JP Gas Generators
+TO Chiba_CC_u3-3	JP Gas Generators
+TO CHP 1990	JP Gas Generators
+TO CHP 1995	JP Gas Generators
+TO CHP 2000	JP Gas Generators
+TO CHP 2005	JP Gas Generators
+TO CHP 2010	JP Gas Generators
+TO CHP 2015	JP Gas Generators
+TO CHP 2020	JP Gas Generators
+TO CHP 2025	JP Gas Generators
+TO CHP 2030	JP Gas Generators
+TO CHP 2035	JP Gas Generators
+TO CHP 2040	JP Gas Generators
+TO CHP 2045	JP Gas Generators
+TO CHP 2050	JP Gas Generators
+TO CHP 2055	JP Gas Generators
+TO CHP 2060	JP Gas Generators
+TO CHP 2065	JP Gas Generators
+TO Futtsu_CC_u1-1	JP Gas Generators
+TO Futtsu_CC_u1-2	JP Gas Generators
+TO Futtsu_CC_u1-4	JP Gas Generators
+TO Futtsu_CC_u1-5	JP Gas Generators
+TO Futtsu_CC_u1-7	JP Gas Generators
+TO Futtsu_CC_u2-1	JP Gas Generators
+TO Futtsu_CC_u2-2	JP Gas Generators
+TO Futtsu_CC_u2-3	JP Gas Generators
+TO Futtsu_CC_u2-4	JP Gas Generators
+TO Futtsu_CC_u2-5	JP Gas Generators
+TO Futtsu_CC_u2-6	JP Gas Generators
+TO Futtsu_CC_u2-7	JP Gas Generators
+TO Futtsu_CC_u4-1	JP Gas Generators
+TO Futtsu_CC_u4-3	JP Gas Generators
+TO Goi_u2	JP Gas Generators
+TO Goi_u3	JP Gas Generators
+TO Goi_u4	JP Gas Generators
+TO Higashi_Ogishima_u2	JP Gas Generators
+TO Hirono_u1	JP Gas Generators
+TO Hirono_u2	JP Gas Generators
+TO Hirono_u3	JP Gas Generators
+TO Hirono_u4	JP Gas Generators
+TO Hirono_u5	JP Gas Generators
+TO Hirono_u6	JP Gas Generators
+TO Hitachinaka_Kyodo_u1	JP Gas Generators
+TO Hitachinaka_u1	JP Gas Generators
+TO Hitachinaka_u2	JP Gas Generators
+TO Ibaraki_CC_u2	JP Gas Generators
+TO Ibaraki_CC_u3	JP Gas Generators
+TO Ichihara_CC	JP Gas Generators
+TO Isogo_u1	JP Gas Generators
+TO Isogo_u2	JP Gas Generators
+TO JFE_Chiba_IPP	JP Gas Generators
+TO JFE_East_Japan_Works_(Chiba)_CC	JP Gas Generators
+TO JFE_East_Japan_Works_(Chiba)_u3	JP Gas Generators
+TO JFE_East_Japan_Works_(Chiba)_u4	JP Gas Generators
+TO JFE_East_Japan_Works_(Keihin)_u1	JP Gas Generators
+TO JFE_East_Japan_Works_(Keihin)_u2	JP Gas Generators
+TO JFE_East_Japan_Works_(Keihin)_u3	JP Gas Generators
+TO Kamisu	JP Gas Generators
+TO Kashima	JP Gas Generators
+TO Kashima_CC_u7-2	JP Gas Generators
+TO Kashima_CC_u7-3	JP Gas Generators
+TO Kashima_Kyodo_u3	JP Gas Generators
+TO Kashima_Kyodo_u4	JP Gas Generators
+TO Kashima_u1	JP Gas Generators
+TO Kashima_u2	JP Gas Generators
+TO Kashima_u3	JP Gas Generators
+TO Kashima_u4	JP Gas Generators
+TO Kashima_u5	JP Gas Generators
+TO Kashima_u6	JP Gas Generators
+TO Kashima_Works_u2	JP Gas Generators
+TO Kashiwazaki_Kariwa_Nuclear_u2	JP Gas Generators
+TO Kashiwazaki_Kariwa_Nuclear_u3	JP Gas Generators
+TO Kashiwazaki_Kariwa_Nuclear_u4	JP Gas Generators
+TO Kashiwazaki_Kariwa_Nuclear_u5	JP Gas Generators
+TO Kashiwazaki_Kariwa_Nuclear_u6	JP Gas Generators
+TO Kashiwazaki_Kariwa_Nuclear_u7	JP Gas Generators
+TO Kawasaki_CC_u1-1	JP Gas Generators
+TO Kawasaki_CC_u1-2	JP Gas Generators
+TO Kawasaki_CC_u1-3	JP Gas Generators
+TO Kawasaki_CC_u2-1	JP Gas Generators
+TO Kawasaki_JR_CC_u1	JP Gas Generators
+TO Kawasaki_Natural_Gas_Power_Generation_u1	JP Gas Generators
+TO Kawasaki_Natural_Gas_Power_Generation_u2	JP Gas Generators
+TO Kimitsu_Kyodo_CC_u6	JP Gas Generators
+TO Kimitsu_Kyodo_u3	JP Gas Generators
+TO Kimitsu_Kyodo_u4	JP Gas Generators
+TO Minami_Yokohama_u1	JP Gas Generators
+TO Minami_Yokohama_u2	JP Gas Generators
+TO Minami_Yokohama_u3	JP Gas Generators
+TO Mizue_u1	JP Gas Generators
+TO Moka_CC_u1	JP Gas Generators
+TO Moka_CC_u2	JP Gas Generators
+TO Nakasode_CC	JP Gas Generators
+TO Nakoso_u10	JP Gas Generators
+TO Nakoso_u8	JP Gas Generators
+TO Nakoso_u9	JP Gas Generators
+TO Negishi_IGCC	JP Gas Generators
+TO NSC_Kashima_Works	JP Gas Generators
+TO OCGT 1990	JP Gas Generators
+TO OCGT 1995	JP Gas Generators
+TO OCGT 2000	JP Gas Generators
+TO OCGT 2005	JP Gas Generators
+TO OCGT 2010	JP Gas Generators
+TO OCGT 2015	JP Gas Generators
+TO OCGT 2020	JP Gas Generators
+TO OCGT 2025	JP Gas Generators
+TO OCGT 2030	JP Gas Generators
+TO OCGT 2035	JP Gas Generators
+TO OCGT 2040	JP Gas Generators
+TO OCGT 2045	JP Gas Generators
+TO OCGT 2050	JP Gas Generators
+TO OCGT 2055	JP Gas Generators
+TO OCGT 2060	JP Gas Generators
+TO OCGT 2065	JP Gas Generators
+TO Ogishima_Power_CC_u1	JP Gas Generators
+TO Ogishima_Power_CC_u2	JP Gas Generators
+TO Ogishima_Power_CC_u3	JP Gas Generators
+TO Ohi_u2	JP Gas Generators
+TO Ohi_u3	JP Gas Generators
+TO Shin_Nakasode_CC	JP Gas Generators
+TO Shinagawa_CC_u1-3	JP Gas Generators
+TO Sodegaura_u1	JP Gas Generators
+TO Sodegaura_u2	JP Gas Generators
+TO Sodegaura_u3	JP Gas Generators
+TO Sodegaura_u4	JP Gas Generators
+TO Suzukawa_Energy_Center	JP Gas Generators
+TO Tokyo_Gas_Bay_Power	JP Gas Generators
+TO Yokohama_CC_u7-1	JP Gas Generators
+TO Yokohama_CC_u7-3	JP Gas Generators
+TO Yokohama_CC_u7-4	JP Gas Generators
+TO Yokohama_CC_u8-1	JP Gas Generators
+TO Yokohama_u6	JP Gas Generators
+TO Anegasaki_u3	JP Hard Coal Generators
+TO Anegasaki_u4	JP Hard Coal Generators
+TO Anegasaki_u5	JP Hard Coal Generators
+TO Anegasaki_u6	JP Hard Coal Generators
+TO Coal 1990	JP Hard Coal Generators
+TO Coal 1995	JP Hard Coal Generators
+TO Coal 2000	JP Hard Coal Generators
+TO Coal 2005	JP Hard Coal Generators
+TO Coal 2010	JP Hard Coal Generators
+TO Coal 2015	JP Hard Coal Generators
+TO Coal 2020	JP Hard Coal Generators
+TO Coal 2025	JP Hard Coal Generators
+TO Coal 2030	JP Hard Coal Generators
+TO Coal 2035	JP Hard Coal Generators
+TO Coal 2040	JP Hard Coal Generators
+TO Coal 2045	JP Hard Coal Generators
+TO Coal 2050	JP Hard Coal Generators
+TO Coal 2055	JP Hard Coal Generators
+TO Coal 2060	JP Hard Coal Generators
+TO Coal 2065	JP Hard Coal Generators
+TO Goi_u1	JP Hard Coal Generators
+TO JFE_East_Japan_Works_(Keihin)_New_u1	JP Hard Coal Generators
+TO Kashima_Kyodo_u5	JP Hard Coal Generators
+TO Kashiwazaki_Kariwa_Nuclear_u1	JP Hard Coal Generators
+TO Kawasaki_JR_CC_u3	JP Hard Coal Generators
+TO Kawasaki_JR_CC_u4	JP Hard Coal Generators
+TO Kimitsu_Kyodo_CC_u5	JP Hard Coal Generators
+TO Ohi_u1	JP Hard Coal Generators
+TO Tokyo_Gas_Yokosuka_CC	JP Hard Coal Generators
+TO Yokohama_CC_u8-2	JP Hard Coal Generators
+TO Yokohama_CC_u8-3	JP Hard Coal Generators
+TO Lignite 1990	JP Lignite Generators
+TO Lignite 1995	JP Lignite Generators
+TO Lignite 2000	JP Lignite Generators
+TO Lignite 2005	JP Lignite Generators
+TO Lignite 2010	JP Lignite Generators
+TO Lignite 2015	JP Lignite Generators
+TO Lignite 2020	JP Lignite Generators
+TO Lignite 2025	JP Lignite Generators
+TO Lignite 2030	JP Lignite Generators
+TO Lignite 2035	JP Lignite Generators
+TO Lignite 2040	JP Lignite Generators
+TO Lignite 2045	JP Lignite Generators
+TO Lignite 2050	JP Lignite Generators
+TO Lignite 2055	JP Lignite Generators
+TO Lignite 2060	JP Lignite Generators
+TO Lignite 2065	JP Lignite Generators
+TO Chiba_CC_u1-1	JP Liquid Generators
+TO Chiba_CC_u1-2	JP Liquid Generators
+TO Chiba_CC_u1-3	JP Liquid Generators
+TO Chiba_CC_u1-4	JP Liquid Generators
+TO Chiba_CC_u2-1	JP Liquid Generators
+TO Futtsu_CC_u1-3	JP Liquid Generators
+TO Futtsu_CC_u1-6	JP Liquid Generators
+TO Futtsu_CC_u4-2	JP Liquid Generators
+TO Goi_u5	JP Liquid Generators
+TO Goi_u6	JP Liquid Generators
+TO Higashi_Ogishima_u1	JP Liquid Generators
+TO Kashima_CC_u7-1	JP Liquid Generators
+TO Kawasaki_CC_u2-2	JP Liquid Generators
+TO Kawasaki_CC_u2-3	JP Liquid Generators
+TO Kawasaki_JR_CC_u2	JP Liquid Generators
+TO Liquid 1990	JP Liquid Generators
+TO Liquid 1995	JP Liquid Generators
+TO Liquid 2000	JP Liquid Generators
+TO Liquid 2005	JP Liquid Generators
+TO Liquid 2010	JP Liquid Generators
+TO Liquid 2015	JP Liquid Generators
+TO Liquid 2020	JP Liquid Generators
+TO Liquid 2025	JP Liquid Generators
+TO Liquid 2030	JP Liquid Generators
+TO Liquid 2035	JP Liquid Generators
+TO Liquid 2040	JP Liquid Generators
+TO Liquid 2045	JP Liquid Generators
+TO Liquid 2050	JP Liquid Generators
+TO Liquid 2055	JP Liquid Generators
+TO Liquid 2060	JP Liquid Generators
+TO Liquid 2065	JP Liquid Generators
+TO Yokohama_CC_u7-2	JP Liquid Generators
+TO Yokohama_u5	JP Liquid Generators
+TO Futtsu_CC_u3-1	JP Nuclear Generators
+TO Futtsu_CC_u3-2	JP Nuclear Generators
+TO Futtsu_CC_u3-3	JP Nuclear Generators
+TO Futtsu_CC_u3-4	JP Nuclear Generators
+TO Nuclear 1990	JP Nuclear Generators
+TO Nuclear 1995	JP Nuclear Generators
+TO Nuclear 2000	JP Nuclear Generators
+TO Nuclear 2005	JP Nuclear Generators
+TO Nuclear 2010	JP Nuclear Generators
+TO Nuclear 2015	JP Nuclear Generators
+TO Nuclear 2020	JP Nuclear Generators
+TO Shinagawa_CC_u1-1	JP Nuclear Generators
+TO Shinagawa_CC_u1-2	JP Nuclear Generators
+TO Yokohama_CC_u8-4	JP Nuclear Generators
+TO OCGT 1990	JP OCGT Generators
+TO OCGT 1995	JP OCGT Generators
+TO OCGT 2000	JP OCGT Generators
+TO OCGT 2005	JP OCGT Generators
+TO OCGT 2010	JP OCGT Generators
+TO OCGT 2015	JP OCGT Generators
+TO OCGT 2020	JP OCGT Generators
+TO OCGT 2025	JP OCGT Generators
+TO OCGT 2030	JP OCGT Generators
+TO OCGT 2035	JP OCGT Generators
+TO OCGT 2040	JP OCGT Generators
+TO OCGT 2045	JP OCGT Generators
+TO OCGT 2050	JP OCGT Generators
+TO OCGT 2055	JP OCGT Generators
+TO OCGT 2060	JP OCGT Generators
+TO OCGT 2065	JP OCGT Generators
+TO Anegasaki_u1	TO
+TO Anegasaki_u2	TO
+TO Anegasaki_u3	TO
+TO Anegasaki_u4	TO
+TO Anegasaki_u5	TO
+TO Anegasaki_u6	TO
+TO Biomass 1990	TO
+TO Biomass 1995	TO
+TO Biomass 2000	TO
+TO Biomass 2005	TO
+TO Biomass 2010	TO
+TO Biomass 2015	TO
+TO Biomass 2020	TO
+TO Biomass 2025	TO
+TO Biomass 2030	TO
+TO Biomass 2035	TO
+TO Biomass 2040	TO
+TO Biomass 2045	TO
+TO Biomass 2050	TO
+TO Biomass 2055	TO
+TO Biomass 2060	TO
+TO Biomass 2065	TO
+TO CCGT 1990	TO
+TO CCGT 1995	TO
+TO CCGT 2000	TO
+TO CCGT 2005	TO
+TO CCGT 2010	TO
+TO CCGT 2015	TO
+TO CCGT 2020	TO
+TO CCGT 2025	TO
+TO CCGT 2030	TO
+TO CCGT 2031	TO
+TO CCGT 2032	TO
+TO CCGT 2033	TO
+TO CCGT 2034	TO
+TO CCGT 2035	TO
+TO CCGT 2036	TO
+TO CCGT 2037	TO
+TO CCGT 2038	TO
+TO CCGT 2039	TO
+TO CCGT 2040	TO
+TO CCGT 2041	TO
+TO CCGT 2042	TO
+TO CCGT 2043	TO
+TO CCGT 2044	TO
+TO CCGT 2045	TO
+TO CCGT 2046	TO
+TO CCGT 2047	TO
+TO CCGT 2048	TO
+TO CCGT 2049	TO
+TO CCGT 2050	TO
+TO CCGT 2051	TO
+TO CCGT 2052	TO
+TO CCGT 2053	TO
+TO CCGT 2054	TO
+TO CCGT 2055	TO
+TO CCGT 2056	TO
+TO CCGT 2057	TO
+TO CCGT 2058	TO
+TO CCGT 2059	TO
+TO CCGT 2060	TO
+TO CCGT 2061	TO
+TO CCGT 2062	TO
+TO CCGT 2063	TO
+TO CCGT 2064	TO
+TO CCGT 2065	TO
+TO Chiba_CC_u1-1	TO
+TO Chiba_CC_u1-2	TO
+TO Chiba_CC_u1-3	TO
+TO Chiba_CC_u1-4	TO
+TO Chiba_CC_u2-1	TO
+TO Chiba_CC_u2-2	TO
+TO Chiba_CC_u2-3	TO
+TO Chiba_CC_u2-4	TO
+TO Chiba_CC_u3-1	TO
+TO Chiba_CC_u3-2	TO
+TO Chiba_CC_u3-3	TO
+TO CHP 1990	TO
+TO CHP 1995	TO
+TO CHP 2000	TO
+TO CHP 2005	TO
+TO CHP 2010	TO
+TO CHP 2015	TO
+TO CHP 2020	TO
+TO CHP 2025	TO
+TO CHP 2030	TO
+TO CHP 2035	TO
+TO CHP 2040	TO
+TO CHP 2045	TO
+TO CHP 2050	TO
+TO CHP 2055	TO
+TO CHP 2060	TO
+TO CHP 2065	TO
+TO Coal 1990	TO
+TO Coal 1995	TO
+TO Coal 2000	TO
+TO Coal 2005	TO
+TO Coal 2010	TO
+TO Coal 2015	TO
+TO Coal 2020	TO
+TO Coal 2025	TO
+TO Coal 2030	TO
+TO Coal 2035	TO
+TO Coal 2040	TO
+TO Coal 2045	TO
+TO Coal 2050	TO
+TO Coal 2055	TO
+TO Coal 2060	TO
+TO Coal 2065	TO
+TO Futtsu_CC_u1-1	TO
+TO Futtsu_CC_u1-2	TO
+TO Futtsu_CC_u1-3	TO
+TO Futtsu_CC_u1-4	TO
+TO Futtsu_CC_u1-5	TO
+TO Futtsu_CC_u1-6	TO
+TO Futtsu_CC_u1-7	TO
+TO Futtsu_CC_u2-1	TO
+TO Futtsu_CC_u2-2	TO
+TO Futtsu_CC_u2-3	TO
+TO Futtsu_CC_u2-4	TO
+TO Futtsu_CC_u2-5	TO
+TO Futtsu_CC_u2-6	TO
+TO Futtsu_CC_u2-7	TO
+TO Futtsu_CC_u3-1	TO
+TO Futtsu_CC_u3-2	TO
+TO Futtsu_CC_u3-3	TO
+TO Futtsu_CC_u3-4	TO
+TO Futtsu_CC_u4-1	TO
+TO Futtsu_CC_u4-2	TO
+TO Futtsu_CC_u4-3	TO
+TO Goi_u1	TO
+TO Goi_u2	TO
+TO Goi_u3	TO
+TO Goi_u4	TO
+TO Goi_u5	TO
+TO Goi_u6	TO
+TO Higashi_Ogishima_u1	TO
+TO Higashi_Ogishima_u2	TO
+TO Hirono_u1	TO
+TO Hirono_u2	TO
+TO Hirono_u3	TO
+TO Hirono_u4	TO
+TO Hirono_u5	TO
+TO Hirono_u6	TO
+TO Hitachinaka_Kyodo_u1	TO
+TO Hitachinaka_u1	TO
+TO Hitachinaka_u2	TO
+TO Ibaraki_CC_u2	TO
+TO Ibaraki_CC_u3	TO
+TO Ichihara_CC	TO
+TO Isogo_u1	TO
+TO Isogo_u2	TO
+TO JFE_Chiba_IPP	TO
+TO JFE_East_Japan_Works_(Chiba)_CC	TO
+TO JFE_East_Japan_Works_(Chiba)_u3	TO
+TO JFE_East_Japan_Works_(Chiba)_u4	TO
+TO JFE_East_Japan_Works_(Keihin)_New_u1	TO
+TO JFE_East_Japan_Works_(Keihin)_u1	TO
+TO JFE_East_Japan_Works_(Keihin)_u2	TO
+TO JFE_East_Japan_Works_(Keihin)_u3	TO
+TO Kamisu	TO
+TO Kashima	TO
+TO Kashima_CC_u7-1	TO
+TO Kashima_CC_u7-2	TO
+TO Kashima_CC_u7-3	TO
+TO Kashima_Kyodo_u3	TO
+TO Kashima_Kyodo_u4	TO
+TO Kashima_Kyodo_u5	TO
+TO Kashima_u1	TO
+TO Kashima_u2	TO
+TO Kashima_u3	TO
+TO Kashima_u4	TO
+TO Kashima_u5	TO
+TO Kashima_u6	TO
+TO Kashima_Works_u2	TO
+TO Kashiwazaki_Kariwa_Nuclear_u1	TO
+TO Kashiwazaki_Kariwa_Nuclear_u2	TO
+TO Kashiwazaki_Kariwa_Nuclear_u3	TO
+TO Kashiwazaki_Kariwa_Nuclear_u4	TO
+TO Kashiwazaki_Kariwa_Nuclear_u5	TO
+TO Kashiwazaki_Kariwa_Nuclear_u6	TO
+TO Kashiwazaki_Kariwa_Nuclear_u7	TO
+TO Kawasaki_CC_u1-1	TO
+TO Kawasaki_CC_u1-2	TO
+TO Kawasaki_CC_u1-3	TO
+TO Kawasaki_CC_u2-1	TO
+TO Kawasaki_CC_u2-2	TO
+TO Kawasaki_CC_u2-3	TO
+TO Kawasaki_JR_CC_u1	TO
+TO Kawasaki_JR_CC_u2	TO
+TO Kawasaki_JR_CC_u3	TO
+TO Kawasaki_JR_CC_u4	TO
+TO Kawasaki_Natural_Gas_Power_Generation_u1	TO
+TO Kawasaki_Natural_Gas_Power_Generation_u2	TO
+TO Kimitsu_Kyodo_CC_u5	TO
+TO Kimitsu_Kyodo_CC_u6	TO
+TO Kimitsu_Kyodo_u3	TO
+TO Kimitsu_Kyodo_u4	TO
+TO Lignite 1990	TO
+TO Lignite 1995	TO
+TO Lignite 2000	TO
+TO Lignite 2005	TO
+TO Lignite 2010	TO
+TO Lignite 2015	TO
+TO Lignite 2020	TO
+TO Lignite 2025	TO
+TO Lignite 2030	TO
+TO Lignite 2035	TO
+TO Lignite 2040	TO
+TO Lignite 2045	TO
+TO Lignite 2050	TO
+TO Lignite 2055	TO
+TO Lignite 2060	TO
+TO Lignite 2065	TO
+TO Liquid 1990	TO
+TO Liquid 1995	TO
+TO Liquid 2000	TO
+TO Liquid 2005	TO
+TO Liquid 2010	TO
+TO Liquid 2015	TO
+TO Liquid 2020	TO
+TO Liquid 2025	TO
+TO Liquid 2030	TO
+TO Liquid 2035	TO
+TO Liquid 2040	TO
+TO Liquid 2045	TO
+TO Liquid 2050	TO
+TO Liquid 2055	TO
+TO Liquid 2060	TO
+TO Liquid 2065	TO
+TO Minami_Yokohama_u1	TO
+TO Minami_Yokohama_u2	TO
+TO Minami_Yokohama_u3	TO
+TO Mizue_u1	TO
+TO Moka_CC_u1	TO
+TO Moka_CC_u2	TO
+TO Nakasode_CC	TO
+TO Nakoso_u10	TO
+TO Nakoso_u8	TO
+TO Nakoso_u9	TO
+TO Negishi_IGCC	TO
+TO NSC_Kashima_Works	TO
+TO Nuclear 1990	TO
+TO Nuclear 1995	TO
+TO Nuclear 2000	TO
+TO Nuclear 2005	TO
+TO Nuclear 2010	TO
+TO Nuclear 2015	TO
+TO Nuclear 2020	TO
+TO OCGT 1990	TO
+TO OCGT 1995	TO
+TO OCGT 2000	TO
+TO OCGT 2005	TO
+TO OCGT 2010	TO
+TO OCGT 2015	TO
+TO OCGT 2020	TO
+TO OCGT 2025	TO
+TO OCGT 2030	TO
+TO OCGT 2035	TO
+TO OCGT 2040	TO
+TO OCGT 2045	TO
+TO OCGT 2050	TO
+TO OCGT 2055	TO
+TO OCGT 2060	TO
+TO OCGT 2065	TO
+TO Ogishima_Power_CC_u1	TO
+TO Ogishima_Power_CC_u2	TO
+TO Ogishima_Power_CC_u3	TO
+TO Ohi_u1	TO
+TO Ohi_u2	TO
+TO Ohi_u3	TO
+TO Shin_Nakasode_CC	TO
+TO Shinagawa_CC_u1-1	TO
+TO Shinagawa_CC_u1-2	TO
+TO Shinagawa_CC_u1-3	TO
+TO Sodegaura_u1	TO
+TO Sodegaura_u2	TO
+TO Sodegaura_u3	TO
+TO Sodegaura_u4	TO
+TO Suzukawa_Energy_Center	TO
+TO Tokyo_Gas_Bay_Power	TO
+TO Tokyo_Gas_Yokosuka_CC	TO
+TO Yokohama_CC_u7-1	TO
+TO Yokohama_CC_u7-2	TO
+TO Yokohama_CC_u7-3	TO
+TO Yokohama_CC_u7-4	TO
+TO Yokohama_CC_u8-1	TO
+TO Yokohama_CC_u8-2	TO
+TO Yokohama_CC_u8-3	TO
+TO Yokohama_CC_u8-4	TO
+TO Yokohama_u5	TO
+TO Yokohama_u6	TO
+TO Anegasaki_u1	TO CCGT Generators
+TO Anegasaki_u1	TO Gas Generators
+TO Anegasaki_u2	TO CCGT Generators
+TO Anegasaki_u2	TO Gas Generators
+TO Anegasaki_u3	TO Gas Generators
+TO Anegasaki_u3	TO CCGT Generators
+TO Anegasaki_u4	TO Gas Generators
+TO Anegasaki_u4	TO CCGT Generators
+TO Anegasaki_u5	TO Gas Generators
+TO Anegasaki_u5	TO CCGT Generators
+TO Anegasaki_u6	TO Gas Generators
+TO Anegasaki_u6	TO CCGT Generators
+TO Biomass 1990	TO Biomass Generators
+TO Biomass 1995	TO Biomass Generators
+TO Biomass 2000	TO Biomass Generators
+TO Biomass 2005	TO Biomass Generators
+TO Biomass 2010	TO Biomass Generators
+TO Biomass 2015	TO Biomass Generators
+TO Biomass 2020	TO Biomass Generators
+TO Biomass 2025	TO Biomass Generators
+TO Biomass 2030	TO Biomass Generators
+TO Biomass 2035	TO Biomass Generators
+TO Biomass 2040	TO Biomass Generators
+TO Biomass 2045	TO Biomass Generators
+TO Biomass 2050	TO Biomass Generators
+TO Biomass 2055	TO Biomass Generators
+TO Biomass 2060	TO Biomass Generators
+TO Biomass 2065	TO Biomass Generators
+TO CCGT 1990	TO CCGT Generators
+TO CCGT 1990	TO Gas Generators
+TO CCGT 1995	TO CCGT Generators
+TO CCGT 1995	TO Gas Generators
+TO CCGT 2000	TO CCGT Generators
+TO CCGT 2000	TO Gas Generators
+TO CCGT 2005	TO CCGT Generators
+TO CCGT 2005	TO Gas Generators
+TO CCGT 2010	TO CCGT Generators
+TO CCGT 2010	TO Gas Generators
+TO CCGT 2015	TO CCGT Generators
+TO CCGT 2015	TO Gas Generators
+TO CCGT 2020	TO CCGT Generators
+TO CCGT 2020	TO Gas Generators
+TO CCGT 2025	TO CCGT Generators
+TO CCGT 2025	TO Gas Generators
+TO CCGT 2030	TO CCGT Generators
+TO CCGT 2030	TO Gas Generators
+TO CCGT 2031	TO CCGT Generators
+TO CCGT 2031	TO Gas Generators
+TO CCGT 2032	TO CCGT Generators
+TO CCGT 2032	TO Gas Generators
+TO CCGT 2033	TO CCGT Generators
+TO CCGT 2033	TO Gas Generators
+TO CCGT 2034	TO CCGT Generators
+TO CCGT 2034	TO Gas Generators
+TO CCGT 2035	TO CCGT Generators
+TO CCGT 2035	TO Gas Generators
+TO CCGT 2036	TO CCGT Generators
+TO CCGT 2036	TO Gas Generators
+TO CCGT 2037	TO CCGT Generators
+TO CCGT 2037	TO Gas Generators
+TO CCGT 2038	TO CCGT Generators
+TO CCGT 2038	TO Gas Generators
+TO CCGT 2039	TO CCGT Generators
+TO CCGT 2039	TO Gas Generators
+TO CCGT 2040	TO CCGT Generators
+TO CCGT 2040	TO Gas Generators
+TO CCGT 2041	TO CCGT Generators
+TO CCGT 2041	TO Gas Generators
+TO CCGT 2042	TO CCGT Generators
+TO CCGT 2042	TO Gas Generators
+TO CCGT 2043	TO CCGT Generators
+TO CCGT 2043	TO Gas Generators
+TO CCGT 2044	TO CCGT Generators
+TO CCGT 2044	TO Gas Generators
+TO CCGT 2045	TO CCGT Generators
+TO CCGT 2045	TO Gas Generators
+TO CCGT 2046	TO CCGT Generators
+TO CCGT 2046	TO Gas Generators
+TO CCGT 2047	TO CCGT Generators
+TO CCGT 2047	TO Gas Generators
+TO CCGT 2048	TO CCGT Generators
+TO CCGT 2048	TO Gas Generators
+TO CCGT 2049	TO CCGT Generators
+TO CCGT 2049	TO Gas Generators
+TO CCGT 2050	TO CCGT Generators
+TO CCGT 2050	TO Gas Generators
+TO CCGT 2051	TO CCGT Generators
+TO CCGT 2051	TO Gas Generators
+TO CCGT 2052	TO CCGT Generators
+TO CCGT 2052	TO Gas Generators
+TO CCGT 2053	TO CCGT Generators
+TO CCGT 2053	TO Gas Generators
+TO CCGT 2054	TO CCGT Generators
+TO CCGT 2054	TO Gas Generators
+TO CCGT 2055	TO CCGT Generators
+TO CCGT 2055	TO Gas Generators
+TO CCGT 2056	TO CCGT Generators
+TO CCGT 2056	TO Gas Generators
+TO CCGT 2057	TO CCGT Generators
+TO CCGT 2057	TO Gas Generators
+TO CCGT 2058	TO CCGT Generators
+TO CCGT 2058	TO Gas Generators
+TO CCGT 2059	TO CCGT Generators
+TO CCGT 2059	TO Gas Generators
+TO CCGT 2060	TO CCGT Generators
+TO CCGT 2060	TO Gas Generators
+TO CCGT 2061	TO CCGT Generators
+TO CCGT 2061	TO Gas Generators
+TO CCGT 2062	TO CCGT Generators
+TO CCGT 2062	TO Gas Generators
+TO CCGT 2063	TO CCGT Generators
+TO CCGT 2063	TO Gas Generators
+TO CCGT 2064	TO CCGT Generators
+TO CCGT 2064	TO Gas Generators
+TO CCGT 2065	TO CCGT Generators
+TO CCGT 2065	TO Gas Generators
+TO Chiba_CC_u1-1	TO CCGT Generators
+TO Chiba_CC_u1-2	TO CCGT Generators
+TO Chiba_CC_u1-3	TO CCGT Generators
+TO Chiba_CC_u1-4	TO CCGT Generators
+TO Chiba_CC_u2-1	TO CCGT Generators
+TO Chiba_CC_u2-2	TO CCGT Generators
+TO Chiba_CC_u2-2	TO Gas Generators
+TO Chiba_CC_u2-3	TO CCGT Generators
+TO Chiba_CC_u2-3	TO Gas Generators
+TO Chiba_CC_u2-4	TO CCGT Generators
+TO Chiba_CC_u2-4	TO Gas Generators
+TO Chiba_CC_u3-1	TO CCGT Generators
+TO Chiba_CC_u3-1	TO Gas Generators
+TO Chiba_CC_u3-2	TO Gas Boilers
+TO Chiba_CC_u3-2	TO Gas Generators
+TO Chiba_CC_u3-3	TO Gas Boilers
+TO Chiba_CC_u3-3	TO Gas Generators
+TO CHP 1990	TO CHP Generators
+TO CHP 1990	TO Gas Generators
+TO CHP 1995	TO CHP Generators
+TO CHP 1995	TO Gas Generators
+TO CHP 2000	TO CHP Generators
+TO CHP 2000	TO Gas Generators
+TO CHP 2005	TO CHP Generators
+TO CHP 2005	TO Gas Generators
+TO CHP 2010	TO CHP Generators
+TO CHP 2010	TO Gas Generators
+TO CHP 2015	TO CHP Generators
+TO CHP 2015	TO Gas Generators
+TO CHP 2020	TO CHP Generators
+TO CHP 2020	TO Gas Generators
+TO CHP 2025	TO CHP Generators
+TO CHP 2025	TO Gas Generators
+TO CHP 2030	TO CHP Generators
+TO CHP 2030	TO Gas Generators
+TO CHP 2035	TO CHP Generators
+TO CHP 2035	TO Gas Generators
+TO CHP 2040	TO CHP Generators
+TO CHP 2040	TO Gas Generators
+TO CHP 2045	TO CHP Generators
+TO CHP 2045	TO Gas Generators
+TO CHP 2050	TO CHP Generators
+TO CHP 2050	TO Gas Generators
+TO CHP 2055	TO CHP Generators
+TO CHP 2055	TO Gas Generators
+TO CHP 2060	TO CHP Generators
+TO CHP 2060	TO Gas Generators
+TO CHP 2065	TO CHP Generators
+TO CHP 2065	TO Gas Generators
+TO Coal 1990	TO Coal Generators
+TO Coal 1990	TO Hard Coal Generators
+TO Coal 1995	TO Coal Generators
+TO Coal 1995	TO Hard Coal Generators
+TO Coal 2000	TO Coal Generators
+TO Coal 2000	TO Hard Coal Generators
+TO Coal 2005	TO Coal Generators
+TO Coal 2005	TO Hard Coal Generators
+TO Coal 2010	TO Coal Generators
+TO Coal 2010	TO Hard Coal Generators
+TO Coal 2015	TO Coal Generators
+TO Coal 2015	TO Hard Coal Generators
+TO Coal 2020	TO Coal Generators
+TO Coal 2020	TO Hard Coal Generators
+TO Coal 2025	TO Coal Generators
+TO Coal 2025	TO Hard Coal Generators
+TO Coal 2030	TO Coal Generators
+TO Coal 2030	TO Hard Coal Generators
+TO Coal 2035	TO Coal Generators
+TO Coal 2035	TO Hard Coal Generators
+TO Coal 2040	TO Coal Generators
+TO Coal 2040	TO Hard Coal Generators
+TO Coal 2045	TO Coal Generators
+TO Coal 2045	TO Hard Coal Generators
+TO Coal 2050	TO Coal Generators
+TO Coal 2050	TO Hard Coal Generators
+TO Coal 2055	TO Coal Generators
+TO Coal 2055	TO Hard Coal Generators
+TO Coal 2060	TO Coal Generators
+TO Coal 2060	TO Hard Coal Generators
+TO Coal 2065	TO Coal Generators
+TO Coal 2065	TO Hard Coal Generators
+TO Lignite 1990	TO Coal Generators
+TO Lignite 1990	TO Lignite Generators
+TO Lignite 1995	TO Coal Generators
+TO Lignite 1995	TO Lignite Generators
+TO Lignite 2000	TO Coal Generators
+TO Lignite 2000	TO Lignite Generators
+TO Lignite 2005	TO Coal Generators
+TO Lignite 2005	TO Lignite Generators
+TO Lignite 2010	TO Coal Generators
+TO Lignite 2010	TO Lignite Generators
+TO Lignite 2015	TO Coal Generators
+TO Lignite 2015	TO Lignite Generators
+TO Lignite 2020	TO Coal Generators
+TO Lignite 2020	TO Lignite Generators
+TO Lignite 2025	TO Coal Generators
+TO Lignite 2025	TO Lignite Generators
+TO Lignite 2030	TO Coal Generators
+TO Lignite 2030	TO Lignite Generators
+TO Lignite 2035	TO Coal Generators
+TO Lignite 2035	TO Lignite Generators
+TO Lignite 2040	TO Coal Generators
+TO Lignite 2040	TO Lignite Generators
+TO Lignite 2045	TO Coal Generators
+TO Lignite 2045	TO Lignite Generators
+TO Lignite 2050	TO Coal Generators
+TO Lignite 2050	TO Lignite Generators
+TO Lignite 2055	TO Coal Generators
+TO Lignite 2055	TO Lignite Generators
+TO Lignite 2060	TO Coal Generators
+TO Lignite 2060	TO Lignite Generators
+TO Lignite 2065	TO Coal Generators
+TO Lignite 2065	TO Lignite Generators
+TO Liquid 1990	TO Liquid Generators
+TO Liquid 1995	TO Liquid Generators
+TO Liquid 2000	TO Liquid Generators
+TO Liquid 2005	TO Liquid Generators
+TO Liquid 2010	TO Liquid Generators
+TO Liquid 2015	TO Liquid Generators
+TO Liquid 2020	TO Liquid Generators
+TO Liquid 2025	TO Liquid Generators
+TO Liquid 2030	TO Liquid Generators
+TO Liquid 2035	TO Liquid Generators
+TO Liquid 2040	TO Liquid Generators
+TO Liquid 2045	TO Liquid Generators
+TO Liquid 2050	TO Liquid Generators
+TO Liquid 2055	TO Liquid Generators
+TO Liquid 2060	TO Liquid Generators
+TO Liquid 2065	TO Liquid Generators
+TO Nuclear 1990	TO Nuclear Generators
+TO Nuclear 1995	TO Nuclear Generators
+TO Nuclear 2000	TO Nuclear Generators
+TO Nuclear 2005	TO Nuclear Generators
+TO Nuclear 2010	TO Nuclear Generators
+TO Nuclear 2015	TO Nuclear Generators
+TO Nuclear 2020	TO Nuclear Generators
+TO OCGT 1990	TO Gas Generators
+TO OCGT 1990	TO OCGT Generators
+TO OCGT 1995	TO Gas Generators
+TO OCGT 1995	TO OCGT Generators
+TO OCGT 2000	TO Gas Generators
+TO OCGT 2000	TO OCGT Generators
+TO OCGT 2005	TO Gas Generators
+TO OCGT 2005	TO OCGT Generators
+TO OCGT 2010	TO Gas Generators
+TO OCGT 2010	TO OCGT Generators
+TO OCGT 2015	TO Gas Generators
+TO OCGT 2015	TO OCGT Generators
+TO OCGT 2020	TO Gas Generators
+TO OCGT 2020	TO OCGT Generators
+TO OCGT 2025	TO Gas Generators
+TO OCGT 2025	TO OCGT Generators
+TO OCGT 2030	TO Gas Generators
+TO OCGT 2030	TO OCGT Generators
+TO OCGT 2035	TO Gas Generators
+TO OCGT 2035	TO OCGT Generators
+TO OCGT 2040	TO Gas Generators
+TO OCGT 2040	TO OCGT Generators
+TO OCGT 2045	TO Gas Generators
+TO OCGT 2045	TO OCGT Generators
+TO OCGT 2050	TO Gas Generators
+TO OCGT 2050	TO OCGT Generators
+TO OCGT 2055	TO Gas Generators
+TO OCGT 2055	TO OCGT Generators
+TO OCGT 2060	TO Gas Generators
+TO OCGT 2060	TO OCGT Generators
+TO OCGT 2065	TO Gas Generators
+TO OCGT 2065	TO OCGT Generators
+TO Hirono_u5	TO Hard Coal Generators
+TO Hirono_u6	TO Hard Coal Generators
+TO Hitachinaka_Kyodo_u1	TO Hard Coal Generators
+TO Hitachinaka_u1	TO Hard Coal Generators
+TO Hitachinaka_u2	TO Hard Coal Generators
+TO Isogo_u1	TO Hard Coal Generators
+TO Isogo_u2	TO Hard Coal Generators
+TO Kamisu	TO Hard Coal Generators
+TO Kashima_Works_u2	TO Hard Coal Generators
+TO Nakoso_u10	TO Hard Coal Generators
+TO Nakoso_u8	TO Hard Coal Generators
+TO Nakoso_u9	TO Hard Coal Generators
+TO Negishi_IGCC	TO Hard Coal Generators
+TO NSC_Kashima_Works	TO Hard Coal Generators
+TO Suzukawa_Energy_Center	TO Hard Coal Generators
+TO Hirono_u5	TO Coal Generators
+TO Hirono_u6	TO Coal Generators
+TO Hitachinaka_Kyodo_u1	TO Coal Generators
+TO Hitachinaka_u1	TO Coal Generators
+TO Hitachinaka_u2	TO Coal Generators
+TO Isogo_u1	TO Coal Generators
+TO Isogo_u2	TO Coal Generators
+TO Kamisu	TO Coal Generators
+TO Kashima_Works_u2	TO Coal Generators
+TO Nakoso_u10	TO Coal Generators
+TO Nakoso_u8	TO Coal Generators
+TO Nakoso_u9	TO Coal Generators
+TO Negishi_IGCC	TO Coal Generators
+TO NSC_Kashima_Works	TO Coal Generators
+TO Suzukawa_Energy_Center	TO Coal Generators
+TO Kashiwazaki_Kariwa_Nuclear_u1	TO Nuclear Generators
+TO Kashiwazaki_Kariwa_Nuclear_u2	TO Nuclear Generators
+TO Kashiwazaki_Kariwa_Nuclear_u3	TO Nuclear Generators
+TO Kashiwazaki_Kariwa_Nuclear_u4	TO Nuclear Generators
+TO Kashiwazaki_Kariwa_Nuclear_u5	TO Nuclear Generators
+TO Kashiwazaki_Kariwa_Nuclear_u6	TO Nuclear Generators
+TO Kashiwazaki_Kariwa_Nuclear_u7	TO Nuclear Generators
+TO Hirono_u1	TO LSFO Generators
+TO Hirono_u2	TO LSFO Generators
+TO Hirono_u3	TO LSFO Generators
+TO Hirono_u4	TO LSFO Generators
+TO Kashima	TO LSFO Generators
+TO Kashima_Kyodo_u4	TO LSFO Generators
+TO Kashima_u1	TO LSFO Generators
+TO Kashima_u2	TO LSFO Generators
+TO Kashima_u3	TO LSFO Generators
+TO Kashima_u4	TO LSFO Generators
+TO Kashima_u5	TO LSFO Generators
+TO Kashima_u6	TO LSFO Generators
+TO Kawasaki_JR_CC_u1	TO LSFO Generators
+TO Mizue_u1	TO LSFO Generators
+TO Ohi_u1	TO LSFO Generators
+TO Ohi_u2	TO LSFO Generators
+TO Ohi_u3	TO LSFO Generators
+TO Kawasaki_CC_u2-2	TO CCGT Generators
+TO Kawasaki_CC_u2-3	TO CCGT Generators
+TO Futtsu_CC_u4-1	TO CCGT Generators
+TO Futtsu_CC_u4-2	TO CCGT Generators
+TO Futtsu_CC_u4-3	TO CCGT Generators
+TO Kawasaki_CC_u1-1	TO CCGT Generators
+TO Kawasaki_CC_u1-2	TO CCGT Generators
+TO Kawasaki_CC_u1-3	TO CCGT Generators
+TO Kawasaki_CC_u2-1	TO CCGT Generators
+TO Kashima_CC_u7-1	TO CCGT Generators
+TO Kashima_CC_u7-2	TO CCGT Generators
+TO Kashima_CC_u7-3	TO CCGT Generators
+TO Moka_CC_u1	TO CCGT Generators
+TO Moka_CC_u2	TO CCGT Generators
+TO Yokohama_CC_u7-1	TO CCGT Generators
+TO Yokohama_CC_u7-2	TO CCGT Generators
+TO Yokohama_CC_u7-4	TO CCGT Generators
+TO Yokohama_CC_u8-3	TO CCGT Generators
+TO Yokohama_CC_u8-4	TO CCGT Generators
+TO Futtsu_CC_u3-1	TO CCGT Generators
+TO Futtsu_CC_u3-2	TO CCGT Generators
+TO Futtsu_CC_u3-3	TO CCGT Generators
+TO Futtsu_CC_u3-4	TO CCGT Generators
+TO Shinagawa_CC_u1-1	TO CCGT Generators
+TO Shinagawa_CC_u1-2	TO CCGT Generators
+TO Shinagawa_CC_u1-3	TO CCGT Generators
+TO Futtsu_CC_u2-1	TO CCGT Generators
+TO Futtsu_CC_u2-2	TO CCGT Generators
+TO Futtsu_CC_u2-4	TO CCGT Generators
+TO Futtsu_CC_u2-5	TO CCGT Generators
+TO Futtsu_CC_u2-6	TO CCGT Generators
+TO Futtsu_CC_u2-7	TO CCGT Generators
+TO Ibaraki_CC_u2	TO CCGT Generators
+TO Yokohama_CC_u7-3	TO CCGT Generators
+TO Yokohama_CC_u8-1	TO CCGT Generators
+TO Yokohama_CC_u8-2	TO CCGT Generators
+TO JFE_Chiba_IPP	TO CCGT Generators
+TO Kashima_Kyodo_u5	TO CCGT Generators
+TO Ogishima_Power_CC_u1	TO CCGT Generators
+TO Ogishima_Power_CC_u2	TO CCGT Generators
+TO Ogishima_Power_CC_u3	TO CCGT Generators
+TO Futtsu_CC_u1-1	TO CCGT Generators
+TO Futtsu_CC_u1-3	TO CCGT Generators
+TO Futtsu_CC_u1-6	TO CCGT Generators
+TO Futtsu_CC_u1-2	TO CCGT Generators
+TO Futtsu_CC_u1-4	TO CCGT Generators
+TO Ichihara_CC	TO CCGT Generators
+TO JFE_East_Japan_Works_(Chiba)_CC	TO CCGT Generators
+TO Kawasaki_JR_CC_u2	TO CCGT Generators
+TO Kawasaki_JR_CC_u3	TO CCGT Generators
+TO Kawasaki_JR_CC_u4	TO CCGT Generators
+TO Kawasaki_Natural_Gas_Power_Generation_u1	TO CCGT Generators
+TO Kawasaki_Natural_Gas_Power_Generation_u2	TO CCGT Generators
+TO Kimitsu_Kyodo_CC_u5	TO CCGT Generators
+TO Kimitsu_Kyodo_CC_u6	TO CCGT Generators
+TO Nakasode_CC	TO CCGT Generators
+TO Shin_Nakasode_CC	TO CCGT Generators
+TO Tokyo_Gas_Bay_Power	TO CCGT Generators
+TO Tokyo_Gas_Yokosuka_CC	TO CCGT Generators
+TO Futtsu_CC_u1-5	TO OCGT Generators
+TO Futtsu_CC_u1-7	TO OCGT Generators
+TO Futtsu_CC_u2-3	TO OCGT Generators
+TO Ibaraki_CC_u3	TO OCGT Generators
+TO Higashi_Ogishima_u2	TO OCGT Generators
+TO Higashi_Ogishima_u1	TO OCGT Generators
+TO Sodegaura_u2	TO OCGT Generators
+TO Sodegaura_u3	TO OCGT Generators
+TO Sodegaura_u4	TO OCGT Generators
+TO Sodegaura_u1	TO OCGT Generators
+TO Minami_Yokohama_u1	TO OCGT Generators
+TO Minami_Yokohama_u2	TO OCGT Generators
+TO Minami_Yokohama_u3	TO OCGT Generators
+TO Yokohama_u6	TO OCGT Generators
+TO Goi_u1	TO OCGT Generators
+TO Goi_u2	TO OCGT Generators
+TO Goi_u3	TO OCGT Generators
+TO Goi_u4	TO OCGT Generators
+TO Goi_u5	TO OCGT Generators
+TO Goi_u6	TO OCGT Generators
+TO Yokohama_u5	TO OCGT Generators
+TO JFE_East_Japan_Works_(Chiba)_u3	TO Gas Boiler Generators
+TO JFE_East_Japan_Works_(Chiba)_u4	TO Gas Boiler Generators
+TO JFE_East_Japan_Works_(Keihin)_New_u1	TO Gas Boiler Generators
+TO JFE_East_Japan_Works_(Keihin)_u1	TO Gas Boiler Generators
+TO JFE_East_Japan_Works_(Keihin)_u2	TO Gas Boiler Generators
+TO JFE_East_Japan_Works_(Keihin)_u3	TO Gas Boiler Generators
+TO Kashima_Kyodo_u3	TO Gas Boiler Generators
+TO Kimitsu_Kyodo_u3	TO Gas Boiler Generators
+TO Kimitsu_Kyodo_u4	TO Gas Boiler Generators
+TO Kawasaki_CC_u2-2	TO Gas Generators
+TO Kawasaki_CC_u2-3	TO Gas Generators
+TO Futtsu_CC_u4-1	TO Gas Generators
+TO Futtsu_CC_u4-2	TO Gas Generators
+TO Futtsu_CC_u4-3	TO Gas Generators
+TO Kawasaki_CC_u1-1	TO Gas Generators
+TO Kawasaki_CC_u1-2	TO Gas Generators
+TO Kawasaki_CC_u1-3	TO Gas Generators
+TO Kawasaki_CC_u2-1	TO Gas Generators
+TO Kashima_CC_u7-1	TO Gas Generators
+TO Kashima_CC_u7-2	TO Gas Generators
+TO Kashima_CC_u7-3	TO Gas Generators
+TO Moka_CC_u1	TO Gas Generators
+TO Moka_CC_u2	TO Gas Generators
+TO Yokohama_CC_u7-1	TO Gas Generators
+TO Yokohama_CC_u7-2	TO Gas Generators
+TO Yokohama_CC_u7-4	TO Gas Generators
+TO Yokohama_CC_u8-3	TO Gas Generators
+TO Yokohama_CC_u8-4	TO Gas Generators
+TO Futtsu_CC_u3-1	TO Gas Generators
+TO Futtsu_CC_u3-2	TO Gas Generators
+TO Futtsu_CC_u3-3	TO Gas Generators
+TO Futtsu_CC_u3-4	TO Gas Generators
+TO Shinagawa_CC_u1-1	TO Gas Generators
+TO Shinagawa_CC_u1-2	TO Gas Generators
+TO Shinagawa_CC_u1-3	TO Gas Generators
+TO Futtsu_CC_u2-1	TO Gas Generators
+TO Futtsu_CC_u2-2	TO Gas Generators
+TO Futtsu_CC_u2-4	TO Gas Generators
+TO Futtsu_CC_u2-5	TO Gas Generators
+TO Futtsu_CC_u2-6	TO Gas Generators
+TO Futtsu_CC_u2-7	TO Gas Generators
+TO Ibaraki_CC_u2	TO Gas Generators
+TO Yokohama_CC_u7-3	TO Gas Generators
+TO Yokohama_CC_u8-1	TO Gas Generators
+TO Yokohama_CC_u8-2	TO Gas Generators
+TO JFE_Chiba_IPP	TO Gas Generators
+TO Kashima_Kyodo_u5	TO Gas Generators
+TO Ogishima_Power_CC_u1	TO Gas Generators
+TO Ogishima_Power_CC_u2	TO Gas Generators
+TO Ogishima_Power_CC_u3	TO Gas Generators
+TO Futtsu_CC_u1-1	TO Gas Generators
+TO Futtsu_CC_u1-3	TO Gas Generators
+TO Futtsu_CC_u1-6	TO Gas Generators
+TO Futtsu_CC_u1-2	TO Gas Generators
+TO Futtsu_CC_u1-4	TO Gas Generators
+TO Ichihara_CC	TO Gas Generators
+TO JFE_East_Japan_Works_(Chiba)_CC	TO Gas Generators
+TO Kawasaki_JR_CC_u2	TO Gas Generators
+TO Kawasaki_JR_CC_u3	TO Gas Generators
+TO Kawasaki_JR_CC_u4	TO Gas Generators
+TO Kawasaki_Natural_Gas_Power_Generation_u1	TO Gas Generators
+TO Kawasaki_Natural_Gas_Power_Generation_u2	TO Gas Generators
+TO Kimitsu_Kyodo_CC_u5	TO Gas Generators
+TO Kimitsu_Kyodo_CC_u6	TO Gas Generators
+TO Nakasode_CC	TO Gas Generators
+TO Shin_Nakasode_CC	TO Gas Generators
+TO Tokyo_Gas_Bay_Power	TO Gas Generators
+TO Tokyo_Gas_Yokosuka_CC	TO Gas Generators
+TO Futtsu_CC_u1-5	TO Gas Generators
+TO Futtsu_CC_u1-7	TO Gas Generators
+TO Futtsu_CC_u2-3	TO Gas Generators
+TO Ibaraki_CC_u3	TO Gas Generators
+TO Higashi_Ogishima_u2	TO Gas Generators
+TO Higashi_Ogishima_u1	TO Gas Generators
+TO Sodegaura_u2	TO Gas Generators
+TO Sodegaura_u3	TO Gas Generators
+TO Sodegaura_u4	TO Gas Generators
+TO Sodegaura_u1	TO Gas Generators
+TO Minami_Yokohama_u1	TO Gas Generators
+TO Minami_Yokohama_u2	TO Gas Generators
+TO Minami_Yokohama_u3	TO Gas Generators
+TO Yokohama_u6	TO Gas Generators
+TO Goi_u1	TO Gas Generators
+TO Goi_u2	TO Gas Generators
+TO Goi_u3	TO Gas Generators
+TO Goi_u4	TO Gas Generators
+TO Goi_u5	TO Gas Generators
+TO Goi_u6	TO Gas Generators
+TO Yokohama_u5	TO Gas Generators
+TO JFE_East_Japan_Works_(Chiba)_u3	TO Gas Generators
+TO JFE_East_Japan_Works_(Chiba)_u4	TO Gas Generators
+TO JFE_East_Japan_Works_(Keihin)_New_u1	TO Gas Generators
+TO JFE_East_Japan_Works_(Keihin)_u1	TO Gas Generators
+TO JFE_East_Japan_Works_(Keihin)_u2	TO Gas Generators
+TO JFE_East_Japan_Works_(Keihin)_u3	TO Gas Generators
+TO Kashima_Kyodo_u3	TO Gas Generators
+TO Kimitsu_Kyodo_u3	TO Gas Generators
+TO Kimitsu_Kyodo_u4	TO Gas Generators

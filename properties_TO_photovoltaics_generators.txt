@@ -1,0 +1,13 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+JAPAN PVSAT 100m 681 36.5 140.0 Generator			Capacity	2010-01-01	2100-01-01	TO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 681 36.5 140.0 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 681 36.5 140.0 Capacity Factor							
+JAPAN PVSAT 100m 681 36.5 140.0 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 681 36.5 140.0 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 681 36.5 140.0 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 681 36.5 140.0 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 653 35.5 138.75 Generator			Capacity	2010-01-01	2100-01-01	TO Installed Capacity File	0.66	Multiply					
+JAPAN PVSAT 100m 653 35.5 138.75 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN PVSAT 100m 653 35.5 138.75 Capacity Factor							
+JAPAN PVSAT 100m 653 35.5 138.75 Generator			Save Data	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 653 35.5 138.75 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN PVSAT 100m 653 35.5 138.75 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+JAPAN PVSAT 100m 653 35.5 138.75 Generator			Bid Up Price	2010-01-01	2100-01-01	0							

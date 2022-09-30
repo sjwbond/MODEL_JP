@@ -1,0 +1,155 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TU JP_PP_Shiroyama			gross_capacity	2010-01-01	2100-01-01	275	0.6	Multiply					
+TU JP_PP_Shiroyama			conversion_rate	2010-01-01	2100-01-01	2							
+TU JP_PP_Shiroyama			save_data	2010-01-01	2100-01-01	1							
+TU JP_PP_Shiroyama			save_blocks	2010-01-01	2100-01-01	0							
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					1		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l10 p1	 .2352822	Add			1		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					1		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					2		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l10 p2	 .4804747	Add			2		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					2		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					3		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l10 p3	 .2546019	Add			3		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					3		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					4		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l10 p4	 .3406066	Add			4		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					4		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					5		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l10 p5	 4.493386E-02	Add			5		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	10					5		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					6		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l20 p1	 .4824281	Add			6		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					6		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					7		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l20 p2	 .2060172	Add			7		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					7		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					8		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l20 p3	 .8645345	Add			8		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					8		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					9		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l20 p4	 .5886286	Add			9		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					9		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					10		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l20 p5	 .7549083	Add			10		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	20					10		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					11		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l30 p1	 .9278831	Add			11		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					11		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					12		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l30 p2	 .3310169	Add			12		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					12		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					13		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l30 p3	 .5429412	Add			13		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					13		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					14		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l30 p4	 8.069134E-02	Add			14		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					14		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					15		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l30 p5	 .6343719	Add			15		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	30					15		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					16		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l40 p1	 .4100367	Add			16		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					16		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					17		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l40 p2	 .9604228	Add			17		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					17		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					18		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l40 p3	 .1146233	Add			18		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					18		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					19		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l40 p4	 .9234452	Add			19		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					19		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					20		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l40 p5	 .6202096	Add			20		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	40					20		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					21		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l50 p1	 .3477264	Add			21		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					21		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					22		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l50 p2	 .1492457	Add			22		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					22		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					23		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l50 p3	 .4799783	Add			23		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					23		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					24		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l50 p4	 .2194091	Add			24		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					24		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					25		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l50 p5	 .9937313	Add			25		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	50					25		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					26		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l60 p1	 .1304204	Add			26		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					26		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					27		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l60 p2	 2.888578E-02	Add			27		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					27		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					28		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l60 p3	 .3453916	Add			28		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					28		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					29		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l60 p4	 .5476685	Add			29		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					29		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					30		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l60 p5	 .9229546	Add			30		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	60					30		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					31		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l70 p1	 .5382463	Add			31		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					31		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					32		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l70 p2	 .4064213	Add			32		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					32		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					33		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l70 p3	 .8472455	Add			33		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					33		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					34		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l70 p4	 .8262255	Add			34		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					34		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					35		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l70 p5	 .6724276	Add			35		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	70					35		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					36		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l80 p1	 .7218951	Add			36		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					36		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					37		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l80 p2	 .9967714	Add			37		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					37		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					38		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l80 p3	 .3398061	Add			38		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					38		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					39		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l80 p4	 .4952113	Add			39		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					39		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					40		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l80 p5	 .4129678	Add			40		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	80					40		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					41		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l90 p1	 .6952818	Add			41		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					41		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					42		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l90 p2	 .1790893	Add			42		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					42		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					43		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l90 p3	 .4229183	Add			43		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					43		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					44		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l90 p4	 .543177	Add			44		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					44		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					45		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l90 p5	 .8146639	Add			45		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	90					45		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					46		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l100 p1	 .5409136	Add			46		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					46		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					47		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l100 p2	 .4275333	Add			47		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					47		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					48		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l100 p3	 .5090681	Add			48		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					48		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					49		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l100 p4	 .2277816	Add			49		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					49		
+TU JP_PP_Shiroyama			offer_volume_percent	2010-01-01	2100-01-01	20					50		
+TU JP_PP_Shiroyama			offer_price	2010-01-01	2100-01-01	TU Hydro Price l100 p5	 .6191876	Add			50		
+TU JP_PP_Shiroyama			offer_volume_storage_level_percent	2010-01-01	2100-01-01	100					50		

@@ -1,0 +1,1031 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+JAPAN Offshore 100m 801 43.5 140.0 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 100m 826 43.0 146.25 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 100m 837 42.5 143.75 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 100m 840 42.5 145.625 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 100m 846 42.0 140.0 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 100m 848 42.0 141.25 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 100m 851 42.0 143.125 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 100m 876 41.0 140.0 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 392 41.5 143.125 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 496 44.5 148.125 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 509 45.0 146.25 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 807 43.5 143.75 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 809 43.5 145.0 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 817 43.0 140.625 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 819 43.0 141.875 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 822 43.0 143.75 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 824 43.0 145.0 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 833 42.5 141.25 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 836 42.5 143.125 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 100m 860 41.5 139.375 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Onshore 529 45.5 148.75 File			Hourly_Offset	2010-01-01	2100-01-01	9							
+JAPAN Offshore 100m 801 43.5 140.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 826 43.0 146.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 837 42.5 143.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 840 42.5 145.625 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 846 42.0 140.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 848 42.0 141.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 851 42.0 143.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 876 41.0 140.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 392 41.5 143.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 496 44.5 148.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 509 45.0 146.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 807 43.5 143.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 809 43.5 145.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 817 43.0 140.625 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 819 43.0 141.875 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 822 43.0 143.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 824 43.0 145.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 833 42.5 141.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 836 42.5 143.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 860 41.5 139.375 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 529 45.5 148.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 801 43.5 140.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 826 43.0 146.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 837 42.5 143.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 840 42.5 145.625 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 846 42.0 140.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 848 42.0 141.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 851 42.0 143.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 876 41.0 140.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 392 41.5 143.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 496 44.5 148.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 509 45.0 146.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 807 43.5 143.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 809 43.5 145.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 817 43.0 140.625 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 819 43.0 141.875 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 822 43.0 143.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 824 43.0 145.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 833 42.5 141.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 836 42.5 143.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 100m 860 41.5 139.375 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Onshore 529 45.5 148.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+JAPAN Offshore 100m 801 43.5 140.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 801 43.5 140.0/							
+JAPAN Offshore 100m 826 43.0 146.25 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 826 43.0 146.25/							
+JAPAN Offshore 100m 837 42.5 143.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 837 42.5 143.75/							
+JAPAN Offshore 100m 840 42.5 145.625 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 840 42.5 145.625/							
+JAPAN Offshore 100m 846 42.0 140.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 846 42.0 140.0/							
+JAPAN Offshore 100m 848 42.0 141.25 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 848 42.0 141.25/							
+JAPAN Offshore 100m 851 42.0 143.125 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 851 42.0 143.125/							
+JAPAN Offshore 100m 876 41.0 140.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 876 41.0 140.0/							
+JAPAN Offshore 392 41.5 143.125 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 392 41.5 143.125/							
+JAPAN Offshore 496 44.5 148.125 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 496 44.5 148.125/							
+JAPAN Offshore 509 45.0 146.25 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 509 45.0 146.25/							
+JAPAN Onshore 100m 807 43.5 143.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 807 43.5 143.75/							
+JAPAN Onshore 100m 809 43.5 145.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 809 43.5 145.0/							
+JAPAN Onshore 100m 817 43.0 140.625 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 817 43.0 140.625/							
+JAPAN Onshore 100m 819 43.0 141.875 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 819 43.0 141.875/							
+JAPAN Onshore 100m 822 43.0 143.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 822 43.0 143.75/							
+JAPAN Onshore 100m 824 43.0 145.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 824 43.0 145.0/							
+JAPAN Onshore 100m 833 42.5 141.25 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 833 42.5 141.25/							
+JAPAN Onshore 100m 836 42.5 143.125 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 836 42.5 143.125/							
+JAPAN Onshore 100m 860 41.5 139.375 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 860 41.5 139.375/							
+JAPAN Onshore 529 45.5 148.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 529 45.5 148.75/							
+JAPAN Offshore 100m 801 43.5 140.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 801 43.5 140.0/							
+JAPAN Offshore 100m 826 43.0 146.25 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 826 43.0 146.25/							
+JAPAN Offshore 100m 837 42.5 143.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 837 42.5 143.75/							
+JAPAN Offshore 100m 840 42.5 145.625 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 840 42.5 145.625/							
+JAPAN Offshore 100m 846 42.0 140.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 846 42.0 140.0/							
+JAPAN Offshore 100m 848 42.0 141.25 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 848 42.0 141.25/							
+JAPAN Offshore 100m 851 42.0 143.125 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 851 42.0 143.125/							
+JAPAN Offshore 100m 876 41.0 140.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 100m 876 41.0 140.0/							
+JAPAN Offshore 392 41.5 143.125 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 392 41.5 143.125/							
+JAPAN Offshore 496 44.5 148.125 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 496 44.5 148.125/							
+JAPAN Offshore 509 45.0 146.25 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Offshore 509 45.0 146.25/							
+JAPAN Onshore 100m 807 43.5 143.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 807 43.5 143.75/							
+JAPAN Onshore 100m 809 43.5 145.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 809 43.5 145.0/							
+JAPAN Onshore 100m 817 43.0 140.625 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 817 43.0 140.625/							
+JAPAN Onshore 100m 819 43.0 141.875 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 819 43.0 141.875/							
+JAPAN Onshore 100m 822 43.0 143.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 822 43.0 143.75/							
+JAPAN Onshore 100m 824 43.0 145.0 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 824 43.0 145.0/							
+JAPAN Onshore 100m 833 42.5 141.25 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 833 42.5 141.25/							
+JAPAN Onshore 100m 836 42.5 143.125 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 836 42.5 143.125/							
+JAPAN Onshore 100m 860 41.5 139.375 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 100m 860 41.5 139.375/							
+JAPAN Onshore 529 45.5 148.75 File			Location	2010-01-01	2100-01-01	/Japan/JAPAN Onshore 529 45.5 148.75/							
+JAPAN Offshore 100m 801 43.5 140.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 826 43.0 146.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 837 42.5 143.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 840 42.5 145.625 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 846 42.0 140.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 848 42.0 141.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 851 42.0 143.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 876 41.0 140.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 392 41.5 143.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 496 44.5 148.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 509 45.0 146.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 807 43.5 143.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 809 43.5 145.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 817 43.0 140.625 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 819 43.0 141.875 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 822 43.0 143.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 824 43.0 145.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 833 42.5 141.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 836 42.5 143.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 860 41.5 139.375 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 529 45.5 148.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 801 43.5 140.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 826 43.0 146.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 837 42.5 143.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 840 42.5 145.625 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 846 42.0 140.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 848 42.0 141.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 851 42.0 143.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 100m 876 41.0 140.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 392 41.5 143.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 496 44.5 148.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Offshore 509 45.0 146.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 807 43.5 143.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 809 43.5 145.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 817 43.0 140.625 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 819 43.0 141.875 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 822 43.0 143.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 824 43.0 145.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 833 42.5 141.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 836 42.5 143.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 100m 860 41.5 139.375 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+JAPAN Onshore 529 45.5 148.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+JAPAN Offshore 100m 801 43.5 140.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 826 43.0 146.25 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 837 42.5 143.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 840 42.5 145.625 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 846 42.0 140.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 848 42.0 141.25 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 851 42.0 143.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 876 41.0 140.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 392 41.5 143.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 496 44.5 148.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 509 45.0 146.25 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 807 43.5 143.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 809 43.5 145.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 817 43.0 140.625 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 819 43.0 141.875 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 822 43.0 143.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 824 43.0 145.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 833 42.5 141.25 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 836 42.5 143.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 860 41.5 139.375 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 529 45.5 148.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 801 43.5 140.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 826 43.0 146.25 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 837 42.5 143.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 840 42.5 145.625 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 846 42.0 140.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 848 42.0 141.25 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 851 42.0 143.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 876 41.0 140.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 392 41.5 143.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 496 44.5 148.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 509 45.0 146.25 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 807 43.5 143.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 809 43.5 145.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 817 43.0 140.625 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 819 43.0 141.875 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 822 43.0 143.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 824 43.0 145.0 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 833 42.5 141.25 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 836 42.5 143.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 100m 860 41.5 139.375 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Onshore 529 45.5 148.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+JAPAN Offshore 100m 801 43.5 140.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 801 43.5 140.0 100M							
+JAPAN Offshore 100m 826 43.0 146.25 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 826 43.0 146.25 100M							
+JAPAN Offshore 100m 837 42.5 143.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 837 42.5 143.75 100M							
+JAPAN Offshore 100m 840 42.5 145.625 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 840 42.5 145.625 100M							
+JAPAN Offshore 100m 846 42.0 140.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 846 42.0 140.0 100M							
+JAPAN Offshore 100m 848 42.0 141.25 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 848 42.0 141.25 100M							
+JAPAN Offshore 100m 851 42.0 143.125 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 851 42.0 143.125 100M							
+JAPAN Offshore 100m 876 41.0 140.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 876 41.0 140.0 100M							
+JAPAN Offshore 392 41.5 143.125 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 392 41.5 143.125 100M							
+JAPAN Offshore 496 44.5 148.125 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 496 44.5 148.125 100M							
+JAPAN Offshore 509 45.0 146.25 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 509 45.0 146.25 100M							
+JAPAN Onshore 100m 807 43.5 143.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 807 43.5 143.75 100M							
+JAPAN Onshore 100m 809 43.5 145.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 809 43.5 145.0 100M							
+JAPAN Onshore 100m 817 43.0 140.625 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 817 43.0 140.625 100M							
+JAPAN Onshore 100m 819 43.0 141.875 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 819 43.0 141.875 100M							
+JAPAN Onshore 100m 822 43.0 143.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 822 43.0 143.75 100M							
+JAPAN Onshore 100m 824 43.0 145.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 824 43.0 145.0 100M							
+JAPAN Onshore 100m 833 42.5 141.25 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 833 42.5 141.25 100M							
+JAPAN Onshore 100m 836 42.5 143.125 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 836 42.5 143.125 100M							
+JAPAN Onshore 100m 860 41.5 139.375 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 860 41.5 139.375 100M							
+JAPAN Onshore 529 45.5 148.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 529 45.5 148.75 100M							
+JAPAN Offshore 100m 801 43.5 140.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 801 43.5 140.0 100M							
+JAPAN Offshore 100m 826 43.0 146.25 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 826 43.0 146.25 100M							
+JAPAN Offshore 100m 837 42.5 143.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 837 42.5 143.75 100M							
+JAPAN Offshore 100m 840 42.5 145.625 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 840 42.5 145.625 100M							
+JAPAN Offshore 100m 846 42.0 140.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 846 42.0 140.0 100M							
+JAPAN Offshore 100m 848 42.0 141.25 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 848 42.0 141.25 100M							
+JAPAN Offshore 100m 851 42.0 143.125 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 851 42.0 143.125 100M							
+JAPAN Offshore 100m 876 41.0 140.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 100m 876 41.0 140.0 100M							
+JAPAN Offshore 392 41.5 143.125 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 392 41.5 143.125 100M							
+JAPAN Offshore 496 44.5 148.125 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 496 44.5 148.125 100M							
+JAPAN Offshore 509 45.0 146.25 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Offshore 509 45.0 146.25 100M							
+JAPAN Onshore 100m 807 43.5 143.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 807 43.5 143.75 100M							
+JAPAN Onshore 100m 809 43.5 145.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 809 43.5 145.0 100M							
+JAPAN Onshore 100m 817 43.0 140.625 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 817 43.0 140.625 100M							
+JAPAN Onshore 100m 819 43.0 141.875 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 819 43.0 141.875 100M							
+JAPAN Onshore 100m 822 43.0 143.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 822 43.0 143.75 100M							
+JAPAN Onshore 100m 824 43.0 145.0 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 824 43.0 145.0 100M							
+JAPAN Onshore 100m 833 42.5 141.25 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 833 42.5 141.25 100M							
+JAPAN Onshore 100m 836 42.5 143.125 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 836 42.5 143.125 100M							
+JAPAN Onshore 100m 860 41.5 139.375 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 100m 860 41.5 139.375 100M							
+JAPAN Onshore 529 45.5 148.75 TS			tsn_name	2010-01-01	2100-01-01	ts_JAPAN Onshore 529 45.5 148.75 100M							
+JAPAN Offshore 100m 801 43.5 140.0 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 100M HHxWSc	JAPAN Offshore 100m 801 43.5 140.0 100M HHc	Add					
+JAPAN Offshore 100m 801 43.5 140.0 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 100M HHxWSc+HHc	JAPAN Offshore 100m 801 43.5 140.0 WSc	Add					
+JAPAN Offshore 100m 801 43.5 140.0 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M HHxWSc	JAPAN Offshore 100m 801 43.5 140.0 130M HHc	Add					
+JAPAN Offshore 100m 801 43.5 140.0 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M HHxWSc+HHc	JAPAN Offshore 100m 801 43.5 140.0 WSc	Add					
+JAPAN Offshore 100m 801 43.5 140.0 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M HHxWSc	JAPAN Offshore 100m 801 43.5 140.0 160M HHc	Add					
+JAPAN Offshore 100m 801 43.5 140.0 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M HHxWSc+HHc	JAPAN Offshore 100m 801 43.5 140.0 WSc	Add					
+JAPAN Offshore 100m 801 43.5 140.0 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 File							
+JAPAN Offshore 100m 826 43.0 146.25 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 100m 826 43.0 146.25 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 100M HHxWSc	JAPAN Offshore 100m 826 43.0 146.25 100M HHc	Add					
+JAPAN Offshore 100m 826 43.0 146.25 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 100M HHxWSc+HHc	JAPAN Offshore 100m 826 43.0 146.25 WSc	Add					
+JAPAN Offshore 100m 826 43.0 146.25 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 100m 826 43.0 146.25 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M HHxWSc	JAPAN Offshore 100m 826 43.0 146.25 130M HHc	Add					
+JAPAN Offshore 100m 826 43.0 146.25 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M HHxWSc+HHc	JAPAN Offshore 100m 826 43.0 146.25 WSc	Add					
+JAPAN Offshore 100m 826 43.0 146.25 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 100m 826 43.0 146.25 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M HHxWSc	JAPAN Offshore 100m 826 43.0 146.25 160M HHc	Add					
+JAPAN Offshore 100m 826 43.0 146.25 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M HHxWSc+HHc	JAPAN Offshore 100m 826 43.0 146.25 WSc	Add					
+JAPAN Offshore 100m 826 43.0 146.25 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 File							
+JAPAN Offshore 100m 837 42.5 143.75 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 100m 837 42.5 143.75 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 100M HHxWSc	JAPAN Offshore 100m 837 42.5 143.75 100M HHc	Add					
+JAPAN Offshore 100m 837 42.5 143.75 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 100M HHxWSc+HHc	JAPAN Offshore 100m 837 42.5 143.75 WSc	Add					
+JAPAN Offshore 100m 837 42.5 143.75 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 100m 837 42.5 143.75 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M HHxWSc	JAPAN Offshore 100m 837 42.5 143.75 130M HHc	Add					
+JAPAN Offshore 100m 837 42.5 143.75 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M HHxWSc+HHc	JAPAN Offshore 100m 837 42.5 143.75 WSc	Add					
+JAPAN Offshore 100m 837 42.5 143.75 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 100m 837 42.5 143.75 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M HHxWSc	JAPAN Offshore 100m 837 42.5 143.75 160M HHc	Add					
+JAPAN Offshore 100m 837 42.5 143.75 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M HHxWSc+HHc	JAPAN Offshore 100m 837 42.5 143.75 WSc	Add					
+JAPAN Offshore 100m 837 42.5 143.75 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 File							
+JAPAN Offshore 100m 840 42.5 145.625 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 100m 840 42.5 145.625 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 100M HHxWSc	JAPAN Offshore 100m 840 42.5 145.625 100M HHc	Add					
+JAPAN Offshore 100m 840 42.5 145.625 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 100M HHxWSc+HHc	JAPAN Offshore 100m 840 42.5 145.625 WSc	Add					
+JAPAN Offshore 100m 840 42.5 145.625 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 100m 840 42.5 145.625 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M HHxWSc	JAPAN Offshore 100m 840 42.5 145.625 130M HHc	Add					
+JAPAN Offshore 100m 840 42.5 145.625 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M HHxWSc+HHc	JAPAN Offshore 100m 840 42.5 145.625 WSc	Add					
+JAPAN Offshore 100m 840 42.5 145.625 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 100m 840 42.5 145.625 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M HHxWSc	JAPAN Offshore 100m 840 42.5 145.625 160M HHc	Add					
+JAPAN Offshore 100m 840 42.5 145.625 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M HHxWSc+HHc	JAPAN Offshore 100m 840 42.5 145.625 WSc	Add					
+JAPAN Offshore 100m 840 42.5 145.625 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 File							
+JAPAN Offshore 100m 846 42.0 140.0 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 100m 846 42.0 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 100M HHxWSc	JAPAN Offshore 100m 846 42.0 140.0 100M HHc	Add					
+JAPAN Offshore 100m 846 42.0 140.0 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 100M HHxWSc+HHc	JAPAN Offshore 100m 846 42.0 140.0 WSc	Add					
+JAPAN Offshore 100m 846 42.0 140.0 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 100m 846 42.0 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M HHxWSc	JAPAN Offshore 100m 846 42.0 140.0 130M HHc	Add					
+JAPAN Offshore 100m 846 42.0 140.0 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M HHxWSc+HHc	JAPAN Offshore 100m 846 42.0 140.0 WSc	Add					
+JAPAN Offshore 100m 846 42.0 140.0 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 100m 846 42.0 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M HHxWSc	JAPAN Offshore 100m 846 42.0 140.0 160M HHc	Add					
+JAPAN Offshore 100m 846 42.0 140.0 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M HHxWSc+HHc	JAPAN Offshore 100m 846 42.0 140.0 WSc	Add					
+JAPAN Offshore 100m 846 42.0 140.0 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 File							
+JAPAN Offshore 100m 848 42.0 141.25 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 100M HHxWSc	JAPAN Offshore 100m 848 42.0 141.25 100M HHc	Add					
+JAPAN Offshore 100m 848 42.0 141.25 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 100M HHxWSc+HHc	JAPAN Offshore 100m 848 42.0 141.25 WSc	Add					
+JAPAN Offshore 100m 848 42.0 141.25 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M HHxWSc	JAPAN Offshore 100m 848 42.0 141.25 130M HHc	Add					
+JAPAN Offshore 100m 848 42.0 141.25 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M HHxWSc+HHc	JAPAN Offshore 100m 848 42.0 141.25 WSc	Add					
+JAPAN Offshore 100m 848 42.0 141.25 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M HHxWSc	JAPAN Offshore 100m 848 42.0 141.25 160M HHc	Add					
+JAPAN Offshore 100m 848 42.0 141.25 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M HHxWSc+HHc	JAPAN Offshore 100m 848 42.0 141.25 WSc	Add					
+JAPAN Offshore 100m 848 42.0 141.25 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 File							
+JAPAN Offshore 100m 851 42.0 143.125 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 100m 851 42.0 143.125 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 100M HHxWSc	JAPAN Offshore 100m 851 42.0 143.125 100M HHc	Add					
+JAPAN Offshore 100m 851 42.0 143.125 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 100M HHxWSc+HHc	JAPAN Offshore 100m 851 42.0 143.125 WSc	Add					
+JAPAN Offshore 100m 851 42.0 143.125 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 100m 851 42.0 143.125 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M HHxWSc	JAPAN Offshore 100m 851 42.0 143.125 130M HHc	Add					
+JAPAN Offshore 100m 851 42.0 143.125 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M HHxWSc+HHc	JAPAN Offshore 100m 851 42.0 143.125 WSc	Add					
+JAPAN Offshore 100m 851 42.0 143.125 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 100m 851 42.0 143.125 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M HHxWSc	JAPAN Offshore 100m 851 42.0 143.125 160M HHc	Add					
+JAPAN Offshore 100m 851 42.0 143.125 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M HHxWSc+HHc	JAPAN Offshore 100m 851 42.0 143.125 WSc	Add					
+JAPAN Offshore 100m 851 42.0 143.125 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 File							
+JAPAN Offshore 100m 876 41.0 140.0 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 100m 876 41.0 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 100M HHxWSc	JAPAN Offshore 100m 876 41.0 140.0 100M HHc	Add					
+JAPAN Offshore 100m 876 41.0 140.0 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 100M HHxWSc+HHc	JAPAN Offshore 100m 876 41.0 140.0 WSc	Add					
+JAPAN Offshore 100m 876 41.0 140.0 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 100m 876 41.0 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M HHxWSc	JAPAN Offshore 100m 876 41.0 140.0 130M HHc	Add					
+JAPAN Offshore 100m 876 41.0 140.0 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M HHxWSc+HHc	JAPAN Offshore 100m 876 41.0 140.0 WSc	Add					
+JAPAN Offshore 100m 876 41.0 140.0 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 100m 876 41.0 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M HHxWSc	JAPAN Offshore 100m 876 41.0 140.0 160M HHc	Add					
+JAPAN Offshore 100m 876 41.0 140.0 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M HHxWSc+HHc	JAPAN Offshore 100m 876 41.0 140.0 WSc	Add					
+JAPAN Offshore 100m 876 41.0 140.0 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 File							
+JAPAN Offshore 392 41.5 143.125 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 392 41.5 143.125 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 392 41.5 143.125 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 392 41.5 143.125 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 392 41.5 143.125 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 392 41.5 143.125 Base Wind Speed	Multiply					
+JAPAN Offshore 392 41.5 143.125 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 392 41.5 143.125 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 392 41.5 143.125 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 100M HHxWSc	JAPAN Offshore 392 41.5 143.125 100M HHc	Add					
+JAPAN Offshore 392 41.5 143.125 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 100M HHxWSc+HHc	JAPAN Offshore 392 41.5 143.125 WSc	Add					
+JAPAN Offshore 392 41.5 143.125 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 392 41.5 143.125 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 392 41.5 143.125 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 392 41.5 143.125 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 392 41.5 143.125 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 392 41.5 143.125 Base Wind Speed	Multiply					
+JAPAN Offshore 392 41.5 143.125 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 392 41.5 143.125 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 392 41.5 143.125 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M HHxWSc	JAPAN Offshore 392 41.5 143.125 130M HHc	Add					
+JAPAN Offshore 392 41.5 143.125 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M HHxWSc+HHc	JAPAN Offshore 392 41.5 143.125 WSc	Add					
+JAPAN Offshore 392 41.5 143.125 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 392 41.5 143.125 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 392 41.5 143.125 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 392 41.5 143.125 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 392 41.5 143.125 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 392 41.5 143.125 Base Wind Speed	Multiply					
+JAPAN Offshore 392 41.5 143.125 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 392 41.5 143.125 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 392 41.5 143.125 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M HHxWSc	JAPAN Offshore 392 41.5 143.125 160M HHc	Add					
+JAPAN Offshore 392 41.5 143.125 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M HHxWSc+HHc	JAPAN Offshore 392 41.5 143.125 WSc	Add					
+JAPAN Offshore 392 41.5 143.125 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 392 41.5 143.125 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 File							
+JAPAN Offshore 496 44.5 148.125 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 496 44.5 148.125 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 496 44.5 148.125 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 496 44.5 148.125 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 496 44.5 148.125 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 496 44.5 148.125 Base Wind Speed	Multiply					
+JAPAN Offshore 496 44.5 148.125 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 496 44.5 148.125 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 496 44.5 148.125 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 100M HHxWSc	JAPAN Offshore 496 44.5 148.125 100M HHc	Add					
+JAPAN Offshore 496 44.5 148.125 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 100M HHxWSc+HHc	JAPAN Offshore 496 44.5 148.125 WSc	Add					
+JAPAN Offshore 496 44.5 148.125 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 496 44.5 148.125 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 496 44.5 148.125 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 496 44.5 148.125 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 496 44.5 148.125 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 496 44.5 148.125 Base Wind Speed	Multiply					
+JAPAN Offshore 496 44.5 148.125 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 496 44.5 148.125 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 496 44.5 148.125 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M HHxWSc	JAPAN Offshore 496 44.5 148.125 130M HHc	Add					
+JAPAN Offshore 496 44.5 148.125 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M HHxWSc+HHc	JAPAN Offshore 496 44.5 148.125 WSc	Add					
+JAPAN Offshore 496 44.5 148.125 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 496 44.5 148.125 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 496 44.5 148.125 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 496 44.5 148.125 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 496 44.5 148.125 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 496 44.5 148.125 Base Wind Speed	Multiply					
+JAPAN Offshore 496 44.5 148.125 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 496 44.5 148.125 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 496 44.5 148.125 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M HHxWSc	JAPAN Offshore 496 44.5 148.125 160M HHc	Add					
+JAPAN Offshore 496 44.5 148.125 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M HHxWSc+HHc	JAPAN Offshore 496 44.5 148.125 WSc	Add					
+JAPAN Offshore 496 44.5 148.125 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 496 44.5 148.125 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 File							
+JAPAN Offshore 509 45.0 146.25 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 509 45.0 146.25 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 509 45.0 146.25 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 509 45.0 146.25 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Offshore 509 45.0 146.25 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Offshore 509 45.0 146.25 Base Wind Speed	Multiply					
+JAPAN Offshore 509 45.0 146.25 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 509 45.0 146.25 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Offshore 509 45.0 146.25 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 100M HHxWSc	JAPAN Offshore 509 45.0 146.25 100M HHc	Add					
+JAPAN Offshore 509 45.0 146.25 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 100M HHxWSc+HHc	JAPAN Offshore 509 45.0 146.25 WSc	Add					
+JAPAN Offshore 509 45.0 146.25 130M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 509 45.0 146.25 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 509 45.0 146.25 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 509 45.0 146.25 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+JAPAN Offshore 509 45.0 146.25 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 130M HHxWS			Value	2010-01-01	2100-01-01	130	JAPAN Offshore 509 45.0 146.25 Base Wind Speed	Multiply					
+JAPAN Offshore 509 45.0 146.25 130M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 509 45.0 146.25 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+JAPAN Offshore 509 45.0 146.25 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M HHxWSc	JAPAN Offshore 509 45.0 146.25 130M HHc	Add					
+JAPAN Offshore 509 45.0 146.25 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M HHxWSc+HHc	JAPAN Offshore 509 45.0 146.25 WSc	Add					
+JAPAN Offshore 509 45.0 146.25 160M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 509 45.0 146.25 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 509 45.0 146.25 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 509 45.0 146.25 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+JAPAN Offshore 509 45.0 146.25 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 160M HHxWS			Value	2010-01-01	2100-01-01	160	JAPAN Offshore 509 45.0 146.25 Base Wind Speed	Multiply					
+JAPAN Offshore 509 45.0 146.25 160M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 509 45.0 146.25 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+JAPAN Offshore 509 45.0 146.25 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M HHxWSc	JAPAN Offshore 509 45.0 146.25 160M HHc	Add					
+JAPAN Offshore 509 45.0 146.25 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M HHxWSc+HHc	JAPAN Offshore 509 45.0 146.25 WSc	Add					
+JAPAN Offshore 509 45.0 146.25 WSc			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Offshore 509 45.0 146.25 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 File							
+JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M HHxWSc	JAPAN Onshore 100m 807 43.5 143.75 70M HHc	Add					
+JAPAN Onshore 100m 807 43.5 143.75 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M HHxWSc+HHc	JAPAN Onshore 100m 807 43.5 143.75 WSc	Add					
+JAPAN Onshore 100m 807 43.5 143.75 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M HHxWSc	JAPAN Onshore 100m 807 43.5 143.75 85M HHc	Add					
+JAPAN Onshore 100m 807 43.5 143.75 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M HHxWSc+HHc	JAPAN Onshore 100m 807 43.5 143.75 WSc	Add					
+JAPAN Onshore 100m 807 43.5 143.75 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 100M HHxWSc	JAPAN Onshore 100m 807 43.5 143.75 100M HHc	Add					
+JAPAN Onshore 100m 807 43.5 143.75 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 100M HHxWSc+HHc	JAPAN Onshore 100m 807 43.5 143.75 WSc	Add					
+JAPAN Onshore 100m 807 43.5 143.75 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 File							
+JAPAN Onshore 100m 809 43.5 145.0 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 809 43.5 145.0 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M HHxWSc	JAPAN Onshore 100m 809 43.5 145.0 70M HHc	Add					
+JAPAN Onshore 100m 809 43.5 145.0 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M HHxWSc+HHc	JAPAN Onshore 100m 809 43.5 145.0 WSc	Add					
+JAPAN Onshore 100m 809 43.5 145.0 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 809 43.5 145.0 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M HHxWSc	JAPAN Onshore 100m 809 43.5 145.0 85M HHc	Add					
+JAPAN Onshore 100m 809 43.5 145.0 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M HHxWSc+HHc	JAPAN Onshore 100m 809 43.5 145.0 WSc	Add					
+JAPAN Onshore 100m 809 43.5 145.0 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 809 43.5 145.0 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 100M HHxWSc	JAPAN Onshore 100m 809 43.5 145.0 100M HHc	Add					
+JAPAN Onshore 100m 809 43.5 145.0 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 100M HHxWSc+HHc	JAPAN Onshore 100m 809 43.5 145.0 WSc	Add					
+JAPAN Onshore 100m 809 43.5 145.0 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 File							
+JAPAN Onshore 100m 817 43.0 140.625 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 817 43.0 140.625 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M HHxWSc	JAPAN Onshore 100m 817 43.0 140.625 70M HHc	Add					
+JAPAN Onshore 100m 817 43.0 140.625 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M HHxWSc+HHc	JAPAN Onshore 100m 817 43.0 140.625 WSc	Add					
+JAPAN Onshore 100m 817 43.0 140.625 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 817 43.0 140.625 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M HHxWSc	JAPAN Onshore 100m 817 43.0 140.625 85M HHc	Add					
+JAPAN Onshore 100m 817 43.0 140.625 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M HHxWSc+HHc	JAPAN Onshore 100m 817 43.0 140.625 WSc	Add					
+JAPAN Onshore 100m 817 43.0 140.625 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 817 43.0 140.625 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 100M HHxWSc	JAPAN Onshore 100m 817 43.0 140.625 100M HHc	Add					
+JAPAN Onshore 100m 817 43.0 140.625 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 100M HHxWSc+HHc	JAPAN Onshore 100m 817 43.0 140.625 WSc	Add					
+JAPAN Onshore 100m 817 43.0 140.625 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 File							
+JAPAN Onshore 100m 819 43.0 141.875 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 819 43.0 141.875 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M HHxWSc	JAPAN Onshore 100m 819 43.0 141.875 70M HHc	Add					
+JAPAN Onshore 100m 819 43.0 141.875 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M HHxWSc+HHc	JAPAN Onshore 100m 819 43.0 141.875 WSc	Add					
+JAPAN Onshore 100m 819 43.0 141.875 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 819 43.0 141.875 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M HHxWSc	JAPAN Onshore 100m 819 43.0 141.875 85M HHc	Add					
+JAPAN Onshore 100m 819 43.0 141.875 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M HHxWSc+HHc	JAPAN Onshore 100m 819 43.0 141.875 WSc	Add					
+JAPAN Onshore 100m 819 43.0 141.875 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 819 43.0 141.875 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 100M HHxWSc	JAPAN Onshore 100m 819 43.0 141.875 100M HHc	Add					
+JAPAN Onshore 100m 819 43.0 141.875 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 100M HHxWSc+HHc	JAPAN Onshore 100m 819 43.0 141.875 WSc	Add					
+JAPAN Onshore 100m 819 43.0 141.875 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 File							
+JAPAN Onshore 100m 822 43.0 143.75 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 822 43.0 143.75 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M HHxWSc	JAPAN Onshore 100m 822 43.0 143.75 70M HHc	Add					
+JAPAN Onshore 100m 822 43.0 143.75 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M HHxWSc+HHc	JAPAN Onshore 100m 822 43.0 143.75 WSc	Add					
+JAPAN Onshore 100m 822 43.0 143.75 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 822 43.0 143.75 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M HHxWSc	JAPAN Onshore 100m 822 43.0 143.75 85M HHc	Add					
+JAPAN Onshore 100m 822 43.0 143.75 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M HHxWSc+HHc	JAPAN Onshore 100m 822 43.0 143.75 WSc	Add					
+JAPAN Onshore 100m 822 43.0 143.75 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 822 43.0 143.75 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 100M HHxWSc	JAPAN Onshore 100m 822 43.0 143.75 100M HHc	Add					
+JAPAN Onshore 100m 822 43.0 143.75 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 100M HHxWSc+HHc	JAPAN Onshore 100m 822 43.0 143.75 WSc	Add					
+JAPAN Onshore 100m 822 43.0 143.75 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 File							
+JAPAN Onshore 100m 824 43.0 145.0 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 824 43.0 145.0 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M HHxWSc	JAPAN Onshore 100m 824 43.0 145.0 70M HHc	Add					
+JAPAN Onshore 100m 824 43.0 145.0 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M HHxWSc+HHc	JAPAN Onshore 100m 824 43.0 145.0 WSc	Add					
+JAPAN Onshore 100m 824 43.0 145.0 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 824 43.0 145.0 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M HHxWSc	JAPAN Onshore 100m 824 43.0 145.0 85M HHc	Add					
+JAPAN Onshore 100m 824 43.0 145.0 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M HHxWSc+HHc	JAPAN Onshore 100m 824 43.0 145.0 WSc	Add					
+JAPAN Onshore 100m 824 43.0 145.0 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 824 43.0 145.0 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 100M HHxWSc	JAPAN Onshore 100m 824 43.0 145.0 100M HHc	Add					
+JAPAN Onshore 100m 824 43.0 145.0 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 100M HHxWSc+HHc	JAPAN Onshore 100m 824 43.0 145.0 WSc	Add					
+JAPAN Onshore 100m 824 43.0 145.0 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 File							
+JAPAN Onshore 100m 833 42.5 141.25 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 833 42.5 141.25 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M HHxWSc	JAPAN Onshore 100m 833 42.5 141.25 70M HHc	Add					
+JAPAN Onshore 100m 833 42.5 141.25 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M HHxWSc+HHc	JAPAN Onshore 100m 833 42.5 141.25 WSc	Add					
+JAPAN Onshore 100m 833 42.5 141.25 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 833 42.5 141.25 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M HHxWSc	JAPAN Onshore 100m 833 42.5 141.25 85M HHc	Add					
+JAPAN Onshore 100m 833 42.5 141.25 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M HHxWSc+HHc	JAPAN Onshore 100m 833 42.5 141.25 WSc	Add					
+JAPAN Onshore 100m 833 42.5 141.25 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 833 42.5 141.25 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 100M HHxWSc	JAPAN Onshore 100m 833 42.5 141.25 100M HHc	Add					
+JAPAN Onshore 100m 833 42.5 141.25 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 100M HHxWSc+HHc	JAPAN Onshore 100m 833 42.5 141.25 WSc	Add					
+JAPAN Onshore 100m 833 42.5 141.25 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 File							
+JAPAN Onshore 100m 836 42.5 143.125 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 836 42.5 143.125 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M HHxWSc	JAPAN Onshore 100m 836 42.5 143.125 70M HHc	Add					
+JAPAN Onshore 100m 836 42.5 143.125 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M HHxWSc+HHc	JAPAN Onshore 100m 836 42.5 143.125 WSc	Add					
+JAPAN Onshore 100m 836 42.5 143.125 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 836 42.5 143.125 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M HHxWSc	JAPAN Onshore 100m 836 42.5 143.125 85M HHc	Add					
+JAPAN Onshore 100m 836 42.5 143.125 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M HHxWSc+HHc	JAPAN Onshore 100m 836 42.5 143.125 WSc	Add					
+JAPAN Onshore 100m 836 42.5 143.125 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 836 42.5 143.125 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 100M HHxWSc	JAPAN Onshore 100m 836 42.5 143.125 100M HHc	Add					
+JAPAN Onshore 100m 836 42.5 143.125 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 100M HHxWSc+HHc	JAPAN Onshore 100m 836 42.5 143.125 WSc	Add					
+JAPAN Onshore 100m 836 42.5 143.125 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 File							
+JAPAN Onshore 100m 860 41.5 139.375 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 100m 860 41.5 139.375 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M HHxWSc	JAPAN Onshore 100m 860 41.5 139.375 70M HHc	Add					
+JAPAN Onshore 100m 860 41.5 139.375 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M HHxWSc+HHc	JAPAN Onshore 100m 860 41.5 139.375 WSc	Add					
+JAPAN Onshore 100m 860 41.5 139.375 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 100m 860 41.5 139.375 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M HHxWSc	JAPAN Onshore 100m 860 41.5 139.375 85M HHc	Add					
+JAPAN Onshore 100m 860 41.5 139.375 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M HHxWSc+HHc	JAPAN Onshore 100m 860 41.5 139.375 WSc	Add					
+JAPAN Onshore 100m 860 41.5 139.375 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 100m 860 41.5 139.375 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 100M HHxWSc	JAPAN Onshore 100m 860 41.5 139.375 100M HHc	Add					
+JAPAN Onshore 100m 860 41.5 139.375 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 100M HHxWSc+HHc	JAPAN Onshore 100m 860 41.5 139.375 WSc	Add					
+JAPAN Onshore 100m 860 41.5 139.375 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 File							
+JAPAN Onshore 529 45.5 148.75 70M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 529 45.5 148.75 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 529 45.5 148.75 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 529 45.5 148.75 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+JAPAN Onshore 529 45.5 148.75 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 70M HHxWS			Value	2010-01-01	2100-01-01	70	JAPAN Onshore 529 45.5 148.75 Base Wind Speed	Multiply					
+JAPAN Onshore 529 45.5 148.75 70M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 529 45.5 148.75 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+JAPAN Onshore 529 45.5 148.75 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M HHxWSc	JAPAN Onshore 529 45.5 148.75 70M HHc	Add					
+JAPAN Onshore 529 45.5 148.75 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M HHxWSc+HHc	JAPAN Onshore 529 45.5 148.75 WSc	Add					
+JAPAN Onshore 529 45.5 148.75 85M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 529 45.5 148.75 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 529 45.5 148.75 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 529 45.5 148.75 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+JAPAN Onshore 529 45.5 148.75 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 85M HHxWS			Value	2010-01-01	2100-01-01	85	JAPAN Onshore 529 45.5 148.75 Base Wind Speed	Multiply					
+JAPAN Onshore 529 45.5 148.75 85M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 529 45.5 148.75 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+JAPAN Onshore 529 45.5 148.75 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M HHxWSc	JAPAN Onshore 529 45.5 148.75 85M HHc	Add					
+JAPAN Onshore 529 45.5 148.75 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M HHxWSc+HHc	JAPAN Onshore 529 45.5 148.75 WSc	Add					
+JAPAN Onshore 529 45.5 148.75 100M Windspeed			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 529 45.5 148.75 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 529 45.5 148.75 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 100M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 529 45.5 148.75 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 100M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+JAPAN Onshore 529 45.5 148.75 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 100M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 100M HHxWS			Value	2010-01-01	2100-01-01	100	JAPAN Onshore 529 45.5 148.75 Base Wind Speed	Multiply					
+JAPAN Onshore 529 45.5 148.75 100M HHxWSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 529 45.5 148.75 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+JAPAN Onshore 529 45.5 148.75 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 100M HHxWSc	JAPAN Onshore 529 45.5 148.75 100M HHc	Add					
+JAPAN Onshore 529 45.5 148.75 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 100M HHxWSc+HHc	JAPAN Onshore 529 45.5 148.75 WSc	Add					
+JAPAN Onshore 529 45.5 148.75 WSc			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 Base Wind Speed	windspeed_coefficient	Multiply					
+JAPAN Onshore 529 45.5 148.75 Base Wind Speed			Value	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 File							

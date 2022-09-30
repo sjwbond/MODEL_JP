@@ -1,0 +1,206 @@
+Object_Name	Object_Type
+TU Coal 1990	Generator
+TU Coal 1995	Generator
+TU Coal 2000	Generator
+TU Coal 2005	Generator
+TU Coal 2010	Generator
+TU Coal 2015	Generator
+TU Coal 2020	Generator
+TU Coal 2025	Generator
+TU Coal 2030	Generator
+TU Coal 2035	Generator
+TU Coal 2040	Generator
+TU Coal 2045	Generator
+TU Coal 2050	Generator
+TU Coal 2055	Generator
+TU Coal 2060	Generator
+TU Coal 2065	Generator
+TU CCGT 1990	Generator
+TU CCGT 1995	Generator
+TU CCGT 2000	Generator
+TU CCGT 2005	Generator
+TU CCGT 2010	Generator
+TU CCGT 2015	Generator
+TU CCGT 2020	Generator
+TU CCGT 2025	Generator
+TU CCGT 2030	Generator
+TU CCGT 2031	Generator
+TU CCGT 2032	Generator
+TU CCGT 2033	Generator
+TU CCGT 2034	Generator
+TU CCGT 2035	Generator
+TU CCGT 2036	Generator
+TU CCGT 2037	Generator
+TU CCGT 2038	Generator
+TU CCGT 2039	Generator
+TU CCGT 2040	Generator
+TU CCGT 2041	Generator
+TU CCGT 2042	Generator
+TU CCGT 2043	Generator
+TU CCGT 2044	Generator
+TU CCGT 2045	Generator
+TU CCGT 2046	Generator
+TU CCGT 2047	Generator
+TU CCGT 2048	Generator
+TU CCGT 2049	Generator
+TU CCGT 2050	Generator
+TU CCGT 2051	Generator
+TU CCGT 2052	Generator
+TU CCGT 2053	Generator
+TU CCGT 2054	Generator
+TU CCGT 2055	Generator
+TU CCGT 2056	Generator
+TU CCGT 2057	Generator
+TU CCGT 2058	Generator
+TU CCGT 2059	Generator
+TU CCGT 2060	Generator
+TU CCGT 2061	Generator
+TU CCGT 2062	Generator
+TU CCGT 2063	Generator
+TU CCGT 2064	Generator
+TU CCGT 2065	Generator
+TU OCGT 1990	Generator
+TU OCGT 1995	Generator
+TU OCGT 2000	Generator
+TU OCGT 2005	Generator
+TU OCGT 2010	Generator
+TU OCGT 2015	Generator
+TU OCGT 2020	Generator
+TU OCGT 2025	Generator
+TU OCGT 2030	Generator
+TU OCGT 2035	Generator
+TU OCGT 2040	Generator
+TU OCGT 2045	Generator
+TU OCGT 2050	Generator
+TU OCGT 2055	Generator
+TU OCGT 2060	Generator
+TU OCGT 2065	Generator
+TU Biomass 1990	Generator
+TU Biomass 1995	Generator
+TU Biomass 2000	Generator
+TU Biomass 2005	Generator
+TU Biomass 2010	Generator
+TU Biomass 2015	Generator
+TU Biomass 2020	Generator
+TU Biomass 2025	Generator
+TU Biomass 2030	Generator
+TU Biomass 2035	Generator
+TU Biomass 2040	Generator
+TU Biomass 2045	Generator
+TU Biomass 2050	Generator
+TU Biomass 2055	Generator
+TU Biomass 2060	Generator
+TU Biomass 2065	Generator
+TU Lignite 1990	Generator
+TU Lignite 1995	Generator
+TU Lignite 2000	Generator
+TU Lignite 2005	Generator
+TU Lignite 2010	Generator
+TU Lignite 2015	Generator
+TU Lignite 2020	Generator
+TU Lignite 2025	Generator
+TU Lignite 2030	Generator
+TU Lignite 2035	Generator
+TU Lignite 2040	Generator
+TU Lignite 2045	Generator
+TU Lignite 2050	Generator
+TU Lignite 2055	Generator
+TU Lignite 2060	Generator
+TU Lignite 2065	Generator
+TU Nuclear 1990	Generator
+TU Nuclear 1995	Generator
+TU Nuclear 2000	Generator
+TU Nuclear 2005	Generator
+TU Nuclear 2010	Generator
+TU Nuclear 2015	Generator
+TU Nuclear 2020	Generator
+TU CHP 1990	Generator
+TU CHP 1995	Generator
+TU CHP 2000	Generator
+TU CHP 2005	Generator
+TU CHP 2010	Generator
+TU CHP 2015	Generator
+TU CHP 2020	Generator
+TU CHP 2025	Generator
+TU CHP 2030	Generator
+TU CHP 2035	Generator
+TU CHP 2040	Generator
+TU CHP 2045	Generator
+TU CHP 2050	Generator
+TU CHP 2055	Generator
+TU CHP 2060	Generator
+TU CHP 2065	Generator
+TU Liquid 1990	Generator
+TU Liquid 1995	Generator
+TU Liquid 2000	Generator
+TU Liquid 2005	Generator
+TU Liquid 2010	Generator
+TU Liquid 2015	Generator
+TU Liquid 2020	Generator
+TU Liquid 2025	Generator
+TU Liquid 2030	Generator
+TU Liquid 2035	Generator
+TU Liquid 2040	Generator
+TU Liquid 2045	Generator
+TU Liquid 2050	Generator
+TU Liquid 2055	Generator
+TU Liquid 2060	Generator
+TU Liquid 2100	Generator
+TU Sendai Coal	Generator
+TU Soma	Generator
+TU NSC Kamaishi Works	Generator
+TU Itoigawa	Generator
+TU Nippon Paper Miyagi	Generator
+TU Nakoso n7	Generator
+TU Sakata Kyodo n1	Generator
+TU Sakata Kyodo n2	Generator
+TU Noshiro n1	Generator
+TU Noshiro n2	Generator
+TU Noshiro n3	Generator
+TU Haramachi n1	Generator
+TU Haramachi n2	Generator
+TU Shinchi n1	Generator
+TU Shinchi n2	Generator
+TU Niigata CC n5	Generator
+TU Higashi Niigata CC n3_1GT	Generator
+TU Higashi Niigata CC n3_2GT	Generator
+TU Higashi Niigata CC n3_3GT	Generator
+TU Higashi Niigata CC n3_4GT	Generator
+TU Higashi Niigata CC n3_5GT	Generator
+TU Higashi Niigata CC n3_6GT	Generator
+TU Hachinohe n5ST	Generator
+TU Higashi Niigata CC n3_1ST	Generator
+TU Higashi Niigata CC n3_2ST	Generator
+TU Hachinohe n5GT	Generator
+TU Higashi Niigata CC n4_1ST	Generator
+TU Higashi Niigata CC n4_2ST	Generator
+TU Higashi Niigata CC n4_3GT	Generator
+TU Higashi Niigata CC n4_4GT	Generator
+TU Higashi Niigata CC n4_1GT	Generator
+TU Higashi Niigata CC n4_2GT	Generator
+TU Sendai CC n4	Generator
+TU Shin Sendai CC n3_1	Generator
+TU Shin Sendai CC n3_2	Generator
+TU Fukushima CC n1	Generator
+TU Fukushima CC n2	Generator
+TU Joetsu CC n1_1	Generator
+TU Joetsu CC n1_2	Generator
+TU Joetsu CC n2_1	Generator
+TU Joetsu CC n2_2	Generator
+TU Niigata n4	Generator
+TU Akita n5	Generator
+TU Akita n2	Generator
+TU Akita n3	Generator
+TU Higashi Niigata Minato_2	Generator
+TU Higashi Niigata Minato_1	Generator
+TU Akita n4	Generator
+TU Higashi Niigata ST n1	Generator
+TU Higashi Niigata ST n2	Generator
+TU Fukushima Daini Nuclear n2	Generator
+TU Fukushima Daini Nuclear n1	Generator
+TU Fukushima Daini Nuclear n4	Generator
+TU Fukushima Daini Nuclear n3	Generator
+TU Onagawa Nuclear n1	Generator
+TU Onagawa Nuclear n2	Generator
+TU Onagawa Nuclear n3	Generator
+TU Higashidori n1	Generator

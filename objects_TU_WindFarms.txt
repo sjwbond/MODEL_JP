@@ -1,0 +1,31 @@
+Object_Name	Object_Type
+TU Generic JPN offshore	Generator
+JAPAN Onshore 100m 708 37.5 140.625 105M Windspeed	Variable
+JAPAN Onshore 100m 708 37.5 140.625 105M HHxWS	Variable
+JAPAN Onshore 100m 708 37.5 140.625 105M HHxWSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 105M HHc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 105M WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 105M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 105M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 105M HHxWSc+HHc+WSc+C	Variable
+TU Yurihonjo	Generator
+JAPAN Offshore 323 39.5 140.0 0M Windspeed	Variable
+JAPAN Offshore 323 39.5 140.0 0M HHxWS	Variable
+JAPAN Offshore 323 39.5 140.0 0M HHxWSc	Variable
+JAPAN Offshore 323 39.5 140.0 0M HHc	Variable
+JAPAN Offshore 323 39.5 140.0 0M WSc	Variable
+JAPAN Offshore 323 39.5 140.0 0M HHxWSc+HHc	Variable
+JAPAN Offshore 323 39.5 140.0 0M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 323 39.5 140.0 0M HHxWSc+HHc+WSc+C	Variable
+TU Happou-Noshiro	Generator
+TU Noshiro Port	Generator
+TU Akita Port	Generator
+TU Noheji	Generator
+JAPAN Onshore 100m 878 41.0 141.25 78M Windspeed	Variable
+JAPAN Onshore 100m 878 41.0 141.25 78M HHxWS	Variable
+JAPAN Onshore 100m 878 41.0 141.25 78M HHxWSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 78M HHc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 78M WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 78M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 78M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 78M HHxWSc+HHc+WSc+C	Variable

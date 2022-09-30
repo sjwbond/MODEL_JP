@@ -1,0 +1,459 @@
+Object_Name	Parent_Object
+HO Coal 1990	HO Coal Generators
+HO Coal 1990	HO Hard Coal Generators
+HO Coal 1990	HO
+HO Coal 1995	HO Coal Generators
+HO Coal 1995	HO Hard Coal Generators
+HO Coal 1995	HO
+HO Coal 2000	HO Coal Generators
+HO Coal 2000	HO Hard Coal Generators
+HO Coal 2000	HO
+HO Coal 2005	HO Coal Generators
+HO Coal 2005	HO Hard Coal Generators
+HO Coal 2005	HO
+HO Coal 2010	HO Coal Generators
+HO Coal 2010	HO Hard Coal Generators
+HO Coal 2010	HO
+HO Coal 2015	HO Coal Generators
+HO Coal 2015	HO Hard Coal Generators
+HO Coal 2015	HO
+HO Coal 2020	HO Coal Generators
+HO Coal 2020	HO Hard Coal Generators
+HO Coal 2020	HO
+HO Coal 2025	HO Coal Generators
+HO Coal 2025	HO Hard Coal Generators
+HO Coal 2025	HO
+HO Coal 2030	HO Coal Generators
+HO Coal 2030	HO Hard Coal Generators
+HO Coal 2030	HO
+HO Coal 2035	HO Coal Generators
+HO Coal 2035	HO Hard Coal Generators
+HO Coal 2035	HO
+HO Coal 2040	HO Coal Generators
+HO Coal 2040	HO Hard Coal Generators
+HO Coal 2040	HO
+HO Coal 2045	HO Coal Generators
+HO Coal 2045	HO Hard Coal Generators
+HO Coal 2045	HO
+HO Coal 2050	HO Coal Generators
+HO Coal 2050	HO Hard Coal Generators
+HO Coal 2050	HO
+HO Coal 2055	HO Coal Generators
+HO Coal 2055	HO Hard Coal Generators
+HO Coal 2055	HO
+HO Coal 2060	HO Coal Generators
+HO Coal 2060	HO Hard Coal Generators
+HO Coal 2060	HO
+HO Coal 2065	HO Coal Generators
+HO Coal 2065	HO Hard Coal Generators
+HO Coal 2065	HO
+HO CCGT 1990	HO Gas Generators
+HO CCGT 1990	HO CCGT Generators
+HO CCGT 1990	HO
+HO CCGT 1995	HO Gas Generators
+HO CCGT 1995	HO CCGT Generators
+HO CCGT 1995	HO
+HO CCGT 2000	HO Gas Generators
+HO CCGT 2000	HO CCGT Generators
+HO CCGT 2000	HO
+HO CCGT 2005	HO Gas Generators
+HO CCGT 2005	HO CCGT Generators
+HO CCGT 2005	HO
+HO CCGT 2010	HO Gas Generators
+HO CCGT 2010	HO CCGT Generators
+HO CCGT 2010	HO
+HO CCGT 2015	HO Gas Generators
+HO CCGT 2015	HO CCGT Generators
+HO CCGT 2015	HO
+HO CCGT 2020	HO Gas Generators
+HO CCGT 2020	HO CCGT Generators
+HO CCGT 2020	HO
+HO CCGT 2025	HO Gas Generators
+HO CCGT 2025	HO CCGT Generators
+HO CCGT 2025	HO
+HO CCGT 2030	HO Gas Generators
+HO CCGT 2030	HO CCGT Generators
+HO CCGT 2030	HO
+HO CCGT 2031	HO Gas Generators
+HO CCGT 2031	HO CCGT Generators
+HO CCGT 2031	HO
+HO CCGT 2032	HO Gas Generators
+HO CCGT 2032	HO CCGT Generators
+HO CCGT 2032	HO
+HO CCGT 2033	HO Gas Generators
+HO CCGT 2033	HO CCGT Generators
+HO CCGT 2033	HO
+HO CCGT 2034	HO Gas Generators
+HO CCGT 2034	HO CCGT Generators
+HO CCGT 2034	HO
+HO CCGT 2035	HO Gas Generators
+HO CCGT 2035	HO CCGT Generators
+HO CCGT 2035	HO
+HO CCGT 2036	HO Gas Generators
+HO CCGT 2036	HO CCGT Generators
+HO CCGT 2036	HO
+HO CCGT 2037	HO Gas Generators
+HO CCGT 2037	HO CCGT Generators
+HO CCGT 2037	HO
+HO CCGT 2038	HO Gas Generators
+HO CCGT 2038	HO CCGT Generators
+HO CCGT 2038	HO
+HO CCGT 2039	HO Gas Generators
+HO CCGT 2039	HO CCGT Generators
+HO CCGT 2039	HO
+HO CCGT 2040	HO Gas Generators
+HO CCGT 2040	HO CCGT Generators
+HO CCGT 2040	HO
+HO CCGT 2041	HO Gas Generators
+HO CCGT 2041	HO CCGT Generators
+HO CCGT 2041	HO
+HO CCGT 2042	HO Gas Generators
+HO CCGT 2042	HO CCGT Generators
+HO CCGT 2042	HO
+HO CCGT 2043	HO Gas Generators
+HO CCGT 2043	HO CCGT Generators
+HO CCGT 2043	HO
+HO CCGT 2044	HO Gas Generators
+HO CCGT 2044	HO CCGT Generators
+HO CCGT 2044	HO
+HO CCGT 2045	HO Gas Generators
+HO CCGT 2045	HO CCGT Generators
+HO CCGT 2045	HO
+HO CCGT 2046	HO Gas Generators
+HO CCGT 2046	HO CCGT Generators
+HO CCGT 2046	HO
+HO CCGT 2047	HO Gas Generators
+HO CCGT 2047	HO CCGT Generators
+HO CCGT 2047	HO
+HO CCGT 2048	HO Gas Generators
+HO CCGT 2048	HO CCGT Generators
+HO CCGT 2048	HO
+HO CCGT 2049	HO Gas Generators
+HO CCGT 2049	HO CCGT Generators
+HO CCGT 2049	HO
+HO CCGT 2050	HO Gas Generators
+HO CCGT 2050	HO CCGT Generators
+HO CCGT 2050	HO
+HO CCGT 2051	HO Gas Generators
+HO CCGT 2051	HO CCGT Generators
+HO CCGT 2051	HO
+HO CCGT 2052	HO Gas Generators
+HO CCGT 2052	HO CCGT Generators
+HO CCGT 2052	HO
+HO CCGT 2053	HO Gas Generators
+HO CCGT 2053	HO CCGT Generators
+HO CCGT 2053	HO
+HO CCGT 2054	HO Gas Generators
+HO CCGT 2054	HO CCGT Generators
+HO CCGT 2054	HO
+HO CCGT 2055	HO Gas Generators
+HO CCGT 2055	HO CCGT Generators
+HO CCGT 2055	HO
+HO CCGT 2056	HO Gas Generators
+HO CCGT 2056	HO CCGT Generators
+HO CCGT 2056	HO
+HO CCGT 2057	HO Gas Generators
+HO CCGT 2057	HO CCGT Generators
+HO CCGT 2057	HO
+HO CCGT 2058	HO Gas Generators
+HO CCGT 2058	HO CCGT Generators
+HO CCGT 2058	HO
+HO CCGT 2059	HO Gas Generators
+HO CCGT 2059	HO CCGT Generators
+HO CCGT 2059	HO
+HO CCGT 2060	HO Gas Generators
+HO CCGT 2060	HO CCGT Generators
+HO CCGT 2060	HO
+HO CCGT 2061	HO Gas Generators
+HO CCGT 2061	HO CCGT Generators
+HO CCGT 2061	HO
+HO CCGT 2062	HO Gas Generators
+HO CCGT 2062	HO CCGT Generators
+HO CCGT 2062	HO
+HO CCGT 2063	HO Gas Generators
+HO CCGT 2063	HO CCGT Generators
+HO CCGT 2063	HO
+HO CCGT 2064	HO Gas Generators
+HO CCGT 2064	HO CCGT Generators
+HO CCGT 2064	HO
+HO CCGT 2065	HO Gas Generators
+HO CCGT 2065	HO CCGT Generators
+HO CCGT 2065	HO
+HO OCGT 1990	HO Gas Generators
+HO OCGT 1990	HO OCGT Generators
+HO OCGT 1990	HO
+HO OCGT 1995	HO Gas Generators
+HO OCGT 1995	HO OCGT Generators
+HO OCGT 1995	HO
+HO OCGT 2000	HO Gas Generators
+HO OCGT 2000	HO OCGT Generators
+HO OCGT 2000	HO
+HO OCGT 2005	HO Gas Generators
+HO OCGT 2005	HO OCGT Generators
+HO OCGT 2005	HO
+HO OCGT 2010	HO Gas Generators
+HO OCGT 2010	HO OCGT Generators
+HO OCGT 2010	HO
+HO OCGT 2015	HO Gas Generators
+HO OCGT 2015	HO OCGT Generators
+HO OCGT 2015	HO
+HO OCGT 2020	HO Gas Generators
+HO OCGT 2020	HO OCGT Generators
+HO OCGT 2020	HO
+HO OCGT 2025	HO Gas Generators
+HO OCGT 2025	HO OCGT Generators
+HO OCGT 2025	HO
+HO OCGT 2030	HO Gas Generators
+HO OCGT 2030	HO OCGT Generators
+HO OCGT 2030	HO
+HO OCGT 2035	HO Gas Generators
+HO OCGT 2035	HO OCGT Generators
+HO OCGT 2035	HO
+HO OCGT 2040	HO Gas Generators
+HO OCGT 2040	HO OCGT Generators
+HO OCGT 2040	HO
+HO OCGT 2045	HO Gas Generators
+HO OCGT 2045	HO OCGT Generators
+HO OCGT 2045	HO
+HO OCGT 2050	HO Gas Generators
+HO OCGT 2050	HO OCGT Generators
+HO OCGT 2050	HO
+HO OCGT 2055	HO Gas Generators
+HO OCGT 2055	HO OCGT Generators
+HO OCGT 2055	HO
+HO OCGT 2060	HO Gas Generators
+HO OCGT 2060	HO OCGT Generators
+HO OCGT 2060	HO
+HO OCGT 2065	HO Gas Generators
+HO OCGT 2065	HO OCGT Generators
+HO OCGT 2065	HO
+HO Biomass 1990	HO Biomass Generators
+HO Biomass 1990	HO
+HO Biomass 1995	HO Biomass Generators
+HO Biomass 1995	HO
+HO Biomass 2000	HO Biomass Generators
+HO Biomass 2000	HO
+HO Biomass 2005	HO Biomass Generators
+HO Biomass 2005	HO
+HO Biomass 2010	HO Biomass Generators
+HO Biomass 2010	HO
+HO Biomass 2015	HO Biomass Generators
+HO Biomass 2015	HO
+HO Biomass 2020	HO Biomass Generators
+HO Biomass 2020	HO
+HO Biomass 2025	HO Biomass Generators
+HO Biomass 2025	HO
+HO Biomass 2030	HO Biomass Generators
+HO Biomass 2030	HO
+HO Biomass 2035	HO Biomass Generators
+HO Biomass 2035	HO
+HO Biomass 2040	HO Biomass Generators
+HO Biomass 2040	HO
+HO Biomass 2045	HO Biomass Generators
+HO Biomass 2045	HO
+HO Biomass 2050	HO Biomass Generators
+HO Biomass 2050	HO
+HO Biomass 2055	HO Biomass Generators
+HO Biomass 2055	HO
+HO Biomass 2060	HO Biomass Generators
+HO Biomass 2060	HO
+HO Biomass 2065	HO Biomass Generators
+HO Biomass 2065	HO
+HO Lignite 1990	HO Coal Generators
+HO Lignite 1990	HO Lignite Generators
+HO Lignite 1990	HO
+HO Lignite 1995	HO Coal Generators
+HO Lignite 1995	HO Lignite Generators
+HO Lignite 1995	HO
+HO Lignite 2000	HO Coal Generators
+HO Lignite 2000	HO Lignite Generators
+HO Lignite 2000	HO
+HO Lignite 2005	HO Coal Generators
+HO Lignite 2005	HO Lignite Generators
+HO Lignite 2005	HO
+HO Lignite 2010	HO Coal Generators
+HO Lignite 2010	HO Lignite Generators
+HO Lignite 2010	HO
+HO Lignite 2015	HO Coal Generators
+HO Lignite 2015	HO Lignite Generators
+HO Lignite 2015	HO
+HO Lignite 2020	HO Coal Generators
+HO Lignite 2020	HO Lignite Generators
+HO Lignite 2020	HO
+HO Lignite 2025	HO Coal Generators
+HO Lignite 2025	HO Lignite Generators
+HO Lignite 2025	HO
+HO Lignite 2030	HO Coal Generators
+HO Lignite 2030	HO Lignite Generators
+HO Lignite 2030	HO
+HO Lignite 2035	HO Coal Generators
+HO Lignite 2035	HO Lignite Generators
+HO Lignite 2035	HO
+HO Lignite 2040	HO Coal Generators
+HO Lignite 2040	HO Lignite Generators
+HO Lignite 2040	HO
+HO Lignite 2045	HO Coal Generators
+HO Lignite 2045	HO Lignite Generators
+HO Lignite 2045	HO
+HO Lignite 2050	HO Coal Generators
+HO Lignite 2050	HO Lignite Generators
+HO Lignite 2050	HO
+HO Lignite 2055	HO Coal Generators
+HO Lignite 2055	HO Lignite Generators
+HO Lignite 2055	HO
+HO Lignite 2060	HO Coal Generators
+HO Lignite 2060	HO Lignite Generators
+HO Lignite 2060	HO
+HO Lignite 2065	HO Coal Generators
+HO Lignite 2065	HO Lignite Generators
+HO Lignite 2065	HO
+HO Nuclear 1990	HO Nuclear Generators
+HO Nuclear 1990	HO
+HO Nuclear 1995	HO Nuclear Generators
+HO Nuclear 1995	HO
+HO Nuclear 2000	HO Nuclear Generators
+HO Nuclear 2000	HO
+HO Nuclear 2005	HO Nuclear Generators
+HO Nuclear 2005	HO
+HO Nuclear 2010	HO Nuclear Generators
+HO Nuclear 2010	HO
+HO Nuclear 2015	HO Nuclear Generators
+HO Nuclear 2015	HO
+HO Nuclear 2020	HO Nuclear Generators
+HO Nuclear 2020	HO
+HO CHP 1990	HO Gas Generators
+HO CHP 1990	HO CHP Generators
+HO CHP 1990	HO
+HO CHP 1995	HO Gas Generators
+HO CHP 1995	HO CHP Generators
+HO CHP 1995	HO
+HO CHP 2000	HO Gas Generators
+HO CHP 2000	HO CHP Generators
+HO CHP 2000	HO
+HO CHP 2005	HO Gas Generators
+HO CHP 2005	HO CHP Generators
+HO CHP 2005	HO
+HO CHP 2010	HO Gas Generators
+HO CHP 2010	HO CHP Generators
+HO CHP 2010	HO
+HO CHP 2015	HO Gas Generators
+HO CHP 2015	HO CHP Generators
+HO CHP 2015	HO
+HO CHP 2020	HO Gas Generators
+HO CHP 2020	HO CHP Generators
+HO CHP 2020	HO
+HO CHP 2025	HO Gas Generators
+HO CHP 2025	HO CHP Generators
+HO CHP 2025	HO
+HO CHP 2030	HO Gas Generators
+HO CHP 2030	HO CHP Generators
+HO CHP 2030	HO
+HO CHP 2035	HO Gas Generators
+HO CHP 2035	HO CHP Generators
+HO CHP 2035	HO
+HO CHP 2040	HO Gas Generators
+HO CHP 2040	HO CHP Generators
+HO CHP 2040	HO
+HO CHP 2045	HO Gas Generators
+HO CHP 2045	HO CHP Generators
+HO CHP 2045	HO
+HO CHP 2050	HO Gas Generators
+HO CHP 2050	HO CHP Generators
+HO CHP 2050	HO
+HO CHP 2055	HO Gas Generators
+HO CHP 2055	HO CHP Generators
+HO CHP 2055	HO
+HO CHP 2060	HO Gas Generators
+HO CHP 2060	HO CHP Generators
+HO CHP 2060	HO
+HO CHP 2065	HO Gas Generators
+HO CHP 2065	HO CHP Generators
+HO CHP 2065	HO
+HO Liquid 1990	HO Liquid Generators
+HO Liquid 1990	HO
+HO Liquid 1995	HO Liquid Generators
+HO Liquid 1995	HO
+HO Liquid 2000	HO Liquid Generators
+HO Liquid 2000	HO
+HO Liquid 2005	HO Liquid Generators
+HO Liquid 2005	HO
+HO Liquid 2010	HO Liquid Generators
+HO Liquid 2010	HO
+HO Liquid 2015	HO Liquid Generators
+HO Liquid 2015	HO
+HO Liquid 2020	HO Liquid Generators
+HO Liquid 2020	HO
+HO Liquid 2025	HO Liquid Generators
+HO Liquid 2025	HO
+HO Liquid 2030	HO Liquid Generators
+HO Liquid 2030	HO
+HO Liquid 2035	HO Liquid Generators
+HO Liquid 2035	HO
+HO Liquid 2040	HO Liquid Generators
+HO Liquid 2040	HO
+HO Liquid 2045	HO Liquid Generators
+HO Liquid 2045	HO
+HO Liquid 2050	HO Liquid Generators
+HO Liquid 2050	HO
+HO Liquid 2055	HO Liquid Generators
+HO Liquid 2055	HO
+HO Liquid 2060	HO Liquid Generators
+HO Liquid 2060	HO
+HO Liquid 2065	HO Liquid Generators
+HO Liquid 2065	HO
+HO NSC Muroran Works	HO Coal Generators
+HO NSC Muroran Works	HO Hard Coal Generators
+HO NSC Muroran Works	HO
+HO Sunagawa no3	HO Coal Generators
+HO Sunagawa no3	HO Hard Coal Generators
+HO Sunagawa no3	HO
+HO Sunagawa no4	HO Coal Generators
+HO Sunagawa no4	HO Hard Coal Generators
+HO Sunagawa no4	HO
+HO Naie no1	HO Coal Generators
+HO Naie no1	HO Hard Coal Generators
+HO Naie no1	HO
+HO Naie no2	HO Coal Generators
+HO Naie no2	HO Hard Coal Generators
+HO Naie no2	HO
+HO Tomato-Atsuma no1	HO Coal Generators
+HO Tomato-Atsuma no1	HO Hard Coal Generators
+HO Tomato-Atsuma no1	HO
+HO Tomato-Atsuma no2	HO Coal Generators
+HO Tomato-Atsuma no2	HO Hard Coal Generators
+HO Tomato-Atsuma no2	HO
+HO Tomato-Atsuma no4	HO Coal Generators
+HO Tomato-Atsuma no4	HO Hard Coal Generators
+HO Tomato-Atsuma no4	HO
+HO Ishikari Bay Shinko CC no1	HO Gas Generators
+HO Ishikari Bay Shinko CC no1	HO CCGT Generators
+HO Ishikari Bay Shinko CC no1	HO
+HO Tomakomai	HO Liquid Generators
+HO Tomakomai	HO 
+HO Tomakomai	HO
+HO Tomakomai Kyodo no3	HO Liquid Generators
+HO Tomakomai Kyodo no3	HO 
+HO Tomakomai Kyodo no3	HO
+HO Onbetsu	HO Liquid Generators
+HO Onbetsu	HO
+HO Date no1	HO Liquid Generators
+HO Date no1	HO 
+HO Date no1	HO
+HO Date no2	HO Liquid Generators
+HO Date no2	HO 
+HO Date no2	HO
+HO Shiriuchi no1	HO Liquid Generators
+HO Shiriuchi no1	HO 
+HO Shiriuchi no1	HO
+HO Shiriuchi no2	HO Liquid Generators
+HO Shiriuchi no2	HO 
+HO Shiriuchi no2	HO
+HO Tomari Nuclear no1	HO Nuclear Generators
+HO Tomari Nuclear no1	HO 
+HO Tomari Nuclear no1	HO
+HO Tomari Nuclear no2	HO Nuclear Generators
+HO Tomari Nuclear no2	HO 
+HO Tomari Nuclear no2	HO
+HO Tomari Nuclear no3	HO Nuclear Generators
+HO Tomari Nuclear no3	HO 
+HO Tomari Nuclear no3	HO

@@ -1,0 +1,36 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+HO Generic JPN offshore			Capacity	2020-01-01	2050-01-01	10							
+HO Generic JPN offshore			Variable Cost	2010-01-01	2100-01-01	1.307							
+HO Generic JPN offshore			Save Data	2010-01-01	2100-01-01	1							
+HO Generic JPN offshore			Save Blocks	2010-01-01	2100-01-01	0							
+HO Generic JPN offshore			Bid Up Price	2020-01-01	2045-01-01	-44							
+HO Generic JPN offshore			Bid Up Price	2045-01-01	2100-01-01	0							
+HO Generic JPN offshore			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 105M Windspeed	NWST Wind Power Curve	Lookup					
+HO Ishikari Bay wind			Capacity	2027-01-01	2057-01-01	520							
+HO Ishikari Bay wind			Variable Cost	2010-01-01	2100-01-01	2.629							
+HO Ishikari Bay wind			Save Data	2010-01-01	2100-01-01	1							
+HO Ishikari Bay wind			Save Blocks	2010-01-01	2100-01-01	0							
+HO Ishikari Bay wind			Bid Up Price	2027-01-01	2052-01-01	-44							
+HO Ishikari Bay wind			Bid Up Price	2052-01-01	2100-01-01	0							
+HO Ishikari Bay wind			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 110M Windspeed	NWST Wind Power Curve	Lookup					
+HO Soya Misaki wind			Capacity	2005-01-01	2035-01-01	57							
+HO Soya Misaki wind			Variable Cost	2010-01-01	2100-01-01	1.114							
+HO Soya Misaki wind			Save Data	2010-01-01	2100-01-01	1							
+HO Soya Misaki wind			Save Blocks	2010-01-01	2100-01-01	0							
+HO Soya Misaki wind			Bid Up Price	2005-01-01	2030-01-01	-44							
+HO Soya Misaki wind			Bid Up Price	2030-01-01	2100-01-01	0							
+HO Soya Misaki wind			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 68M Windspeed	NWST Wind Power Curve	Lookup					
+HO Tempoku wind			Capacity	2018-01-01	2048-01-01	30							
+HO Tempoku wind			Variable Cost	2010-01-01	2100-01-01	0.894							
+HO Tempoku wind			Save Data	2010-01-01	2100-01-01	1							
+HO Tempoku wind			Save Blocks	2010-01-01	2100-01-01	0							
+HO Tempoku wind			Bid Up Price	2018-01-01	2043-01-01	-44							
+HO Tempoku wind			Bid Up Price	2043-01-01	2100-01-01	0							
+HO Tempoku wind			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+HO Tomamae wind			Capacity	2020-01-01	2050-01-01	20							
+HO Tomamae wind			Variable Cost	2010-01-01	2100-01-01	1.047							
+HO Tomamae wind			Save Data	2010-01-01	2100-01-01	1							
+HO Tomamae wind			Save Blocks	2010-01-01	2100-01-01	0							
+HO Tomamae wind			Bid Up Price	2020-01-01	2045-01-01	-44							
+HO Tomamae wind			Bid Up Price	2045-01-01	2100-01-01	0							
+HO Tomamae wind			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed	NWST Wind Power Curve	Lookup					

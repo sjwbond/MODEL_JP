@@ -1,0 +1,1010 @@
+Object_Name	Object_Type
+JAPAN Offshore 100m 703 37.5 137.5 WSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 Base Wind Speed	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator LWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator LWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator NWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator NWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator HWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M Generator HWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M Windspeed	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M HHxWS	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M HHxWSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M HHc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M WSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator LWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator LWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator NWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator NWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator HWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M Generator HWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M Windspeed	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M HHxWS	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M HHxWSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M HHc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M WSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 130M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator LWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator LWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator NWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator NWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator HWST	Generator
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M Generator HWST CRF	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M Windspeed	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M HHxWS	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M HHxWSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M HHc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M WSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 703 37.5 137.5 160M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 703 37.5 137.5 Windspeed	Variable
+JAPAN Offshore 100m 703 37.5 137.5 File	DataSource
+JAPAN Offshore 100m 703 37.5 137.5 TS	DBTimeSeries
+JAPAN Offshore 100m 710 37.5 141.875 WSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 Base Wind Speed	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator LWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator LWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator NWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator NWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator HWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M Generator HWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M Windspeed	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M HHxWS	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M HHxWSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M HHc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M WSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator LWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator LWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator NWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator NWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator HWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M Generator HWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M Windspeed	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M HHxWS	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M HHxWSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M HHc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M WSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 130M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator LWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator LWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator NWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator NWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator HWST	Generator
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M Generator HWST CRF	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M Windspeed	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M HHxWS	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M HHxWSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M HHc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M WSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 710 37.5 141.875 160M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 710 37.5 141.875 Windspeed	Variable
+JAPAN Offshore 100m 710 37.5 141.875 File	DataSource
+JAPAN Offshore 100m 710 37.5 141.875 TS	DBTimeSeries
+JAPAN Offshore 100m 717 38.0 138.125 WSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 Base Wind Speed	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator LWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator LWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator NWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator NWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator HWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M Generator HWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M Windspeed	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M HHxWS	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M HHxWSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M HHc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M WSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator LWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator LWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator NWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator NWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator HWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M Generator HWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M Windspeed	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M HHxWS	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M HHxWSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M HHc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M WSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 130M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator LWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator LWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator NWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator NWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator HWST	Generator
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M Generator HWST CRF	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M Windspeed	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M HHxWS	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M HHxWSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M HHc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M WSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 717 38.0 138.125 160M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 717 38.0 138.125 Windspeed	Variable
+JAPAN Offshore 100m 717 38.0 138.125 File	DataSource
+JAPAN Offshore 100m 717 38.0 138.125 TS	DBTimeSeries
+JAPAN Offshore 100m 731 38.5 138.75 WSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 Base Wind Speed	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator LWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator LWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator NWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator NWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator HWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M Generator HWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M Windspeed	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M HHxWS	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M HHxWSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M HHc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M WSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator LWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator LWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator NWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator NWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator HWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M Generator HWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M Windspeed	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M HHxWS	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M HHxWSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M HHc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M WSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 130M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator LWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator LWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator NWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator NWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator HWST	Generator
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M Generator HWST CRF	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M Windspeed	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M HHxWS	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M HHxWSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M HHc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M WSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 731 38.5 138.75 160M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 731 38.5 138.75 Windspeed	Variable
+JAPAN Offshore 100m 731 38.5 138.75 File	DataSource
+JAPAN Offshore 100m 731 38.5 138.75 TS	DBTimeSeries
+JAPAN Offshore 100m 879 41.0 141.875 WSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 Base Wind Speed	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator LWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator LWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator NWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator NWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator HWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M Generator HWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M Windspeed	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M HHxWS	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M HHxWSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M HHc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M WSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator LWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator LWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator NWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator NWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator HWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M Generator HWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M Windspeed	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M HHxWS	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M HHxWSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M HHc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M WSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 130M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator LWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator LWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator LWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator NWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator NWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator NWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator HWST	Generator
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator HWST Hub Height	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M Generator HWST CRF	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M Windspeed	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M HHxWS	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M HHxWSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M HHc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M WSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 879 41.0 141.875 160M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 100m 879 41.0 141.875 Windspeed	Variable
+JAPAN Offshore 100m 879 41.0 141.875 File	DataSource
+JAPAN Offshore 100m 879 41.0 141.875 TS	DBTimeSeries
+JAPAN Offshore 311 39.0 142.5 WSc	Variable
+JAPAN Offshore 311 39.0 142.5 Base Wind Speed	Variable
+JAPAN Offshore 311 39.0 142.5 100M Generator LWST	Generator
+JAPAN Offshore 311 39.0 142.5 100M Generator LWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 100M Generator LWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 100M Generator NWST	Generator
+JAPAN Offshore 311 39.0 142.5 100M Generator NWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 100M Generator NWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 100M Generator HWST	Generator
+JAPAN Offshore 311 39.0 142.5 100M Generator HWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 100M Generator HWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 100M Windspeed	Variable
+JAPAN Offshore 311 39.0 142.5 100M HHxWS	Variable
+JAPAN Offshore 311 39.0 142.5 100M HHxWSc	Variable
+JAPAN Offshore 311 39.0 142.5 100M HHc	Variable
+JAPAN Offshore 311 39.0 142.5 100M WSc	Variable
+JAPAN Offshore 311 39.0 142.5 100M HHxWSc+HHc	Variable
+JAPAN Offshore 311 39.0 142.5 100M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 311 39.0 142.5 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 311 39.0 142.5 130M Generator LWST	Generator
+JAPAN Offshore 311 39.0 142.5 130M Generator LWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 130M Generator LWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 130M Generator NWST	Generator
+JAPAN Offshore 311 39.0 142.5 130M Generator NWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 130M Generator NWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 130M Generator HWST	Generator
+JAPAN Offshore 311 39.0 142.5 130M Generator HWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 130M Generator HWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 130M Windspeed	Variable
+JAPAN Offshore 311 39.0 142.5 130M HHxWS	Variable
+JAPAN Offshore 311 39.0 142.5 130M HHxWSc	Variable
+JAPAN Offshore 311 39.0 142.5 130M HHc	Variable
+JAPAN Offshore 311 39.0 142.5 130M WSc	Variable
+JAPAN Offshore 311 39.0 142.5 130M HHxWSc+HHc	Variable
+JAPAN Offshore 311 39.0 142.5 130M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 311 39.0 142.5 130M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 311 39.0 142.5 160M Generator LWST	Generator
+JAPAN Offshore 311 39.0 142.5 160M Generator LWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 160M Generator LWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 160M Generator NWST	Generator
+JAPAN Offshore 311 39.0 142.5 160M Generator NWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 160M Generator NWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 160M Generator HWST	Generator
+JAPAN Offshore 311 39.0 142.5 160M Generator HWST Hub Height	Variable
+JAPAN Offshore 311 39.0 142.5 160M Generator HWST CRF	Variable
+JAPAN Offshore 311 39.0 142.5 160M Windspeed	Variable
+JAPAN Offshore 311 39.0 142.5 160M HHxWS	Variable
+JAPAN Offshore 311 39.0 142.5 160M HHxWSc	Variable
+JAPAN Offshore 311 39.0 142.5 160M HHc	Variable
+JAPAN Offshore 311 39.0 142.5 160M WSc	Variable
+JAPAN Offshore 311 39.0 142.5 160M HHxWSc+HHc	Variable
+JAPAN Offshore 311 39.0 142.5 160M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 311 39.0 142.5 160M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 311 39.0 142.5 Windspeed	Variable
+JAPAN Offshore 311 39.0 142.5 File	DataSource
+JAPAN Offshore 311 39.0 142.5 TS	DBTimeSeries
+JAPAN Offshore 323 39.5 140.0 WSc	Variable
+JAPAN Offshore 323 39.5 140.0 Base Wind Speed	Variable
+JAPAN Offshore 323 39.5 140.0 100M Generator LWST	Generator
+JAPAN Offshore 323 39.5 140.0 100M Generator LWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 100M Generator LWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 100M Generator NWST	Generator
+JAPAN Offshore 323 39.5 140.0 100M Generator NWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 100M Generator NWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 100M Generator HWST	Generator
+JAPAN Offshore 323 39.5 140.0 100M Generator HWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 100M Generator HWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 100M Windspeed	Variable
+JAPAN Offshore 323 39.5 140.0 100M HHxWS	Variable
+JAPAN Offshore 323 39.5 140.0 100M HHxWSc	Variable
+JAPAN Offshore 323 39.5 140.0 100M HHc	Variable
+JAPAN Offshore 323 39.5 140.0 100M WSc	Variable
+JAPAN Offshore 323 39.5 140.0 100M HHxWSc+HHc	Variable
+JAPAN Offshore 323 39.5 140.0 100M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 323 39.5 140.0 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 323 39.5 140.0 130M Generator LWST	Generator
+JAPAN Offshore 323 39.5 140.0 130M Generator LWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 130M Generator LWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 130M Generator NWST	Generator
+JAPAN Offshore 323 39.5 140.0 130M Generator NWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 130M Generator NWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 130M Generator HWST	Generator
+JAPAN Offshore 323 39.5 140.0 130M Generator HWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 130M Generator HWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 130M Windspeed	Variable
+JAPAN Offshore 323 39.5 140.0 130M HHxWS	Variable
+JAPAN Offshore 323 39.5 140.0 130M HHxWSc	Variable
+JAPAN Offshore 323 39.5 140.0 130M HHc	Variable
+JAPAN Offshore 323 39.5 140.0 130M WSc	Variable
+JAPAN Offshore 323 39.5 140.0 130M HHxWSc+HHc	Variable
+JAPAN Offshore 323 39.5 140.0 130M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 323 39.5 140.0 130M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 323 39.5 140.0 160M Generator LWST	Generator
+JAPAN Offshore 323 39.5 140.0 160M Generator LWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 160M Generator LWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 160M Generator NWST	Generator
+JAPAN Offshore 323 39.5 140.0 160M Generator NWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 160M Generator NWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 160M Generator HWST	Generator
+JAPAN Offshore 323 39.5 140.0 160M Generator HWST Hub Height	Variable
+JAPAN Offshore 323 39.5 140.0 160M Generator HWST CRF	Variable
+JAPAN Offshore 323 39.5 140.0 160M Windspeed	Variable
+JAPAN Offshore 323 39.5 140.0 160M HHxWS	Variable
+JAPAN Offshore 323 39.5 140.0 160M HHxWSc	Variable
+JAPAN Offshore 323 39.5 140.0 160M HHc	Variable
+JAPAN Offshore 323 39.5 140.0 160M WSc	Variable
+JAPAN Offshore 323 39.5 140.0 160M HHxWSc+HHc	Variable
+JAPAN Offshore 323 39.5 140.0 160M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 323 39.5 140.0 160M HHxWSc+HHc+WSc+C	Variable
+JAPAN Offshore 323 39.5 140.0 Windspeed	Variable
+JAPAN Offshore 323 39.5 140.0 File	DataSource
+JAPAN Offshore 323 39.5 140.0 TS	DBTimeSeries
+Object_Name	Object_Type
+JAPAN Onshore 100m 692 37.0 138.75 WSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 Base Wind Speed	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator LWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator LWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator NWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator NWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator HWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M Generator HWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M Windspeed	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M HHxWS	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M HHxWSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M HHc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M WSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator LWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator LWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator NWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator NWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator HWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M Generator HWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M Windspeed	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M HHxWS	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M HHxWSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M HHc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M WSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator LWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator LWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator NWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator NWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator HWST	Generator
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M Generator HWST CRF	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M Windspeed	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M HHxWS	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M HHxWSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M HHc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M WSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 692 37.0 138.75 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 692 37.0 138.75 Windspeed	Variable
+JAPAN Onshore 100m 692 37.0 138.75 File	DataSource
+JAPAN Onshore 100m 692 37.0 138.75 TS	DBTimeSeries
+JAPAN Onshore 100m 693 37.0 139.375 WSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 Base Wind Speed	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator LWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator LWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator NWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator NWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator HWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M Generator HWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M Windspeed	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M HHxWS	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M HHxWSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M HHc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M WSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator LWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator LWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator NWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator NWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator HWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M Generator HWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M Windspeed	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M HHxWS	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M HHxWSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M HHc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M WSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator LWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator LWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator NWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator NWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator HWST	Generator
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M Generator HWST CRF	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M Windspeed	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M HHxWS	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M HHxWSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M HHc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M WSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 693 37.0 139.375 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 693 37.0 139.375 Windspeed	Variable
+JAPAN Onshore 100m 693 37.0 139.375 File	DataSource
+JAPAN Onshore 100m 693 37.0 139.375 TS	DBTimeSeries
+JAPAN Onshore 100m 705 37.5 138.75 WSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 Base Wind Speed	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator LWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator LWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator NWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator NWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator HWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M Generator HWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M Windspeed	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M HHxWS	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M HHxWSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M HHc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M WSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator LWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator LWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator NWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator NWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator HWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M Generator HWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M Windspeed	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M HHxWS	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M HHxWSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M HHc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M WSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator LWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator LWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator NWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator NWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator HWST	Generator
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M Generator HWST CRF	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M Windspeed	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M HHxWS	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M HHxWSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M HHc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M WSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 705 37.5 138.75 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 705 37.5 138.75 Windspeed	Variable
+JAPAN Onshore 100m 705 37.5 138.75 File	DataSource
+JAPAN Onshore 100m 705 37.5 138.75 TS	DBTimeSeries
+JAPAN Onshore 100m 708 37.5 140.625 WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 Base Wind Speed	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator LWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator LWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator NWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator NWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator HWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M Generator HWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M Windspeed	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M HHxWS	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M HHxWSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M HHc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator LWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator LWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator NWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator NWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator HWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M Generator HWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M Windspeed	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M HHxWS	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M HHxWSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M HHc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator LWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator LWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator NWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator NWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator HWST	Generator
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M Generator HWST CRF	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M Windspeed	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M HHxWS	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M HHxWSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M HHc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 708 37.5 140.625 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 708 37.5 140.625 Windspeed	Variable
+JAPAN Onshore 100m 708 37.5 140.625 File	DataSource
+JAPAN Onshore 100m 708 37.5 140.625 TS	DBTimeSeries
+JAPAN Onshore 100m 720 38.0 140.0 WSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 Base Wind Speed	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator LWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator LWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator NWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator NWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator HWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M Generator HWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M Windspeed	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M HHxWS	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M HHxWSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M HHc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M WSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator LWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator LWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator NWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator NWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator HWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M Generator HWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M Windspeed	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M HHxWS	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M HHxWSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M HHc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M WSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator LWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator LWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator NWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator NWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator HWST	Generator
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M Generator HWST CRF	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M Windspeed	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M HHxWS	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M HHxWSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M HHc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M WSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 720 38.0 140.0 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 720 38.0 140.0 Windspeed	Variable
+JAPAN Onshore 100m 720 38.0 140.0 File	DataSource
+JAPAN Onshore 100m 720 38.0 140.0 TS	DBTimeSeries
+JAPAN Onshore 100m 734 38.5 140.625 WSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 Base Wind Speed	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator LWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator LWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator NWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator NWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator HWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M Generator HWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M Windspeed	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M HHxWS	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M HHxWSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M HHc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M WSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator LWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator LWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator NWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator NWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator HWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M Generator HWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M Windspeed	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M HHxWS	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M HHxWSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M HHc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M WSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator LWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator LWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator NWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator NWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator HWST	Generator
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M Generator HWST CRF	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M Windspeed	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M HHxWS	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M HHxWSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M HHc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M WSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 734 38.5 140.625 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 734 38.5 140.625 Windspeed	Variable
+JAPAN Onshore 100m 734 38.5 140.625 File	DataSource
+JAPAN Onshore 100m 734 38.5 140.625 TS	DBTimeSeries
+JAPAN Onshore 100m 878 41.0 141.25 WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 Base Wind Speed	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator LWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator LWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator NWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator NWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator HWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M Generator HWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M Windspeed	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M HHxWS	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M HHxWSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M HHc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator LWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator LWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator NWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator NWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator HWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M Generator HWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M Windspeed	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M HHxWS	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M HHxWSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M HHc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator LWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator LWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator NWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator NWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator HWST	Generator
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M Generator HWST CRF	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M Windspeed	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M HHxWS	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M HHxWSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M HHc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 878 41.0 141.25 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 100m 878 41.0 141.25 Windspeed	Variable
+JAPAN Onshore 100m 878 41.0 141.25 File	DataSource
+JAPAN Onshore 100m 878 41.0 141.25 TS	DBTimeSeries
+JAPAN Onshore 309 39.0 141.25 WSc	Variable
+JAPAN Onshore 309 39.0 141.25 Base Wind Speed	Variable
+JAPAN Onshore 309 39.0 141.25 70M Generator LWST	Generator
+JAPAN Onshore 309 39.0 141.25 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 70M Generator LWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 70M Generator NWST	Generator
+JAPAN Onshore 309 39.0 141.25 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 70M Generator NWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 70M Generator HWST	Generator
+JAPAN Onshore 309 39.0 141.25 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 70M Generator HWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 70M Windspeed	Variable
+JAPAN Onshore 309 39.0 141.25 70M HHxWS	Variable
+JAPAN Onshore 309 39.0 141.25 70M HHxWSc	Variable
+JAPAN Onshore 309 39.0 141.25 70M HHc	Variable
+JAPAN Onshore 309 39.0 141.25 70M WSc	Variable
+JAPAN Onshore 309 39.0 141.25 70M HHxWSc+HHc	Variable
+JAPAN Onshore 309 39.0 141.25 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 309 39.0 141.25 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 309 39.0 141.25 85M Generator LWST	Generator
+JAPAN Onshore 309 39.0 141.25 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 85M Generator LWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 85M Generator NWST	Generator
+JAPAN Onshore 309 39.0 141.25 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 85M Generator NWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 85M Generator HWST	Generator
+JAPAN Onshore 309 39.0 141.25 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 85M Generator HWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 85M Windspeed	Variable
+JAPAN Onshore 309 39.0 141.25 85M HHxWS	Variable
+JAPAN Onshore 309 39.0 141.25 85M HHxWSc	Variable
+JAPAN Onshore 309 39.0 141.25 85M HHc	Variable
+JAPAN Onshore 309 39.0 141.25 85M WSc	Variable
+JAPAN Onshore 309 39.0 141.25 85M HHxWSc+HHc	Variable
+JAPAN Onshore 309 39.0 141.25 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 309 39.0 141.25 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 309 39.0 141.25 100M Generator LWST	Generator
+JAPAN Onshore 309 39.0 141.25 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 100M Generator LWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 100M Generator NWST	Generator
+JAPAN Onshore 309 39.0 141.25 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 100M Generator NWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 100M Generator HWST	Generator
+JAPAN Onshore 309 39.0 141.25 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 309 39.0 141.25 100M Generator HWST CRF	Variable
+JAPAN Onshore 309 39.0 141.25 100M Windspeed	Variable
+JAPAN Onshore 309 39.0 141.25 100M HHxWS	Variable
+JAPAN Onshore 309 39.0 141.25 100M HHxWSc	Variable
+JAPAN Onshore 309 39.0 141.25 100M HHc	Variable
+JAPAN Onshore 309 39.0 141.25 100M WSc	Variable
+JAPAN Onshore 309 39.0 141.25 100M HHxWSc+HHc	Variable
+JAPAN Onshore 309 39.0 141.25 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 309 39.0 141.25 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 309 39.0 141.25 Windspeed	Variable
+JAPAN Onshore 309 39.0 141.25 File	DataSource
+JAPAN Onshore 309 39.0 141.25 TS	DBTimeSeries
+JAPAN Onshore 324 39.5 140.625 WSc	Variable
+JAPAN Onshore 324 39.5 140.625 Base Wind Speed	Variable
+JAPAN Onshore 324 39.5 140.625 70M Generator LWST	Generator
+JAPAN Onshore 324 39.5 140.625 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 70M Generator LWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 70M Generator NWST	Generator
+JAPAN Onshore 324 39.5 140.625 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 70M Generator NWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 70M Generator HWST	Generator
+JAPAN Onshore 324 39.5 140.625 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 70M Generator HWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 70M Windspeed	Variable
+JAPAN Onshore 324 39.5 140.625 70M HHxWS	Variable
+JAPAN Onshore 324 39.5 140.625 70M HHxWSc	Variable
+JAPAN Onshore 324 39.5 140.625 70M HHc	Variable
+JAPAN Onshore 324 39.5 140.625 70M WSc	Variable
+JAPAN Onshore 324 39.5 140.625 70M HHxWSc+HHc	Variable
+JAPAN Onshore 324 39.5 140.625 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 324 39.5 140.625 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 324 39.5 140.625 85M Generator LWST	Generator
+JAPAN Onshore 324 39.5 140.625 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 85M Generator LWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 85M Generator NWST	Generator
+JAPAN Onshore 324 39.5 140.625 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 85M Generator NWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 85M Generator HWST	Generator
+JAPAN Onshore 324 39.5 140.625 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 85M Generator HWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 85M Windspeed	Variable
+JAPAN Onshore 324 39.5 140.625 85M HHxWS	Variable
+JAPAN Onshore 324 39.5 140.625 85M HHxWSc	Variable
+JAPAN Onshore 324 39.5 140.625 85M HHc	Variable
+JAPAN Onshore 324 39.5 140.625 85M WSc	Variable
+JAPAN Onshore 324 39.5 140.625 85M HHxWSc+HHc	Variable
+JAPAN Onshore 324 39.5 140.625 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 324 39.5 140.625 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 324 39.5 140.625 100M Generator LWST	Generator
+JAPAN Onshore 324 39.5 140.625 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 100M Generator LWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 100M Generator NWST	Generator
+JAPAN Onshore 324 39.5 140.625 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 100M Generator NWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 100M Generator HWST	Generator
+JAPAN Onshore 324 39.5 140.625 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 324 39.5 140.625 100M Generator HWST CRF	Variable
+JAPAN Onshore 324 39.5 140.625 100M Windspeed	Variable
+JAPAN Onshore 324 39.5 140.625 100M HHxWS	Variable
+JAPAN Onshore 324 39.5 140.625 100M HHxWSc	Variable
+JAPAN Onshore 324 39.5 140.625 100M HHc	Variable
+JAPAN Onshore 324 39.5 140.625 100M WSc	Variable
+JAPAN Onshore 324 39.5 140.625 100M HHxWSc+HHc	Variable
+JAPAN Onshore 324 39.5 140.625 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 324 39.5 140.625 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 324 39.5 140.625 Windspeed	Variable
+JAPAN Onshore 324 39.5 140.625 File	DataSource
+JAPAN Onshore 324 39.5 140.625 TS	DBTimeSeries
+JAPAN Onshore 340 40.0 140.625 WSc	Variable
+JAPAN Onshore 340 40.0 140.625 Base Wind Speed	Variable
+JAPAN Onshore 340 40.0 140.625 70M Generator LWST	Generator
+JAPAN Onshore 340 40.0 140.625 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 70M Generator LWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 70M Generator NWST	Generator
+JAPAN Onshore 340 40.0 140.625 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 70M Generator NWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 70M Generator HWST	Generator
+JAPAN Onshore 340 40.0 140.625 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 70M Generator HWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 70M Windspeed	Variable
+JAPAN Onshore 340 40.0 140.625 70M HHxWS	Variable
+JAPAN Onshore 340 40.0 140.625 70M HHxWSc	Variable
+JAPAN Onshore 340 40.0 140.625 70M HHc	Variable
+JAPAN Onshore 340 40.0 140.625 70M WSc	Variable
+JAPAN Onshore 340 40.0 140.625 70M HHxWSc+HHc	Variable
+JAPAN Onshore 340 40.0 140.625 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 340 40.0 140.625 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 340 40.0 140.625 85M Generator LWST	Generator
+JAPAN Onshore 340 40.0 140.625 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 85M Generator LWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 85M Generator NWST	Generator
+JAPAN Onshore 340 40.0 140.625 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 85M Generator NWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 85M Generator HWST	Generator
+JAPAN Onshore 340 40.0 140.625 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 85M Generator HWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 85M Windspeed	Variable
+JAPAN Onshore 340 40.0 140.625 85M HHxWS	Variable
+JAPAN Onshore 340 40.0 140.625 85M HHxWSc	Variable
+JAPAN Onshore 340 40.0 140.625 85M HHc	Variable
+JAPAN Onshore 340 40.0 140.625 85M WSc	Variable
+JAPAN Onshore 340 40.0 140.625 85M HHxWSc+HHc	Variable
+JAPAN Onshore 340 40.0 140.625 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 340 40.0 140.625 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 340 40.0 140.625 100M Generator LWST	Generator
+JAPAN Onshore 340 40.0 140.625 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 100M Generator LWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 100M Generator NWST	Generator
+JAPAN Onshore 340 40.0 140.625 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 100M Generator NWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 100M Generator HWST	Generator
+JAPAN Onshore 340 40.0 140.625 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 340 40.0 140.625 100M Generator HWST CRF	Variable
+JAPAN Onshore 340 40.0 140.625 100M Windspeed	Variable
+JAPAN Onshore 340 40.0 140.625 100M HHxWS	Variable
+JAPAN Onshore 340 40.0 140.625 100M HHxWSc	Variable
+JAPAN Onshore 340 40.0 140.625 100M HHc	Variable
+JAPAN Onshore 340 40.0 140.625 100M WSc	Variable
+JAPAN Onshore 340 40.0 140.625 100M HHxWSc+HHc	Variable
+JAPAN Onshore 340 40.0 140.625 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 340 40.0 140.625 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 340 40.0 140.625 Windspeed	Variable
+JAPAN Onshore 340 40.0 140.625 File	DataSource
+JAPAN Onshore 340 40.0 140.625 TS	DBTimeSeries
+JAPAN Onshore 342 40.0 141.875 WSc	Variable
+JAPAN Onshore 342 40.0 141.875 Base Wind Speed	Variable
+JAPAN Onshore 342 40.0 141.875 70M Generator LWST	Generator
+JAPAN Onshore 342 40.0 141.875 70M Generator LWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 70M Generator LWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 70M Generator NWST	Generator
+JAPAN Onshore 342 40.0 141.875 70M Generator NWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 70M Generator NWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 70M Generator HWST	Generator
+JAPAN Onshore 342 40.0 141.875 70M Generator HWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 70M Generator HWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 70M Windspeed	Variable
+JAPAN Onshore 342 40.0 141.875 70M HHxWS	Variable
+JAPAN Onshore 342 40.0 141.875 70M HHxWSc	Variable
+JAPAN Onshore 342 40.0 141.875 70M HHc	Variable
+JAPAN Onshore 342 40.0 141.875 70M WSc	Variable
+JAPAN Onshore 342 40.0 141.875 70M HHxWSc+HHc	Variable
+JAPAN Onshore 342 40.0 141.875 70M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 342 40.0 141.875 70M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 342 40.0 141.875 85M Generator LWST	Generator
+JAPAN Onshore 342 40.0 141.875 85M Generator LWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 85M Generator LWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 85M Generator NWST	Generator
+JAPAN Onshore 342 40.0 141.875 85M Generator NWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 85M Generator NWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 85M Generator HWST	Generator
+JAPAN Onshore 342 40.0 141.875 85M Generator HWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 85M Generator HWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 85M Windspeed	Variable
+JAPAN Onshore 342 40.0 141.875 85M HHxWS	Variable
+JAPAN Onshore 342 40.0 141.875 85M HHxWSc	Variable
+JAPAN Onshore 342 40.0 141.875 85M HHc	Variable
+JAPAN Onshore 342 40.0 141.875 85M WSc	Variable
+JAPAN Onshore 342 40.0 141.875 85M HHxWSc+HHc	Variable
+JAPAN Onshore 342 40.0 141.875 85M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 342 40.0 141.875 85M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 342 40.0 141.875 100M Generator LWST	Generator
+JAPAN Onshore 342 40.0 141.875 100M Generator LWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 100M Generator LWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 100M Generator NWST	Generator
+JAPAN Onshore 342 40.0 141.875 100M Generator NWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 100M Generator NWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 100M Generator HWST	Generator
+JAPAN Onshore 342 40.0 141.875 100M Generator HWST Hub Height	Variable
+JAPAN Onshore 342 40.0 141.875 100M Generator HWST CRF	Variable
+JAPAN Onshore 342 40.0 141.875 100M Windspeed	Variable
+JAPAN Onshore 342 40.0 141.875 100M HHxWS	Variable
+JAPAN Onshore 342 40.0 141.875 100M HHxWSc	Variable
+JAPAN Onshore 342 40.0 141.875 100M HHc	Variable
+JAPAN Onshore 342 40.0 141.875 100M WSc	Variable
+JAPAN Onshore 342 40.0 141.875 100M HHxWSc+HHc	Variable
+JAPAN Onshore 342 40.0 141.875 100M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 342 40.0 141.875 100M HHxWSc+HHc+WSc+C	Variable
+JAPAN Onshore 342 40.0 141.875 Windspeed	Variable
+JAPAN Onshore 342 40.0 141.875 File	DataSource
+JAPAN Onshore 342 40.0 141.875 TS	DBTimeSeries

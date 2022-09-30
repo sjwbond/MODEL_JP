@@ -1,0 +1,65 @@
+Object_Name	Object_Type
+HO Batteries 2020	Storage
+HO Batteries 2021	Storage
+HO Batteries 2022	Storage
+HO Batteries 2023	Storage
+HO Batteries 2024	Storage
+HO Batteries 2025	Storage
+HO Batteries 2026	Storage
+HO Batteries 2027	Storage
+HO Batteries 2028	Storage
+HO Batteries 2029	Storage
+HO Batteries 2030	Storage
+HO Batteries 2031	Storage
+HO Batteries 2032	Storage
+HO Batteries 2033	Storage
+HO Batteries 2034	Storage
+HO Batteries 2035	Storage
+HO Batteries 2036	Storage
+HO Batteries 2037	Storage
+HO Batteries 2038	Storage
+HO Batteries 2039	Storage
+HO Batteries 2040	Storage
+HO Pumped Storage	Storage
+HO Batteries 2h 2020	Storage
+HO Batteries 2h 2021	Storage
+HO Batteries 2h 2022	Storage
+HO Batteries 2h 2023	Storage
+HO Batteries 2h 2024	Storage
+HO Batteries 2h 2025	Storage
+HO Batteries 2h 2026	Storage
+HO Batteries 2h 2027	Storage
+HO Batteries 2h 2028	Storage
+HO Batteries 2h 2029	Storage
+HO Batteries 2h 2030	Storage
+HO Batteries 2h 2031	Storage
+HO Batteries 2h 2032	Storage
+HO Batteries 2h 2033	Storage
+HO Batteries 2h 2034	Storage
+HO Batteries 2h 2035	Storage
+HO Batteries 2h 2036	Storage
+HO Batteries 2h 2037	Storage
+HO Batteries 2h 2038	Storage
+HO Batteries 2h 2039	Storage
+HO Batteries 2h 2040	Storage
+HO Batteries 4h 2020	Storage
+HO Batteries 4h 2021	Storage
+HO Batteries 4h 2022	Storage
+HO Batteries 4h 2023	Storage
+HO Batteries 4h 2024	Storage
+HO Batteries 4h 2025	Storage
+HO Batteries 4h 2026	Storage
+HO Batteries 4h 2027	Storage
+HO Batteries 4h 2028	Storage
+HO Batteries 4h 2029	Storage
+HO Batteries 4h 2030	Storage
+HO Batteries 4h 2031	Storage
+HO Batteries 4h 2032	Storage
+HO Batteries 4h 2033	Storage
+HO Batteries 4h 2034	Storage
+HO Batteries 4h 2035	Storage
+HO Batteries 4h 2036	Storage
+HO Batteries 4h 2037	Storage
+HO Batteries 4h 2038	Storage
+HO Batteries 4h 2039	Storage
+HO Batteries 4h 2040	Storage

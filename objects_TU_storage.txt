@@ -1,0 +1,65 @@
+Object_Name	Object_Type
+TU Batteries 2020	Storage
+TU Batteries 2021	Storage
+TU Batteries 2022	Storage
+TU Batteries 2023	Storage
+TU Batteries 2024	Storage
+TU Batteries 2025	Storage
+TU Batteries 2026	Storage
+TU Batteries 2027	Storage
+TU Batteries 2028	Storage
+TU Batteries 2029	Storage
+TU Batteries 2030	Storage
+TU Batteries 2031	Storage
+TU Batteries 2032	Storage
+TU Batteries 2033	Storage
+TU Batteries 2034	Storage
+TU Batteries 2035	Storage
+TU Batteries 2036	Storage
+TU Batteries 2037	Storage
+TU Batteries 2038	Storage
+TU Batteries 2039	Storage
+TU Batteries 2040	Storage
+TU Pumped Storage	Storage
+TU Batteries 2h 2020	Storage
+TU Batteries 2h 2021	Storage
+TU Batteries 2h 2022	Storage
+TU Batteries 2h 2023	Storage
+TU Batteries 2h 2024	Storage
+TU Batteries 2h 2025	Storage
+TU Batteries 2h 2026	Storage
+TU Batteries 2h 2027	Storage
+TU Batteries 2h 2028	Storage
+TU Batteries 2h 2029	Storage
+TU Batteries 2h 2030	Storage
+TU Batteries 2h 2031	Storage
+TU Batteries 2h 2032	Storage
+TU Batteries 2h 2033	Storage
+TU Batteries 2h 2034	Storage
+TU Batteries 2h 2035	Storage
+TU Batteries 2h 2036	Storage
+TU Batteries 2h 2037	Storage
+TU Batteries 2h 2038	Storage
+TU Batteries 2h 2039	Storage
+TU Batteries 2h 2040	Storage
+TU Batteries 4h 2020	Storage
+TU Batteries 4h 2021	Storage
+TU Batteries 4h 2022	Storage
+TU Batteries 4h 2023	Storage
+TU Batteries 4h 2024	Storage
+TU Batteries 4h 2025	Storage
+TU Batteries 4h 2026	Storage
+TU Batteries 4h 2027	Storage
+TU Batteries 4h 2028	Storage
+TU Batteries 4h 2029	Storage
+TU Batteries 4h 2030	Storage
+TU Batteries 4h 2031	Storage
+TU Batteries 4h 2032	Storage
+TU Batteries 4h 2033	Storage
+TU Batteries 4h 2034	Storage
+TU Batteries 4h 2035	Storage
+TU Batteries 4h 2036	Storage
+TU Batteries 4h 2037	Storage
+TU Batteries 4h 2038	Storage
+TU Batteries 4h 2039	Storage
+TU Batteries 4h 2040	Storage

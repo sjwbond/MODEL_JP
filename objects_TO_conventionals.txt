@@ -1,0 +1,293 @@
+Object_Name	Object_Type
+TO Coal 1990	Generator
+TO Coal 1995	Generator
+TO Coal 2000	Generator
+TO Coal 2005	Generator
+TO Coal 2010	Generator
+TO Coal 2015	Generator
+TO Coal 2020	Generator
+TO Coal 2025	Generator
+TO Coal 2030	Generator
+TO Coal 2035	Generator
+TO Coal 2040	Generator
+TO Coal 2045	Generator
+TO Coal 2050	Generator
+TO Coal 2055	Generator
+TO Coal 2060	Generator
+TO Coal 2065	Generator
+TO CCGT 1990	Generator
+TO CCGT 1995	Generator
+TO CCGT 2000	Generator
+TO CCGT 2005	Generator
+TO CCGT 2010	Generator
+TO CCGT 2015	Generator
+TO CCGT 2020	Generator
+TO CCGT 2025	Generator
+TO CCGT 2030	Generator
+TO CCGT 2031	Generator
+TO CCGT 2032	Generator
+TO CCGT 2033	Generator
+TO CCGT 2034	Generator
+TO CCGT 2035	Generator
+TO CCGT 2036	Generator
+TO CCGT 2037	Generator
+TO CCGT 2038	Generator
+TO CCGT 2039	Generator
+TO CCGT 2040	Generator
+TO CCGT 2041	Generator
+TO CCGT 2042	Generator
+TO CCGT 2043	Generator
+TO CCGT 2044	Generator
+TO CCGT 2045	Generator
+TO CCGT 2046	Generator
+TO CCGT 2047	Generator
+TO CCGT 2048	Generator
+TO CCGT 2049	Generator
+TO CCGT 2050	Generator
+TO CCGT 2051	Generator
+TO CCGT 2052	Generator
+TO CCGT 2053	Generator
+TO CCGT 2054	Generator
+TO CCGT 2055	Generator
+TO CCGT 2056	Generator
+TO CCGT 2057	Generator
+TO CCGT 2058	Generator
+TO CCGT 2059	Generator
+TO CCGT 2060	Generator
+TO CCGT 2061	Generator
+TO CCGT 2062	Generator
+TO CCGT 2063	Generator
+TO CCGT 2064	Generator
+TO CCGT 2065	Generator
+TO OCGT 1990	Generator
+TO OCGT 1995	Generator
+TO OCGT 2000	Generator
+TO OCGT 2005	Generator
+TO OCGT 2010	Generator
+TO OCGT 2015	Generator
+TO OCGT 2020	Generator
+TO OCGT 2025	Generator
+TO OCGT 2030	Generator
+TO OCGT 2035	Generator
+TO OCGT 2040	Generator
+TO OCGT 2045	Generator
+TO OCGT 2050	Generator
+TO OCGT 2055	Generator
+TO OCGT 2060	Generator
+TO OCGT 2065	Generator
+TO Biomass 1990	Generator
+TO Biomass 1995	Generator
+TO Biomass 2000	Generator
+TO Biomass 2005	Generator
+TO Biomass 2010	Generator
+TO Biomass 2015	Generator
+TO Biomass 2020	Generator
+TO Biomass 2025	Generator
+TO Biomass 2030	Generator
+TO Biomass 2035	Generator
+TO Biomass 2040	Generator
+TO Biomass 2045	Generator
+TO Biomass 2050	Generator
+TO Biomass 2055	Generator
+TO Biomass 2060	Generator
+TO Biomass 2065	Generator
+TO Lignite 1990	Generator
+TO Lignite 1995	Generator
+TO Lignite 2000	Generator
+TO Lignite 2005	Generator
+TO Lignite 2010	Generator
+TO Lignite 2015	Generator
+TO Lignite 2020	Generator
+TO Lignite 2025	Generator
+TO Lignite 2030	Generator
+TO Lignite 2035	Generator
+TO Lignite 2040	Generator
+TO Lignite 2045	Generator
+TO Lignite 2050	Generator
+TO Lignite 2055	Generator
+TO Lignite 2060	Generator
+TO Lignite 2065	Generator
+TO Nuclear 1990	Generator
+TO Nuclear 1995	Generator
+TO Nuclear 2000	Generator
+TO Nuclear 2005	Generator
+TO Nuclear 2010	Generator
+TO Nuclear 2015	Generator
+TO Nuclear 2020	Generator
+TO CHP 1990	Generator
+TO CHP 1995	Generator
+TO CHP 2000	Generator
+TO CHP 2005	Generator
+TO CHP 2010	Generator
+TO CHP 2015	Generator
+TO CHP 2020	Generator
+TO CHP 2025	Generator
+TO CHP 2030	Generator
+TO CHP 2035	Generator
+TO CHP 2040	Generator
+TO CHP 2045	Generator
+TO CHP 2050	Generator
+TO CHP 2055	Generator
+TO CHP 2060	Generator
+TO CHP 2065	Generator
+TO Liquid 1990	Generator
+TO Liquid 1995	Generator
+TO Liquid 2000	Generator
+TO Liquid 2005	Generator
+TO Liquid 2010	Generator
+TO Liquid 2015	Generator
+TO Liquid 2020	Generator
+TO Liquid 2025	Generator
+TO Liquid 2030	Generator
+TO Liquid 2035	Generator
+TO Liquid 2040	Generator
+TO Liquid 2045	Generator
+TO Liquid 2050	Generator
+TO Liquid 2055	Generator
+TO Liquid 2060	Generator
+TO Liquid 2065	Generator
+TO Kamisu	Generator
+TO Suzukawa_Energy_Center	Generator
+TO Nakoso_u10	Generator
+TO Negishi_IGCC	Generator
+TO NSC_Kashima_Works	Generator
+TO Hirono_u5	Generator
+TO Hirono_u6	Generator
+TO Isogo_u1	Generator
+TO Isogo_u2	Generator
+TO Nakoso_u8	Generator
+TO Nakoso_u9	Generator
+TO Kashima_Works_u2	Generator
+TO Hitachinaka_Kyodo_u1	Generator
+TO Hitachinaka_u1	Generator
+TO Hitachinaka_u2	Generator
+TO Tokyo_Gas_Bay_Power	Generator
+TO Nakasode_CC	Generator
+TO Ichihara_CC	Generator
+TO Ibaraki_CC_u3	Generator
+TO Shin_Nakasode_CC	Generator
+TO Ibaraki_CC_u2	Generator
+TO JFE_East_Japan_Works_(Keihin)_u1	Generator
+TO JFE_East_Japan_Works_(Chiba)_u3	Generator
+TO JFE_East_Japan_Works_(Keihin)_u2	Generator
+TO JFE_East_Japan_Works_(Keihin)_u3	Generator
+TO JFE_East_Japan_Works_(Chiba)_u4	Generator
+TO JFE_East_Japan_Works_(Chiba)_CC	Generator
+TO Kimitsu_Kyodo_CC_u6	Generator
+TO Futtsu_CC_u1-2	Generator
+TO Futtsu_CC_u1-4	Generator
+TO Futtsu_CC_u2-1	Generator
+TO Futtsu_CC_u2-2	Generator
+TO Futtsu_CC_u2-4	Generator
+TO Futtsu_CC_u2-5	Generator
+TO Futtsu_CC_u2-7	Generator
+TO Futtsu_CC_u2-6	Generator
+TO Futtsu_CC_u1-5	Generator
+TO Futtsu_CC_u1-7	Generator
+TO Futtsu_CC_u2-3	Generator
+TO Futtsu_CC_u1-1	Generator
+TO Futtsu_CC_u1-3	Generator
+TO Futtsu_CC_u1-6	Generator
+TO Yokohama_u5	Generator
+TO Kawasaki_JR_CC_u2	Generator
+TO JFE_East_Japan_Works_(Keihin)_New_u1	Generator
+TO Kawasaki_JR_CC_u3	Generator
+TO Kawasaki_JR_CC_u4	Generator
+TO Tokyo_Gas_Yokosuka_CC	Generator
+TO Goi_u1	Generator
+TO Goi_u2	Generator
+TO Goi_u3	Generator
+TO Goi_u4	Generator
+TO Kashima_Kyodo_u5	Generator
+TO Kimitsu_Kyodo_CC_u5	Generator
+TO Kashima_Kyodo_u3	Generator
+TO Kimitsu_Kyodo_u3	Generator
+TO Kimitsu_Kyodo_u4	Generator
+TO Minami_Yokohama_u1	Generator
+TO Minami_Yokohama_u2	Generator
+TO Yokohama_u6	Generator
+TO Yokohama_CC_u7-3	Generator
+TO Yokohama_CC_u8-1	Generator
+TO Yokohama_CC_u8-2	Generator
+TO Goi_u5	Generator
+TO Goi_u6	Generator
+TO Chiba_CC_u1-1	Generator
+TO Chiba_CC_u1-2	Generator
+TO Chiba_CC_u1-3	Generator
+TO Chiba_CC_u1-4	Generator
+TO Chiba_CC_u2-1	Generator
+TO Chiba_CC_u2-2	Generator
+TO Chiba_CC_u2-3	Generator
+TO Chiba_CC_u2-4	Generator
+TO Yokohama_CC_u7-1	Generator
+TO Yokohama_CC_u7-2	Generator
+TO Yokohama_CC_u7-4	Generator
+TO Yokohama_CC_u8-3	Generator
+TO Yokohama_CC_u8-4	Generator
+TO Futtsu_CC_u3-1	Generator
+TO Futtsu_CC_u3-2	Generator
+TO Futtsu_CC_u3-3	Generator
+TO Futtsu_CC_u3-4	Generator
+TO Shinagawa_CC_u1-1	Generator
+TO Shinagawa_CC_u1-2	Generator
+TO Shinagawa_CC_u1-3	Generator
+TO Ogishima_Power_CC_u1	Generator
+TO Ogishima_Power_CC_u2	Generator
+TO Ogishima_Power_CC_u3	Generator
+TO Kawasaki_Natural_Gas_Power_Generation_u1	Generator
+TO Kawasaki_Natural_Gas_Power_Generation_u2	Generator
+TO Kashima_CC_u7-1	Generator
+TO Kashima_CC_u7-2	Generator
+TO Kashima_CC_u7-3	Generator
+TO Minami_Yokohama_u3	Generator
+TO JFE_Chiba_IPP	Generator
+TO Chiba_CC_u3-1	Generator
+TO Chiba_CC_u3-2	Generator
+TO Chiba_CC_u3-3	Generator
+TO Kawasaki_CC_u1-1	Generator
+TO Kawasaki_CC_u1-2	Generator
+TO Kawasaki_CC_u1-3	Generator
+TO Kawasaki_CC_u2-1	Generator
+TO Futtsu_CC_u4-1	Generator
+TO Futtsu_CC_u4-2	Generator
+TO Futtsu_CC_u4-3	Generator
+TO Anegasaki_u1	Generator
+TO Anegasaki_u2	Generator
+TO Anegasaki_u3	Generator
+TO Anegasaki_u4	Generator
+TO Anegasaki_u5	Generator
+TO Anegasaki_u6	Generator
+TO Sodegaura_u1	Generator
+TO Moka_CC_u1	Generator
+TO Moka_CC_u2	Generator
+TO Kawasaki_CC_u2-2	Generator
+TO Kawasaki_CC_u2-3	Generator
+TO Higashi_Ogishima_u1	Generator
+TO Higashi_Ogishima_u2	Generator
+TO Sodegaura_u2	Generator
+TO Sodegaura_u3	Generator
+TO Sodegaura_u4	Generator
+TO Kashima	Generator
+TO Kawasaki_JR_CC_u1	Generator
+TO Mizue_u1	Generator
+TO Kashima_Kyodo_u4	Generator
+TO Ohi_u1	Generator
+TO Ohi_u2	Generator
+TO Ohi_u3	Generator
+TO Hirono_u1	Generator
+TO Hirono_u2	Generator
+TO Kashima_u1	Generator
+TO Kashima_u2	Generator
+TO Kashima_u3	Generator
+TO Kashima_u4	Generator
+TO Hirono_u3	Generator
+TO Hirono_u4	Generator
+TO Kashima_u5	Generator
+TO Kashima_u6	Generator
+TO Kashiwazaki_Kariwa_Nuclear_u1	Generator
+TO Kashiwazaki_Kariwa_Nuclear_u2	Generator
+TO Kashiwazaki_Kariwa_Nuclear_u3	Generator
+TO Kashiwazaki_Kariwa_Nuclear_u4	Generator
+TO Kashiwazaki_Kariwa_Nuclear_u5	Generator
+TO Kashiwazaki_Kariwa_Nuclear_u6	Generator
+TO Kashiwazaki_Kariwa_Nuclear_u7	Generator

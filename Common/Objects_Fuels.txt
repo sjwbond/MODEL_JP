@@ -1,0 +1,13 @@
+Object_Name	Object_Type
+Japan Coal	Variable
+Japan Diesel	Variable
+Japan Gas	Variable
+Japan LSFO	Variable
+NBP GAS	Variable
+Japan Lignite	Variable
+Japan Biomass	Variable
+Japan Uranium	Variable
+TTF Gas Stochastic	Variable
+TTF Gas Stochastic File	DataSource
+CO2 Stochastic	Variable
+CO2 Stochastic File	DataSource

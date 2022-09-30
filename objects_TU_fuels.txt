@@ -1,0 +1,37 @@
+Object_Name	Object_Type
+TU Station Coal	Fuel
+TU Station Coal Base	Variable
+TU Station Coal Price	Variable
+TU Station Coal Delivery Adjustment	Variable
+TU Station Coal Stochastic	Variable
+TU Station Coal Stochastic File	DataSource
+TU Station Gas	Fuel
+TU Station Gas Base	Variable
+TU Station Gas Price	Variable
+TU Station Gas Delivery Adjustment	Variable
+TU Station Gas Stochastic	Variable
+TU Station Gas Stochastic File	DataSource
+TU Station Biomass	Fuel
+TU Station Biomass Base	Variable
+TU Station Biomass Price	Variable
+TU Station Biomass Delivery Adjustment	Variable
+TU Station Biomass Stochastic	Variable
+TU Station Biomass Stochastic File	DataSource
+TU Station Lignite	Fuel
+TU Station Lignite Base	Variable
+TU Station Lignite Price	Variable
+TU Station Lignite Delivery Adjustment	Variable
+TU Station Lignite Stochastic	Variable
+TU Station Lignite Stochastic File	DataSource
+TU Station Uranium	Fuel
+TU Station Uranium Base	Variable
+TU Station Uranium Price	Variable
+TU Station Uranium Delivery Adjustment	Variable
+TU Station Uranium Stochastic	Variable
+TU Station Uranium Stochastic File	DataSource
+TU Station LSFO	Fuel
+TU Station LSFO Base	Variable
+TU Station LSFO Price	Variable
+TU Station LSFO Delivery Adjustment	Variable
+TU Station LSFO Stochastic	Variable
+TU Station LSFO Stochastic File	DataSource

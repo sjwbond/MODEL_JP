@@ -1,0 +1,7 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+HO JP_RES_Hokkaido			max_storage	2010-01-01	2100-01-01	409200							
+HO JP_RES_Hokkaido			min_storage	2010-01-01	2100-01-01	40920							
+HO JP_RES_Hokkaido			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	4.58333333333333E-02	Multiply					
+HO JP_RES_Hokkaido			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+HO JP_RES_Hokkaido			save_data	2010-01-01	2100-01-01	1							
+HO JP_RES_Hokkaido			save_blocks	2010-01-01	2100-01-01	1							

@@ -1,0 +1,4 @@
+Object_Name	Object_Type
+TO ROR Generator	Generator
+TO ROR Capacity Factor	Variable
+TO ROR File	DataSource

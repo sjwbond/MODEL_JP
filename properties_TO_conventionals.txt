@@ -1,0 +1,2629 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TO Coal 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Coal 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Coal 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO Coal 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO Coal 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO Coal 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO Coal 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO Coal 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO Coal 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO Coal 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO Coal 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO Coal 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO Coal 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO Coal 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO Coal 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO Coal 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO CCGT 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO CCGT 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO CCGT 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO CCGT 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO CCGT 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO CCGT 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO CCGT 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO CCGT 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO CCGT 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO CCGT 2031			Bid Up Heat Rate	2031-01-01	2081-01-01	0							
+TO CCGT 2032			Bid Up Heat Rate	2032-01-01	2082-01-01	0							
+TO CCGT 2033			Bid Up Heat Rate	2033-01-01	2083-01-01	0							
+TO CCGT 2034			Bid Up Heat Rate	2034-01-01	2084-01-01	0							
+TO CCGT 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO CCGT 2036			Bid Up Heat Rate	2036-01-01	2086-01-01	0							
+TO CCGT 2037			Bid Up Heat Rate	2037-01-01	2087-01-01	0							
+TO CCGT 2038			Bid Up Heat Rate	2038-01-01	2088-01-01	0							
+TO CCGT 2039			Bid Up Heat Rate	2039-01-01	2089-01-01	0							
+TO CCGT 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO CCGT 2041			Bid Up Heat Rate	2041-01-01	2091-01-01	0							
+TO CCGT 2042			Bid Up Heat Rate	2042-01-01	2092-01-01	0							
+TO CCGT 2043			Bid Up Heat Rate	2043-01-01	2093-01-01	0							
+TO CCGT 2044			Bid Up Heat Rate	2044-01-01	2094-01-01	0							
+TO CCGT 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO CCGT 2046			Bid Up Heat Rate	2046-01-01	2096-01-01	0							
+TO CCGT 2047			Bid Up Heat Rate	2047-01-01	2097-01-01	0							
+TO CCGT 2048			Bid Up Heat Rate	2048-01-01	2098-01-01	0							
+TO CCGT 2049			Bid Up Heat Rate	2049-01-01	2099-01-01	0							
+TO CCGT 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO CCGT 2051			Bid Up Heat Rate	2051-01-01	2101-01-01	0							
+TO CCGT 2052			Bid Up Heat Rate	2052-01-01	2102-01-01	0							
+TO CCGT 2053			Bid Up Heat Rate	2053-01-01	2103-01-01	0							
+TO CCGT 2054			Bid Up Heat Rate	2054-01-01	2104-01-01	0							
+TO CCGT 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO CCGT 2056			Bid Up Heat Rate	2056-01-01	2106-01-01	0							
+TO CCGT 2057			Bid Up Heat Rate	2057-01-01	2107-01-01	0							
+TO CCGT 2058			Bid Up Heat Rate	2058-01-01	2108-01-01	0							
+TO CCGT 2059			Bid Up Heat Rate	2059-01-01	2109-01-01	0							
+TO CCGT 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO CCGT 2061			Bid Up Heat Rate	2061-01-01	2111-01-01	0							
+TO CCGT 2062			Bid Up Heat Rate	2062-01-01	2112-01-01	0							
+TO CCGT 2063			Bid Up Heat Rate	2063-01-01	2113-01-01	0							
+TO CCGT 2064			Bid Up Heat Rate	2064-01-01	2114-01-01	0							
+TO CCGT 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO OCGT 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO OCGT 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO OCGT 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO OCGT 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO OCGT 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO OCGT 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO OCGT 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO OCGT 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO OCGT 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO OCGT 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO OCGT 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO OCGT 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO OCGT 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO OCGT 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO OCGT 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO OCGT 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Biomass 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Biomass 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Biomass 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO Biomass 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO Biomass 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO Biomass 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO Biomass 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO Biomass 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO Biomass 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO Biomass 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO Biomass 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO Biomass 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO Biomass 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO Biomass 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO Biomass 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO Biomass 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Lignite 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Lignite 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Lignite 2000			Bid Up Heat Rate	2000-01-01	2031-01-01	0							
+TO Lignite 2005			Bid Up Heat Rate	2005-01-01	2038-01-01	0							
+TO Lignite 2010			Bid Up Heat Rate	2010-01-01	2038-01-01	0							
+TO Lignite 2015			Bid Up Heat Rate	2015-01-01	2038-01-01	0							
+TO Lignite 2020			Bid Up Heat Rate	2020-01-01	2039-01-01	0							
+TO Lignite 2025			Bid Up Heat Rate	2025-01-01	2039-01-01	0							
+TO Lignite 2030			Bid Up Heat Rate	2030-01-01	2040-01-01	0							
+TO Lignite 2035			Bid Up Heat Rate	2035-01-01	2040-01-01	0							
+TO Lignite 2040			Bid Up Heat Rate	2040-01-01	2040-01-01	0							
+TO Lignite 2045			Bid Up Heat Rate	2045-01-01	2040-01-01	0							
+TO Lignite 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO Lignite 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO Lignite 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO Lignite 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Nuclear 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Nuclear 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Nuclear 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO Nuclear 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO Nuclear 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO Nuclear 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO Nuclear 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO CHP 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO CHP 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO CHP 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO CHP 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO CHP 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO CHP 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO CHP 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO CHP 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO CHP 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO CHP 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO CHP 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO CHP 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO CHP 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO CHP 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO CHP 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO CHP 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Liquid 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Liquid 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Liquid 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO Liquid 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO Liquid 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO Liquid 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO Liquid 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO Liquid 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO Liquid 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO Liquid 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO Liquid 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO Liquid 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO Liquid 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO Liquid 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO Liquid 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO Liquid 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Kamisu			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Suzukawa_Energy_Center			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Nakoso_u10			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Negishi_IGCC			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO NSC_Kashima_Works			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Isogo_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Isogo_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Nakoso_u8			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Nakoso_u9			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_Works_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hitachinaka_Kyodo_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Bay_Power			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Nakasode_CC			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ichihara_CC			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Shin_Nakasode_CC			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_CC			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-7			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-7			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_u5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Yokosuka_CC			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_u6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_Chiba_IPP			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Sodegaura_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Moka_CC_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Moka_CC_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Sodegaura_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Sodegaura_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Sodegaura_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Mizue_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ohi_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ohi_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ohi_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u1			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u2			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u3			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u4			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u5			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u6			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u7			Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Coal 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TO Coal 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TO Coal 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TO Coal 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TO Coal 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TO Coal 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TO Coal 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TO Coal 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TO Coal 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TO Coal 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TO Coal 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TO Coal 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TO Coal 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TO Coal 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TO Coal 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TO Coal 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TO CCGT 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TO CCGT 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TO CCGT 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TO CCGT 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TO CCGT 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TO CCGT 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TO CCGT 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TO CCGT 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TO CCGT 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TO CCGT 2031			Bid Up Price	2031-01-01	2081-01-01	0							
+TO CCGT 2032			Bid Up Price	2032-01-01	2082-01-01	0							
+TO CCGT 2033			Bid Up Price	2033-01-01	2083-01-01	0							
+TO CCGT 2034			Bid Up Price	2034-01-01	2084-01-01	0							
+TO CCGT 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TO CCGT 2036			Bid Up Price	2036-01-01	2086-01-01	0							
+TO CCGT 2037			Bid Up Price	2037-01-01	2087-01-01	0							
+TO CCGT 2038			Bid Up Price	2038-01-01	2088-01-01	0							
+TO CCGT 2039			Bid Up Price	2039-01-01	2089-01-01	0							
+TO CCGT 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TO CCGT 2041			Bid Up Price	2041-01-01	2091-01-01	0							
+TO CCGT 2042			Bid Up Price	2042-01-01	2092-01-01	0							
+TO CCGT 2043			Bid Up Price	2043-01-01	2093-01-01	0							
+TO CCGT 2044			Bid Up Price	2044-01-01	2094-01-01	0							
+TO CCGT 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TO CCGT 2046			Bid Up Price	2046-01-01	2096-01-01	0							
+TO CCGT 2047			Bid Up Price	2047-01-01	2097-01-01	0							
+TO CCGT 2048			Bid Up Price	2048-01-01	2098-01-01	0							
+TO CCGT 2049			Bid Up Price	2049-01-01	2099-01-01	0							
+TO CCGT 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TO CCGT 2051			Bid Up Price	2051-01-01	2101-01-01	0							
+TO CCGT 2052			Bid Up Price	2052-01-01	2102-01-01	0							
+TO CCGT 2053			Bid Up Price	2053-01-01	2103-01-01	0							
+TO CCGT 2054			Bid Up Price	2054-01-01	2104-01-01	0							
+TO CCGT 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TO CCGT 2056			Bid Up Price	2056-01-01	2106-01-01	0							
+TO CCGT 2057			Bid Up Price	2057-01-01	2107-01-01	0							
+TO CCGT 2058			Bid Up Price	2058-01-01	2108-01-01	0							
+TO CCGT 2059			Bid Up Price	2059-01-01	2109-01-01	0							
+TO CCGT 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TO CCGT 2061			Bid Up Price	2061-01-01	2111-01-01	0							
+TO CCGT 2062			Bid Up Price	2062-01-01	2112-01-01	0							
+TO CCGT 2063			Bid Up Price	2063-01-01	2113-01-01	0							
+TO CCGT 2064			Bid Up Price	2064-01-01	2114-01-01	0							
+TO CCGT 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TO OCGT 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TO OCGT 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TO OCGT 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TO OCGT 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TO OCGT 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TO OCGT 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TO OCGT 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TO OCGT 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TO OCGT 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TO OCGT 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TO OCGT 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TO OCGT 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TO OCGT 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TO OCGT 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TO OCGT 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TO OCGT 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TO Biomass 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TO Biomass 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TO Biomass 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TO Biomass 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TO Biomass 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TO Biomass 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TO Biomass 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TO Biomass 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TO Biomass 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TO Biomass 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TO Biomass 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TO Biomass 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TO Biomass 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TO Biomass 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TO Biomass 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TO Biomass 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TO Lignite 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TO Lignite 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TO Lignite 2000			Bid Up Price	2000-01-01	2031-01-01	0							
+TO Lignite 2005			Bid Up Price	2005-01-01	2038-01-01	0							
+TO Lignite 2010			Bid Up Price	2010-01-01	2038-01-01	0							
+TO Lignite 2015			Bid Up Price	2015-01-01	2038-01-01	0							
+TO Lignite 2020			Bid Up Price	2020-01-01	2039-01-01	0							
+TO Lignite 2025			Bid Up Price	2025-01-01	2039-01-01	0							
+TO Lignite 2030			Bid Up Price	2030-01-01	2040-01-01	0							
+TO Lignite 2035			Bid Up Price	2035-01-01	2040-01-01	0							
+TO Lignite 2040			Bid Up Price	2040-01-01	2040-01-01	0							
+TO Lignite 2045			Bid Up Price	2045-01-01	2040-01-01	0							
+TO Lignite 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TO Lignite 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TO Lignite 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TO Lignite 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TO Nuclear 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TO Nuclear 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TO Nuclear 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TO Nuclear 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TO Nuclear 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TO Nuclear 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TO Nuclear 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TO CHP 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TO CHP 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TO CHP 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TO CHP 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TO CHP 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TO CHP 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TO CHP 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TO CHP 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TO CHP 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TO CHP 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TO CHP 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TO CHP 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TO CHP 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TO CHP 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TO CHP 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TO CHP 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TO Liquid 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TO Liquid 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TO Liquid 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TO Liquid 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TO Liquid 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TO Liquid 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TO Liquid 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TO Liquid 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TO Liquid 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TO Liquid 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TO Liquid 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TO Liquid 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TO Liquid 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TO Liquid 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TO Liquid 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TO Liquid 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TO Kamisu			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Suzukawa_Energy_Center			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Nakoso_u10			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Negishi_IGCC			Bid Up Price	2000-01-01	2100-01-01	0							
+TO NSC_Kashima_Works			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Isogo_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Isogo_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Nakoso_u8			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Nakoso_u9			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_Works_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hitachinaka_Kyodo_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Bay_Power			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Nakasode_CC			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ichihara_CC			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Shin_Nakasode_CC			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_CC			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-7			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-7			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_u5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Yokosuka_CC			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_u6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_Chiba_IPP			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Sodegaura_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Moka_CC_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Moka_CC_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Sodegaura_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Sodegaura_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Sodegaura_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Mizue_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ohi_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ohi_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ohi_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u1			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u2			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u3			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u4			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u5			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u6			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u7			Bid Up Price	2000-01-01	2100-01-01	0							
+TO Biomass 1990			Capacity	1990-01-01	2040-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 1995			Capacity	1995-01-01	2045-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2000			Capacity	2000-01-01	2050-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2005			Capacity	2005-01-01	2055-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2010			Capacity	2010-01-01	2060-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2015			Capacity	2015-01-01	2065-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2020			Capacity	2020-01-01	2070-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2025			Capacity	2025-01-01	2075-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2030			Capacity	2030-01-01	2080-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2035			Capacity	2035-01-01	2085-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2040			Capacity	2040-01-01	2090-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2045			Capacity	2045-01-01	2095-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2050			Capacity	2050-01-01	2100-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2055			Capacity	2055-01-01	2105-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2060			Capacity	2060-01-01	2110-01-01	0	TO Availability Biomass	Multiply					
+TO Biomass 2065			Capacity	2065-01-01	2115-01-01	0	TO Availability Biomass	Multiply					
+TO CCGT 1990			Capacity	1990-01-01	2040-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 1995			Capacity	1995-01-01	2045-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2000			Capacity	2000-01-01	2050-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2005			Capacity	2005-01-01	2055-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2010			Capacity	2010-01-01	2060-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2015			Capacity	2015-01-01	2065-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2020			Capacity	2020-01-01	2070-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2025			Capacity	2025-01-01	2075-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2030			Capacity	2030-01-01	2080-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2031			Capacity	2031-01-01	2081-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2032			Capacity	2032-01-01	2082-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2033			Capacity	2033-01-01	2083-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2034			Capacity	2034-01-01	2084-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2035			Capacity	2035-01-01	2085-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2036			Capacity	2036-01-01	2086-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2037			Capacity	2037-01-01	2087-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2038			Capacity	2038-01-01	2088-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2039			Capacity	2039-01-01	2089-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2040			Capacity	2040-01-01	2090-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2041			Capacity	2041-01-01	2091-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2042			Capacity	2042-01-01	2092-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2043			Capacity	2043-01-01	2093-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2044			Capacity	2044-01-01	2094-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2045			Capacity	2045-01-01	2095-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2046			Capacity	2046-01-01	2096-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2047			Capacity	2047-01-01	2097-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2048			Capacity	2048-01-01	2098-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2049			Capacity	2049-01-01	2099-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2050			Capacity	2050-01-01	2100-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2051			Capacity	2051-01-01	2101-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2052			Capacity	2052-01-01	2102-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2053			Capacity	2053-01-01	2103-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2054			Capacity	2054-01-01	2104-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2055			Capacity	2055-01-01	2105-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2056			Capacity	2056-01-01	2106-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2057			Capacity	2057-01-01	2107-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2058			Capacity	2058-01-01	2108-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2059			Capacity	2059-01-01	2109-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2060			Capacity	2060-01-01	2110-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2061			Capacity	2061-01-01	2111-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2062			Capacity	2062-01-01	2112-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2063			Capacity	2063-01-01	2113-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2064			Capacity	2064-01-01	2114-01-01	0	TO Availability CCGT	Multiply					
+TO CCGT 2065			Capacity	2065-01-01	2115-01-01	0	TO Availability CCGT	Multiply					
+TO CHP 1990			Capacity	1990-01-01	2040-01-01	0	TO Availability CHP	Multiply					
+TO CHP 1995			Capacity	1995-01-01	2045-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2000			Capacity	2000-01-01	2050-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2005			Capacity	2005-01-01	2055-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2010			Capacity	2010-01-01	2060-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2015			Capacity	2015-01-01	2065-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2020			Capacity	2020-01-01	2070-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2025			Capacity	2025-01-01	2075-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2030			Capacity	2030-01-01	2080-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2035			Capacity	2035-01-01	2085-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2040			Capacity	2040-01-01	2090-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2045			Capacity	2045-01-01	2095-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2050			Capacity	2050-01-01	2100-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2055			Capacity	2055-01-01	2105-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2060			Capacity	2060-01-01	2110-01-01	0	TO Availability CHP	Multiply					
+TO CHP 2065			Capacity	2065-01-01	2115-01-01	0	TO Availability CHP	Multiply					
+TO Coal 1990			Capacity	1990-01-01	2040-01-01	0	TO Availability Coal	Multiply					
+TO Coal 1995			Capacity	1995-01-01	2045-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2000			Capacity	2000-01-01	2050-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2005			Capacity	2005-01-01	2055-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2010			Capacity	2010-01-01	2060-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2015			Capacity	2015-01-01	2065-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2020			Capacity	2020-01-01	2070-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2025			Capacity	2025-01-01	2075-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2030			Capacity	2030-01-01	2080-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2035			Capacity	2035-01-01	2085-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2040			Capacity	2040-01-01	2090-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2045			Capacity	2045-01-01	2095-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2050			Capacity	2050-01-01	2100-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2055			Capacity	2055-01-01	2105-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2060			Capacity	2060-01-01	2110-01-01	0	TO Availability Coal	Multiply					
+TO Coal 2065			Capacity	2065-01-01	2115-01-01	0	TO Availability Coal	Multiply					
+TO Lignite 1990			Capacity	1990-01-01	2040-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 1995			Capacity	1995-01-01	2045-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2000			Capacity	2000-01-01	2031-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2005			Capacity	2005-01-01	2038-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2010			Capacity	2010-01-01	2038-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2015			Capacity	2015-01-01	2038-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2020			Capacity	2020-01-01	2039-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2025			Capacity	2025-01-01	2039-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2030			Capacity	2030-01-01	2040-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2035			Capacity	2035-01-01	2040-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2040			Capacity	2040-01-01	2040-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2045			Capacity	2045-01-01	2040-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2050			Capacity	2050-01-01	2100-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2055			Capacity	2055-01-01	2105-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2060			Capacity	2060-01-01	2110-01-01	0	TO Availability Lignite	Multiply					
+TO Lignite 2065			Capacity	2065-01-01	2115-01-01	0	TO Availability Lignite	Multiply					
+TO Liquid 1990			Capacity	1990-01-01	2040-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 1995			Capacity	1995-01-01	2045-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2000			Capacity	2000-01-01	2050-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2005			Capacity	2005-01-01	2055-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2010			Capacity	2010-01-01	2060-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2015			Capacity	2015-01-01	2065-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2020			Capacity	2020-01-01	2070-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2025			Capacity	2025-01-01	2075-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2030			Capacity	2030-01-01	2080-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2035			Capacity	2035-01-01	2085-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2040			Capacity	2040-01-01	2090-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2045			Capacity	2045-01-01	2095-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2050			Capacity	2050-01-01	2100-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2055			Capacity	2055-01-01	2105-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2060			Capacity	2060-01-01	2110-01-01	0	TO Availability Liquid	Multiply					
+TO Liquid 2065			Capacity	2065-01-01	2115-01-01	0	TO Availability Liquid	Multiply					
+TO Nuclear 1990			Capacity	1990-01-01	2040-01-01	0	TO Availability Nuclear	Multiply					
+TO Nuclear 1995			Capacity	1995-01-01	2045-01-01	0	TO Availability Nuclear	Multiply					
+TO Nuclear 2000			Capacity	2000-01-01	2050-01-01	0	TO Availability Nuclear	Multiply					
+TO Nuclear 2005			Capacity	2005-01-01	2055-01-01	0	TO Availability Nuclear	Multiply					
+TO Nuclear 2010			Capacity	2010-01-01	2060-01-01	0	TO Availability Nuclear	Multiply					
+TO Nuclear 2015			Capacity	2015-01-01	2065-01-01	0	TO Availability Nuclear	Multiply					
+TO Nuclear 2020			Capacity	2020-01-01	2070-01-01	0	TO Availability Nuclear	Multiply					
+TO OCGT 1990			Capacity	1990-01-01	2040-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 1995			Capacity	1995-01-01	2045-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2000			Capacity	2000-01-01	2050-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2005			Capacity	2005-01-01	2055-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2010			Capacity	2010-01-01	2060-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2015			Capacity	2015-01-01	2065-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2020			Capacity	2020-01-01	2070-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2025			Capacity	2025-01-01	2075-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2030			Capacity	2030-01-01	2080-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2035			Capacity	2035-01-01	2085-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2040			Capacity	2040-01-01	2090-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2045			Capacity	2045-01-01	2095-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2050			Capacity	2050-01-01	2100-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2055			Capacity	2055-01-01	2105-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2060			Capacity	2060-01-01	2110-01-01	0	TO Availability OCGT	Multiply					
+TO OCGT 2065			Capacity	2065-01-01	2115-01-01	0	TO Availability OCGT	Multiply					
+TO Tokyo_Gas_Bay_Power			Capacity	2000-01-01	2100-01-01	102.89	TO Availability Hard Coal	Multiply					
+TO Nakasode_CC			Capacity	2000-01-01	2100-01-01	107.39	TO Availability CCGT	Multiply					
+TO Ichihara_CC			Capacity	2000-01-01	2100-01-01	110	TO Availability CCGT	Multiply					
+TO Kamisu			Capacity	2000-01-01	2100-01-01	112	TO Availability Hard Coal	Multiply					
+TO Suzukawa_Energy_Center			Capacity	2000-01-01	2100-01-01	112	TO Availability Hard Coal	Multiply					
+TO Ibaraki_CC_u3			Capacity	2000-01-01	2100-01-01	112.3	TO Availability CCGT	Multiply					
+TO Shin_Nakasode_CC			Capacity	2000-01-01	2100-01-01	112.4	TO Availability CCGT	Multiply					
+TO Ibaraki_CC_u2			Capacity	2000-01-01	2100-01-01	113.58	TO Availability CCGT	Multiply					
+TO Kashima			Capacity	2000-01-01	2100-01-01	125	TO Availability Boiler	Multiply					
+TO JFE_East_Japan_Works_(Keihin)_u1			Capacity	2000-01-01	2100-01-01	135	TO Availability CCGT	Multiply					
+TO JFE_East_Japan_Works_(Chiba)_u3			Capacity	2000-01-01	2100-01-01	138	TO Availability CCGT	Multiply					
+TO JFE_East_Japan_Works_(Keihin)_u2			Capacity	2000-01-01	2100-01-01	142	TO Availability CCGT	Multiply					
+TO JFE_East_Japan_Works_(Keihin)_u3			Capacity	2000-01-01	2100-01-01	142	TO Availability CCGT	Multiply					
+TO JFE_East_Japan_Works_(Chiba)_u4			Capacity	2000-01-01	2100-01-01	143.68	TO Availability CCGT	Multiply					
+TO Kawasaki_JR_CC_u1			Capacity	2000-01-01	2100-01-01	144.2	TO Availability Boiler	Multiply					
+TO JFE_East_Japan_Works_(Chiba)_CC			Capacity	2000-01-01	2100-01-01	149	TO Availability CCGT	Multiply					
+TO Kimitsu_Kyodo_CC_u6			Capacity	2000-01-01	2100-01-01	152.9	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u1-2			Capacity	2000-01-01	2100-01-01	160	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u1-4			Capacity	2000-01-01	2100-01-01	160	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u2-1			Capacity	2000-01-01	2100-01-01	160	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u2-2			Capacity	2000-01-01	2100-01-01	160	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u2-4			Capacity	2000-01-01	2100-01-01	160	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u2-5			Capacity	2000-01-01	2100-01-01	160	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u2-7			Capacity	2000-01-01	2100-01-01	160	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u2-6			Capacity	2000-01-01	2100-01-01	162	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u2-3			Capacity	2000-01-01	2100-01-01	165	TO Availability Boiler	Multiply					
+TO Futtsu_CC_u1-5			Capacity	2000-01-01	2100-01-01	165	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u1-7			Capacity	2000-01-01	2100-01-01	165	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u1-1			Capacity	2000-01-01	2100-01-01	167	TO Availability Boiler	Multiply					
+TO Futtsu_CC_u1-3			Capacity	2000-01-01	2100-01-01	167	TO Availability Boiler	Multiply					
+TO Futtsu_CC_u1-6			Capacity	2000-01-01	2100-01-01	167	TO Availability Boiler	Multiply					
+TO Yokohama_u5			Capacity	2000-01-01	2100-01-01	175	TO Availability Boiler	Multiply					
+TO Kawasaki_JR_CC_u2			Capacity	2000-01-01	2100-01-01	187.4	TO Availability Boiler	Multiply					
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Capacity	2000-01-01	2100-01-01	188.2	TO Availability Boiler	Multiply					
+TO Mizue_u1			Capacity	2000-01-01	2100-01-01	194.89	TO Availability Boiler	Multiply					
+TO Kawasaki_JR_CC_u3			Capacity	2000-01-01	2100-01-01	198.4	TO Availability Boiler	Multiply					
+TO Kawasaki_JR_CC_u4			Capacity	2000-01-01	2100-01-01	210.6	TO Availability Boiler	Multiply					
+TO Tokyo_Gas_Yokosuka_CC			Capacity	2000-01-01	2100-01-01	239.7	TO Availability Boiler	Multiply					
+TO Nakoso_u10			Capacity	2000-01-01	2100-01-01	250	TO Availability Hard Coal	Multiply					
+TO Goi_u1			Capacity	2000-01-01	2100-01-01	265	TO Availability Boiler	Multiply					
+TO Goi_u2			Capacity	2000-01-01	2100-01-01	265	TO Availability CCGT	Multiply					
+TO Goi_u3			Capacity	2000-01-01	2100-01-01	265	TO Availability CCGT	Multiply					
+TO Goi_u4			Capacity	2000-01-01	2100-01-01	265	TO Availability CCGT	Multiply					
+TO Kashima_Kyodo_u5			Capacity	2000-01-01	2100-01-01	300	TO Availability CCGT	Multiply					
+TO Kimitsu_Kyodo_CC_u5			Capacity	2000-01-01	2100-01-01	300	TO Availability CCGT	Multiply					
+TO Kimitsu_Kyodo_u3			Capacity	2000-01-01	2100-01-01	350	TO Availability Boiler	Multiply					
+TO Kimitsu_Kyodo_u4			Capacity	2000-01-01	2100-01-01	350	TO Availability Boiler	Multiply					
+TO Minami_Yokohama_u2			Capacity	2000-01-01	2100-01-01	350	TO Availability Boiler	Multiply					
+TO Yokohama_u6			Capacity	2000-01-01	2100-01-01	350	TO Availability Boiler	Multiply					
+TO Yokohama_CC_u7-3			Capacity	2000-01-01	2100-01-01	350	TO Availability Boiler	Multiply					
+TO Yokohama_CC_u8-1			Capacity	2000-01-01	2100-01-01	350	TO Availability Boiler	Multiply					
+TO Kashima_Kyodo_u4			Capacity	2000-01-01	2100-01-01	350	TO Availability Boiler	Multiply					
+TO Kashima_Kyodo_u3			Capacity	2000-01-01	2100-01-01	350	TO Availability CCGT	Multiply					
+TO Minami_Yokohama_u1			Capacity	2000-01-01	2100-01-01	350	TO Availability CCGT	Multiply					
+TO Yokohama_CC_u8-2			Capacity	2000-01-01	2100-01-01	350	TO Availability CCGT	Multiply					
+TO Goi_u5			Capacity	2000-01-01	2100-01-01	350	TO Availability CCGT	Multiply					
+TO Goi_u6			Capacity	2000-01-01	2100-01-01	350	TO Availability CCGT	Multiply					
+TO Ohi_u2			Capacity	2000-01-01	2100-01-01	350	TO Availability CCGT	Multiply					
+TO Ohi_u3			Capacity	2000-01-01	2100-01-01	350	TO Availability CCGT	Multiply					
+TO Ohi_u1			Capacity	2000-01-01	2100-01-01	350	TO Availability Coal	Multiply					
+TO Chiba_CC_u1-1			Capacity	2000-01-01	2100-01-01	360	TO Availability CCGT	Multiply					
+TO Chiba_CC_u1-2			Capacity	2000-01-01	2100-01-01	360	TO Availability CCGT	Multiply					
+TO Chiba_CC_u1-3			Capacity	2000-01-01	2100-01-01	360	TO Availability CCGT	Multiply					
+TO Chiba_CC_u1-4			Capacity	2000-01-01	2100-01-01	360	TO Availability CCGT	Multiply					
+TO Chiba_CC_u2-1			Capacity	2000-01-01	2100-01-01	360	TO Availability CCGT	Multiply					
+TO Chiba_CC_u2-2			Capacity	2000-01-01	2100-01-01	360	TO Availability CCGT	Multiply					
+TO Chiba_CC_u2-3			Capacity	2000-01-01	2100-01-01	360	TO Availability CCGT	Multiply					
+TO Chiba_CC_u2-4			Capacity	2000-01-01	2100-01-01	360	TO Availability CCGT	Multiply					
+TO Yokohama_CC_u7-1			Capacity	2000-01-01	2100-01-01	377	TO Availability Boiler	Multiply					
+TO Yokohama_CC_u7-2			Capacity	2000-01-01	2100-01-01	377	TO Availability CCGT	Multiply					
+TO Yokohama_CC_u7-4			Capacity	2000-01-01	2100-01-01	377	TO Availability CCGT	Multiply					
+TO Yokohama_CC_u8-3			Capacity	2000-01-01	2100-01-01	377	TO Availability CCGT	Multiply					
+TO Yokohama_CC_u8-4			Capacity	2000-01-01	2100-01-01	377	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u3-1			Capacity	2000-01-01	2100-01-01	380	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u3-2			Capacity	2000-01-01	2100-01-01	380	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u3-3			Capacity	2000-01-01	2100-01-01	380	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u3-4			Capacity	2000-01-01	2100-01-01	380	TO Availability CCGT	Multiply					
+TO Shinagawa_CC_u1-1			Capacity	2000-01-01	2100-01-01	380	TO Availability CCGT	Multiply					
+TO Shinagawa_CC_u1-2			Capacity	2000-01-01	2100-01-01	380	TO Availability CCGT	Multiply					
+TO Shinagawa_CC_u1-3			Capacity	2000-01-01	2100-01-01	380	TO Availability CCGT	Multiply					
+TO Ogishima_Power_CC_u1			Capacity	2000-01-01	2100-01-01	407.1	TO Availability CCGT	Multiply					
+TO Ogishima_Power_CC_u2			Capacity	2000-01-01	2100-01-01	407.1	TO Availability CCGT	Multiply					
+TO Ogishima_Power_CC_u3			Capacity	2000-01-01	2100-01-01	407.1	TO Availability CCGT	Multiply					
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Capacity	2000-01-01	2100-01-01	413	TO Availability CCGT	Multiply					
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Capacity	2000-01-01	2100-01-01	413	TO Availability CCGT	Multiply					
+TO Kashima_CC_u7-1			Capacity	2000-01-01	2100-01-01	420	TO Availability CCGT	Multiply					
+TO Kashima_CC_u7-2			Capacity	2000-01-01	2100-01-01	420	TO Availability CCGT	Multiply					
+TO Kashima_CC_u7-3			Capacity	2000-01-01	2100-01-01	420	TO Availability CCGT	Multiply					
+TO Negishi_IGCC			Capacity	2000-01-01	2100-01-01	431.45	TO Availability Hard Coal	Multiply					
+TO Minami_Yokohama_u3			Capacity	2000-01-01	2100-01-01	450	TO Availability CCGT	Multiply					
+TO JFE_Chiba_IPP			Capacity	2000-01-01	2100-01-01	466.1	TO Availability CCGT	Multiply					
+TO NSC_Kashima_Works			Capacity	2000-01-01	2100-01-01	475	TO Availability Hard Coal	Multiply					
+TO Chiba_CC_u3-2			Capacity	2000-01-01	2100-01-01	500	TO Availability Boiler	Multiply					
+TO Chiba_CC_u3-3			Capacity	2000-01-01	2100-01-01	500	TO Availability Boiler	Multiply					
+TO Kawasaki_CC_u1-3			Capacity	2000-01-01	2100-01-01	500	TO Availability Boiler	Multiply					
+TO Kawasaki_CC_u2-1			Capacity	2000-01-01	2100-01-01	500	TO Availability Boiler	Multiply					
+TO Chiba_CC_u3-1			Capacity	2000-01-01	2100-01-01	500	TO Availability CCGT	Multiply					
+TO Kawasaki_CC_u1-1			Capacity	2000-01-01	2100-01-01	500	TO Availability CCGT	Multiply					
+TO Kawasaki_CC_u1-2			Capacity	2000-01-01	2100-01-01	500	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u4-1			Capacity	2000-01-01	2100-01-01	507	TO Availability Boiler	Multiply					
+TO Futtsu_CC_u4-2			Capacity	2000-01-01	2100-01-01	507	TO Availability CCGT	Multiply					
+TO Futtsu_CC_u4-3			Capacity	2000-01-01	2100-01-01	507	TO Availability CCGT	Multiply					
+TO Hirono_u1			Capacity	2000-01-01	2100-01-01	600	TO Availability Boiler	Multiply					
+TO Hirono_u2			Capacity	2000-01-01	2100-01-01	600	TO Availability Boiler	Multiply					
+TO Anegasaki_u1			Capacity	2000-01-01	2100-01-01	600	TO Availability CCGT	Multiply					
+TO Anegasaki_u2			Capacity	2000-01-01	2100-01-01	600	TO Availability CCGT	Multiply					
+TO Anegasaki_u3			Capacity	2000-01-01	2100-01-01	600	TO Availability CCGT	Multiply					
+TO Anegasaki_u4			Capacity	2000-01-01	2100-01-01	600	TO Availability CCGT	Multiply					
+TO Anegasaki_u5			Capacity	2000-01-01	2100-01-01	600	TO Availability CCGT	Multiply					
+TO Anegasaki_u6			Capacity	2000-01-01	2100-01-01	600	TO Availability CCGT	Multiply					
+TO Sodegaura_u1			Capacity	2000-01-01	2100-01-01	600	TO Availability CCGT	Multiply					
+TO Hirono_u5			Capacity	2000-01-01	2100-01-01	600	TO Availability Hard Coal	Multiply					
+TO Hirono_u6			Capacity	2000-01-01	2100-01-01	600	TO Availability Hard Coal	Multiply					
+TO Isogo_u1			Capacity	2000-01-01	2100-01-01	600	TO Availability Hard Coal	Multiply					
+TO Isogo_u2			Capacity	2000-01-01	2100-01-01	600	TO Availability Hard Coal	Multiply					
+TO Nakoso_u8			Capacity	2000-01-01	2100-01-01	600	TO Availability Hard Coal	Multiply					
+TO Nakoso_u9			Capacity	2000-01-01	2100-01-01	600	TO Availability Hard Coal	Multiply					
+TO Kashima_u1			Capacity	2000-01-01	2100-01-01	600	TO Availability Liquid	Multiply					
+TO Kashima_u2			Capacity	2000-01-01	2100-01-01	600	TO Availability Liquid	Multiply					
+TO Kashima_u3			Capacity	2000-01-01	2100-01-01	600	TO Availability Liquid	Multiply					
+TO Kashima_u4			Capacity	2000-01-01	2100-01-01	600	TO Availability Liquid	Multiply					
+TO Moka_CC_u1			Capacity	2000-01-01	2100-01-01	624.1	TO Availability CCGT	Multiply					
+TO Moka_CC_u2			Capacity	2000-01-01	2100-01-01	624.1	TO Availability CCGT	Multiply					
+TO Kashima_Works_u2			Capacity	2000-01-01	2100-01-01	645	TO Availability Hard Coal	Multiply					
+TO Hitachinaka_Kyodo_u1			Capacity	2000-01-01	2100-01-01	650	TO Availability Hard Coal	Multiply					
+TO Kawasaki_CC_u2-2			Capacity	2000-01-01	2100-01-01	710	TO Availability CCGT	Multiply					
+TO Kawasaki_CC_u2-3			Capacity	2000-01-01	2100-01-01	710	TO Availability CCGT	Multiply					
+TO Higashi_Ogishima_u1			Capacity	2000-01-01	2100-01-01	1000	TO Availability CCGT	Multiply					
+TO Higashi_Ogishima_u2			Capacity	2000-01-01	2100-01-01	1000	TO Availability CCGT	Multiply					
+TO Sodegaura_u2			Capacity	2000-01-01	2100-01-01	1000	TO Availability CCGT	Multiply					
+TO Sodegaura_u3			Capacity	2000-01-01	2100-01-01	1000	TO Availability CCGT	Multiply					
+TO Sodegaura_u4			Capacity	2000-01-01	2100-01-01	1000	TO Availability CCGT	Multiply					
+TO Hitachinaka_u1			Capacity	2000-01-01	2100-01-01	1000	TO Availability Hard Coal	Multiply					
+TO Hitachinaka_u2			Capacity	2000-01-01	2100-01-01	1000	TO Availability Hard Coal	Multiply					
+TO Hirono_u3			Capacity	2000-01-01	2100-01-01	1000	TO Availability Liquid	Multiply					
+TO Hirono_u4			Capacity	2000-01-01	2100-01-01	1000	TO Availability Liquid	Multiply					
+TO Kashima_u5			Capacity	2000-01-01	2100-01-01	1000	TO Availability Liquid	Multiply					
+TO Kashima_u6			Capacity	2000-01-01	2100-01-01	1000	TO Availability Liquid	Multiply					
+TO Kashiwazaki_Kariwa_Nuclear_u1			Capacity	2000-01-01	2100-01-01	1100	TO Availability Liquid	Multiply					
+TO Kashiwazaki_Kariwa_Nuclear_u2			Capacity	2000-01-01	2100-01-01	1100	TO Availability Nuclear	Multiply					
+TO Kashiwazaki_Kariwa_Nuclear_u3			Capacity	2000-01-01	2100-01-01	1100	TO Availability Nuclear	Multiply					
+TO Kashiwazaki_Kariwa_Nuclear_u4			Capacity	2000-01-01	2100-01-01	1100	TO Availability Nuclear	Multiply					
+TO Kashiwazaki_Kariwa_Nuclear_u5			Capacity	2000-01-01	2100-01-01	1100	TO Availability Nuclear	Multiply					
+TO Kashiwazaki_Kariwa_Nuclear_u6			Capacity	2000-01-01	2100-01-01	1356	TO Availability Nuclear	Multiply					
+TO Kashiwazaki_Kariwa_Nuclear_u7			Capacity	2000-01-01	2100-01-01	1356	TO Availability Nuclear	Multiply					
+TO Biomass 1990			Fuel	1990-01-01	2040-01-01	TO Station Biomass							
+TO Biomass 1995			Fuel	1995-01-01	2045-01-01	TO Station Biomass							
+TO Biomass 2000			Fuel	2000-01-01	2050-01-01	TO Station Biomass							
+TO Biomass 2005			Fuel	2005-01-01	2055-01-01	TO Station Biomass							
+TO Biomass 2010			Fuel	2010-01-01	2060-01-01	TO Station Biomass							
+TO Biomass 2015			Fuel	2015-01-01	2065-01-01	TO Station Biomass							
+TO Biomass 2020			Fuel	2020-01-01	2070-01-01	TO Station Biomass							
+TO Biomass 2025			Fuel	2025-01-01	2075-01-01	TO Station Biomass							
+TO Biomass 2030			Fuel	2030-01-01	2080-01-01	TO Station Biomass							
+TO Biomass 2035			Fuel	2035-01-01	2085-01-01	TO Station Biomass							
+TO Biomass 2040			Fuel	2040-01-01	2090-01-01	TO Station Biomass							
+TO Biomass 2045			Fuel	2045-01-01	2095-01-01	TO Station Biomass							
+TO Biomass 2050			Fuel	2050-01-01	2100-01-01	TO Station Biomass							
+TO Biomass 2055			Fuel	2055-01-01	2105-01-01	TO Station Biomass							
+TO Biomass 2060			Fuel	2060-01-01	2110-01-01	TO Station Biomass							
+TO Biomass 2065			Fuel	2065-01-01	2115-01-01	TO Station Biomass							
+TO Coal 1990			Fuel	1990-01-01	2040-01-01	TO Station Coal							
+TO Coal 1995			Fuel	1995-01-01	2045-01-01	TO Station Coal							
+TO Coal 2000			Fuel	2000-01-01	2050-01-01	TO Station Coal							
+TO Coal 2005			Fuel	2005-01-01	2055-01-01	TO Station Coal							
+TO Coal 2010			Fuel	2010-01-01	2060-01-01	TO Station Coal							
+TO Coal 2015			Fuel	2015-01-01	2065-01-01	TO Station Coal							
+TO Coal 2020			Fuel	2020-01-01	2070-01-01	TO Station Coal							
+TO Coal 2025			Fuel	2025-01-01	2075-01-01	TO Station Coal							
+TO Coal 2030			Fuel	2030-01-01	2080-01-01	TO Station Coal							
+TO Coal 2035			Fuel	2035-01-01	2085-01-01	TO Station Coal							
+TO Coal 2040			Fuel	2040-01-01	2090-01-01	TO Station Coal							
+TO Coal 2045			Fuel	2045-01-01	2095-01-01	TO Station Coal							
+TO Coal 2050			Fuel	2050-01-01	2100-01-01	TO Station Coal							
+TO Coal 2055			Fuel	2055-01-01	2105-01-01	TO Station Coal							
+TO Coal 2060			Fuel	2060-01-01	2110-01-01	TO Station Coal							
+TO Coal 2065			Fuel	2065-01-01	2115-01-01	TO Station Coal							
+TO Kamisu			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Suzukawa_Energy_Center			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Nakoso_u10			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Negishi_IGCC			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO NSC_Kashima_Works			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Hirono_u5			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Hirono_u6			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Isogo_u1			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Isogo_u2			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Nakoso_u8			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Nakoso_u9			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Kashima_Works_u2			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Hitachinaka_Kyodo_u1			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Hitachinaka_u1			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO Hitachinaka_u2			Fuel	2000-01-01	2100-01-01	TO Station Coal							
+TO CCGT 1990			Fuel	1990-01-01	2040-01-01	TO Station Gas							
+TO CCGT 1995			Fuel	1995-01-01	2045-01-01	TO Station Gas							
+TO CCGT 2000			Fuel	2000-01-01	2050-01-01	TO Station Gas							
+TO CCGT 2005			Fuel	2005-01-01	2055-01-01	TO Station Gas							
+TO CCGT 2010			Fuel	2010-01-01	2060-01-01	TO Station Gas							
+TO CCGT 2015			Fuel	2015-01-01	2065-01-01	TO Station Gas							
+TO CCGT 2020			Fuel	2020-01-01	2070-01-01	TO Station Gas							
+TO CCGT 2025			Fuel	2025-01-01	2075-01-01	TO Station Gas							
+TO CCGT 2030			Fuel	2030-01-01	2080-01-01	TO Station Gas							
+TO CCGT 2031			Fuel	2031-01-01	2081-01-01	TO Station Gas							
+TO CCGT 2032			Fuel	2032-01-01	2082-01-01	TO Station Gas							
+TO CCGT 2033			Fuel	2033-01-01	2083-01-01	TO Station Gas							
+TO CCGT 2034			Fuel	2034-01-01	2084-01-01	TO Station Gas							
+TO CCGT 2035			Fuel	2035-01-01	2085-01-01	TO Station Gas							
+TO CCGT 2036			Fuel	2036-01-01	2086-01-01	TO Station Gas							
+TO CCGT 2037			Fuel	2037-01-01	2087-01-01	TO Station Gas							
+TO CCGT 2038			Fuel	2038-01-01	2088-01-01	TO Station Gas							
+TO CCGT 2039			Fuel	2039-01-01	2089-01-01	TO Station Gas							
+TO CCGT 2040			Fuel	2040-01-01	2090-01-01	TO Station Gas							
+TO CCGT 2041			Fuel	2041-01-01	2091-01-01	TO Station Gas							
+TO CCGT 2042			Fuel	2042-01-01	2092-01-01	TO Station Gas							
+TO CCGT 2043			Fuel	2043-01-01	2093-01-01	TO Station Gas							
+TO CCGT 2044			Fuel	2044-01-01	2094-01-01	TO Station Gas							
+TO CCGT 2045			Fuel	2045-01-01	2095-01-01	TO Station Gas							
+TO CCGT 2046			Fuel	2046-01-01	2096-01-01	TO Station Gas							
+TO CCGT 2047			Fuel	2047-01-01	2097-01-01	TO Station Gas							
+TO CCGT 2048			Fuel	2048-01-01	2098-01-01	TO Station Gas							
+TO CCGT 2049			Fuel	2049-01-01	2099-01-01	TO Station Gas							
+TO CCGT 2050			Fuel	2050-01-01	2100-01-01	TO Station Gas							
+TO CCGT 2051			Fuel	2051-01-01	2101-01-01	TO Station Gas							
+TO CCGT 2052			Fuel	2052-01-01	2102-01-01	TO Station Gas							
+TO CCGT 2053			Fuel	2053-01-01	2103-01-01	TO Station Gas							
+TO CCGT 2054			Fuel	2054-01-01	2104-01-01	TO Station Gas							
+TO CCGT 2055			Fuel	2055-01-01	2105-01-01	TO Station Gas							
+TO CCGT 2056			Fuel	2056-01-01	2106-01-01	TO Station Gas							
+TO CCGT 2057			Fuel	2057-01-01	2107-01-01	TO Station Gas							
+TO CCGT 2058			Fuel	2058-01-01	2108-01-01	TO Station Gas							
+TO CCGT 2059			Fuel	2059-01-01	2109-01-01	TO Station Gas							
+TO CCGT 2060			Fuel	2060-01-01	2110-01-01	TO Station Gas							
+TO CCGT 2061			Fuel	2061-01-01	2111-01-01	TO Station Gas							
+TO CCGT 2062			Fuel	2062-01-01	2112-01-01	TO Station Gas							
+TO CCGT 2063			Fuel	2063-01-01	2113-01-01	TO Station Gas							
+TO CCGT 2064			Fuel	2064-01-01	2114-01-01	TO Station Gas							
+TO CCGT 2065			Fuel	2065-01-01	2115-01-01	TO Station Gas							
+TO OCGT 1990			Fuel	1990-01-01	2040-01-01	TO Station Gas							
+TO OCGT 1995			Fuel	1995-01-01	2045-01-01	TO Station Gas							
+TO OCGT 2000			Fuel	2000-01-01	2050-01-01	TO Station Gas							
+TO OCGT 2005			Fuel	2005-01-01	2055-01-01	TO Station Gas							
+TO OCGT 2010			Fuel	2010-01-01	2060-01-01	TO Station Gas							
+TO OCGT 2015			Fuel	2015-01-01	2065-01-01	TO Station Gas							
+TO OCGT 2020			Fuel	2020-01-01	2070-01-01	TO Station Gas							
+TO OCGT 2025			Fuel	2025-01-01	2075-01-01	TO Station Gas							
+TO OCGT 2030			Fuel	2030-01-01	2080-01-01	TO Station Gas							
+TO OCGT 2035			Fuel	2035-01-01	2085-01-01	TO Station Gas							
+TO OCGT 2040			Fuel	2040-01-01	2090-01-01	TO Station Gas							
+TO OCGT 2045			Fuel	2045-01-01	2095-01-01	TO Station Gas							
+TO OCGT 2050			Fuel	2050-01-01	2100-01-01	TO Station Gas							
+TO OCGT 2055			Fuel	2055-01-01	2105-01-01	TO Station Gas							
+TO OCGT 2060			Fuel	2060-01-01	2110-01-01	TO Station Gas							
+TO OCGT 2065			Fuel	2065-01-01	2115-01-01	TO Station Gas							
+TO CHP 1990			Fuel	1990-01-01	2040-01-01	TO Station Gas							
+TO CHP 1995			Fuel	1995-01-01	2045-01-01	TO Station Gas							
+TO CHP 2000			Fuel	2000-01-01	2050-01-01	TO Station Gas							
+TO CHP 2005			Fuel	2005-01-01	2055-01-01	TO Station Gas							
+TO CHP 2010			Fuel	2010-01-01	2060-01-01	TO Station Gas							
+TO CHP 2015			Fuel	2015-01-01	2065-01-01	TO Station Gas							
+TO CHP 2020			Fuel	2020-01-01	2070-01-01	TO Station Gas							
+TO CHP 2025			Fuel	2025-01-01	2075-01-01	TO Station Gas							
+TO CHP 2030			Fuel	2030-01-01	2080-01-01	TO Station Gas							
+TO CHP 2035			Fuel	2035-01-01	2085-01-01	TO Station Gas							
+TO CHP 2040			Fuel	2040-01-01	2090-01-01	TO Station Gas							
+TO CHP 2045			Fuel	2045-01-01	2095-01-01	TO Station Gas							
+TO CHP 2050			Fuel	2050-01-01	2100-01-01	TO Station Gas							
+TO CHP 2055			Fuel	2055-01-01	2105-01-01	TO Station Gas							
+TO CHP 2060			Fuel	2060-01-01	2110-01-01	TO Station Gas							
+TO CHP 2065			Fuel	2065-01-01	2115-01-01	TO Station Gas							
+TO Tokyo_Gas_Bay_Power			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Nakasode_CC			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Ichihara_CC			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Ibaraki_CC_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Shin_Nakasode_CC			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Ibaraki_CC_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO JFE_East_Japan_Works_(Keihin)_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO JFE_East_Japan_Works_(Chiba)_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO JFE_East_Japan_Works_(Keihin)_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO JFE_East_Japan_Works_(Keihin)_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO JFE_East_Japan_Works_(Chiba)_u4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO JFE_East_Japan_Works_(Chiba)_CC			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kimitsu_Kyodo_CC_u6			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u1-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u1-4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u2-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u2-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u2-4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u2-5			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u2-7			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u2-6			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u1-5			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u1-7			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u2-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u1-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u1-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u1-6			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_u5			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_JR_CC_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_JR_CC_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_JR_CC_u4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Tokyo_Gas_Yokosuka_CC			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Goi_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Goi_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Goi_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Goi_u4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kashima_Kyodo_u5			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kimitsu_Kyodo_CC_u5			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kashima_Kyodo_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kimitsu_Kyodo_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kimitsu_Kyodo_u4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Minami_Yokohama_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Minami_Yokohama_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_u6			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_CC_u7-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_CC_u8-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_CC_u8-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Goi_u5			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Goi_u6			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u1-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u1-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u1-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u1-4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u2-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u2-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u2-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u2-4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_CC_u7-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_CC_u7-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_CC_u7-4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_CC_u8-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Yokohama_CC_u8-4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u3-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u3-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u3-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u3-4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Shinagawa_CC_u1-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Shinagawa_CC_u1-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Shinagawa_CC_u1-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Ogishima_Power_CC_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Ogishima_Power_CC_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Ogishima_Power_CC_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kashima_CC_u7-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kashima_CC_u7-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kashima_CC_u7-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Minami_Yokohama_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO JFE_Chiba_IPP			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u3-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u3-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Chiba_CC_u3-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_CC_u1-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_CC_u1-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_CC_u1-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_CC_u2-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u4-1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u4-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Futtsu_CC_u4-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Anegasaki_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Anegasaki_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Anegasaki_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Anegasaki_u4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Anegasaki_u5			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Anegasaki_u6			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Sodegaura_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Moka_CC_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Moka_CC_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_CC_u2-2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Kawasaki_CC_u2-3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Higashi_Ogishima_u1			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Higashi_Ogishima_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Sodegaura_u2			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Sodegaura_u3			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Sodegaura_u4			Fuel	2000-01-01	2100-01-01	TO Station Gas							
+TO Lignite 1990			Fuel	1990-01-01	2040-01-01	TO Station Lignite							
+TO Lignite 1995			Fuel	1995-01-01	2045-01-01	TO Station Lignite							
+TO Lignite 2000			Fuel	2000-01-01	2031-01-01	TO Station Lignite							
+TO Lignite 2005			Fuel	2005-01-01	2038-01-01	TO Station Lignite							
+TO Lignite 2010			Fuel	2010-01-01	2038-01-01	TO Station Lignite							
+TO Lignite 2015			Fuel	2015-01-01	2038-01-01	TO Station Lignite							
+TO Lignite 2020			Fuel	2020-01-01	2039-01-01	TO Station Lignite							
+TO Lignite 2025			Fuel	2025-01-01	2039-01-01	TO Station Lignite							
+TO Lignite 2030			Fuel	2030-01-01	2040-01-01	TO Station Lignite							
+TO Lignite 2035			Fuel	2035-01-01	2040-01-01	TO Station Lignite							
+TO Lignite 2040			Fuel	2040-01-01	2040-01-01	TO Station Lignite							
+TO Lignite 2045			Fuel	2045-01-01	2040-01-01	TO Station Lignite							
+TO Lignite 2050			Fuel	2050-01-01	2100-01-01	TO Station Lignite							
+TO Lignite 2055			Fuel	2055-01-01	2105-01-01	TO Station Lignite							
+TO Lignite 2060			Fuel	2060-01-01	2110-01-01	TO Station Lignite							
+TO Lignite 2065			Fuel	2065-01-01	2115-01-01	TO Station Lignite							
+TO Liquid 1990			Fuel	1990-01-01	2040-01-01	TO Station LSFO							
+TO Liquid 1995			Fuel	1995-01-01	2045-01-01	TO Station LSFO							
+TO Liquid 2000			Fuel	2000-01-01	2050-01-01	TO Station LSFO							
+TO Liquid 2005			Fuel	2005-01-01	2055-01-01	TO Station LSFO							
+TO Liquid 2010			Fuel	2010-01-01	2060-01-01	TO Station LSFO							
+TO Liquid 2015			Fuel	2015-01-01	2065-01-01	TO Station LSFO							
+TO Liquid 2020			Fuel	2020-01-01	2070-01-01	TO Station LSFO							
+TO Liquid 2025			Fuel	2025-01-01	2075-01-01	TO Station LSFO							
+TO Liquid 2030			Fuel	2030-01-01	2080-01-01	TO Station LSFO							
+TO Liquid 2035			Fuel	2035-01-01	2085-01-01	TO Station LSFO							
+TO Liquid 2040			Fuel	2040-01-01	2090-01-01	TO Station LSFO							
+TO Liquid 2045			Fuel	2045-01-01	2095-01-01	TO Station LSFO							
+TO Liquid 2050			Fuel	2050-01-01	2100-01-01	TO Station LSFO							
+TO Liquid 2055			Fuel	2055-01-01	2105-01-01	TO Station LSFO							
+TO Liquid 2060			Fuel	2060-01-01	2110-01-01	TO Station LSFO							
+TO Liquid 2065			Fuel	2065-01-01	2115-01-01	TO Station LSFO							
+TO Kashima			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Kawasaki_JR_CC_u1			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Mizue_u1			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Kashima_Kyodo_u4			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Ohi_u1			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Ohi_u2			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Ohi_u3			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Hirono_u1			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Hirono_u2			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Kashima_u1			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Kashima_u2			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Kashima_u3			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Kashima_u4			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Hirono_u3			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Hirono_u4			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Kashima_u5			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Kashima_u6			Fuel	2000-01-01	2100-01-01	TO Station LSFO							
+TO Nuclear 1990			Fuel	1990-01-01	2040-01-01	TO Station Uranium							
+TO Nuclear 1995			Fuel	1995-01-01	2045-01-01	TO Station Uranium							
+TO Nuclear 2000			Fuel	2000-01-01	2050-01-01	TO Station Uranium							
+TO Nuclear 2005			Fuel	2005-01-01	2055-01-01	TO Station Uranium							
+TO Nuclear 2010			Fuel	2010-01-01	2060-01-01	TO Station Uranium							
+TO Nuclear 2015			Fuel	2015-01-01	2065-01-01	TO Station Uranium							
+TO Nuclear 2020			Fuel	2020-01-01	2070-01-01	TO Station Uranium							
+TO Kashiwazaki_Kariwa_Nuclear_u1			Fuel	2000-01-01	2100-01-01	TO Station Uranium							
+TO Kashiwazaki_Kariwa_Nuclear_u2			Fuel	2000-01-01	2100-01-01	TO Station Uranium							
+TO Kashiwazaki_Kariwa_Nuclear_u3			Fuel	2000-01-01	2100-01-01	TO Station Uranium							
+TO Kashiwazaki_Kariwa_Nuclear_u4			Fuel	2000-01-01	2100-01-01	TO Station Uranium							
+TO Kashiwazaki_Kariwa_Nuclear_u5			Fuel	2000-01-01	2100-01-01	TO Station Uranium							
+TO Kashiwazaki_Kariwa_Nuclear_u6			Fuel	2000-01-01	2100-01-01	TO Station Uranium							
+TO Kashiwazaki_Kariwa_Nuclear_u7			Fuel	2000-01-01	2100-01-01	TO Station Uranium							
+TO CCGT 2038			Marginal Heat Rate	2038-01-01	2088-01-01	5.714285714							
+TO CCGT 2015			Marginal Heat Rate	2015-01-01	2065-01-01	5.806451613							
+TO CCGT 2037			Marginal Heat Rate	2037-01-01	2087-01-01	5.806451613							
+TO CCGT 2036			Marginal Heat Rate	2036-01-01	2086-01-01	5.901639344							
+TO CCGT 2035			Marginal Heat Rate	2035-01-01	2085-01-01	6							
+TO Sodegaura_u4			Marginal Heat Rate	2000-01-01	2100-01-01	6							
+TO Sodegaura_u3			Marginal Heat Rate	2000-01-01	2100-01-01	6.027522936							
+TO Sodegaura_u2			Marginal Heat Rate	2000-01-01	2100-01-01	6.055299539							
+TO Higashi_Ogishima_u2			Marginal Heat Rate	2000-01-01	2100-01-01	6.083333333							
+TO CCGT 2010			Marginal Heat Rate	2010-01-01	2060-01-01	6.101694915							
+TO Higashi_Ogishima_u1			Marginal Heat Rate	2000-01-01	2100-01-01	6.111627907							
+TO Kawasaki_CC_u2-3			Marginal Heat Rate	2000-01-01	2100-01-01	6.140186916							
+TO Kawasaki_CC_u2-2			Marginal Heat Rate	2000-01-01	2100-01-01	6.169014085							
+TO Moka_CC_u2			Marginal Heat Rate	2000-01-01	2100-01-01	6.198113208							
+TO Moka_CC_u1			Marginal Heat Rate	2000-01-01	2100-01-01	6.227488152							
+TO Sodegaura_u1			Marginal Heat Rate	2000-01-01	2100-01-01	6.257142857							
+TO Anegasaki_u6			Marginal Heat Rate	2000-01-01	2100-01-01	6.28708134							
+TO Anegasaki_u5			Marginal Heat Rate	2000-01-01	2100-01-01	6.317307692							
+TO Anegasaki_u4			Marginal Heat Rate	2000-01-01	2100-01-01	6.347826087							
+TO Anegasaki_u3			Marginal Heat Rate	2000-01-01	2100-01-01	6.378640777							
+TO Anegasaki_u2			Marginal Heat Rate	2000-01-01	2100-01-01	6.409756098							
+TO CCGT 2005			Marginal Heat Rate	2005-01-01	2055-01-01	6.428571429							
+TO CCGT 2045			Marginal Heat Rate	2045-01-01	2095-01-01	6.428571429							
+TO CCGT 2046			Marginal Heat Rate	2046-01-01	2096-01-01	6.428571429							
+TO CCGT 2047			Marginal Heat Rate	2047-01-01	2097-01-01	6.428571429							
+TO CCGT 2048			Marginal Heat Rate	2048-01-01	2098-01-01	6.428571429							
+TO CCGT 2049			Marginal Heat Rate	2049-01-01	2099-01-01	6.428571429							
+TO CCGT 2050			Marginal Heat Rate	2050-01-01	2100-01-01	6.428571429							
+TO CCGT 2051			Marginal Heat Rate	2051-01-01	2101-01-01	6.428571429							
+TO CCGT 2052			Marginal Heat Rate	2052-01-01	2102-01-01	6.428571429							
+TO CCGT 2053			Marginal Heat Rate	2053-01-01	2103-01-01	6.428571429							
+TO CCGT 2054			Marginal Heat Rate	2054-01-01	2104-01-01	6.428571429							
+TO CCGT 2055			Marginal Heat Rate	2055-01-01	2105-01-01	6.428571429							
+TO CCGT 2056			Marginal Heat Rate	2056-01-01	2106-01-01	6.428571429							
+TO CCGT 2057			Marginal Heat Rate	2057-01-01	2107-01-01	6.428571429							
+TO CCGT 2058			Marginal Heat Rate	2058-01-01	2108-01-01	6.428571429							
+TO CCGT 2059			Marginal Heat Rate	2059-01-01	2109-01-01	6.428571429							
+TO CCGT 2060			Marginal Heat Rate	2060-01-01	2110-01-01	6.428571429							
+TO CCGT 2061			Marginal Heat Rate	2061-01-01	2111-01-01	6.428571429							
+TO CCGT 2062			Marginal Heat Rate	2062-01-01	2112-01-01	6.428571429							
+TO CCGT 2063			Marginal Heat Rate	2063-01-01	2113-01-01	6.428571429							
+TO CCGT 2064			Marginal Heat Rate	2064-01-01	2114-01-01	6.428571429							
+TO CCGT 2065			Marginal Heat Rate	2065-01-01	2115-01-01	6.428571429							
+TO Anegasaki_u1			Marginal Heat Rate	2000-01-01	2100-01-01	6.441176471							
+TO CCGT 2044			Marginal Heat Rate	2044-01-01	2094-01-01	6.451612903							
+TO Futtsu_CC_u4-3			Marginal Heat Rate	2000-01-01	2100-01-01	6.472906404							
+TO CCGT 2043			Marginal Heat Rate	2043-01-01	2093-01-01	6.474820144							
+TO CCGT 2042			Marginal Heat Rate	2042-01-01	2092-01-01	6.498194946							
+TO Futtsu_CC_u4-2			Marginal Heat Rate	2000-01-01	2100-01-01	6.504950495							
+TO CCGT 2041			Marginal Heat Rate	2041-01-01	2091-01-01	6.52173913							
+TO Futtsu_CC_u4-1			Marginal Heat Rate	2000-01-01	2100-01-01	6.537313433							
+TO CCGT 2040			Marginal Heat Rate	2040-01-01	2090-01-01	6.545454545							
+TO CHP 1995			Marginal Heat Rate	1995-01-01	2045-01-01	6.545454545							
+TO CCGT 2039			Marginal Heat Rate	2039-01-01	2089-01-01	6.569343066							
+TO Kawasaki_CC_u2-1			Marginal Heat Rate	2000-01-01	2100-01-01	6.57							
+TO CCGT 2030			Marginal Heat Rate	2030-01-01	2080-01-01	6.593406593							
+TO CCGT 2031			Marginal Heat Rate	2031-01-01	2081-01-01	6.593406593							
+TO CCGT 2032			Marginal Heat Rate	2032-01-01	2082-01-01	6.593406593							
+TO CCGT 2033			Marginal Heat Rate	2033-01-01	2083-01-01	6.593406593							
+TO CCGT 2034			Marginal Heat Rate	2034-01-01	2084-01-01	6.593406593							
+TO Kawasaki_CC_u1-3			Marginal Heat Rate	2000-01-01	2100-01-01	6.603015075							
+TO CCGT 2025			Marginal Heat Rate	2025-01-01	2075-01-01	6.617647059							
+TO Kawasaki_CC_u1-2			Marginal Heat Rate	2000-01-01	2100-01-01	6.636363636							
+TO Kawasaki_CC_u1-1			Marginal Heat Rate	2000-01-01	2100-01-01	6.670050761							
+TO Chiba_CC_u3-3			Marginal Heat Rate	2000-01-01	2100-01-01	6.704081633							
+TO Chiba_CC_u3-2			Marginal Heat Rate	2000-01-01	2100-01-01	6.738461538							
+TO CHP 2065			Marginal Heat Rate	2065-01-01	2115-01-01	6.766917293							
+TO Chiba_CC_u3-1			Marginal Heat Rate	2000-01-01	2100-01-01	6.773195876							
+TO CCGT 2000			Marginal Heat Rate	2000-01-01	2050-01-01	6.79245283							
+TO CHP 2060			Marginal Heat Rate	2060-01-01	2110-01-01	6.79245283							
+TO JFE_Chiba_IPP			Marginal Heat Rate	2000-01-01	2100-01-01	6.808290155							
+TO CHP 2055			Marginal Heat Rate	2055-01-01	2105-01-01	6.818181818							
+TO Minami_Yokohama_u3			Marginal Heat Rate	2000-01-01	2100-01-01	6.84375							
+TO CHP 2050			Marginal Heat Rate	2050-01-01	2100-01-01	6.844106464							
+TO CHP 2045			Marginal Heat Rate	2045-01-01	2095-01-01	6.870229008							
+TO Kashima_CC_u7-3			Marginal Heat Rate	2000-01-01	2100-01-01	6.879581152							
+TO CHP 2040			Marginal Heat Rate	2040-01-01	2090-01-01	6.896551724							
+TO Kashima_CC_u7-2			Marginal Heat Rate	2000-01-01	2100-01-01	6.915789474							
+TO CHP 1990			Marginal Heat Rate	1990-01-01	2040-01-01	6.923076923							
+TO CHP 2035			Marginal Heat Rate	2035-01-01	2085-01-01	6.923076923							
+TO CHP 2030			Marginal Heat Rate	2030-01-01	2080-01-01	6.94980695							
+TO Kashima_CC_u7-1			Marginal Heat Rate	2000-01-01	2100-01-01	6.952380952							
+TO CHP 2025			Marginal Heat Rate	2025-01-01	2075-01-01	6.976744186							
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Marginal Heat Rate	2000-01-01	2100-01-01	6.989361702							
+TO CHP 2020			Marginal Heat Rate	2020-01-01	2070-01-01	7.003891051							
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Marginal Heat Rate	2000-01-01	2100-01-01	7.026737968							
+TO CHP 2015			Marginal Heat Rate	2015-01-01	2065-01-01	7.03125							
+TO CHP 2010			Marginal Heat Rate	2010-01-01	2060-01-01	7.058823529							
+TO Ogishima_Power_CC_u3			Marginal Heat Rate	2000-01-01	2100-01-01	7.064516129							
+TO CHP 2005			Marginal Heat Rate	2005-01-01	2055-01-01	7.086614173							
+TO Ogishima_Power_CC_u2			Marginal Heat Rate	2000-01-01	2100-01-01	7.102702703							
+TO CHP 2000			Marginal Heat Rate	2000-01-01	2050-01-01	7.114624506							
+TO Ogishima_Power_CC_u1			Marginal Heat Rate	2000-01-01	2100-01-01	7.141304348							
+TO CCGT 2020			Marginal Heat Rate	2020-01-01	2070-01-01	7.142066421							
+TO Shinagawa_CC_u1-3			Marginal Heat Rate	2000-01-01	2100-01-01	7.180327869							
+TO CCGT 1995			Marginal Heat Rate	1995-01-01	2045-01-01	7.2							
+TO Shinagawa_CC_u1-2			Marginal Heat Rate	2000-01-01	2100-01-01	7.21978022							
+TO Shinagawa_CC_u1-1			Marginal Heat Rate	2000-01-01	2100-01-01	7.259668508							
+TO Futtsu_CC_u3-4			Marginal Heat Rate	2000-01-01	2100-01-01	7.3							
+TO Futtsu_CC_u3-3			Marginal Heat Rate	2000-01-01	2100-01-01	7.340782123							
+TO Futtsu_CC_u3-2			Marginal Heat Rate	2000-01-01	2100-01-01	7.382022472							
+TO Futtsu_CC_u3-1			Marginal Heat Rate	2000-01-01	2100-01-01	7.423728814							
+TO Yokohama_CC_u8-4			Marginal Heat Rate	2000-01-01	2100-01-01	7.465909091							
+TO Yokohama_CC_u8-3			Marginal Heat Rate	2000-01-01	2100-01-01	7.508571429							
+TO Yokohama_CC_u7-4			Marginal Heat Rate	2000-01-01	2100-01-01	7.551724138							
+TO Yokohama_CC_u7-2			Marginal Heat Rate	2000-01-01	2100-01-01	7.595375723							
+TO Yokohama_CC_u7-1			Marginal Heat Rate	2000-01-01	2100-01-01	7.639534884							
+TO CCGT 1990			Marginal Heat Rate	1990-01-01	2040-01-01	7.659574468							
+TO Chiba_CC_u2-4			Marginal Heat Rate	2000-01-01	2100-01-01	7.684210526							
+TO Chiba_CC_u2-3			Marginal Heat Rate	2000-01-01	2100-01-01	7.729411765							
+TO Chiba_CC_u2-2			Marginal Heat Rate	2000-01-01	2100-01-01	7.775147929							
+TO Chiba_CC_u2-1			Marginal Heat Rate	2000-01-01	2100-01-01	7.821428571							
+TO Kawasaki_JR_CC_u4			Marginal Heat Rate	2000-01-01	2100-01-01	7.826086957							
+TO Chiba_CC_u1-4			Marginal Heat Rate	2000-01-01	2100-01-01	7.868263473							
+TO Chiba_CC_u1-3			Marginal Heat Rate	2000-01-01	2100-01-01	7.915662651							
+TO Chiba_CC_u1-2			Marginal Heat Rate	2000-01-01	2100-01-01	7.963636364							
+TO Kawasaki_JR_CC_u3			Marginal Heat Rate	2000-01-01	2100-01-01	8							
+TO Chiba_CC_u1-1			Marginal Heat Rate	2000-01-01	2100-01-01	8.012195122							
+TO Goi_u6			Marginal Heat Rate	2000-01-01	2100-01-01	8.061349693							
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Marginal Heat Rate	2000-01-01	2100-01-01	8.08988764							
+TO Goi_u5			Marginal Heat Rate	2000-01-01	2100-01-01	8.111111111							
+TO Yokohama_CC_u8-2			Marginal Heat Rate	2000-01-01	2100-01-01	8.161490683							
+TO Hitachinaka_u2			Marginal Heat Rate	2000-01-01	2100-01-01	8.181818182							
+TO Kawasaki_JR_CC_u2			Marginal Heat Rate	2000-01-01	2100-01-01	8.181818182							
+TO Yokohama_CC_u8-1			Marginal Heat Rate	2000-01-01	2100-01-01	8.2125							
+TO Yokohama_CC_u7-3			Marginal Heat Rate	2000-01-01	2100-01-01	8.264150943							
+TO Yokohama_u5			Marginal Heat Rate	2000-01-01	2100-01-01	8.275862069							
+TO Yokohama_u6			Marginal Heat Rate	2000-01-01	2100-01-01	8.316455696							
+TO Minami_Yokohama_u2			Marginal Heat Rate	2000-01-01	2100-01-01	8.369426752							
+TO Futtsu_CC_u1-6			Marginal Heat Rate	2000-01-01	2100-01-01	8.372093023							
+TO Minami_Yokohama_u1			Marginal Heat Rate	2000-01-01	2100-01-01	8.423076923							
+TO Futtsu_CC_u1-3			Marginal Heat Rate	2000-01-01	2100-01-01	8.470588235							
+TO Kimitsu_Kyodo_u4			Marginal Heat Rate	2000-01-01	2100-01-01	8.477419355							
+TO Hitachinaka_u1			Marginal Heat Rate	2000-01-01	2100-01-01	8.490566038							
+TO Kimitsu_Kyodo_u3			Marginal Heat Rate	2000-01-01	2100-01-01	8.532467532							
+TO OCGT 2015			Marginal Heat Rate	2015-01-01	2065-01-01	8.571428571							
+TO Futtsu_CC_u1-1			Marginal Heat Rate	2000-01-01	2100-01-01	8.571428571							
+TO Kashima_Kyodo_u3			Marginal Heat Rate	2000-01-01	2100-01-01	8.588235294							
+TO Kimitsu_Kyodo_CC_u5			Marginal Heat Rate	2000-01-01	2100-01-01	8.644736842							
+TO Hitachinaka_Kyodo_u1			Marginal Heat Rate	2000-01-01	2100-01-01	8.653846154							
+TO Futtsu_CC_u2-3			Marginal Heat Rate	2000-01-01	2100-01-01	8.674698795							
+TO Kashima_Kyodo_u5			Marginal Heat Rate	2000-01-01	2100-01-01	8.701986755							
+TO Goi_u4			Marginal Heat Rate	2000-01-01	2100-01-01	8.76							
+TO OCGT 2000			Marginal Heat Rate	2000-01-01	2050-01-01	8.780487805							
+TO Futtsu_CC_u1-7			Marginal Heat Rate	2000-01-01	2100-01-01	8.780487805							
+TO Goi_u3			Marginal Heat Rate	2000-01-01	2100-01-01	8.818791946							
+TO Kashima_Works_u2			Marginal Heat Rate	2000-01-01	2100-01-01	8.823529412							
+TO Goi_u2			Marginal Heat Rate	2000-01-01	2100-01-01	8.878378378							
+TO Futtsu_CC_u1-5			Marginal Heat Rate	2000-01-01	2100-01-01	8.888888889							
+TO Goi_u1			Marginal Heat Rate	2000-01-01	2100-01-01	8.93877551							
+TO OCGT 2010			Marginal Heat Rate	2010-01-01	2060-01-01	9							
+TO Nakoso_u9			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Futtsu_CC_u2-6			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Tokyo_Gas_Yokosuka_CC			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashima			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kawasaki_JR_CC_u1			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Mizue_u1			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashima_Kyodo_u4			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Ohi_u1			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Ohi_u2			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Ohi_u3			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Hirono_u1			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Hirono_u2			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashima_u1			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashima_u2			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashima_u3			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashima_u4			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Hirono_u3			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Hirono_u4			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashima_u5			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashima_u6			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashiwazaki_Kariwa_Nuclear_u1			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashiwazaki_Kariwa_Nuclear_u2			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashiwazaki_Kariwa_Nuclear_u3			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashiwazaki_Kariwa_Nuclear_u4			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashiwazaki_Kariwa_Nuclear_u5			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashiwazaki_Kariwa_Nuclear_u6			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Kashiwazaki_Kariwa_Nuclear_u7			Marginal Heat Rate	2000-01-01	2100-01-01	9							
+TO Futtsu_CC_u2-7			Marginal Heat Rate	2000-01-01	2100-01-01	9.113924051							
+TO Nakoso_u8			Marginal Heat Rate	2000-01-01	2100-01-01	9.183673469							
+TO OCGT 1995			Marginal Heat Rate	1995-01-01	2045-01-01	9.230769231							
+TO OCGT 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.230769231							
+TO Futtsu_CC_u2-5			Marginal Heat Rate	2000-01-01	2100-01-01	9.230769231							
+TO OCGT 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.278350515							
+TO OCGT 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.32642487							
+TO Futtsu_CC_u2-4			Marginal Heat Rate	2000-01-01	2100-01-01	9.350649351							
+TO OCGT 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.375							
+TO Isogo_u2			Marginal Heat Rate	2000-01-01	2100-01-01	9.375							
+TO OCGT 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.42408377							
+TO Liquid 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.42408377							
+TO OCGT 2005			Marginal Heat Rate	2005-01-01	2055-01-01	9.473684211							
+TO OCGT 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.473684211							
+TO Liquid 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.473684211							
+TO Futtsu_CC_u2-2			Marginal Heat Rate	2000-01-01	2100-01-01	9.473684211							
+TO OCGT 2035			Marginal Heat Rate	2035-01-01	2085-01-01	9.523809524							
+TO Liquid 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.523809524							
+TO OCGT 2030			Marginal Heat Rate	2030-01-01	2080-01-01	9.574468085							
+TO Liquid 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.574468085							
+TO Isogo_u1			Marginal Heat Rate	2000-01-01	2100-01-01	9.574468085							
+TO Futtsu_CC_u2-1			Marginal Heat Rate	2000-01-01	2100-01-01	9.6							
+TO OCGT 2025			Marginal Heat Rate	2025-01-01	2075-01-01	9.625668449							
+TO Liquid 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.625668449							
+TO OCGT 2020			Marginal Heat Rate	2020-01-01	2070-01-01	9.677419355							
+TO Biomass 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.677419355							
+TO Liquid 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.677419355							
+TO Coal 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.72972973							
+TO OCGT 1990			Marginal Heat Rate	1990-01-01	2040-01-01	9.72972973							
+TO Biomass 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.72972973							
+TO Liquid 2035			Marginal Heat Rate	2035-01-01	2085-01-01	9.72972973							
+TO Futtsu_CC_u1-4			Marginal Heat Rate	2000-01-01	2100-01-01	9.72972973							
+TO Coal 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.782608696							
+TO Biomass 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.782608696							
+TO Liquid 2030			Marginal Heat Rate	2030-01-01	2080-01-01	9.782608696							
+TO Hirono_u6			Marginal Heat Rate	2000-01-01	2100-01-01	9.782608696							
+TO Coal 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.836065574							
+TO Biomass 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.836065574							
+TO Liquid 2025			Marginal Heat Rate	2025-01-01	2075-01-01	9.836065574							
+TO Futtsu_CC_u1-2			Marginal Heat Rate	2000-01-01	2100-01-01	9.863013699							
+TO Coal 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.89010989							
+TO Biomass 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.89010989							
+TO Liquid 2020			Marginal Heat Rate	2020-01-01	2070-01-01	9.89010989							
+TO Coal 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.944751381							
+TO Biomass 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.944751381							
+TO Liquid 2015			Marginal Heat Rate	2015-01-01	2065-01-01	9.944751381							
+TO Coal 2040			Marginal Heat Rate	2040-01-01	2090-01-01	10							
+TO Biomass 2035			Marginal Heat Rate	2035-01-01	2085-01-01	10							
+TO Liquid 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10							
+TO Hirono_u5			Marginal Heat Rate	2000-01-01	2100-01-01	10							
+TO Kimitsu_Kyodo_CC_u6			Marginal Heat Rate	2000-01-01	2100-01-01	10							
+TO Coal 2035			Marginal Heat Rate	2035-01-01	2085-01-01	10.05586592							
+TO Biomass 2030			Marginal Heat Rate	2030-01-01	2080-01-01	10.05586592							
+TO Liquid 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.05586592							
+TO Coal 2030			Marginal Heat Rate	2030-01-01	2080-01-01	10.11235955							
+TO Biomass 2025			Marginal Heat Rate	2025-01-01	2075-01-01	10.11235955							
+TO Liquid 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.11235955							
+TO JFE_East_Japan_Works_(Chiba)_CC			Marginal Heat Rate	2000-01-01	2100-01-01	10.14084507							
+TO Coal 2025			Marginal Heat Rate	2025-01-01	2075-01-01	10.16949153							
+TO Biomass 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.16949153							
+TO Liquid 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.16949153							
+TO Coal 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.22727273							
+TO Biomass 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.22727273							
+TO Lignite 2065			Marginal Heat Rate	2065-01-01	2115-01-01	10.22727273							
+TO Liquid 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.22727273							
+TO NSC_Kashima_Works			Marginal Heat Rate	2000-01-01	2100-01-01	10.22727273							
+TO Coal 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.28571429							
+TO Biomass 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.28571429							
+TO Lignite 2060			Marginal Heat Rate	2060-01-01	2110-01-01	10.28571429							
+TO JFE_East_Japan_Works_(Chiba)_u4			Marginal Heat Rate	2000-01-01	2100-01-01	10.28571429							
+TO Coal 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.34482759							
+TO Biomass 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.34482759							
+TO Lignite 2055			Marginal Heat Rate	2055-01-01	2105-01-01	10.34482759							
+TO Coal 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.40462428							
+TO Biomass 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.40462428							
+TO Lignite 2050			Marginal Heat Rate	2050-01-01	2100-01-01	10.40462428							
+TO JFE_East_Japan_Works_(Keihin)_u3			Marginal Heat Rate	2000-01-01	2100-01-01	10.43478261							
+TO Coal 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.46511628							
+TO Biomass 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.46511628							
+TO Lignite 2045			Marginal Heat Rate	2045-01-01	2040-01-01	10.46511628							
+TO Negishi_IGCC			Marginal Heat Rate	2000-01-01	2100-01-01	10.46511628							
+TO Coal 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.52631579							
+TO Biomass 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.52631579							
+TO Lignite 2040			Marginal Heat Rate	2040-01-01	2040-01-01	10.52631579							
+TO Lignite 2035			Marginal Heat Rate	2035-01-01	2040-01-01	10.58823529							
+TO JFE_East_Japan_Works_(Keihin)_u2			Marginal Heat Rate	2000-01-01	2100-01-01	10.58823529							
+TO Lignite 2030			Marginal Heat Rate	2030-01-01	2040-01-01	10.65088757							
+TO Coal 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.7							
+TO Lignite 2025			Marginal Heat Rate	2025-01-01	2039-01-01	10.71428571							
+TO Nakoso_u10			Marginal Heat Rate	2000-01-01	2100-01-01	10.71428571							
+TO JFE_East_Japan_Works_(Chiba)_u3			Marginal Heat Rate	2000-01-01	2100-01-01	10.74626866							
+TO Lignite 2020			Marginal Heat Rate	2020-01-01	2039-01-01	10.77844311							
+TO Nuclear 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.77844311							
+TO Lignite 2015			Marginal Heat Rate	2015-01-01	2038-01-01	10.84337349							
+TO Nuclear 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.84337349							
+TO Lignite 2010			Marginal Heat Rate	2010-01-01	2038-01-01	10.90909091							
+TO Nuclear 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.90909091							
+TO JFE_East_Japan_Works_(Keihin)_u1			Marginal Heat Rate	2000-01-01	2100-01-01	10.90909091							
+TO Lignite 2005			Marginal Heat Rate	2005-01-01	2038-01-01	10.97560976							
+TO Nuclear 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.97560976							
+TO Suzukawa_Energy_Center			Marginal Heat Rate	2000-01-01	2100-01-01	10.97560976							
+TO Lignite 2000			Marginal Heat Rate	2000-01-01	2031-01-01	11.04294479							
+TO Nuclear 2000			Marginal Heat Rate	2000-01-01	2050-01-01	11.04294479							
+TO Ibaraki_CC_u2			Marginal Heat Rate	2000-01-01	2100-01-01	11.07692308							
+TO Lignite 1995			Marginal Heat Rate	1995-01-01	2045-01-01	11.11111111							
+TO Nuclear 1995			Marginal Heat Rate	1995-01-01	2045-01-01	11.11111111							
+TO Lignite 1990			Marginal Heat Rate	1990-01-01	2040-01-01	11.18012422							
+TO Nuclear 1990			Marginal Heat Rate	1990-01-01	2040-01-01	11.18012422							
+TO Kamisu			Marginal Heat Rate	2000-01-01	2100-01-01	11.25							
+TO Shin_Nakasode_CC			Marginal Heat Rate	2000-01-01	2100-01-01	11.25							
+TO Ibaraki_CC_u3			Marginal Heat Rate	2000-01-01	2100-01-01	11.42857143							
+TO Ichihara_CC			Marginal Heat Rate	2000-01-01	2100-01-01	11.61290323							
+TO Nakasode_CC			Marginal Heat Rate	2000-01-01	2100-01-01	11.80327869							
+TO Tokyo_Gas_Bay_Power			Marginal Heat Rate	2000-01-01	2100-01-01	12							
+TO Coal 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TO Coal 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TO Coal 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TO Coal 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TO Coal 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TO Coal 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TO Coal 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TO Coal 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TO Coal 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TO Coal 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TO Coal 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TO Coal 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TO Coal 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TO Coal 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TO Coal 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TO Coal 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TO CCGT 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TO CCGT 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TO CCGT 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TO CCGT 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TO CCGT 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TO CCGT 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TO CCGT 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TO CCGT 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TO CCGT 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TO CCGT 2031			Minimum Load	2031-01-01	2081-01-01	0							
+TO CCGT 2032			Minimum Load	2032-01-01	2082-01-01	0							
+TO CCGT 2033			Minimum Load	2033-01-01	2083-01-01	0							
+TO CCGT 2034			Minimum Load	2034-01-01	2084-01-01	0							
+TO CCGT 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TO CCGT 2036			Minimum Load	2036-01-01	2086-01-01	0							
+TO CCGT 2037			Minimum Load	2037-01-01	2087-01-01	0							
+TO CCGT 2038			Minimum Load	2038-01-01	2088-01-01	0							
+TO CCGT 2039			Minimum Load	2039-01-01	2089-01-01	0							
+TO CCGT 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TO CCGT 2041			Minimum Load	2041-01-01	2091-01-01	0							
+TO CCGT 2042			Minimum Load	2042-01-01	2092-01-01	0							
+TO CCGT 2043			Minimum Load	2043-01-01	2093-01-01	0							
+TO CCGT 2044			Minimum Load	2044-01-01	2094-01-01	0							
+TO CCGT 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TO CCGT 2046			Minimum Load	2046-01-01	2096-01-01	0							
+TO CCGT 2047			Minimum Load	2047-01-01	2097-01-01	0							
+TO CCGT 2048			Minimum Load	2048-01-01	2098-01-01	0							
+TO CCGT 2049			Minimum Load	2049-01-01	2099-01-01	0							
+TO CCGT 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TO CCGT 2051			Minimum Load	2051-01-01	2101-01-01	0							
+TO CCGT 2052			Minimum Load	2052-01-01	2102-01-01	0							
+TO CCGT 2053			Minimum Load	2053-01-01	2103-01-01	0							
+TO CCGT 2054			Minimum Load	2054-01-01	2104-01-01	0							
+TO CCGT 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TO CCGT 2056			Minimum Load	2056-01-01	2106-01-01	0							
+TO CCGT 2057			Minimum Load	2057-01-01	2107-01-01	0							
+TO CCGT 2058			Minimum Load	2058-01-01	2108-01-01	0							
+TO CCGT 2059			Minimum Load	2059-01-01	2109-01-01	0							
+TO CCGT 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TO CCGT 2061			Minimum Load	2061-01-01	2111-01-01	0							
+TO CCGT 2062			Minimum Load	2062-01-01	2112-01-01	0							
+TO CCGT 2063			Minimum Load	2063-01-01	2113-01-01	0							
+TO CCGT 2064			Minimum Load	2064-01-01	2114-01-01	0							
+TO CCGT 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TO OCGT 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TO OCGT 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TO OCGT 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TO OCGT 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TO OCGT 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TO OCGT 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TO OCGT 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TO OCGT 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TO OCGT 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TO OCGT 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TO OCGT 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TO OCGT 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TO OCGT 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TO OCGT 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TO OCGT 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TO OCGT 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TO Biomass 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TO Biomass 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TO Biomass 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TO Biomass 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TO Biomass 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TO Biomass 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TO Biomass 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TO Biomass 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TO Biomass 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TO Biomass 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TO Biomass 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TO Biomass 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TO Biomass 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TO Biomass 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TO Biomass 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TO Biomass 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TO Lignite 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TO Lignite 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TO Lignite 2000			Minimum Load	2000-01-01	2031-01-01	0							
+TO Lignite 2005			Minimum Load	2005-01-01	2038-01-01	0							
+TO Lignite 2010			Minimum Load	2010-01-01	2038-01-01	0							
+TO Lignite 2015			Minimum Load	2015-01-01	2038-01-01	0							
+TO Lignite 2020			Minimum Load	2020-01-01	2039-01-01	0							
+TO Lignite 2025			Minimum Load	2025-01-01	2039-01-01	0							
+TO Lignite 2030			Minimum Load	2030-01-01	2040-01-01	0							
+TO Lignite 2035			Minimum Load	2035-01-01	2040-01-01	0							
+TO Lignite 2040			Minimum Load	2040-01-01	2040-01-01	0							
+TO Lignite 2045			Minimum Load	2045-01-01	2040-01-01	0							
+TO Lignite 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TO Lignite 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TO Lignite 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TO Lignite 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TO Nuclear 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TO Nuclear 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TO Nuclear 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TO Nuclear 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TO Nuclear 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TO Nuclear 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TO Nuclear 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TO CHP 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TO CHP 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TO CHP 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TO CHP 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TO CHP 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TO CHP 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TO CHP 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TO CHP 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TO CHP 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TO CHP 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TO CHP 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TO CHP 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TO CHP 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TO CHP 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TO CHP 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TO CHP 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TO Liquid 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TO Liquid 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TO Liquid 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TO Liquid 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TO Liquid 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TO Liquid 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TO Liquid 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TO Liquid 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TO Liquid 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TO Liquid 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TO Liquid 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TO Liquid 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TO Liquid 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TO Liquid 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TO Liquid 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TO Liquid 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TO Kamisu			Minimum Load	2000-01-01	2100-01-01	0							
+TO Suzukawa_Energy_Center			Minimum Load	2000-01-01	2100-01-01	0							
+TO Nakoso_u10			Minimum Load	2000-01-01	2100-01-01	0							
+TO Negishi_IGCC			Minimum Load	2000-01-01	2100-01-01	0							
+TO NSC_Kashima_Works			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hirono_u5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hirono_u6			Minimum Load	2000-01-01	2100-01-01	0							
+TO Isogo_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Isogo_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Nakoso_u8			Minimum Load	2000-01-01	2100-01-01	0							
+TO Nakoso_u9			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_Works_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hitachinaka_Kyodo_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Bay_Power			Minimum Load	2000-01-01	2100-01-01	0							
+TO Nakasode_CC			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ichihara_CC			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Shin_Nakasode_CC			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_CC			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u6			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-7			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-6			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-7			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-6			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_u5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Yokosuka_CC			Minimum Load	2000-01-01	2100-01-01	0							
+TO Goi_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Goi_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Goi_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Goi_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_u6			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Goi_u5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Goi_u6			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO JFE_Chiba_IPP			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Anegasaki_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Anegasaki_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Anegasaki_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Anegasaki_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Anegasaki_u5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Anegasaki_u6			Minimum Load	2000-01-01	2100-01-01	0							
+TO Sodegaura_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Moka_CC_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Moka_CC_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Sodegaura_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Sodegaura_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Sodegaura_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Mizue_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ohi_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ohi_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Ohi_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hirono_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hirono_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_u1			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_u2			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hirono_u3			Minimum Load	2000-01-01	2100-01-01	0							
+TO Hirono_u4			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_u5			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashima_u6			Minimum Load	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u1			Minimum Load	2000-01-01	2100-01-01	400							
+TO Kashiwazaki_Kariwa_Nuclear_u2			Minimum Load	2000-01-01	2100-01-01	400							
+TO Kashiwazaki_Kariwa_Nuclear_u3			Minimum Load	2000-01-01	2100-01-01	400							
+TO Kashiwazaki_Kariwa_Nuclear_u4			Minimum Load	2000-01-01	2100-01-01	400							
+TO Kashiwazaki_Kariwa_Nuclear_u5			Minimum Load	2000-01-01	2100-01-01	400							
+TO Kashiwazaki_Kariwa_Nuclear_u6			Minimum Load	2000-01-01	2100-01-01	400							
+TO Kashiwazaki_Kariwa_Nuclear_u7			Minimum Load	2000-01-01	2100-01-01	400							
+TO Coal 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Coal 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Coal 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO Coal 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO Coal 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO Coal 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO Coal 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO Coal 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO Coal 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO Coal 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO Coal 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO Coal 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO Coal 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO Coal 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO Coal 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO Coal 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO CCGT 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO CCGT 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO CCGT 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO CCGT 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO CCGT 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO CCGT 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO CCGT 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO CCGT 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO CCGT 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO CCGT 2031			Minimum Load Bid Up Heat Rate	2031-01-01	2081-01-01	0							
+TO CCGT 2032			Minimum Load Bid Up Heat Rate	2032-01-01	2082-01-01	0							
+TO CCGT 2033			Minimum Load Bid Up Heat Rate	2033-01-01	2083-01-01	0							
+TO CCGT 2034			Minimum Load Bid Up Heat Rate	2034-01-01	2084-01-01	0							
+TO CCGT 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO CCGT 2036			Minimum Load Bid Up Heat Rate	2036-01-01	2086-01-01	0							
+TO CCGT 2037			Minimum Load Bid Up Heat Rate	2037-01-01	2087-01-01	0							
+TO CCGT 2038			Minimum Load Bid Up Heat Rate	2038-01-01	2088-01-01	0							
+TO CCGT 2039			Minimum Load Bid Up Heat Rate	2039-01-01	2089-01-01	0							
+TO CCGT 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO CCGT 2041			Minimum Load Bid Up Heat Rate	2041-01-01	2091-01-01	0							
+TO CCGT 2042			Minimum Load Bid Up Heat Rate	2042-01-01	2092-01-01	0							
+TO CCGT 2043			Minimum Load Bid Up Heat Rate	2043-01-01	2093-01-01	0							
+TO CCGT 2044			Minimum Load Bid Up Heat Rate	2044-01-01	2094-01-01	0							
+TO CCGT 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO CCGT 2046			Minimum Load Bid Up Heat Rate	2046-01-01	2096-01-01	0							
+TO CCGT 2047			Minimum Load Bid Up Heat Rate	2047-01-01	2097-01-01	0							
+TO CCGT 2048			Minimum Load Bid Up Heat Rate	2048-01-01	2098-01-01	0							
+TO CCGT 2049			Minimum Load Bid Up Heat Rate	2049-01-01	2099-01-01	0							
+TO CCGT 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO CCGT 2051			Minimum Load Bid Up Heat Rate	2051-01-01	2101-01-01	0							
+TO CCGT 2052			Minimum Load Bid Up Heat Rate	2052-01-01	2102-01-01	0							
+TO CCGT 2053			Minimum Load Bid Up Heat Rate	2053-01-01	2103-01-01	0							
+TO CCGT 2054			Minimum Load Bid Up Heat Rate	2054-01-01	2104-01-01	0							
+TO CCGT 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO CCGT 2056			Minimum Load Bid Up Heat Rate	2056-01-01	2106-01-01	0							
+TO CCGT 2057			Minimum Load Bid Up Heat Rate	2057-01-01	2107-01-01	0							
+TO CCGT 2058			Minimum Load Bid Up Heat Rate	2058-01-01	2108-01-01	0							
+TO CCGT 2059			Minimum Load Bid Up Heat Rate	2059-01-01	2109-01-01	0							
+TO CCGT 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO CCGT 2061			Minimum Load Bid Up Heat Rate	2061-01-01	2111-01-01	0							
+TO CCGT 2062			Minimum Load Bid Up Heat Rate	2062-01-01	2112-01-01	0							
+TO CCGT 2063			Minimum Load Bid Up Heat Rate	2063-01-01	2113-01-01	0							
+TO CCGT 2064			Minimum Load Bid Up Heat Rate	2064-01-01	2114-01-01	0							
+TO CCGT 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO OCGT 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO OCGT 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO OCGT 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO OCGT 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO OCGT 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO OCGT 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO OCGT 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO OCGT 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO OCGT 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO OCGT 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO OCGT 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO OCGT 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO OCGT 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO OCGT 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO OCGT 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO OCGT 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Biomass 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Biomass 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Biomass 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO Biomass 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO Biomass 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO Biomass 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO Biomass 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO Biomass 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO Biomass 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO Biomass 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO Biomass 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO Biomass 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO Biomass 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO Biomass 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO Biomass 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO Biomass 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Lignite 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Lignite 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Lignite 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2031-01-01	0							
+TO Lignite 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2038-01-01	0							
+TO Lignite 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2038-01-01	0							
+TO Lignite 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2038-01-01	0							
+TO Lignite 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2039-01-01	0							
+TO Lignite 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2039-01-01	0							
+TO Lignite 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2040-01-01	0							
+TO Lignite 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2040-01-01	0							
+TO Lignite 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2040-01-01	0							
+TO Lignite 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2040-01-01	0							
+TO Lignite 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO Lignite 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO Lignite 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO Lignite 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Nuclear 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Nuclear 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Nuclear 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO Nuclear 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO Nuclear 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO Nuclear 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO Nuclear 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO CHP 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO CHP 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO CHP 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO CHP 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO CHP 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO CHP 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO CHP 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO CHP 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO CHP 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO CHP 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO CHP 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO CHP 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO CHP 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO CHP 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO CHP 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO CHP 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Liquid 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TO Liquid 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TO Liquid 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TO Liquid 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TO Liquid 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TO Liquid 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TO Liquid 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TO Liquid 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TO Liquid 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TO Liquid 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TO Liquid 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TO Liquid 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TO Liquid 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TO Liquid 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TO Liquid 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TO Liquid 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TO Kamisu			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Suzukawa_Energy_Center			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Nakoso_u10			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Negishi_IGCC			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO NSC_Kashima_Works			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Isogo_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Isogo_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Nakoso_u8			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Nakoso_u9			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_Works_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hitachinaka_Kyodo_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Bay_Power			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Nakasode_CC			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ichihara_CC			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Shin_Nakasode_CC			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_CC			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-7			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-7			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_u5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Yokosuka_CC			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_u6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Goi_u6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO JFE_Chiba_IPP			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Anegasaki_u6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Sodegaura_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Moka_CC_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Moka_CC_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Sodegaura_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Sodegaura_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Sodegaura_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Mizue_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ohi_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ohi_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Ohi_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Hirono_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashima_u6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u1			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u2			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u3			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u4			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u5			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u6			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u7			Minimum Load Bid Up Heat Rate	2000-01-01	2100-01-01	0							
+TO Kashiwazaki_Kariwa_Nuclear_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	-200							
+TO Kashiwazaki_Kariwa_Nuclear_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	-200							
+TO Kashiwazaki_Kariwa_Nuclear_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	-200							
+TO Kashiwazaki_Kariwa_Nuclear_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	-200							
+TO Kashiwazaki_Kariwa_Nuclear_u5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	-200							
+TO Kashiwazaki_Kariwa_Nuclear_u6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	-200							
+TO Kashiwazaki_Kariwa_Nuclear_u7			Minimum Load Bid Up Price	2000-01-01	2100-01-01	-200							
+TO Coal 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TO Coal 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TO Coal 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TO Coal 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TO Coal 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TO Coal 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TO Coal 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TO Coal 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TO Coal 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TO Coal 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TO Coal 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TO Coal 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TO Coal 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TO Coal 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TO Coal 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TO Coal 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TO CCGT 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TO CCGT 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TO CCGT 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TO CCGT 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TO CCGT 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TO CCGT 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TO CCGT 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TO CCGT 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TO CCGT 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TO CCGT 2031			Minimum Load Bid Up Price	2031-01-01	2081-01-01	0							
+TO CCGT 2032			Minimum Load Bid Up Price	2032-01-01	2082-01-01	0							
+TO CCGT 2033			Minimum Load Bid Up Price	2033-01-01	2083-01-01	0							
+TO CCGT 2034			Minimum Load Bid Up Price	2034-01-01	2084-01-01	0							
+TO CCGT 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TO CCGT 2036			Minimum Load Bid Up Price	2036-01-01	2086-01-01	0							
+TO CCGT 2037			Minimum Load Bid Up Price	2037-01-01	2087-01-01	0							
+TO CCGT 2038			Minimum Load Bid Up Price	2038-01-01	2088-01-01	0							
+TO CCGT 2039			Minimum Load Bid Up Price	2039-01-01	2089-01-01	0							
+TO CCGT 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TO CCGT 2041			Minimum Load Bid Up Price	2041-01-01	2091-01-01	0							
+TO CCGT 2042			Minimum Load Bid Up Price	2042-01-01	2092-01-01	0							
+TO CCGT 2043			Minimum Load Bid Up Price	2043-01-01	2093-01-01	0							
+TO CCGT 2044			Minimum Load Bid Up Price	2044-01-01	2094-01-01	0							
+TO CCGT 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TO CCGT 2046			Minimum Load Bid Up Price	2046-01-01	2096-01-01	0							
+TO CCGT 2047			Minimum Load Bid Up Price	2047-01-01	2097-01-01	0							
+TO CCGT 2048			Minimum Load Bid Up Price	2048-01-01	2098-01-01	0							
+TO CCGT 2049			Minimum Load Bid Up Price	2049-01-01	2099-01-01	0							
+TO CCGT 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TO CCGT 2051			Minimum Load Bid Up Price	2051-01-01	2101-01-01	0							
+TO CCGT 2052			Minimum Load Bid Up Price	2052-01-01	2102-01-01	0							
+TO CCGT 2053			Minimum Load Bid Up Price	2053-01-01	2103-01-01	0							
+TO CCGT 2054			Minimum Load Bid Up Price	2054-01-01	2104-01-01	0							
+TO CCGT 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TO CCGT 2056			Minimum Load Bid Up Price	2056-01-01	2106-01-01	0							
+TO CCGT 2057			Minimum Load Bid Up Price	2057-01-01	2107-01-01	0							
+TO CCGT 2058			Minimum Load Bid Up Price	2058-01-01	2108-01-01	0							
+TO CCGT 2059			Minimum Load Bid Up Price	2059-01-01	2109-01-01	0							
+TO CCGT 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TO CCGT 2061			Minimum Load Bid Up Price	2061-01-01	2111-01-01	0							
+TO CCGT 2062			Minimum Load Bid Up Price	2062-01-01	2112-01-01	0							
+TO CCGT 2063			Minimum Load Bid Up Price	2063-01-01	2113-01-01	0							
+TO CCGT 2064			Minimum Load Bid Up Price	2064-01-01	2114-01-01	0							
+TO CCGT 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TO OCGT 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TO OCGT 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TO OCGT 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TO OCGT 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TO OCGT 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TO OCGT 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TO OCGT 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TO OCGT 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TO OCGT 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TO OCGT 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TO OCGT 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TO OCGT 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TO OCGT 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TO OCGT 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TO OCGT 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TO OCGT 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TO Biomass 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TO Biomass 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TO Biomass 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TO Biomass 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TO Biomass 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TO Biomass 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TO Biomass 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TO Biomass 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TO Biomass 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TO Biomass 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TO Biomass 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TO Biomass 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TO Biomass 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TO Lignite 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TO Lignite 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TO Lignite 2000			Minimum Load Bid Up Price	2000-01-01	2031-01-01	0							
+TO Lignite 2005			Minimum Load Bid Up Price	2005-01-01	2038-01-01	0							
+TO Lignite 2010			Minimum Load Bid Up Price	2010-01-01	2038-01-01	0							
+TO Lignite 2015			Minimum Load Bid Up Price	2015-01-01	2038-01-01	0							
+TO Lignite 2020			Minimum Load Bid Up Price	2020-01-01	2039-01-01	0							
+TO Lignite 2025			Minimum Load Bid Up Price	2025-01-01	2039-01-01	0							
+TO Lignite 2030			Minimum Load Bid Up Price	2030-01-01	2040-01-01	0							
+TO Lignite 2035			Minimum Load Bid Up Price	2035-01-01	2040-01-01	0							
+TO Lignite 2040			Minimum Load Bid Up Price	2040-01-01	2040-01-01	0							
+TO Lignite 2045			Minimum Load Bid Up Price	2045-01-01	2040-01-01	0							
+TO Lignite 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TO Lignite 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TO Lignite 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TO Lignite 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TO Nuclear 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TO Nuclear 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TO Nuclear 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TO Nuclear 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TO Nuclear 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TO Nuclear 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TO Nuclear 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TO CHP 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TO CHP 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TO CHP 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TO CHP 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TO CHP 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TO CHP 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TO CHP 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TO CHP 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TO CHP 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TO CHP 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TO CHP 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TO CHP 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TO CHP 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TO CHP 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TO CHP 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TO CHP 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TO Liquid 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TO Liquid 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TO Liquid 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TO Liquid 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TO Liquid 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TO Liquid 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TO Liquid 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TO Liquid 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TO Liquid 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TO Liquid 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TO Liquid 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TO Liquid 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TO Liquid 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TO Liquid 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TO Liquid 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TO Liquid 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TO Kamisu			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Suzukawa_Energy_Center			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Nakoso_u10			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Negishi_IGCC			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO NSC_Kashima_Works			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Isogo_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Isogo_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Nakoso_u8			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Nakoso_u9			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_Works_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hitachinaka_Kyodo_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hitachinaka_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Bay_Power			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Nakasode_CC			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ichihara_CC			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Shin_Nakasode_CC			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ibaraki_CC_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Chiba)_CC			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-7			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-7			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u2-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u1-6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_u5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Tokyo_Gas_Yokosuka_CC			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_CC_u5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kimitsu_Kyodo_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_u6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Goi_u6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u1-4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u2-4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u7-4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Yokohama_CC_u8-4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u3-4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Shinagawa_CC_u1-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ogishima_Power_CC_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_CC_u7-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Minami_Yokohama_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO JFE_Chiba_IPP			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Chiba_CC_u3-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u1-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Futtsu_CC_u4-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Anegasaki_u6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Sodegaura_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Moka_CC_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Moka_CC_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_CC_u2-3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Higashi_Ogishima_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Sodegaura_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Sodegaura_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Sodegaura_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kawasaki_JR_CC_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Mizue_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_Kyodo_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ohi_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ohi_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Ohi_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u1			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u2			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u3			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Hirono_u4			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u5			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Kashima_u6			Minimum Load Bid Up Price	2000-01-01	2100-01-01	0							
+TO Biomass 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	10							
+TO Biomass 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	11							
+TO Biomass 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	12							
+TO CCGT 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TO CCGT 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TO CCGT 2000			Variable Cost	2000-01-01	2050-01-01	1							
+TO CCGT 2005			Variable Cost	2005-01-01	2055-01-01	1							
+TO CCGT 2010			Variable Cost	2010-01-01	2060-01-01	1							
+TO CCGT 2015			Variable Cost	2015-01-01	2065-01-01	1							
+TO CCGT 2020			Variable Cost	2020-01-01	2070-01-01	1							
+TO CCGT 2025			Variable Cost	2025-01-01	2075-01-01	1							
+TO CCGT 2030			Variable Cost	2030-01-01	2080-01-01	1							
+TO CCGT 2031			Variable Cost	2031-01-01	2081-01-01	1							
+TO CCGT 2032			Variable Cost	2032-01-01	2082-01-01	1							
+TO CCGT 2033			Variable Cost	2033-01-01	2083-01-01	1							
+TO CCGT 2034			Variable Cost	2034-01-01	2084-01-01	1							
+TO CCGT 2035			Variable Cost	2035-01-01	2085-01-01	1							
+TO CCGT 2036			Variable Cost	2036-01-01	2086-01-01	1							
+TO CCGT 2037			Variable Cost	2037-01-01	2087-01-01	1							
+TO CCGT 2038			Variable Cost	2038-01-01	2088-01-01	1							
+TO CCGT 2039			Variable Cost	2039-01-01	2089-01-01	1							
+TO CCGT 2040			Variable Cost	2040-01-01	2090-01-01	1							
+TO CCGT 2041			Variable Cost	2041-01-01	2091-01-01	1							
+TO CCGT 2042			Variable Cost	2042-01-01	2092-01-01	1							
+TO CCGT 2043			Variable Cost	2043-01-01	2093-01-01	1							
+TO CCGT 2044			Variable Cost	2044-01-01	2094-01-01	1							
+TO CCGT 2045			Variable Cost	2045-01-01	2095-01-01	1							
+TO CCGT 2046			Variable Cost	2046-01-01	2096-01-01	1							
+TO CCGT 2047			Variable Cost	2047-01-01	2097-01-01	1							
+TO CCGT 2048			Variable Cost	2048-01-01	2098-01-01	1							
+TO CCGT 2049			Variable Cost	2049-01-01	2099-01-01	1							
+TO CCGT 2050			Variable Cost	2050-01-01	2100-01-01	1							
+TO CCGT 2051			Variable Cost	2051-01-01	2101-01-01	1							
+TO CCGT 2052			Variable Cost	2052-01-01	2102-01-01	1							
+TO CCGT 2053			Variable Cost	2053-01-01	2103-01-01	1							
+TO CCGT 2054			Variable Cost	2054-01-01	2104-01-01	1							
+TO CCGT 2055			Variable Cost	2055-01-01	2105-01-01	1							
+TO CCGT 2056			Variable Cost	2056-01-01	2106-01-01	1							
+TO CCGT 2057			Variable Cost	2057-01-01	2107-01-01	1							
+TO CCGT 2058			Variable Cost	2058-01-01	2108-01-01	1							
+TO CCGT 2059			Variable Cost	2059-01-01	2109-01-01	1							
+TO CCGT 2060			Variable Cost	2060-01-01	2110-01-01	1							
+TO CCGT 2061			Variable Cost	2061-01-01	2111-01-01	1							
+TO CCGT 2062			Variable Cost	2062-01-01	2112-01-01	1							
+TO CCGT 2063			Variable Cost	2063-01-01	2113-01-01	1							
+TO CCGT 2064			Variable Cost	2064-01-01	2114-01-01	1							
+TO CCGT 2065			Variable Cost	2065-01-01	2115-01-01	1							
+TO OCGT 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TO OCGT 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TO OCGT 2000			Variable Cost	2000-01-01	2050-01-01	1							
+TO OCGT 2005			Variable Cost	2005-01-01	2055-01-01	1							
+TO OCGT 2010			Variable Cost	2010-01-01	2060-01-01	1							
+TO OCGT 2015			Variable Cost	2015-01-01	2065-01-01	1							
+TO OCGT 2020			Variable Cost	2020-01-01	2070-01-01	1							
+TO OCGT 2025			Variable Cost	2025-01-01	2075-01-01	1							
+TO OCGT 2030			Variable Cost	2030-01-01	2080-01-01	1							
+TO OCGT 2035			Variable Cost	2035-01-01	2085-01-01	1							
+TO OCGT 2040			Variable Cost	2040-01-01	2090-01-01	1							
+TO OCGT 2045			Variable Cost	2045-01-01	2095-01-01	1							
+TO OCGT 2050			Variable Cost	2050-01-01	2100-01-01	1							
+TO OCGT 2055			Variable Cost	2055-01-01	2105-01-01	1							
+TO OCGT 2060			Variable Cost	2060-01-01	2110-01-01	1							
+TO OCGT 2065			Variable Cost	2065-01-01	2115-01-01	1							
+TO Biomass 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TO Biomass 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TO Biomass 2000			Variable Cost	2000-01-01	2050-01-01	1							
+TO Biomass 2005			Variable Cost	2005-01-01	2055-01-01	1							
+TO Biomass 2010			Variable Cost	2010-01-01	2060-01-01	1							
+TO Biomass 2015			Variable Cost	2015-01-01	2065-01-01	1							
+TO Biomass 2020			Variable Cost	2020-01-01	2070-01-01	1							
+TO CHP 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TO CHP 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TO Liquid 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TO Liquid 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TO Liquid 2000			Variable Cost	2000-01-01	2050-01-01	1							
+TO Liquid 2005			Variable Cost	2005-01-01	2055-01-01	1							
+TO Liquid 2010			Variable Cost	2010-01-01	2060-01-01	1							
+TO Liquid 2015			Variable Cost	2015-01-01	2065-01-01	1							
+TO Liquid 2020			Variable Cost	2020-01-01	2070-01-01	1							
+TO Liquid 2025			Variable Cost	2025-01-01	2075-01-01	1							
+TO Liquid 2030			Variable Cost	2030-01-01	2080-01-01	1							
+TO Liquid 2035			Variable Cost	2035-01-01	2085-01-01	1							
+TO Liquid 2040			Variable Cost	2040-01-01	2090-01-01	1							
+TO Liquid 2045			Variable Cost	2045-01-01	2095-01-01	1							
+TO Liquid 2050			Variable Cost	2050-01-01	2100-01-01	1							
+TO Liquid 2055			Variable Cost	2055-01-01	2105-01-01	1							
+TO Liquid 2060			Variable Cost	2060-01-01	2110-01-01	1							
+TO Liquid 2065			Variable Cost	2065-01-01	2115-01-01	1							
+TO Tokyo_Gas_Bay_Power			Variable Cost	2000-01-01	2100-01-01	1							
+TO Nakasode_CC			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ichihara_CC			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ibaraki_CC_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Shin_Nakasode_CC			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ibaraki_CC_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO JFE_East_Japan_Works_(Keihin)_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO JFE_East_Japan_Works_(Chiba)_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO JFE_East_Japan_Works_(Keihin)_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO JFE_East_Japan_Works_(Keihin)_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO JFE_East_Japan_Works_(Chiba)_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO JFE_East_Japan_Works_(Chiba)_CC			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kimitsu_Kyodo_CC_u6			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u1-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u1-4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u2-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u2-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u2-4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u2-5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u2-7			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u2-6			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u1-5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u1-7			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u2-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u1-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u1-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u1-6			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_u5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_JR_CC_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO JFE_East_Japan_Works_(Keihin)_New_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_JR_CC_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_JR_CC_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Tokyo_Gas_Yokosuka_CC			Variable Cost	2000-01-01	2100-01-01	1							
+TO Goi_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Goi_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Goi_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Goi_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_Kyodo_u5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kimitsu_Kyodo_CC_u5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_Kyodo_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kimitsu_Kyodo_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kimitsu_Kyodo_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Minami_Yokohama_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Minami_Yokohama_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_u6			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_CC_u7-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_CC_u8-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_CC_u8-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Goi_u5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Goi_u6			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u1-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u1-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u1-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u1-4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u2-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u2-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u2-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u2-4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_CC_u7-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_CC_u7-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_CC_u7-4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_CC_u8-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Yokohama_CC_u8-4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u3-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u3-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u3-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u3-4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Shinagawa_CC_u1-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Shinagawa_CC_u1-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Shinagawa_CC_u1-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ogishima_Power_CC_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ogishima_Power_CC_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ogishima_Power_CC_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_Natural_Gas_Power_Generation_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_Natural_Gas_Power_Generation_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_CC_u7-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_CC_u7-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_CC_u7-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Minami_Yokohama_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO JFE_Chiba_IPP			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u3-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u3-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Chiba_CC_u3-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_CC_u1-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_CC_u1-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_CC_u1-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_CC_u2-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u4-1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u4-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Futtsu_CC_u4-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Anegasaki_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Anegasaki_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Anegasaki_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Anegasaki_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Anegasaki_u5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Anegasaki_u6			Variable Cost	2000-01-01	2100-01-01	1							
+TO Sodegaura_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Moka_CC_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Moka_CC_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_CC_u2-2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_CC_u2-3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Higashi_Ogishima_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Higashi_Ogishima_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Sodegaura_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Sodegaura_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Sodegaura_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kawasaki_JR_CC_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Mizue_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_Kyodo_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ohi_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ohi_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Ohi_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Hirono_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Hirono_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Hirono_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Hirono_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_u5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashima_u6			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashiwazaki_Kariwa_Nuclear_u1			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashiwazaki_Kariwa_Nuclear_u2			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashiwazaki_Kariwa_Nuclear_u3			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashiwazaki_Kariwa_Nuclear_u4			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashiwazaki_Kariwa_Nuclear_u5			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashiwazaki_Kariwa_Nuclear_u6			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kashiwazaki_Kariwa_Nuclear_u7			Variable Cost	2000-01-01	2100-01-01	1							
+TO Kamisu			Variable Cost	2000-01-01	2100-01-01	2							
+TO Suzukawa_Energy_Center			Variable Cost	2000-01-01	2100-01-01	2							
+TO Nakoso_u10			Variable Cost	2000-01-01	2100-01-01	2							
+TO Negishi_IGCC			Variable Cost	2000-01-01	2100-01-01	2							
+TO NSC_Kashima_Works			Variable Cost	2000-01-01	2100-01-01	2							
+TO Hirono_u5			Variable Cost	2000-01-01	2100-01-01	2							
+TO Hirono_u6			Variable Cost	2000-01-01	2100-01-01	2							
+TO Isogo_u1			Variable Cost	2000-01-01	2100-01-01	2							
+TO Isogo_u2			Variable Cost	2000-01-01	2100-01-01	2							
+TO Nakoso_u8			Variable Cost	2000-01-01	2100-01-01	2							
+TO Nakoso_u9			Variable Cost	2000-01-01	2100-01-01	2							
+TO Kashima_Works_u2			Variable Cost	2000-01-01	2100-01-01	2							
+TO Hitachinaka_Kyodo_u1			Variable Cost	2000-01-01	2100-01-01	2							
+TO Hitachinaka_u1			Variable Cost	2000-01-01	2100-01-01	2							
+TO Hitachinaka_u2			Variable Cost	2000-01-01	2100-01-01	2							
+TO CHP 2000			Variable Cost	2000-01-01	2050-01-01	3							
+TO CHP 2005			Variable Cost	2005-01-01	2055-01-01	3							
+TO CHP 2010			Variable Cost	2010-01-01	2060-01-01	3							
+TO CHP 2015			Variable Cost	2015-01-01	2065-01-01	3							
+TO CHP 2020			Variable Cost	2020-01-01	2070-01-01	3							
+TO CHP 2025			Variable Cost	2025-01-01	2075-01-01	3							
+TO CHP 2030			Variable Cost	2030-01-01	2080-01-01	3							
+TO CHP 2035			Variable Cost	2035-01-01	2085-01-01	3							
+TO CHP 2040			Variable Cost	2040-01-01	2090-01-01	3							
+TO CHP 2045			Variable Cost	2045-01-01	2095-01-01	3							
+TO CHP 2050			Variable Cost	2050-01-01	2100-01-01	3							
+TO CHP 2055			Variable Cost	2055-01-01	2105-01-01	3							
+TO CHP 2060			Variable Cost	2060-01-01	2110-01-01	3							
+TO CHP 2065			Variable Cost	2065-01-01	2115-01-01	3							
+TO Coal 1990			Variable Cost	1990-01-01	2040-01-01	4							
+TO Coal 1995			Variable Cost	1995-01-01	2045-01-01	4							
+TO Coal 2000			Variable Cost	2000-01-01	2050-01-01	4							
+TO Coal 2005			Variable Cost	2005-01-01	2055-01-01	4							
+TO Coal 2010			Variable Cost	2010-01-01	2060-01-01	4							
+TO Coal 2015			Variable Cost	2015-01-01	2065-01-01	4							
+TO Coal 2020			Variable Cost	2020-01-01	2070-01-01	4							
+TO Coal 2025			Variable Cost	2025-01-01	2075-01-01	4							
+TO Coal 2030			Variable Cost	2030-01-01	2080-01-01	4							
+TO Coal 2035			Variable Cost	2035-01-01	2085-01-01	4							
+TO Coal 2040			Variable Cost	2040-01-01	2090-01-01	4							
+TO Coal 2045			Variable Cost	2045-01-01	2095-01-01	4							
+TO Coal 2050			Variable Cost	2050-01-01	2100-01-01	4							
+TO Coal 2055			Variable Cost	2055-01-01	2105-01-01	4							
+TO Coal 2060			Variable Cost	2060-01-01	2110-01-01	4							
+TO Coal 2065			Variable Cost	2065-01-01	2115-01-01	4							
+TO Biomass 2025			Variable Cost	2025-01-01	2075-01-01	5							
+TO Biomass 2030			Variable Cost	2030-01-01	2080-01-01	5							
+TO Biomass 2035			Variable Cost	2035-01-01	2085-01-01	5							
+TO Biomass 2040			Variable Cost	2040-01-01	2090-01-01	5							
+TO Biomass 2045			Variable Cost	2045-01-01	2095-01-01	5							
+TO Biomass 2050			Variable Cost	2050-01-01	2100-01-01	5							
+TO Biomass 2055			Variable Cost	2055-01-01	2105-01-01	5							
+TO Biomass 2060			Variable Cost	2060-01-01	2110-01-01	5							
+TO Biomass 2065			Variable Cost	2065-01-01	2115-01-01	5							
+TO Lignite 1990			Variable Cost	1990-01-01	2040-01-01	5							
+TO Lignite 1995			Variable Cost	1995-01-01	2045-01-01	5							
+TO Lignite 2000			Variable Cost	2000-01-01	2031-01-01	5							
+TO Lignite 2005			Variable Cost	2005-01-01	2038-01-01	5							
+TO Lignite 2010			Variable Cost	2010-01-01	2038-01-01	5							
+TO Lignite 2015			Variable Cost	2015-01-01	2038-01-01	5							
+TO Lignite 2020			Variable Cost	2020-01-01	2039-01-01	5							
+TO Lignite 2025			Variable Cost	2025-01-01	2039-01-01	5							
+TO Lignite 2030			Variable Cost	2030-01-01	2040-01-01	5							
+TO Lignite 2035			Variable Cost	2035-01-01	2040-01-01	5							
+TO Lignite 2040			Variable Cost	2040-01-01	2040-01-01	5							
+TO Lignite 2045			Variable Cost	2045-01-01	2040-01-01	5							
+TO Lignite 2050			Variable Cost	2050-01-01	2100-01-01	5							
+TO Lignite 2055			Variable Cost	2055-01-01	2105-01-01	5							
+TO Lignite 2060			Variable Cost	2060-01-01	2110-01-01	5							
+TO Lignite 2065			Variable Cost	2065-01-01	2115-01-01	5							
+TO Nuclear 1990			Variable Cost	1990-01-01	2040-01-01	5							
+TO Nuclear 1995			Variable Cost	1995-01-01	2045-01-01	5							
+TO Nuclear 2000			Variable Cost	2000-01-01	2050-01-01	5							
+TO Nuclear 2005			Variable Cost	2005-01-01	2055-01-01	5							
+TO Nuclear 2010			Variable Cost	2010-01-01	2060-01-01	5							
+TO Nuclear 2015			Variable Cost	2015-01-01	2065-01-01	5							
+TO Nuclear 2020			Variable Cost	2020-01-01	2070-01-01	5							

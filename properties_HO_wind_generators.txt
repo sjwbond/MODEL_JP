@@ -1,0 +1,1136 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.055475E-02							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.0533424							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.795186E-02							
+JAPAN Offshore 100m 801 43.5 140.0 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.895625E-02							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.0301948							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	7.747401E-02							
+JAPAN Offshore 100m 801 43.5 140.0 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.401764E-03							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	7.607236E-02							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.081449							
+JAPAN Offshore 100m 801 43.5 140.0 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.090379E-02							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.535276E-03							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	4.140327E-02							
+JAPAN Offshore 100m 826 43.0 146.25 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	8.626194E-02							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.079048							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	3.735362E-02							
+JAPAN Offshore 100m 826 43.0 146.25 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.619532E-02							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	8.714458E-02							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 826 43.0 146.25 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.623686E-03							
+JAPAN Offshore 100m 826 43.0 146.25 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.495567E-02							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	3.640187E-02							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.248684E-02							
+JAPAN Offshore 100m 837 42.5 143.75 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.671116E-02							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	5.350453E-03							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.924582E-02							
+JAPAN Offshore 100m 837 42.5 143.75 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.687001E-02							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	2.981654E-02							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 837 42.5 143.75 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.226967E-02							
+JAPAN Offshore 100m 837 42.5 143.75 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.478212E-02							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	2.637929E-02							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.0279342							
+JAPAN Offshore 100m 840 42.5 145.625 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	8.298016E-02							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	8.246021E-02							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.0589163							
+JAPAN Offshore 100m 840 42.5 145.625 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.860931E-02							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.109643E-02							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 840 42.5 145.625 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.0226866							
+JAPAN Offshore 100m 840 42.5 145.625 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.951155E-02							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.800033E-02							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.439314E-02							
+JAPAN Offshore 100m 846 42.0 140.0 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	5.338731E-02							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.063697E-02							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	9.994145E-02							
+JAPAN Offshore 100m 846 42.0 140.0 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.761759E-02							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.570392E-03							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 846 42.0 140.0 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.751838E-02							
+JAPAN Offshore 100m 846 42.0 140.0 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.000522E-02							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.030226E-02							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	7.988844E-02							
+JAPAN Offshore 100m 848 42.0 141.25 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.844803E-02							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.564917E-03							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.957729E-02							
+JAPAN Offshore 100m 848 42.0 141.25 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.820107E-02							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	3.009705E-02							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	9.485711E-02							
+JAPAN Offshore 100m 848 42.0 141.25 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.798294E-02							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.013743E-02							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.027828							
+JAPAN Offshore 100m 851 42.0 143.125 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.604415E-02							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.628216E-02							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.465872E-02							
+JAPAN Offshore 100m 851 42.0 143.125 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.100732E-02							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.127668E-02							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 851 42.0 143.125 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	7.127304E-02							
+JAPAN Offshore 100m 851 42.0 143.125 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.262062E-02							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	6.331789E-02							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.075611E-02							
+JAPAN Offshore 100m 876 41.0 140.0 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.860135E-02							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.0583359							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	8.071464E-03							
+JAPAN Offshore 100m 876 41.0 140.0 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.579715E-02							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.057298E-02							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 100m 876 41.0 140.0 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.613683E-02							
+JAPAN Offshore 100m 876 41.0 140.0 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.852122E-02							
+JAPAN Offshore 392 41.5 143.125 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 392 41.5 143.125 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	3.789026E-02							
+JAPAN Offshore 392 41.5 143.125 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.896651E-02							
+JAPAN Offshore 392 41.5 143.125 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.193771E-02							
+JAPAN Offshore 392 41.5 143.125 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	6.317424E-02							
+JAPAN Offshore 392 41.5 143.125 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.276421E-02							
+JAPAN Offshore 392 41.5 143.125 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.284564E-02							
+JAPAN Offshore 392 41.5 143.125 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.797382E-03							
+JAPAN Offshore 392 41.5 143.125 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 392 41.5 143.125 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 392 41.5 143.125 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 392 41.5 143.125 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 392 41.5 143.125 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.610401E-02							
+JAPAN Offshore 392 41.5 143.125 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.944853E-02							
+JAPAN Offshore 496 44.5 148.125 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 496 44.5 148.125 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.137176E-02							
+JAPAN Offshore 496 44.5 148.125 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	8.348171E-02							
+JAPAN Offshore 496 44.5 148.125 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.26292E-03							
+JAPAN Offshore 496 44.5 148.125 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	5.433606E-02							
+JAPAN Offshore 496 44.5 148.125 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.0916164							
+JAPAN Offshore 496 44.5 148.125 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.302611E-02							
+JAPAN Offshore 496 44.5 148.125 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	6.779477E-02							
+JAPAN Offshore 496 44.5 148.125 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 496 44.5 148.125 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 496 44.5 148.125 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 496 44.5 148.125 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 496 44.5 148.125 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.024539E-02							
+JAPAN Offshore 496 44.5 148.125 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	5.137375E-02							
+JAPAN Offshore 509 45.0 146.25 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Offshore 509 45.0 146.25 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.046298							
+JAPAN Offshore 509 45.0 146.25 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	3.534726E-02							
+JAPAN Offshore 509 45.0 146.25 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 130M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.048342E-02							
+JAPAN Offshore 509 45.0 146.25 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 130M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	2.697316E-02							
+JAPAN Offshore 509 45.0 146.25 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 130M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 130M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.559349E-03							
+JAPAN Offshore 509 45.0 146.25 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 160M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.438452E-02							
+JAPAN Offshore 509 45.0 146.25 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 160M Generator NWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.0979078							
+JAPAN Offshore 509 45.0 146.25 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 160M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Offshore 509 45.0 146.25 160M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Offshore 509 45.0 146.25 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Offshore 509 45.0 146.25 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Offshore 509 45.0 146.25 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.091624E-03							
+JAPAN Offshore 509 45.0 146.25 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.902914E-02							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	3.649954E-02							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	4.898947E-02							
+JAPAN Onshore 100m 807 43.5 143.75 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.556631E-02							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.744592E-02							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.572677E-02							
+JAPAN Onshore 100m 807 43.5 143.75 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.287519E-02							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	5.420702E-02							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	1.563022E-02							
+JAPAN Onshore 100m 807 43.5 143.75 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.385452E-02							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	6.544994E-02							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.060874E-02							
+JAPAN Onshore 100m 809 43.5 145.0 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.904714E-02							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.073753E-02							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	7.839952E-02							
+JAPAN Onshore 100m 809 43.5 145.0 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.596408E-02							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	7.536881E-02							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 809 43.5 145.0 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.960945E-02							
+JAPAN Onshore 100m 809 43.5 145.0 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	8.327302E-02							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.875836E-03							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.103686E-02							
+JAPAN Onshore 100m 817 43.0 140.625 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.395333E-03							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.054527E-02							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	3.316944E-02							
+JAPAN Onshore 100m 817 43.0 140.625 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.282499E-02							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	2.4122E-05							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 817 43.0 140.625 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.367941E-02							
+JAPAN Onshore 100m 817 43.0 140.625 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.570549E-02							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.0544014							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	8.274119E-02							
+JAPAN Onshore 100m 819 43.0 141.875 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	8.189356E-03							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.919225E-02							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.789134E-02							
+JAPAN Onshore 100m 819 43.0 141.875 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.542078E-02							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	3.570231E-02							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 819 43.0 141.875 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	1.499811E-02							
+JAPAN Onshore 100m 819 43.0 141.875 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.043958E-02							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.287859E-02							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.302125E-02							
+JAPAN Onshore 100m 822 43.0 143.75 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	8.964139E-03							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	7.577293E-02							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	4.018421E-02							
+JAPAN Onshore 100m 822 43.0 143.75 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.618744E-02							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.921656E-02							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 822 43.0 143.75 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.076273E-02							
+JAPAN Onshore 100m 822 43.0 143.75 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.297359E-02							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.542907E-03							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.897925E-02							
+JAPAN Onshore 100m 824 43.0 145.0 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.698735E-02							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.276165E-02							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	9.792984E-03							
+JAPAN Onshore 100m 824 43.0 145.0 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.438625E-02							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	2.729468E-02							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 824 43.0 145.0 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	8.725469E-02							
+JAPAN Onshore 100m 824 43.0 145.0 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.506877E-02							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	2.729424E-02							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.736467E-02							
+JAPAN Onshore 100m 833 42.5 141.25 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.566289E-02							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	8.989656E-03							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	3.095061E-03							
+JAPAN Onshore 100m 833 42.5 141.25 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.227177E-02							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	7.901289E-02							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 833 42.5 141.25 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.0297258							
+JAPAN Onshore 100m 833 42.5 141.25 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.352822E-02							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.804747E-02							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.546019E-02							
+JAPAN Onshore 100m 836 42.5 143.125 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.406066E-02							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.493386E-03							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	4.824281E-02							
+JAPAN Onshore 100m 836 42.5 143.125 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.060172E-02							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	8.645345E-02							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 836 42.5 143.125 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.886286E-02							
+JAPAN Onshore 100m 836 42.5 143.125 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.549083E-02							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.278831E-02							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	3.310169E-02							
+JAPAN Onshore 100m 860 41.5 139.375 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	5.429412E-02							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	8.069133E-03							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.343719E-02							
+JAPAN Onshore 100m 860 41.5 139.375 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.100367E-02							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.604228E-02							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 100m 860 41.5 139.375 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	1.146233E-02							
+JAPAN Onshore 100m 860 41.5 139.375 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 70M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.234452E-02							
+JAPAN Onshore 529 45.5 148.75 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 70M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 529 45.5 148.75 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	6.202096E-02							
+JAPAN Onshore 529 45.5 148.75 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 70M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 70M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	3.477264E-02							
+JAPAN Onshore 529 45.5 148.75 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 85M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M Windspeed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.492457E-02							
+JAPAN Onshore 529 45.5 148.75 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 85M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 529 45.5 148.75 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M Windspeed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.799782E-02							
+JAPAN Onshore 529 45.5 148.75 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 85M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 85M Windspeed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.194091E-02							
+JAPAN Onshore 529 45.5 148.75 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 100M Generator LWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 Base Wind Speed	LWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.937313E-02							
+JAPAN Onshore 529 45.5 148.75 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 100M Generator NWST			Capacity	2010-01-01	2100-01-01	HO Installed Capacity File	1	Multiply					
+JAPAN Onshore 529 45.5 148.75 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 Base Wind Speed	NWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.304204E-02							
+JAPAN Onshore 529 45.5 148.75 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 100M Generator HWST			Capacity	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	JAPAN Onshore 529 45.5 148.75 Base Wind Speed	HWST Wind Power Curve	Lookup					
+JAPAN Onshore 529 45.5 148.75 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+JAPAN Onshore 529 45.5 148.75 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+JAPAN Onshore 529 45.5 148.75 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.888578E-03							
+JAPAN Onshore 529 45.5 148.75 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							

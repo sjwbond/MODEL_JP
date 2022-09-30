@@ -1,0 +1,5 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TO ROR Capacity Factor			Value	2010-01-01	2100-01-01	TO ROR File	1	Multiply					
+TO ROR File			Location	2010-01-01	2100-01-01	/Variables/Profiles ROR/TO ROR.txt							
+TO ROR File			Location_Type	2010-01-01	2100-01-01	Relative							
+TO ROR File			Data_Type	2010-01-01	2100-01-01	File							

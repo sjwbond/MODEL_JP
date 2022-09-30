@@ -1,0 +1,1846 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TU Coal 1990			Capacity	1990-01-01	2040-01-01	0	TU Availability Coal	Multiply					
+TU Coal 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.7							
+TU Coal 1990			Variable Cost	1990-01-01	2040-01-01	4							
+TU Coal 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TU Coal 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Coal 1990			Fuel	1990-01-01	2040-01-01	TU Station Coal							
+TU Coal 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TU Coal 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TU Coal 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Coal 1995			Capacity	1995-01-01	2045-01-01	0	TU Availability Coal	Multiply					
+TU Coal 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.52631579							
+TU Coal 1995			Variable Cost	1995-01-01	2045-01-01	4							
+TU Coal 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TU Coal 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Coal 1995			Fuel	1995-01-01	2045-01-01	TU Station Coal							
+TU Coal 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TU Coal 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TU Coal 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Coal 2000			Capacity	2000-01-01	2050-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.46511628							
+TU Coal 2000			Variable Cost	2000-01-01	2050-01-01	4							
+TU Coal 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TU Coal 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU Coal 2000			Fuel	2000-01-01	2050-01-01	TU Station Coal							
+TU Coal 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TU Coal 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TU Coal 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU Coal 2005			Capacity	2005-01-01	2055-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.40462428							
+TU Coal 2005			Variable Cost	2005-01-01	2055-01-01	4							
+TU Coal 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TU Coal 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU Coal 2005			Fuel	2005-01-01	2055-01-01	TU Station Coal							
+TU Coal 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TU Coal 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TU Coal 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU Coal 2010			Capacity	2010-01-01	2060-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.34482759							
+TU Coal 2010			Variable Cost	2010-01-01	2060-01-01	4							
+TU Coal 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TU Coal 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU Coal 2010			Fuel	2010-01-01	2060-01-01	TU Station Coal							
+TU Coal 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TU Coal 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TU Coal 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU Coal 2015			Capacity	2015-01-01	2065-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.28571429							
+TU Coal 2015			Variable Cost	2015-01-01	2065-01-01	4							
+TU Coal 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TU Coal 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU Coal 2015			Fuel	2015-01-01	2065-01-01	TU Station Coal							
+TU Coal 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TU Coal 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TU Coal 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU Coal 2020			Capacity	2020-01-01	2070-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.22727273							
+TU Coal 2020			Variable Cost	2020-01-01	2070-01-01	4							
+TU Coal 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TU Coal 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU Coal 2020			Fuel	2020-01-01	2070-01-01	TU Station Coal							
+TU Coal 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TU Coal 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TU Coal 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU Coal 2025			Capacity	2025-01-01	2075-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2025			Marginal Heat Rate	2025-01-01	2075-01-01	10.16949153							
+TU Coal 2025			Variable Cost	2025-01-01	2075-01-01	4							
+TU Coal 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TU Coal 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU Coal 2025			Fuel	2025-01-01	2075-01-01	TU Station Coal							
+TU Coal 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TU Coal 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TU Coal 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU Coal 2030			Capacity	2030-01-01	2080-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2030			Marginal Heat Rate	2030-01-01	2080-01-01	10.11235955							
+TU Coal 2030			Variable Cost	2030-01-01	2080-01-01	4							
+TU Coal 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TU Coal 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU Coal 2030			Fuel	2030-01-01	2080-01-01	TU Station Coal							
+TU Coal 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TU Coal 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TU Coal 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU Coal 2035			Capacity	2035-01-01	2085-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2035			Marginal Heat Rate	2035-01-01	2085-01-01	10.05586592							
+TU Coal 2035			Variable Cost	2035-01-01	2085-01-01	4							
+TU Coal 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TU Coal 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU Coal 2035			Fuel	2035-01-01	2085-01-01	TU Station Coal							
+TU Coal 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TU Coal 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TU Coal 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU Coal 2040			Capacity	2040-01-01	2090-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2040			Marginal Heat Rate	2040-01-01	2090-01-01	10							
+TU Coal 2040			Variable Cost	2040-01-01	2090-01-01	4							
+TU Coal 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TU Coal 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU Coal 2040			Fuel	2040-01-01	2090-01-01	TU Station Coal							
+TU Coal 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TU Coal 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TU Coal 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU Coal 2045			Capacity	2045-01-01	2095-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.944751381							
+TU Coal 2045			Variable Cost	2045-01-01	2095-01-01	4							
+TU Coal 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TU Coal 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU Coal 2045			Fuel	2045-01-01	2095-01-01	TU Station Coal							
+TU Coal 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TU Coal 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TU Coal 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU Coal 2050			Capacity	2050-01-01	2100-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.89010989							
+TU Coal 2050			Variable Cost	2050-01-01	2100-01-01	4							
+TU Coal 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TU Coal 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU Coal 2050			Fuel	2050-01-01	2100-01-01	TU Station Coal							
+TU Coal 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TU Coal 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TU Coal 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU Coal 2055			Capacity	2055-01-01	2105-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.836065574							
+TU Coal 2055			Variable Cost	2055-01-01	2105-01-01	4							
+TU Coal 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TU Coal 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU Coal 2055			Fuel	2055-01-01	2105-01-01	TU Station Coal							
+TU Coal 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TU Coal 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TU Coal 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU Coal 2060			Capacity	2060-01-01	2110-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.782608696							
+TU Coal 2060			Variable Cost	2060-01-01	2110-01-01	4							
+TU Coal 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TU Coal 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU Coal 2060			Fuel	2060-01-01	2110-01-01	TU Station Coal							
+TU Coal 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TU Coal 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TU Coal 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU Coal 2065			Capacity	2065-01-01	2115-01-01	0	TU Availability Coal	Multiply					
+TU Coal 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.72972973							
+TU Coal 2065			Variable Cost	2065-01-01	2115-01-01	4							
+TU Coal 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TU Coal 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU Coal 2065			Fuel	2065-01-01	2115-01-01	TU Station Coal							
+TU Coal 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TU Coal 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TU Coal 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU CCGT 1990			Capacity	1990-01-01	2040-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 1990			Marginal Heat Rate	1990-01-01	2040-01-01	7.659574468							
+TU CCGT 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TU CCGT 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TU CCGT 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU CCGT 1990			Fuel	1990-01-01	2040-01-01	TU Station Gas							
+TU CCGT 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TU CCGT 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TU CCGT 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU CCGT 1995			Capacity	1995-01-01	2045-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 1995			Marginal Heat Rate	1995-01-01	2045-01-01	7.2							
+TU CCGT 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TU CCGT 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TU CCGT 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU CCGT 1995			Fuel	1995-01-01	2045-01-01	TU Station Gas							
+TU CCGT 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TU CCGT 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TU CCGT 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU CCGT 2000			Capacity	2000-01-01	2050-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2000			Marginal Heat Rate	2000-01-01	2050-01-01	6.79245283							
+TU CCGT 2000			Variable Cost	2000-01-01	2050-01-01	1							
+TU CCGT 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TU CCGT 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU CCGT 2000			Fuel	2000-01-01	2050-01-01	TU Station Gas							
+TU CCGT 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TU CCGT 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TU CCGT 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU CCGT 2005			Capacity	2005-01-01	2055-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2005			Marginal Heat Rate	2005-01-01	2055-01-01	6.428571429							
+TU CCGT 2005			Variable Cost	2005-01-01	2055-01-01	1							
+TU CCGT 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TU CCGT 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU CCGT 2005			Fuel	2005-01-01	2055-01-01	TU Station Gas							
+TU CCGT 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TU CCGT 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TU CCGT 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU CCGT 2010			Capacity	2010-01-01	2060-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2010			Marginal Heat Rate	2010-01-01	2060-01-01	6.101694915							
+TU CCGT 2010			Variable Cost	2010-01-01	2060-01-01	1							
+TU CCGT 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TU CCGT 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU CCGT 2010			Fuel	2010-01-01	2060-01-01	TU Station Gas							
+TU CCGT 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TU CCGT 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TU CCGT 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU CCGT 2015			Capacity	2015-01-01	2065-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2015			Marginal Heat Rate	2015-01-01	2065-01-01	5.806451613							
+TU CCGT 2015			Variable Cost	2015-01-01	2065-01-01	1							
+TU CCGT 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TU CCGT 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU CCGT 2015			Fuel	2015-01-01	2065-01-01	TU Station Gas							
+TU CCGT 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TU CCGT 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TU CCGT 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU CCGT 2020			Capacity	2020-01-01	2070-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2020			Marginal Heat Rate	2020-01-01	2070-01-01	7.142066421							
+TU CCGT 2020			Variable Cost	2020-01-01	2070-01-01	1							
+TU CCGT 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TU CCGT 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU CCGT 2020			Fuel	2020-01-01	2070-01-01	TU Station Gas							
+TU CCGT 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TU CCGT 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TU CCGT 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU CCGT 2025			Capacity	2025-01-01	2075-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2025			Marginal Heat Rate	2025-01-01	2075-01-01	6.617647059							
+TU CCGT 2025			Variable Cost	2025-01-01	2075-01-01	1							
+TU CCGT 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TU CCGT 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU CCGT 2025			Fuel	2025-01-01	2075-01-01	TU Station Gas							
+TU CCGT 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TU CCGT 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TU CCGT 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU CCGT 2030			Capacity	2030-01-01	2080-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2030			Marginal Heat Rate	2030-01-01	2080-01-01	6.593406593							
+TU CCGT 2030			Variable Cost	2030-01-01	2080-01-01	1							
+TU CCGT 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TU CCGT 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU CCGT 2030			Fuel	2030-01-01	2080-01-01	TU Station Gas							
+TU CCGT 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TU CCGT 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TU CCGT 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU CCGT 2031			Capacity	2031-01-01	2081-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2031			Marginal Heat Rate	2031-01-01	2081-01-01	6.593406593							
+TU CCGT 2031			Variable Cost	2031-01-01	2081-01-01	1							
+TU CCGT 2031			Bid Up Price	2031-01-01	2081-01-01	0							
+TU CCGT 2031			Bid Up Heat Rate	2031-01-01	2081-01-01	0							
+TU CCGT 2031			Fuel	2031-01-01	2081-01-01	TU Station Gas							
+TU CCGT 2031			Minimum Load	2031-01-01	2081-01-01	0							
+TU CCGT 2031			Minimum Load Bid Up Price	2031-01-01	2081-01-01	0							
+TU CCGT 2031			Minimum Load Bid Up Heat Rate	2031-01-01	2081-01-01	0							
+TU CCGT 2032			Capacity	2032-01-01	2082-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2032			Marginal Heat Rate	2032-01-01	2082-01-01	6.593406593							
+TU CCGT 2032			Variable Cost	2032-01-01	2082-01-01	1							
+TU CCGT 2032			Bid Up Price	2032-01-01	2082-01-01	0							
+TU CCGT 2032			Bid Up Heat Rate	2032-01-01	2082-01-01	0							
+TU CCGT 2032			Fuel	2032-01-01	2082-01-01	TU Station Gas							
+TU CCGT 2032			Minimum Load	2032-01-01	2082-01-01	0							
+TU CCGT 2032			Minimum Load Bid Up Price	2032-01-01	2082-01-01	0							
+TU CCGT 2032			Minimum Load Bid Up Heat Rate	2032-01-01	2082-01-01	0							
+TU CCGT 2033			Capacity	2033-01-01	2083-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2033			Marginal Heat Rate	2033-01-01	2083-01-01	6.593406593							
+TU CCGT 2033			Variable Cost	2033-01-01	2083-01-01	1							
+TU CCGT 2033			Bid Up Price	2033-01-01	2083-01-01	0							
+TU CCGT 2033			Bid Up Heat Rate	2033-01-01	2083-01-01	0							
+TU CCGT 2033			Fuel	2033-01-01	2083-01-01	TU Station Gas							
+TU CCGT 2033			Minimum Load	2033-01-01	2083-01-01	0							
+TU CCGT 2033			Minimum Load Bid Up Price	2033-01-01	2083-01-01	0							
+TU CCGT 2033			Minimum Load Bid Up Heat Rate	2033-01-01	2083-01-01	0							
+TU CCGT 2034			Capacity	2034-01-01	2084-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2034			Marginal Heat Rate	2034-01-01	2084-01-01	6.593406593							
+TU CCGT 2034			Variable Cost	2034-01-01	2084-01-01	1							
+TU CCGT 2034			Bid Up Price	2034-01-01	2084-01-01	0							
+TU CCGT 2034			Bid Up Heat Rate	2034-01-01	2084-01-01	0							
+TU CCGT 2034			Fuel	2034-01-01	2084-01-01	TU Station Gas							
+TU CCGT 2034			Minimum Load	2034-01-01	2084-01-01	0							
+TU CCGT 2034			Minimum Load Bid Up Price	2034-01-01	2084-01-01	0							
+TU CCGT 2034			Minimum Load Bid Up Heat Rate	2034-01-01	2084-01-01	0							
+TU CCGT 2035			Capacity	2035-01-01	2085-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2035			Marginal Heat Rate	2035-01-01	2085-01-01	6							
+TU CCGT 2035			Variable Cost	2035-01-01	2085-01-01	1							
+TU CCGT 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TU CCGT 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU CCGT 2035			Fuel	2035-01-01	2085-01-01	TU Station Gas							
+TU CCGT 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TU CCGT 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TU CCGT 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU CCGT 2036			Capacity	2036-01-01	2086-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2036			Marginal Heat Rate	2036-01-01	2086-01-01	5.901639344							
+TU CCGT 2036			Variable Cost	2036-01-01	2086-01-01	1							
+TU CCGT 2036			Bid Up Price	2036-01-01	2086-01-01	0							
+TU CCGT 2036			Bid Up Heat Rate	2036-01-01	2086-01-01	0							
+TU CCGT 2036			Fuel	2036-01-01	2086-01-01	TU Station Gas							
+TU CCGT 2036			Minimum Load	2036-01-01	2086-01-01	0							
+TU CCGT 2036			Minimum Load Bid Up Price	2036-01-01	2086-01-01	0							
+TU CCGT 2036			Minimum Load Bid Up Heat Rate	2036-01-01	2086-01-01	0							
+TU CCGT 2037			Capacity	2037-01-01	2087-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2037			Marginal Heat Rate	2037-01-01	2087-01-01	5.806451613							
+TU CCGT 2037			Variable Cost	2037-01-01	2087-01-01	1							
+TU CCGT 2037			Bid Up Price	2037-01-01	2087-01-01	0							
+TU CCGT 2037			Bid Up Heat Rate	2037-01-01	2087-01-01	0							
+TU CCGT 2037			Fuel	2037-01-01	2087-01-01	TU Station Gas							
+TU CCGT 2037			Minimum Load	2037-01-01	2087-01-01	0							
+TU CCGT 2037			Minimum Load Bid Up Price	2037-01-01	2087-01-01	0							
+TU CCGT 2037			Minimum Load Bid Up Heat Rate	2037-01-01	2087-01-01	0							
+TU CCGT 2038			Capacity	2038-01-01	2088-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2038			Marginal Heat Rate	2038-01-01	2088-01-01	5.714285714							
+TU CCGT 2038			Variable Cost	2038-01-01	2088-01-01	1							
+TU CCGT 2038			Bid Up Price	2038-01-01	2088-01-01	0							
+TU CCGT 2038			Bid Up Heat Rate	2038-01-01	2088-01-01	0							
+TU CCGT 2038			Fuel	2038-01-01	2088-01-01	TU Station Gas							
+TU CCGT 2038			Minimum Load	2038-01-01	2088-01-01	0							
+TU CCGT 2038			Minimum Load Bid Up Price	2038-01-01	2088-01-01	0							
+TU CCGT 2038			Minimum Load Bid Up Heat Rate	2038-01-01	2088-01-01	0							
+TU CCGT 2039			Capacity	2039-01-01	2089-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2039			Marginal Heat Rate	2039-01-01	2089-01-01	6.569343066							
+TU CCGT 2039			Variable Cost	2039-01-01	2089-01-01	1							
+TU CCGT 2039			Bid Up Price	2039-01-01	2089-01-01	0							
+TU CCGT 2039			Bid Up Heat Rate	2039-01-01	2089-01-01	0							
+TU CCGT 2039			Fuel	2039-01-01	2089-01-01	TU Station Gas							
+TU CCGT 2039			Minimum Load	2039-01-01	2089-01-01	0							
+TU CCGT 2039			Minimum Load Bid Up Price	2039-01-01	2089-01-01	0							
+TU CCGT 2039			Minimum Load Bid Up Heat Rate	2039-01-01	2089-01-01	0							
+TU CCGT 2040			Capacity	2040-01-01	2090-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2040			Marginal Heat Rate	2040-01-01	2090-01-01	6.545454545							
+TU CCGT 2040			Variable Cost	2040-01-01	2090-01-01	1							
+TU CCGT 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TU CCGT 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU CCGT 2040			Fuel	2040-01-01	2090-01-01	TU Station Gas							
+TU CCGT 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TU CCGT 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TU CCGT 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU CCGT 2041			Capacity	2041-01-01	2091-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2041			Marginal Heat Rate	2041-01-01	2091-01-01	6.52173913							
+TU CCGT 2041			Variable Cost	2041-01-01	2091-01-01	1							
+TU CCGT 2041			Bid Up Price	2041-01-01	2091-01-01	0							
+TU CCGT 2041			Bid Up Heat Rate	2041-01-01	2091-01-01	0							
+TU CCGT 2041			Fuel	2041-01-01	2091-01-01	TU Station Gas							
+TU CCGT 2041			Minimum Load	2041-01-01	2091-01-01	0							
+TU CCGT 2041			Minimum Load Bid Up Price	2041-01-01	2091-01-01	0							
+TU CCGT 2041			Minimum Load Bid Up Heat Rate	2041-01-01	2091-01-01	0							
+TU CCGT 2042			Capacity	2042-01-01	2092-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2042			Marginal Heat Rate	2042-01-01	2092-01-01	6.498194946							
+TU CCGT 2042			Variable Cost	2042-01-01	2092-01-01	1							
+TU CCGT 2042			Bid Up Price	2042-01-01	2092-01-01	0							
+TU CCGT 2042			Bid Up Heat Rate	2042-01-01	2092-01-01	0							
+TU CCGT 2042			Fuel	2042-01-01	2092-01-01	TU Station Gas							
+TU CCGT 2042			Minimum Load	2042-01-01	2092-01-01	0							
+TU CCGT 2042			Minimum Load Bid Up Price	2042-01-01	2092-01-01	0							
+TU CCGT 2042			Minimum Load Bid Up Heat Rate	2042-01-01	2092-01-01	0							
+TU CCGT 2043			Capacity	2043-01-01	2093-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2043			Marginal Heat Rate	2043-01-01	2093-01-01	6.474820144							
+TU CCGT 2043			Variable Cost	2043-01-01	2093-01-01	1							
+TU CCGT 2043			Bid Up Price	2043-01-01	2093-01-01	0							
+TU CCGT 2043			Bid Up Heat Rate	2043-01-01	2093-01-01	0							
+TU CCGT 2043			Fuel	2043-01-01	2093-01-01	TU Station Gas							
+TU CCGT 2043			Minimum Load	2043-01-01	2093-01-01	0							
+TU CCGT 2043			Minimum Load Bid Up Price	2043-01-01	2093-01-01	0							
+TU CCGT 2043			Minimum Load Bid Up Heat Rate	2043-01-01	2093-01-01	0							
+TU CCGT 2044			Capacity	2044-01-01	2094-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2044			Marginal Heat Rate	2044-01-01	2094-01-01	6.451612903							
+TU CCGT 2044			Variable Cost	2044-01-01	2094-01-01	1							
+TU CCGT 2044			Bid Up Price	2044-01-01	2094-01-01	0							
+TU CCGT 2044			Bid Up Heat Rate	2044-01-01	2094-01-01	0							
+TU CCGT 2044			Fuel	2044-01-01	2094-01-01	TU Station Gas							
+TU CCGT 2044			Minimum Load	2044-01-01	2094-01-01	0							
+TU CCGT 2044			Minimum Load Bid Up Price	2044-01-01	2094-01-01	0							
+TU CCGT 2044			Minimum Load Bid Up Heat Rate	2044-01-01	2094-01-01	0							
+TU CCGT 2045			Capacity	2045-01-01	2095-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2045			Marginal Heat Rate	2045-01-01	2095-01-01	6.428571429							
+TU CCGT 2045			Variable Cost	2045-01-01	2095-01-01	1							
+TU CCGT 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TU CCGT 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU CCGT 2045			Fuel	2045-01-01	2095-01-01	TU Station Gas							
+TU CCGT 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TU CCGT 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TU CCGT 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU CCGT 2046			Capacity	2046-01-01	2096-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2046			Marginal Heat Rate	2046-01-01	2096-01-01	6.428571429							
+TU CCGT 2046			Variable Cost	2046-01-01	2096-01-01	1							
+TU CCGT 2046			Bid Up Price	2046-01-01	2096-01-01	0							
+TU CCGT 2046			Bid Up Heat Rate	2046-01-01	2096-01-01	0							
+TU CCGT 2046			Fuel	2046-01-01	2096-01-01	TU Station Gas							
+TU CCGT 2046			Minimum Load	2046-01-01	2096-01-01	0							
+TU CCGT 2046			Minimum Load Bid Up Price	2046-01-01	2096-01-01	0							
+TU CCGT 2046			Minimum Load Bid Up Heat Rate	2046-01-01	2096-01-01	0							
+TU CCGT 2047			Capacity	2047-01-01	2097-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2047			Marginal Heat Rate	2047-01-01	2097-01-01	6.428571429							
+TU CCGT 2047			Variable Cost	2047-01-01	2097-01-01	1							
+TU CCGT 2047			Bid Up Price	2047-01-01	2097-01-01	0							
+TU CCGT 2047			Bid Up Heat Rate	2047-01-01	2097-01-01	0							
+TU CCGT 2047			Fuel	2047-01-01	2097-01-01	TU Station Gas							
+TU CCGT 2047			Minimum Load	2047-01-01	2097-01-01	0							
+TU CCGT 2047			Minimum Load Bid Up Price	2047-01-01	2097-01-01	0							
+TU CCGT 2047			Minimum Load Bid Up Heat Rate	2047-01-01	2097-01-01	0							
+TU CCGT 2048			Capacity	2048-01-01	2098-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2048			Marginal Heat Rate	2048-01-01	2098-01-01	6.428571429							
+TU CCGT 2048			Variable Cost	2048-01-01	2098-01-01	1							
+TU CCGT 2048			Bid Up Price	2048-01-01	2098-01-01	0							
+TU CCGT 2048			Bid Up Heat Rate	2048-01-01	2098-01-01	0							
+TU CCGT 2048			Fuel	2048-01-01	2098-01-01	TU Station Gas							
+TU CCGT 2048			Minimum Load	2048-01-01	2098-01-01	0							
+TU CCGT 2048			Minimum Load Bid Up Price	2048-01-01	2098-01-01	0							
+TU CCGT 2048			Minimum Load Bid Up Heat Rate	2048-01-01	2098-01-01	0							
+TU CCGT 2049			Capacity	2049-01-01	2099-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2049			Marginal Heat Rate	2049-01-01	2099-01-01	6.428571429							
+TU CCGT 2049			Variable Cost	2049-01-01	2099-01-01	1							
+TU CCGT 2049			Bid Up Price	2049-01-01	2099-01-01	0							
+TU CCGT 2049			Bid Up Heat Rate	2049-01-01	2099-01-01	0							
+TU CCGT 2049			Fuel	2049-01-01	2099-01-01	TU Station Gas							
+TU CCGT 2049			Minimum Load	2049-01-01	2099-01-01	0							
+TU CCGT 2049			Minimum Load Bid Up Price	2049-01-01	2099-01-01	0							
+TU CCGT 2049			Minimum Load Bid Up Heat Rate	2049-01-01	2099-01-01	0							
+TU CCGT 2050			Capacity	2050-01-01	2100-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2050			Marginal Heat Rate	2050-01-01	2100-01-01	6.428571429							
+TU CCGT 2050			Variable Cost	2050-01-01	2100-01-01	1							
+TU CCGT 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TU CCGT 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU CCGT 2050			Fuel	2050-01-01	2100-01-01	TU Station Gas							
+TU CCGT 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TU CCGT 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TU CCGT 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU CCGT 2051			Capacity	2051-01-01	2101-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2051			Marginal Heat Rate	2051-01-01	2101-01-01	6.428571429							
+TU CCGT 2051			Variable Cost	2051-01-01	2101-01-01	1							
+TU CCGT 2051			Bid Up Price	2051-01-01	2101-01-01	0							
+TU CCGT 2051			Bid Up Heat Rate	2051-01-01	2101-01-01	0							
+TU CCGT 2051			Fuel	2051-01-01	2101-01-01	TU Station Gas							
+TU CCGT 2051			Minimum Load	2051-01-01	2101-01-01	0							
+TU CCGT 2051			Minimum Load Bid Up Price	2051-01-01	2101-01-01	0							
+TU CCGT 2051			Minimum Load Bid Up Heat Rate	2051-01-01	2101-01-01	0							
+TU CCGT 2052			Capacity	2052-01-01	2102-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2052			Marginal Heat Rate	2052-01-01	2102-01-01	6.428571429							
+TU CCGT 2052			Variable Cost	2052-01-01	2102-01-01	1							
+TU CCGT 2052			Bid Up Price	2052-01-01	2102-01-01	0							
+TU CCGT 2052			Bid Up Heat Rate	2052-01-01	2102-01-01	0							
+TU CCGT 2052			Fuel	2052-01-01	2102-01-01	TU Station Gas							
+TU CCGT 2052			Minimum Load	2052-01-01	2102-01-01	0							
+TU CCGT 2052			Minimum Load Bid Up Price	2052-01-01	2102-01-01	0							
+TU CCGT 2052			Minimum Load Bid Up Heat Rate	2052-01-01	2102-01-01	0							
+TU CCGT 2053			Capacity	2053-01-01	2103-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2053			Marginal Heat Rate	2053-01-01	2103-01-01	6.428571429							
+TU CCGT 2053			Variable Cost	2053-01-01	2103-01-01	1							
+TU CCGT 2053			Bid Up Price	2053-01-01	2103-01-01	0							
+TU CCGT 2053			Bid Up Heat Rate	2053-01-01	2103-01-01	0							
+TU CCGT 2053			Fuel	2053-01-01	2103-01-01	TU Station Gas							
+TU CCGT 2053			Minimum Load	2053-01-01	2103-01-01	0							
+TU CCGT 2053			Minimum Load Bid Up Price	2053-01-01	2103-01-01	0							
+TU CCGT 2053			Minimum Load Bid Up Heat Rate	2053-01-01	2103-01-01	0							
+TU CCGT 2054			Capacity	2054-01-01	2104-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2054			Marginal Heat Rate	2054-01-01	2104-01-01	6.428571429							
+TU CCGT 2054			Variable Cost	2054-01-01	2104-01-01	1							
+TU CCGT 2054			Bid Up Price	2054-01-01	2104-01-01	0							
+TU CCGT 2054			Bid Up Heat Rate	2054-01-01	2104-01-01	0							
+TU CCGT 2054			Fuel	2054-01-01	2104-01-01	TU Station Gas							
+TU CCGT 2054			Minimum Load	2054-01-01	2104-01-01	0							
+TU CCGT 2054			Minimum Load Bid Up Price	2054-01-01	2104-01-01	0							
+TU CCGT 2054			Minimum Load Bid Up Heat Rate	2054-01-01	2104-01-01	0							
+TU CCGT 2055			Capacity	2055-01-01	2105-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2055			Marginal Heat Rate	2055-01-01	2105-01-01	6.428571429							
+TU CCGT 2055			Variable Cost	2055-01-01	2105-01-01	1							
+TU CCGT 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TU CCGT 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU CCGT 2055			Fuel	2055-01-01	2105-01-01	TU Station Gas							
+TU CCGT 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TU CCGT 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TU CCGT 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU CCGT 2056			Capacity	2056-01-01	2106-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2056			Marginal Heat Rate	2056-01-01	2106-01-01	6.428571429							
+TU CCGT 2056			Variable Cost	2056-01-01	2106-01-01	1							
+TU CCGT 2056			Bid Up Price	2056-01-01	2106-01-01	0							
+TU CCGT 2056			Bid Up Heat Rate	2056-01-01	2106-01-01	0							
+TU CCGT 2056			Fuel	2056-01-01	2106-01-01	TU Station Gas							
+TU CCGT 2056			Minimum Load	2056-01-01	2106-01-01	0							
+TU CCGT 2056			Minimum Load Bid Up Price	2056-01-01	2106-01-01	0							
+TU CCGT 2056			Minimum Load Bid Up Heat Rate	2056-01-01	2106-01-01	0							
+TU CCGT 2057			Capacity	2057-01-01	2107-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2057			Marginal Heat Rate	2057-01-01	2107-01-01	6.428571429							
+TU CCGT 2057			Variable Cost	2057-01-01	2107-01-01	1							
+TU CCGT 2057			Bid Up Price	2057-01-01	2107-01-01	0							
+TU CCGT 2057			Bid Up Heat Rate	2057-01-01	2107-01-01	0							
+TU CCGT 2057			Fuel	2057-01-01	2107-01-01	TU Station Gas							
+TU CCGT 2057			Minimum Load	2057-01-01	2107-01-01	0							
+TU CCGT 2057			Minimum Load Bid Up Price	2057-01-01	2107-01-01	0							
+TU CCGT 2057			Minimum Load Bid Up Heat Rate	2057-01-01	2107-01-01	0							
+TU CCGT 2058			Capacity	2058-01-01	2108-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2058			Marginal Heat Rate	2058-01-01	2108-01-01	6.428571429							
+TU CCGT 2058			Variable Cost	2058-01-01	2108-01-01	1							
+TU CCGT 2058			Bid Up Price	2058-01-01	2108-01-01	0							
+TU CCGT 2058			Bid Up Heat Rate	2058-01-01	2108-01-01	0							
+TU CCGT 2058			Fuel	2058-01-01	2108-01-01	TU Station Gas							
+TU CCGT 2058			Minimum Load	2058-01-01	2108-01-01	0							
+TU CCGT 2058			Minimum Load Bid Up Price	2058-01-01	2108-01-01	0							
+TU CCGT 2058			Minimum Load Bid Up Heat Rate	2058-01-01	2108-01-01	0							
+TU CCGT 2059			Capacity	2059-01-01	2109-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2059			Marginal Heat Rate	2059-01-01	2109-01-01	6.428571429							
+TU CCGT 2059			Variable Cost	2059-01-01	2109-01-01	1							
+TU CCGT 2059			Bid Up Price	2059-01-01	2109-01-01	0							
+TU CCGT 2059			Bid Up Heat Rate	2059-01-01	2109-01-01	0							
+TU CCGT 2059			Fuel	2059-01-01	2109-01-01	TU Station Gas							
+TU CCGT 2059			Minimum Load	2059-01-01	2109-01-01	0							
+TU CCGT 2059			Minimum Load Bid Up Price	2059-01-01	2109-01-01	0							
+TU CCGT 2059			Minimum Load Bid Up Heat Rate	2059-01-01	2109-01-01	0							
+TU CCGT 2060			Capacity	2060-01-01	2110-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2060			Marginal Heat Rate	2060-01-01	2110-01-01	6.428571429							
+TU CCGT 2060			Variable Cost	2060-01-01	2110-01-01	1							
+TU CCGT 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TU CCGT 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU CCGT 2060			Fuel	2060-01-01	2110-01-01	TU Station Gas							
+TU CCGT 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TU CCGT 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TU CCGT 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU CCGT 2061			Capacity	2061-01-01	2111-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2061			Marginal Heat Rate	2061-01-01	2111-01-01	6.428571429							
+TU CCGT 2061			Variable Cost	2061-01-01	2111-01-01	1							
+TU CCGT 2061			Bid Up Price	2061-01-01	2111-01-01	0							
+TU CCGT 2061			Bid Up Heat Rate	2061-01-01	2111-01-01	0							
+TU CCGT 2061			Fuel	2061-01-01	2111-01-01	TU Station Gas							
+TU CCGT 2061			Minimum Load	2061-01-01	2111-01-01	0							
+TU CCGT 2061			Minimum Load Bid Up Price	2061-01-01	2111-01-01	0							
+TU CCGT 2061			Minimum Load Bid Up Heat Rate	2061-01-01	2111-01-01	0							
+TU CCGT 2062			Capacity	2062-01-01	2112-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2062			Marginal Heat Rate	2062-01-01	2112-01-01	6.428571429							
+TU CCGT 2062			Variable Cost	2062-01-01	2112-01-01	1							
+TU CCGT 2062			Bid Up Price	2062-01-01	2112-01-01	0							
+TU CCGT 2062			Bid Up Heat Rate	2062-01-01	2112-01-01	0							
+TU CCGT 2062			Fuel	2062-01-01	2112-01-01	TU Station Gas							
+TU CCGT 2062			Minimum Load	2062-01-01	2112-01-01	0							
+TU CCGT 2062			Minimum Load Bid Up Price	2062-01-01	2112-01-01	0							
+TU CCGT 2062			Minimum Load Bid Up Heat Rate	2062-01-01	2112-01-01	0							
+TU CCGT 2063			Capacity	2063-01-01	2113-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2063			Marginal Heat Rate	2063-01-01	2113-01-01	6.428571429							
+TU CCGT 2063			Variable Cost	2063-01-01	2113-01-01	1							
+TU CCGT 2063			Bid Up Price	2063-01-01	2113-01-01	0							
+TU CCGT 2063			Bid Up Heat Rate	2063-01-01	2113-01-01	0							
+TU CCGT 2063			Fuel	2063-01-01	2113-01-01	TU Station Gas							
+TU CCGT 2063			Minimum Load	2063-01-01	2113-01-01	0							
+TU CCGT 2063			Minimum Load Bid Up Price	2063-01-01	2113-01-01	0							
+TU CCGT 2063			Minimum Load Bid Up Heat Rate	2063-01-01	2113-01-01	0							
+TU CCGT 2064			Capacity	2064-01-01	2114-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2064			Marginal Heat Rate	2064-01-01	2114-01-01	6.428571429							
+TU CCGT 2064			Variable Cost	2064-01-01	2114-01-01	1							
+TU CCGT 2064			Bid Up Price	2064-01-01	2114-01-01	0							
+TU CCGT 2064			Bid Up Heat Rate	2064-01-01	2114-01-01	0							
+TU CCGT 2064			Fuel	2064-01-01	2114-01-01	TU Station Gas							
+TU CCGT 2064			Minimum Load	2064-01-01	2114-01-01	0							
+TU CCGT 2064			Minimum Load Bid Up Price	2064-01-01	2114-01-01	0							
+TU CCGT 2064			Minimum Load Bid Up Heat Rate	2064-01-01	2114-01-01	0							
+TU CCGT 2065			Capacity	2065-01-01	2115-01-01	0	TU Availability CCGT	Multiply					
+TU CCGT 2065			Marginal Heat Rate	2065-01-01	2115-01-01	6.428571429							
+TU CCGT 2065			Variable Cost	2065-01-01	2115-01-01	1							
+TU CCGT 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TU CCGT 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU CCGT 2065			Fuel	2065-01-01	2115-01-01	TU Station Gas							
+TU CCGT 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TU CCGT 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TU CCGT 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU OCGT 1990			Capacity	1990-01-01	2040-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 1990			Marginal Heat Rate	1990-01-01	2040-01-01	9.72972973							
+TU OCGT 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TU OCGT 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TU OCGT 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU OCGT 1990			Fuel	1990-01-01	2040-01-01	TU Station Gas							
+TU OCGT 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TU OCGT 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TU OCGT 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU OCGT 1995			Capacity	1995-01-01	2045-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 1995			Marginal Heat Rate	1995-01-01	2045-01-01	9.230769231							
+TU OCGT 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TU OCGT 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TU OCGT 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU OCGT 1995			Fuel	1995-01-01	2045-01-01	TU Station Gas							
+TU OCGT 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TU OCGT 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TU OCGT 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU OCGT 2000			Capacity	2000-01-01	2050-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2000			Marginal Heat Rate	2000-01-01	2050-01-01	8.780487805							
+TU OCGT 2000			Variable Cost	2000-01-01	2050-01-01	1							
+TU OCGT 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TU OCGT 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU OCGT 2000			Fuel	2000-01-01	2050-01-01	TU Station Gas							
+TU OCGT 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TU OCGT 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TU OCGT 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU OCGT 2005			Capacity	2005-01-01	2055-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2005			Marginal Heat Rate	2005-01-01	2055-01-01	9.473684211							
+TU OCGT 2005			Variable Cost	2005-01-01	2055-01-01	1							
+TU OCGT 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TU OCGT 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU OCGT 2005			Fuel	2005-01-01	2055-01-01	TU Station Gas							
+TU OCGT 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TU OCGT 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TU OCGT 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU OCGT 2010			Capacity	2010-01-01	2060-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2010			Marginal Heat Rate	2010-01-01	2060-01-01	9							
+TU OCGT 2010			Variable Cost	2010-01-01	2060-01-01	1							
+TU OCGT 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TU OCGT 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU OCGT 2010			Fuel	2010-01-01	2060-01-01	TU Station Gas							
+TU OCGT 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TU OCGT 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TU OCGT 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU OCGT 2015			Capacity	2015-01-01	2065-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2015			Marginal Heat Rate	2015-01-01	2065-01-01	8.571428571							
+TU OCGT 2015			Variable Cost	2015-01-01	2065-01-01	1							
+TU OCGT 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TU OCGT 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU OCGT 2015			Fuel	2015-01-01	2065-01-01	TU Station Gas							
+TU OCGT 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TU OCGT 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TU OCGT 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU OCGT 2020			Capacity	2020-01-01	2070-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2020			Marginal Heat Rate	2020-01-01	2070-01-01	9.677419355							
+TU OCGT 2020			Variable Cost	2020-01-01	2070-01-01	1							
+TU OCGT 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TU OCGT 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU OCGT 2020			Fuel	2020-01-01	2070-01-01	TU Station Gas							
+TU OCGT 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TU OCGT 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TU OCGT 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU OCGT 2025			Capacity	2025-01-01	2075-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2025			Marginal Heat Rate	2025-01-01	2075-01-01	9.625668449							
+TU OCGT 2025			Variable Cost	2025-01-01	2075-01-01	1							
+TU OCGT 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TU OCGT 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU OCGT 2025			Fuel	2025-01-01	2075-01-01	TU Station Gas							
+TU OCGT 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TU OCGT 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TU OCGT 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU OCGT 2030			Capacity	2030-01-01	2080-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2030			Marginal Heat Rate	2030-01-01	2080-01-01	9.574468085							
+TU OCGT 2030			Variable Cost	2030-01-01	2080-01-01	1							
+TU OCGT 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TU OCGT 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU OCGT 2030			Fuel	2030-01-01	2080-01-01	TU Station Gas							
+TU OCGT 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TU OCGT 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TU OCGT 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU OCGT 2035			Capacity	2035-01-01	2085-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2035			Marginal Heat Rate	2035-01-01	2085-01-01	9.523809524							
+TU OCGT 2035			Variable Cost	2035-01-01	2085-01-01	1							
+TU OCGT 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TU OCGT 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU OCGT 2035			Fuel	2035-01-01	2085-01-01	TU Station Gas							
+TU OCGT 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TU OCGT 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TU OCGT 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU OCGT 2040			Capacity	2040-01-01	2090-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.473684211							
+TU OCGT 2040			Variable Cost	2040-01-01	2090-01-01	1							
+TU OCGT 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TU OCGT 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU OCGT 2040			Fuel	2040-01-01	2090-01-01	TU Station Gas							
+TU OCGT 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TU OCGT 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TU OCGT 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU OCGT 2045			Capacity	2045-01-01	2095-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.42408377							
+TU OCGT 2045			Variable Cost	2045-01-01	2095-01-01	1							
+TU OCGT 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TU OCGT 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU OCGT 2045			Fuel	2045-01-01	2095-01-01	TU Station Gas							
+TU OCGT 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TU OCGT 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TU OCGT 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU OCGT 2050			Capacity	2050-01-01	2100-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.375							
+TU OCGT 2050			Variable Cost	2050-01-01	2100-01-01	1							
+TU OCGT 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TU OCGT 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU OCGT 2050			Fuel	2050-01-01	2100-01-01	TU Station Gas							
+TU OCGT 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TU OCGT 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TU OCGT 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU OCGT 2055			Capacity	2055-01-01	2105-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.32642487							
+TU OCGT 2055			Variable Cost	2055-01-01	2105-01-01	1							
+TU OCGT 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TU OCGT 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU OCGT 2055			Fuel	2055-01-01	2105-01-01	TU Station Gas							
+TU OCGT 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TU OCGT 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TU OCGT 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU OCGT 2060			Capacity	2060-01-01	2110-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.278350515							
+TU OCGT 2060			Variable Cost	2060-01-01	2110-01-01	1							
+TU OCGT 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TU OCGT 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU OCGT 2060			Fuel	2060-01-01	2110-01-01	TU Station Gas							
+TU OCGT 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TU OCGT 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TU OCGT 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU OCGT 2065			Capacity	2065-01-01	2115-01-01	0	TU Availability OCGT	Multiply					
+TU OCGT 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.230769231							
+TU OCGT 2065			Variable Cost	2065-01-01	2115-01-01	1							
+TU OCGT 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TU OCGT 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU OCGT 2065			Fuel	2065-01-01	2115-01-01	TU Station Gas							
+TU OCGT 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TU OCGT 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TU OCGT 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU Biomass 1990			Capacity	1990-01-01	2040-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.52631579							
+TU Biomass 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TU Biomass 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TU Biomass 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Biomass 1990			Fuel	1990-01-01	2040-01-01	TU Station Biomass							
+TU Biomass 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TU Biomass 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	10							
+TU Biomass 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Biomass 1995			Capacity	1995-01-01	2045-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.46511628							
+TU Biomass 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TU Biomass 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TU Biomass 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Biomass 1995			Fuel	1995-01-01	2045-01-01	TU Station Biomass							
+TU Biomass 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TU Biomass 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	11							
+TU Biomass 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Biomass 2000			Capacity	2000-01-01	2050-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.40462428							
+TU Biomass 2000			Variable Cost	2000-01-01	2050-01-01	1							
+TU Biomass 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TU Biomass 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU Biomass 2000			Fuel	2000-01-01	2050-01-01	TU Station Biomass							
+TU Biomass 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TU Biomass 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	12							
+TU Biomass 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU Biomass 2005			Capacity	2005-01-01	2055-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.34482759							
+TU Biomass 2005			Variable Cost	2005-01-01	2055-01-01	1							
+TU Biomass 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TU Biomass 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU Biomass 2005			Fuel	2005-01-01	2055-01-01	TU Station Biomass							
+TU Biomass 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TU Biomass 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TU Biomass 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU Biomass 2010			Capacity	2010-01-01	2060-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.28571429							
+TU Biomass 2010			Variable Cost	2010-01-01	2060-01-01	1							
+TU Biomass 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TU Biomass 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU Biomass 2010			Fuel	2010-01-01	2060-01-01	TU Station Biomass							
+TU Biomass 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TU Biomass 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TU Biomass 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU Biomass 2015			Capacity	2015-01-01	2065-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.22727273							
+TU Biomass 2015			Variable Cost	2015-01-01	2065-01-01	1							
+TU Biomass 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TU Biomass 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU Biomass 2015			Fuel	2015-01-01	2065-01-01	TU Station Biomass							
+TU Biomass 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TU Biomass 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TU Biomass 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU Biomass 2020			Capacity	2020-01-01	2070-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.16949153							
+TU Biomass 2020			Variable Cost	2020-01-01	2070-01-01	1							
+TU Biomass 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TU Biomass 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU Biomass 2020			Fuel	2020-01-01	2070-01-01	TU Station Biomass							
+TU Biomass 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TU Biomass 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TU Biomass 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU Biomass 2025			Capacity	2025-01-01	2075-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2025			Marginal Heat Rate	2025-01-01	2075-01-01	10.11235955							
+TU Biomass 2025			Variable Cost	2025-01-01	2075-01-01	5							
+TU Biomass 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TU Biomass 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU Biomass 2025			Fuel	2025-01-01	2075-01-01	TU Station Biomass							
+TU Biomass 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TU Biomass 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TU Biomass 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU Biomass 2030			Capacity	2030-01-01	2080-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2030			Marginal Heat Rate	2030-01-01	2080-01-01	10.05586592							
+TU Biomass 2030			Variable Cost	2030-01-01	2080-01-01	5							
+TU Biomass 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TU Biomass 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU Biomass 2030			Fuel	2030-01-01	2080-01-01	TU Station Biomass							
+TU Biomass 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TU Biomass 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TU Biomass 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU Biomass 2035			Capacity	2035-01-01	2085-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2035			Marginal Heat Rate	2035-01-01	2085-01-01	10							
+TU Biomass 2035			Variable Cost	2035-01-01	2085-01-01	5							
+TU Biomass 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TU Biomass 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU Biomass 2035			Fuel	2035-01-01	2085-01-01	TU Station Biomass							
+TU Biomass 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TU Biomass 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TU Biomass 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU Biomass 2040			Capacity	2040-01-01	2090-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.944751381							
+TU Biomass 2040			Variable Cost	2040-01-01	2090-01-01	5							
+TU Biomass 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TU Biomass 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU Biomass 2040			Fuel	2040-01-01	2090-01-01	TU Station Biomass							
+TU Biomass 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TU Biomass 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TU Biomass 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU Biomass 2045			Capacity	2045-01-01	2095-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.89010989							
+TU Biomass 2045			Variable Cost	2045-01-01	2095-01-01	5							
+TU Biomass 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TU Biomass 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU Biomass 2045			Fuel	2045-01-01	2095-01-01	TU Station Biomass							
+TU Biomass 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TU Biomass 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TU Biomass 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU Biomass 2050			Capacity	2050-01-01	2100-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.836065574							
+TU Biomass 2050			Variable Cost	2050-01-01	2100-01-01	5							
+TU Biomass 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TU Biomass 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU Biomass 2050			Fuel	2050-01-01	2100-01-01	TU Station Biomass							
+TU Biomass 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TU Biomass 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TU Biomass 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU Biomass 2055			Capacity	2055-01-01	2105-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.782608696							
+TU Biomass 2055			Variable Cost	2055-01-01	2105-01-01	5							
+TU Biomass 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TU Biomass 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU Biomass 2055			Fuel	2055-01-01	2105-01-01	TU Station Biomass							
+TU Biomass 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TU Biomass 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TU Biomass 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU Biomass 2060			Capacity	2060-01-01	2110-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.72972973							
+TU Biomass 2060			Variable Cost	2060-01-01	2110-01-01	5							
+TU Biomass 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TU Biomass 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU Biomass 2060			Fuel	2060-01-01	2110-01-01	TU Station Biomass							
+TU Biomass 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TU Biomass 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TU Biomass 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU Biomass 2065			Capacity	2065-01-01	2115-01-01	0	TU Availability Biomass	Multiply					
+TU Biomass 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.677419355							
+TU Biomass 2065			Variable Cost	2065-01-01	2115-01-01	5							
+TU Biomass 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TU Biomass 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU Biomass 2065			Fuel	2065-01-01	2115-01-01	TU Station Biomass							
+TU Biomass 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TU Biomass 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TU Biomass 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU Lignite 1990			Capacity	1990-01-01	2040-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 1990			Marginal Heat Rate	1990-01-01	2040-01-01	11.18012422							
+TU Lignite 1990			Variable Cost	1990-01-01	2040-01-01	5							
+TU Lignite 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TU Lignite 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Lignite 1990			Fuel	1990-01-01	2040-01-01	TU Station Lignite							
+TU Lignite 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TU Lignite 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TU Lignite 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Lignite 1995			Capacity	1995-01-01	2045-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 1995			Marginal Heat Rate	1995-01-01	2045-01-01	11.11111111							
+TU Lignite 1995			Variable Cost	1995-01-01	2045-01-01	5							
+TU Lignite 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TU Lignite 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Lignite 1995			Fuel	1995-01-01	2045-01-01	TU Station Lignite							
+TU Lignite 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TU Lignite 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TU Lignite 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Lignite 2000			Capacity	2000-01-01	2031-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2000			Marginal Heat Rate	2000-01-01	2031-01-01	11.04294479							
+TU Lignite 2000			Variable Cost	2000-01-01	2031-01-01	5							
+TU Lignite 2000			Bid Up Price	2000-01-01	2031-01-01	0							
+TU Lignite 2000			Bid Up Heat Rate	2000-01-01	2031-01-01	0							
+TU Lignite 2000			Fuel	2000-01-01	2031-01-01	TU Station Lignite							
+TU Lignite 2000			Minimum Load	2000-01-01	2031-01-01	0							
+TU Lignite 2000			Minimum Load Bid Up Price	2000-01-01	2031-01-01	0							
+TU Lignite 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2031-01-01	0							
+TU Lignite 2005			Capacity	2005-01-01	2038-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2005			Marginal Heat Rate	2005-01-01	2038-01-01	10.97560976							
+TU Lignite 2005			Variable Cost	2005-01-01	2038-01-01	5							
+TU Lignite 2005			Bid Up Price	2005-01-01	2038-01-01	0							
+TU Lignite 2005			Bid Up Heat Rate	2005-01-01	2038-01-01	0							
+TU Lignite 2005			Fuel	2005-01-01	2038-01-01	TU Station Lignite							
+TU Lignite 2005			Minimum Load	2005-01-01	2038-01-01	0							
+TU Lignite 2005			Minimum Load Bid Up Price	2005-01-01	2038-01-01	0							
+TU Lignite 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2038-01-01	0							
+TU Lignite 2010			Capacity	2010-01-01	2038-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2010			Marginal Heat Rate	2010-01-01	2038-01-01	10.90909091							
+TU Lignite 2010			Variable Cost	2010-01-01	2038-01-01	5							
+TU Lignite 2010			Bid Up Price	2010-01-01	2038-01-01	0							
+TU Lignite 2010			Bid Up Heat Rate	2010-01-01	2038-01-01	0							
+TU Lignite 2010			Fuel	2010-01-01	2038-01-01	TU Station Lignite							
+TU Lignite 2010			Minimum Load	2010-01-01	2038-01-01	0							
+TU Lignite 2010			Minimum Load Bid Up Price	2010-01-01	2038-01-01	0							
+TU Lignite 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2038-01-01	0							
+TU Lignite 2015			Capacity	2015-01-01	2038-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2015			Marginal Heat Rate	2015-01-01	2038-01-01	10.84337349							
+TU Lignite 2015			Variable Cost	2015-01-01	2038-01-01	5							
+TU Lignite 2015			Bid Up Price	2015-01-01	2038-01-01	0							
+TU Lignite 2015			Bid Up Heat Rate	2015-01-01	2038-01-01	0							
+TU Lignite 2015			Fuel	2015-01-01	2038-01-01	TU Station Lignite							
+TU Lignite 2015			Minimum Load	2015-01-01	2038-01-01	0							
+TU Lignite 2015			Minimum Load Bid Up Price	2015-01-01	2038-01-01	0							
+TU Lignite 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2038-01-01	0							
+TU Lignite 2020			Capacity	2020-01-01	2039-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2020			Marginal Heat Rate	2020-01-01	2039-01-01	10.77844311							
+TU Lignite 2020			Variable Cost	2020-01-01	2039-01-01	5							
+TU Lignite 2020			Bid Up Price	2020-01-01	2039-01-01	0							
+TU Lignite 2020			Bid Up Heat Rate	2020-01-01	2039-01-01	0							
+TU Lignite 2020			Fuel	2020-01-01	2039-01-01	TU Station Lignite							
+TU Lignite 2020			Minimum Load	2020-01-01	2039-01-01	0							
+TU Lignite 2020			Minimum Load Bid Up Price	2020-01-01	2039-01-01	0							
+TU Lignite 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2039-01-01	0							
+TU Lignite 2025			Capacity	2025-01-01	2039-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2025			Marginal Heat Rate	2025-01-01	2039-01-01	10.71428571							
+TU Lignite 2025			Variable Cost	2025-01-01	2039-01-01	5							
+TU Lignite 2025			Bid Up Price	2025-01-01	2039-01-01	0							
+TU Lignite 2025			Bid Up Heat Rate	2025-01-01	2039-01-01	0							
+TU Lignite 2025			Fuel	2025-01-01	2039-01-01	TU Station Lignite							
+TU Lignite 2025			Minimum Load	2025-01-01	2039-01-01	0							
+TU Lignite 2025			Minimum Load Bid Up Price	2025-01-01	2039-01-01	0							
+TU Lignite 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2039-01-01	0							
+TU Lignite 2030			Capacity	2030-01-01	2040-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2030			Marginal Heat Rate	2030-01-01	2040-01-01	10.65088757							
+TU Lignite 2030			Variable Cost	2030-01-01	2040-01-01	5							
+TU Lignite 2030			Bid Up Price	2030-01-01	2040-01-01	0							
+TU Lignite 2030			Bid Up Heat Rate	2030-01-01	2040-01-01	0							
+TU Lignite 2030			Fuel	2030-01-01	2040-01-01	TU Station Lignite							
+TU Lignite 2030			Minimum Load	2030-01-01	2040-01-01	0							
+TU Lignite 2030			Minimum Load Bid Up Price	2030-01-01	2040-01-01	0							
+TU Lignite 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2040-01-01	0							
+TU Lignite 2035			Capacity	2035-01-01	2040-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2035			Marginal Heat Rate	2035-01-01	2040-01-01	10.58823529							
+TU Lignite 2035			Variable Cost	2035-01-01	2040-01-01	5							
+TU Lignite 2035			Bid Up Price	2035-01-01	2040-01-01	0							
+TU Lignite 2035			Bid Up Heat Rate	2035-01-01	2040-01-01	0							
+TU Lignite 2035			Fuel	2035-01-01	2040-01-01	TU Station Lignite							
+TU Lignite 2035			Minimum Load	2035-01-01	2040-01-01	0							
+TU Lignite 2035			Minimum Load Bid Up Price	2035-01-01	2040-01-01	0							
+TU Lignite 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2040-01-01	0							
+TU Lignite 2040			Capacity	2040-01-01	2040-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2040			Marginal Heat Rate	2040-01-01	2040-01-01	10.52631579							
+TU Lignite 2040			Variable Cost	2040-01-01	2040-01-01	5							
+TU Lignite 2040			Bid Up Price	2040-01-01	2040-01-01	0							
+TU Lignite 2040			Bid Up Heat Rate	2040-01-01	2040-01-01	0							
+TU Lignite 2040			Fuel	2040-01-01	2040-01-01	TU Station Lignite							
+TU Lignite 2040			Minimum Load	2040-01-01	2040-01-01	0							
+TU Lignite 2040			Minimum Load Bid Up Price	2040-01-01	2040-01-01	0							
+TU Lignite 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2040-01-01	0							
+TU Lignite 2045			Capacity	2045-01-01	2040-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2045			Marginal Heat Rate	2045-01-01	2040-01-01	10.46511628							
+TU Lignite 2045			Variable Cost	2045-01-01	2040-01-01	5							
+TU Lignite 2045			Bid Up Price	2045-01-01	2040-01-01	0							
+TU Lignite 2045			Bid Up Heat Rate	2045-01-01	2040-01-01	0							
+TU Lignite 2045			Fuel	2045-01-01	2040-01-01	TU Station Lignite							
+TU Lignite 2045			Minimum Load	2045-01-01	2040-01-01	0							
+TU Lignite 2045			Minimum Load Bid Up Price	2045-01-01	2040-01-01	0							
+TU Lignite 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2040-01-01	0							
+TU Lignite 2050			Capacity	2050-01-01	2100-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2050			Marginal Heat Rate	2050-01-01	2100-01-01	10.40462428							
+TU Lignite 2050			Variable Cost	2050-01-01	2100-01-01	5							
+TU Lignite 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TU Lignite 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU Lignite 2050			Fuel	2050-01-01	2100-01-01	TU Station Lignite							
+TU Lignite 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TU Lignite 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TU Lignite 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU Lignite 2055			Capacity	2055-01-01	2105-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2055			Marginal Heat Rate	2055-01-01	2105-01-01	10.34482759							
+TU Lignite 2055			Variable Cost	2055-01-01	2105-01-01	5							
+TU Lignite 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TU Lignite 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU Lignite 2055			Fuel	2055-01-01	2105-01-01	TU Station Lignite							
+TU Lignite 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TU Lignite 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TU Lignite 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU Lignite 2060			Capacity	2060-01-01	2110-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2060			Marginal Heat Rate	2060-01-01	2110-01-01	10.28571429							
+TU Lignite 2060			Variable Cost	2060-01-01	2110-01-01	5							
+TU Lignite 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TU Lignite 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU Lignite 2060			Fuel	2060-01-01	2110-01-01	TU Station Lignite							
+TU Lignite 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TU Lignite 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TU Lignite 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU Lignite 2065			Capacity	2065-01-01	2115-01-01	0	TU Availability Lignite	Multiply					
+TU Lignite 2065			Marginal Heat Rate	2065-01-01	2115-01-01	10.22727273							
+TU Lignite 2065			Variable Cost	2065-01-01	2115-01-01	5							
+TU Lignite 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TU Lignite 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU Lignite 2065			Fuel	2065-01-01	2115-01-01	TU Station Lignite							
+TU Lignite 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TU Lignite 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TU Lignite 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU Nuclear 1990			Capacity	1990-01-01	2040-01-01	0	TU Availability Nuclear	Multiply					
+TU Nuclear 1990			Marginal Heat Rate	1990-01-01	2040-01-01	11.18012422							
+TU Nuclear 1990			Variable Cost	1990-01-01	2040-01-01	5							
+TU Nuclear 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TU Nuclear 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Nuclear 1990			Fuel	1990-01-01	2040-01-01	TU Station Uranium							
+TU Nuclear 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TU Nuclear 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TU Nuclear 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Nuclear 1995			Capacity	1995-01-01	2045-01-01	0	TU Availability Nuclear	Multiply					
+TU Nuclear 1995			Marginal Heat Rate	1995-01-01	2045-01-01	11.11111111							
+TU Nuclear 1995			Variable Cost	1995-01-01	2045-01-01	5							
+TU Nuclear 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TU Nuclear 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Nuclear 1995			Fuel	1995-01-01	2045-01-01	TU Station Uranium							
+TU Nuclear 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TU Nuclear 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TU Nuclear 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Nuclear 2000			Capacity	2000-01-01	2050-01-01	0	TU Availability Nuclear	Multiply					
+TU Nuclear 2000			Marginal Heat Rate	2000-01-01	2050-01-01	11.04294479							
+TU Nuclear 2000			Variable Cost	2000-01-01	2050-01-01	5							
+TU Nuclear 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TU Nuclear 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU Nuclear 2000			Fuel	2000-01-01	2050-01-01	TU Station Uranium							
+TU Nuclear 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TU Nuclear 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TU Nuclear 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU Nuclear 2005			Capacity	2005-01-01	2055-01-01	0	TU Availability Nuclear	Multiply					
+TU Nuclear 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.97560976							
+TU Nuclear 2005			Variable Cost	2005-01-01	2055-01-01	5							
+TU Nuclear 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TU Nuclear 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU Nuclear 2005			Fuel	2005-01-01	2055-01-01	TU Station Uranium							
+TU Nuclear 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TU Nuclear 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TU Nuclear 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU Nuclear 2010			Capacity	2010-01-01	2060-01-01	0	TU Availability Nuclear	Multiply					
+TU Nuclear 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.90909091							
+TU Nuclear 2010			Variable Cost	2010-01-01	2060-01-01	5							
+TU Nuclear 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TU Nuclear 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU Nuclear 2010			Fuel	2010-01-01	2060-01-01	TU Station Uranium							
+TU Nuclear 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TU Nuclear 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TU Nuclear 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU Nuclear 2015			Capacity	2015-01-01	2065-01-01	0	TU Availability Nuclear	Multiply					
+TU Nuclear 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.84337349							
+TU Nuclear 2015			Variable Cost	2015-01-01	2065-01-01	5							
+TU Nuclear 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TU Nuclear 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU Nuclear 2015			Fuel	2015-01-01	2065-01-01	TU Station Uranium							
+TU Nuclear 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TU Nuclear 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TU Nuclear 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU Nuclear 2020			Capacity	2020-01-01	2070-01-01	0	TU Availability Nuclear	Multiply					
+TU Nuclear 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.77844311							
+TU Nuclear 2020			Variable Cost	2020-01-01	2070-01-01	5							
+TU Nuclear 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TU Nuclear 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU Nuclear 2020			Fuel	2020-01-01	2070-01-01	TU Station Uranium							
+TU Nuclear 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TU Nuclear 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TU Nuclear 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU CHP 1990			Capacity	1990-01-01	2040-01-01	0	TU Availability CHP	Multiply					
+TU CHP 1990			Marginal Heat Rate	1990-01-01	2040-01-01	6.923076923							
+TU CHP 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TU CHP 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TU CHP 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU CHP 1990			Fuel	1990-01-01	2040-01-01	TU Station Gas							
+TU CHP 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TU CHP 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TU CHP 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU CHP 1995			Capacity	1995-01-01	2045-01-01	0	TU Availability CHP	Multiply					
+TU CHP 1995			Marginal Heat Rate	1995-01-01	2045-01-01	6.545454545							
+TU CHP 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TU CHP 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TU CHP 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU CHP 1995			Fuel	1995-01-01	2045-01-01	TU Station Gas							
+TU CHP 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TU CHP 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TU CHP 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU CHP 2000			Capacity	2000-01-01	2050-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2000			Marginal Heat Rate	2000-01-01	2050-01-01	7.114624506							
+TU CHP 2000			Variable Cost	2000-01-01	2050-01-01	3							
+TU CHP 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TU CHP 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU CHP 2000			Fuel	2000-01-01	2050-01-01	TU Station Gas							
+TU CHP 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TU CHP 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TU CHP 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU CHP 2005			Capacity	2005-01-01	2055-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2005			Marginal Heat Rate	2005-01-01	2055-01-01	7.086614173							
+TU CHP 2005			Variable Cost	2005-01-01	2055-01-01	3							
+TU CHP 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TU CHP 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU CHP 2005			Fuel	2005-01-01	2055-01-01	TU Station Gas							
+TU CHP 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TU CHP 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TU CHP 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU CHP 2010			Capacity	2010-01-01	2060-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2010			Marginal Heat Rate	2010-01-01	2060-01-01	7.058823529							
+TU CHP 2010			Variable Cost	2010-01-01	2060-01-01	3							
+TU CHP 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TU CHP 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU CHP 2010			Fuel	2010-01-01	2060-01-01	TU Station Gas							
+TU CHP 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TU CHP 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TU CHP 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU CHP 2015			Capacity	2015-01-01	2065-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2015			Marginal Heat Rate	2015-01-01	2065-01-01	7.03125							
+TU CHP 2015			Variable Cost	2015-01-01	2065-01-01	3							
+TU CHP 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TU CHP 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU CHP 2015			Fuel	2015-01-01	2065-01-01	TU Station Gas							
+TU CHP 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TU CHP 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TU CHP 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU CHP 2020			Capacity	2020-01-01	2070-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2020			Marginal Heat Rate	2020-01-01	2070-01-01	7.003891051							
+TU CHP 2020			Variable Cost	2020-01-01	2070-01-01	3							
+TU CHP 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TU CHP 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU CHP 2020			Fuel	2020-01-01	2070-01-01	TU Station Gas							
+TU CHP 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TU CHP 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TU CHP 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU CHP 2025			Capacity	2025-01-01	2075-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2025			Marginal Heat Rate	2025-01-01	2075-01-01	6.976744186							
+TU CHP 2025			Variable Cost	2025-01-01	2075-01-01	3							
+TU CHP 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TU CHP 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU CHP 2025			Fuel	2025-01-01	2075-01-01	TU Station Gas							
+TU CHP 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TU CHP 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TU CHP 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU CHP 2030			Capacity	2030-01-01	2080-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2030			Marginal Heat Rate	2030-01-01	2080-01-01	6.94980695							
+TU CHP 2030			Variable Cost	2030-01-01	2080-01-01	3							
+TU CHP 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TU CHP 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU CHP 2030			Fuel	2030-01-01	2080-01-01	TU Station Gas							
+TU CHP 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TU CHP 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TU CHP 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU CHP 2035			Capacity	2035-01-01	2085-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2035			Marginal Heat Rate	2035-01-01	2085-01-01	6.923076923							
+TU CHP 2035			Variable Cost	2035-01-01	2085-01-01	3							
+TU CHP 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TU CHP 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU CHP 2035			Fuel	2035-01-01	2085-01-01	TU Station Gas							
+TU CHP 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TU CHP 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TU CHP 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU CHP 2040			Capacity	2040-01-01	2090-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2040			Marginal Heat Rate	2040-01-01	2090-01-01	6.896551724							
+TU CHP 2040			Variable Cost	2040-01-01	2090-01-01	3							
+TU CHP 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TU CHP 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU CHP 2040			Fuel	2040-01-01	2090-01-01	TU Station Gas							
+TU CHP 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TU CHP 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TU CHP 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU CHP 2045			Capacity	2045-01-01	2095-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2045			Marginal Heat Rate	2045-01-01	2095-01-01	6.870229008							
+TU CHP 2045			Variable Cost	2045-01-01	2095-01-01	3							
+TU CHP 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TU CHP 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU CHP 2045			Fuel	2045-01-01	2095-01-01	TU Station Gas							
+TU CHP 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TU CHP 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TU CHP 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU CHP 2050			Capacity	2050-01-01	2100-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2050			Marginal Heat Rate	2050-01-01	2100-01-01	6.844106464							
+TU CHP 2050			Variable Cost	2050-01-01	2100-01-01	3							
+TU CHP 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TU CHP 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU CHP 2050			Fuel	2050-01-01	2100-01-01	TU Station Gas							
+TU CHP 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TU CHP 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TU CHP 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU CHP 2055			Capacity	2055-01-01	2105-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2055			Marginal Heat Rate	2055-01-01	2105-01-01	6.818181818							
+TU CHP 2055			Variable Cost	2055-01-01	2105-01-01	3							
+TU CHP 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TU CHP 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU CHP 2055			Fuel	2055-01-01	2105-01-01	TU Station Gas							
+TU CHP 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TU CHP 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TU CHP 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU CHP 2060			Capacity	2060-01-01	2110-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2060			Marginal Heat Rate	2060-01-01	2110-01-01	6.79245283							
+TU CHP 2060			Variable Cost	2060-01-01	2110-01-01	3							
+TU CHP 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TU CHP 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU CHP 2060			Fuel	2060-01-01	2110-01-01	TU Station Gas							
+TU CHP 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TU CHP 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TU CHP 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU CHP 2065			Capacity	2065-01-01	2115-01-01	0	TU Availability CHP	Multiply					
+TU CHP 2065			Marginal Heat Rate	2065-01-01	2115-01-01	6.766917293							
+TU CHP 2065			Variable Cost	2065-01-01	2115-01-01	3							
+TU CHP 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+TU CHP 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU CHP 2065			Fuel	2065-01-01	2115-01-01	TU Station Gas							
+TU CHP 2065			Minimum Load	2065-01-01	2115-01-01	0							
+TU CHP 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+TU CHP 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+TU Liquid 1990			Capacity	1990-01-01	2040-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.22727273							
+TU Liquid 1990			Variable Cost	1990-01-01	2040-01-01	1							
+TU Liquid 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+TU Liquid 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Liquid 1990			Fuel	1990-01-01	2040-01-01	TU Station LSFO							
+TU Liquid 1990			Minimum Load	1990-01-01	2040-01-01	0							
+TU Liquid 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+TU Liquid 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+TU Liquid 1995			Capacity	1995-01-01	2045-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.16949153							
+TU Liquid 1995			Variable Cost	1995-01-01	2045-01-01	1							
+TU Liquid 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+TU Liquid 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Liquid 1995			Fuel	1995-01-01	2045-01-01	TU Station LSFO							
+TU Liquid 1995			Minimum Load	1995-01-01	2045-01-01	0							
+TU Liquid 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+TU Liquid 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+TU Liquid 2000			Capacity	2000-01-01	2050-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.11235955							
+TU Liquid 2000			Variable Cost	2000-01-01	2050-01-01	1							
+TU Liquid 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+TU Liquid 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU Liquid 2000			Fuel	2000-01-01	2050-01-01	TU Station LSFO							
+TU Liquid 2000			Minimum Load	2000-01-01	2050-01-01	0							
+TU Liquid 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+TU Liquid 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+TU Liquid 2005			Capacity	2005-01-01	2055-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.05586592							
+TU Liquid 2005			Variable Cost	2005-01-01	2055-01-01	1							
+TU Liquid 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+TU Liquid 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU Liquid 2005			Fuel	2005-01-01	2055-01-01	TU Station LSFO							
+TU Liquid 2005			Minimum Load	2005-01-01	2055-01-01	0							
+TU Liquid 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+TU Liquid 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+TU Liquid 2010			Capacity	2010-01-01	2060-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10							
+TU Liquid 2010			Variable Cost	2010-01-01	2060-01-01	1							
+TU Liquid 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+TU Liquid 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU Liquid 2010			Fuel	2010-01-01	2060-01-01	TU Station LSFO							
+TU Liquid 2010			Minimum Load	2010-01-01	2060-01-01	0							
+TU Liquid 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+TU Liquid 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+TU Liquid 2015			Capacity	2015-01-01	2065-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2015			Marginal Heat Rate	2015-01-01	2065-01-01	9.944751381							
+TU Liquid 2015			Variable Cost	2015-01-01	2065-01-01	1							
+TU Liquid 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+TU Liquid 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU Liquid 2015			Fuel	2015-01-01	2065-01-01	TU Station LSFO							
+TU Liquid 2015			Minimum Load	2015-01-01	2065-01-01	0							
+TU Liquid 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+TU Liquid 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+TU Liquid 2020			Capacity	2020-01-01	2070-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2020			Marginal Heat Rate	2020-01-01	2070-01-01	9.89010989							
+TU Liquid 2020			Variable Cost	2020-01-01	2070-01-01	1							
+TU Liquid 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+TU Liquid 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU Liquid 2020			Fuel	2020-01-01	2070-01-01	TU Station LSFO							
+TU Liquid 2020			Minimum Load	2020-01-01	2070-01-01	0							
+TU Liquid 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+TU Liquid 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+TU Liquid 2025			Capacity	2025-01-01	2075-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2025			Marginal Heat Rate	2025-01-01	2075-01-01	9.836065574							
+TU Liquid 2025			Variable Cost	2025-01-01	2075-01-01	1							
+TU Liquid 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+TU Liquid 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU Liquid 2025			Fuel	2025-01-01	2075-01-01	TU Station LSFO							
+TU Liquid 2025			Minimum Load	2025-01-01	2075-01-01	0							
+TU Liquid 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+TU Liquid 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+TU Liquid 2030			Capacity	2030-01-01	2080-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2030			Marginal Heat Rate	2030-01-01	2080-01-01	9.782608696							
+TU Liquid 2030			Variable Cost	2030-01-01	2080-01-01	1							
+TU Liquid 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+TU Liquid 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU Liquid 2030			Fuel	2030-01-01	2080-01-01	TU Station LSFO							
+TU Liquid 2030			Minimum Load	2030-01-01	2080-01-01	0							
+TU Liquid 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+TU Liquid 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+TU Liquid 2035			Capacity	2035-01-01	2085-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2035			Marginal Heat Rate	2035-01-01	2085-01-01	9.72972973							
+TU Liquid 2035			Variable Cost	2035-01-01	2085-01-01	1							
+TU Liquid 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+TU Liquid 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU Liquid 2035			Fuel	2035-01-01	2085-01-01	TU Station LSFO							
+TU Liquid 2035			Minimum Load	2035-01-01	2085-01-01	0							
+TU Liquid 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+TU Liquid 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+TU Liquid 2040			Capacity	2040-01-01	2090-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.677419355							
+TU Liquid 2040			Variable Cost	2040-01-01	2090-01-01	1							
+TU Liquid 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+TU Liquid 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU Liquid 2040			Fuel	2040-01-01	2090-01-01	TU Station LSFO							
+TU Liquid 2040			Minimum Load	2040-01-01	2090-01-01	0							
+TU Liquid 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+TU Liquid 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+TU Liquid 2045			Capacity	2045-01-01	2095-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.625668449							
+TU Liquid 2045			Variable Cost	2045-01-01	2095-01-01	1							
+TU Liquid 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+TU Liquid 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU Liquid 2045			Fuel	2045-01-01	2095-01-01	TU Station LSFO							
+TU Liquid 2045			Minimum Load	2045-01-01	2095-01-01	0							
+TU Liquid 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+TU Liquid 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+TU Liquid 2050			Capacity	2050-01-01	2100-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.574468085							
+TU Liquid 2050			Variable Cost	2050-01-01	2100-01-01	1							
+TU Liquid 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+TU Liquid 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU Liquid 2050			Fuel	2050-01-01	2100-01-01	TU Station LSFO							
+TU Liquid 2050			Minimum Load	2050-01-01	2100-01-01	0							
+TU Liquid 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+TU Liquid 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+TU Liquid 2055			Capacity	2055-01-01	2105-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.523809524							
+TU Liquid 2055			Variable Cost	2055-01-01	2105-01-01	1							
+TU Liquid 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+TU Liquid 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU Liquid 2055			Fuel	2055-01-01	2105-01-01	TU Station LSFO							
+TU Liquid 2055			Minimum Load	2055-01-01	2105-01-01	0							
+TU Liquid 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+TU Liquid 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+TU Liquid 2060			Capacity	2060-01-01	2110-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.473684211							
+TU Liquid 2060			Variable Cost	2060-01-01	2110-01-01	1							
+TU Liquid 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+TU Liquid 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU Liquid 2060			Fuel	2060-01-01	2110-01-01	TU Station LSFO							
+TU Liquid 2060			Minimum Load	2060-01-01	2110-01-01	0							
+TU Liquid 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+TU Liquid 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+TU Liquid 2100			Capacity	2100-01-01	2150-01-01	0	TU Availability Liquid	Multiply					
+TU Liquid 2100			Marginal Heat Rate	2100-01-01	2150-01-01	9.42408377							
+TU Liquid 2100			Variable Cost	2100-01-01	2150-01-01	1							
+TU Liquid 2100			Bid Up Price	2100-01-01	2150-01-01	0							
+TU Liquid 2100			Bid Up Heat Rate	2100-01-01	2150-01-01	0							
+TU Liquid 2100			Fuel	2100-01-01	2150-01-01	TU Station LSFO							
+TU Liquid 2100			Minimum Load	2100-01-01	2150-01-01	0							
+TU Liquid 2100			Minimum Load Bid Up Price	2100-01-01	2150-01-01	0							
+TU Liquid 2100			Minimum Load Bid Up Heat Rate	2100-01-01	2150-01-01	0							
+TU Sendai Coal			Capacity	2010-01-01	2100-01-01	112	TU Availability Hard Coal	Multiply					
+TU Sendai Coal			Marginal Heat Rate	2010-01-01	2100-01-01	11.25							
+TU Sendai Coal			Variable Cost	2010-01-01	2100-01-01	2							
+TU Sendai Coal			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Sendai Coal			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Sendai Coal			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Sendai Coal			Minimum Load	2010-01-01	2100-01-01	0							
+TU Sendai Coal			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Sendai Coal			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Soma			Capacity	2010-01-01	2100-01-01	112	TU Availability Hard Coal	Multiply					
+TU Soma			Marginal Heat Rate	2010-01-01	2100-01-01	10.95652174							
+TU Soma			Variable Cost	2010-01-01	2100-01-01	2							
+TU Soma			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Soma			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Soma			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Soma			Minimum Load	2010-01-01	2100-01-01	0							
+TU Soma			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Soma			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU NSC Kamaishi Works			Capacity	2010-01-01	2100-01-01	136	TU Availability Hard Coal	Multiply					
+TU NSC Kamaishi Works			Marginal Heat Rate	2010-01-01	2100-01-01	10.6779661							
+TU NSC Kamaishi Works			Variable Cost	2010-01-01	2100-01-01	2							
+TU NSC Kamaishi Works			Bid Up Price	2010-01-01	2100-01-01	0							
+TU NSC Kamaishi Works			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU NSC Kamaishi Works			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU NSC Kamaishi Works			Minimum Load	2010-01-01	2100-01-01	0							
+TU NSC Kamaishi Works			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU NSC Kamaishi Works			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Itoigawa			Capacity	2010-01-01	2100-01-01	149	TU Availability Hard Coal	Multiply					
+TU Itoigawa			Marginal Heat Rate	2010-01-01	2100-01-01	10.41322314							
+TU Itoigawa			Variable Cost	2010-01-01	2100-01-01	2							
+TU Itoigawa			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Itoigawa			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Itoigawa			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Itoigawa			Minimum Load	2010-01-01	2100-01-01	0							
+TU Itoigawa			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Itoigawa			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Nippon Paper Miyagi			Capacity	2010-01-01	2100-01-01	149	TU Availability Hard Coal	Multiply					
+TU Nippon Paper Miyagi			Marginal Heat Rate	2010-01-01	2100-01-01	10.16129032							
+TU Nippon Paper Miyagi			Variable Cost	2010-01-01	2100-01-01	2							
+TU Nippon Paper Miyagi			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Nippon Paper Miyagi			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Nippon Paper Miyagi			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Nippon Paper Miyagi			Minimum Load	2010-01-01	2100-01-01	0							
+TU Nippon Paper Miyagi			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Nippon Paper Miyagi			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Nakoso n7			Capacity	2010-01-01	2100-01-01	250	TU Availability Hard Coal	Multiply					
+TU Nakoso n7			Marginal Heat Rate	2010-01-01	2100-01-01	9.921259843							
+TU Nakoso n7			Variable Cost	2010-01-01	2100-01-01	2							
+TU Nakoso n7			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Nakoso n7			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Nakoso n7			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Nakoso n7			Minimum Load	2010-01-01	2100-01-01	0							
+TU Nakoso n7			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Nakoso n7			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n1			Capacity	2010-01-01	2100-01-01	350	TU Availability Hard Coal	Multiply					
+TU Sakata Kyodo n1			Marginal Heat Rate	2010-01-01	2100-01-01	9.692307692							
+TU Sakata Kyodo n1			Variable Cost	2010-01-01	2100-01-01	2							
+TU Sakata Kyodo n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n1			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Sakata Kyodo n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n2			Capacity	2010-01-01	2100-01-01	350	TU Availability Hard Coal	Multiply					
+TU Sakata Kyodo n2			Marginal Heat Rate	2010-01-01	2100-01-01	9.473684211							
+TU Sakata Kyodo n2			Variable Cost	2010-01-01	2100-01-01	2							
+TU Sakata Kyodo n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n2			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Sakata Kyodo n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Sakata Kyodo n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Noshiro n1			Capacity	2010-01-01	2100-01-01	600	TU Availability Hard Coal	Multiply					
+TU Noshiro n1			Marginal Heat Rate	2010-01-01	2100-01-01	9.264705882							
+TU Noshiro n1			Variable Cost	2010-01-01	2100-01-01	2							
+TU Noshiro n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Noshiro n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Noshiro n1			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Noshiro n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Noshiro n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Noshiro n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Noshiro n2			Capacity	2010-01-01	2100-01-01	600	TU Availability Hard Coal	Multiply					
+TU Noshiro n2			Marginal Heat Rate	2010-01-01	2100-01-01	9.064748201							
+TU Noshiro n2			Variable Cost	2010-01-01	2100-01-01	2							
+TU Noshiro n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Noshiro n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Noshiro n2			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Noshiro n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Noshiro n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Noshiro n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Noshiro n3			Capacity	2010-01-01	2100-01-01	600	TU Availability Hard Coal	Multiply					
+TU Noshiro n3			Marginal Heat Rate	2010-01-01	2100-01-01	8.873239437							
+TU Noshiro n3			Variable Cost	2010-01-01	2100-01-01	2							
+TU Noshiro n3			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Noshiro n3			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Noshiro n3			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Noshiro n3			Minimum Load	2010-01-01	2100-01-01	0							
+TU Noshiro n3			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Noshiro n3			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Haramachi n1			Capacity	2010-01-01	2100-01-01	1000	TU Availability Hard Coal	Multiply					
+TU Haramachi n1			Marginal Heat Rate	2010-01-01	2100-01-01	8.689655172							
+TU Haramachi n1			Variable Cost	2010-01-01	2100-01-01	2							
+TU Haramachi n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Haramachi n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Haramachi n1			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Haramachi n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Haramachi n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Haramachi n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Haramachi n2			Capacity	2010-01-01	2100-01-01	1000	TU Availability Hard Coal	Multiply					
+TU Haramachi n2			Marginal Heat Rate	2010-01-01	2100-01-01	8.513513514							
+TU Haramachi n2			Variable Cost	2010-01-01	2100-01-01	2							
+TU Haramachi n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Haramachi n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Haramachi n2			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Haramachi n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Haramachi n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Haramachi n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Shinchi n1			Capacity	2010-01-01	2100-01-01	1000	TU Availability Hard Coal	Multiply					
+TU Shinchi n1			Marginal Heat Rate	2010-01-01	2100-01-01	8.344370861							
+TU Shinchi n1			Variable Cost	2010-01-01	2100-01-01	2							
+TU Shinchi n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Shinchi n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Shinchi n1			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Shinchi n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Shinchi n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Shinchi n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Shinchi n2			Capacity	2010-01-01	2100-01-01	1000	TU Availability Hard Coal	Multiply					
+TU Shinchi n2			Marginal Heat Rate	2010-01-01	2100-01-01	8.181818182							
+TU Shinchi n2			Variable Cost	2010-01-01	2100-01-01	2							
+TU Shinchi n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Shinchi n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Shinchi n2			Fuel	2010-01-01	2100-01-01	TU Station Coal							
+TU Shinchi n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Shinchi n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Shinchi n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Niigata CC n5			Capacity	2010-01-01	2100-01-01	109	TU Availability CCGT	Multiply					
+TU Niigata CC n5			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Niigata CC n5			Variable Cost	2010-01-01	2100-01-01	1							
+TU Niigata CC n5			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Niigata CC n5			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Niigata CC n5			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Niigata CC n5			Minimum Load	2010-01-01	2100-01-01	0							
+TU Niigata CC n5			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Niigata CC n5			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1GT			Capacity	2010-01-01	2100-01-01	137	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n3_1GT			Marginal Heat Rate	2010-01-01	2100-01-01	8.823529412							
+TU Higashi Niigata CC n3_1GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n3_1GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n3_1GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2GT			Capacity	2010-01-01	2100-01-01	137	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n3_2GT			Marginal Heat Rate	2010-01-01	2100-01-01	8.653846154							
+TU Higashi Niigata CC n3_2GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n3_2GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n3_2GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_3GT			Capacity	2010-01-01	2100-01-01	137	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n3_3GT			Marginal Heat Rate	2010-01-01	2100-01-01	8.490566038							
+TU Higashi Niigata CC n3_3GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n3_3GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_3GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_3GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n3_3GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_3GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_3GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_4GT			Capacity	2010-01-01	2100-01-01	137	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n3_4GT			Marginal Heat Rate	2010-01-01	2100-01-01	8.333333333							
+TU Higashi Niigata CC n3_4GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n3_4GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_4GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_4GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n3_4GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_4GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_4GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_5GT			Capacity	2010-01-01	2100-01-01	137	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n3_5GT			Marginal Heat Rate	2010-01-01	2100-01-01	8.181818182							
+TU Higashi Niigata CC n3_5GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n3_5GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_5GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_5GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n3_5GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_5GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_5GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_6GT			Capacity	2010-01-01	2100-01-01	137	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n3_6GT			Marginal Heat Rate	2010-01-01	2100-01-01	8.035714286							
+TU Higashi Niigata CC n3_6GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n3_6GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_6GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_6GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n3_6GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_6GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_6GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Hachinohe n5ST			Capacity	2010-01-01	2100-01-01	141.9	TU Availability CCGT	Multiply					
+TU Hachinohe n5ST			Marginal Heat Rate	2010-01-01	2100-01-01	7.894736842							
+TU Hachinohe n5ST			Variable Cost	2010-01-01	2100-01-01	1							
+TU Hachinohe n5ST			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Hachinohe n5ST			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Hachinohe n5ST			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Hachinohe n5ST			Minimum Load	2010-01-01	2100-01-01	0							
+TU Hachinohe n5ST			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Hachinohe n5ST			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1ST			Capacity	2010-01-01	2100-01-01	203	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n3_1ST			Marginal Heat Rate	2010-01-01	2100-01-01	7.75862069							
+TU Higashi Niigata CC n3_1ST			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n3_1ST			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1ST			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1ST			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n3_1ST			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1ST			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_1ST			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2ST			Capacity	2010-01-01	2100-01-01	203	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n3_2ST			Marginal Heat Rate	2010-01-01	2100-01-01	7.627118644							
+TU Higashi Niigata CC n3_2ST			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n3_2ST			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2ST			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2ST			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n3_2ST			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2ST			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n3_2ST			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Hachinohe n5GT			Capacity	2010-01-01	2100-01-01	276.1	TU Availability CCGT	Multiply					
+TU Hachinohe n5GT			Marginal Heat Rate	2010-01-01	2100-01-01	7.5							
+TU Hachinohe n5GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Hachinohe n5GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Hachinohe n5GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Hachinohe n5GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Hachinohe n5GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Hachinohe n5GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Hachinohe n5GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1ST			Capacity	2010-01-01	2100-01-01	280.3	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n4_1ST			Marginal Heat Rate	2010-01-01	2100-01-01	7.37704918							
+TU Higashi Niigata CC n4_1ST			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n4_1ST			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1ST			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1ST			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n4_1ST			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1ST			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1ST			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2ST			Capacity	2010-01-01	2100-01-01	295	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n4_2ST			Marginal Heat Rate	2010-01-01	2100-01-01	7.258064516							
+TU Higashi Niigata CC n4_2ST			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n4_2ST			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2ST			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2ST			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n4_2ST			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2ST			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2ST			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_3GT			Capacity	2010-01-01	2100-01-01	295	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n4_3GT			Marginal Heat Rate	2010-01-01	2100-01-01	7.142857143							
+TU Higashi Niigata CC n4_3GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n4_3GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_3GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_3GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n4_3GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_3GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_3GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_4GT			Capacity	2010-01-01	2100-01-01	295	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n4_4GT			Marginal Heat Rate	2010-01-01	2100-01-01	7.03125							
+TU Higashi Niigata CC n4_4GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n4_4GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_4GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_4GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n4_4GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_4GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_4GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1GT			Capacity	2010-01-01	2100-01-01	298.8	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n4_1GT			Marginal Heat Rate	2010-01-01	2100-01-01	6.923076923							
+TU Higashi Niigata CC n4_1GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n4_1GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n4_1GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_1GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2GT			Capacity	2010-01-01	2100-01-01	298.8	TU Availability CCGT	Multiply					
+TU Higashi Niigata CC n4_2GT			Marginal Heat Rate	2010-01-01	2100-01-01	6.818181818							
+TU Higashi Niigata CC n4_2GT			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata CC n4_2GT			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2GT			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2GT			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Higashi Niigata CC n4_2GT			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2GT			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata CC n4_2GT			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Sendai CC n4			Capacity	2010-01-01	2100-01-01	468	TU Availability CCGT	Multiply					
+TU Sendai CC n4			Marginal Heat Rate	2010-01-01	2100-01-01	6.71641791							
+TU Sendai CC n4			Variable Cost	2010-01-01	2100-01-01	1							
+TU Sendai CC n4			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Sendai CC n4			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Sendai CC n4			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Sendai CC n4			Minimum Load	2010-01-01	2100-01-01	0							
+TU Sendai CC n4			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Sendai CC n4			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_1			Capacity	2010-01-01	2100-01-01	523	TU Availability CCGT	Multiply					
+TU Shin Sendai CC n3_1			Marginal Heat Rate	2010-01-01	2100-01-01	6.617647059							
+TU Shin Sendai CC n3_1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Shin Sendai CC n3_1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_1			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Shin Sendai CC n3_1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_2			Capacity	2010-01-01	2100-01-01	523	TU Availability CCGT	Multiply					
+TU Shin Sendai CC n3_2			Marginal Heat Rate	2010-01-01	2100-01-01	6.52173913							
+TU Shin Sendai CC n3_2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Shin Sendai CC n3_2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_2			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Shin Sendai CC n3_2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Shin Sendai CC n3_2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima CC n1			Capacity	2010-01-01	2100-01-01	590	TU Availability CCGT	Multiply					
+TU Fukushima CC n1			Marginal Heat Rate	2010-01-01	2100-01-01	6.428571429							
+TU Fukushima CC n1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Fukushima CC n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima CC n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima CC n1			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Fukushima CC n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Fukushima CC n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima CC n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima CC n2			Capacity	2010-01-01	2100-01-01	590	TU Availability CCGT	Multiply					
+TU Fukushima CC n2			Marginal Heat Rate	2010-01-01	2100-01-01	6.338028169							
+TU Fukushima CC n2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Fukushima CC n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima CC n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima CC n2			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Fukushima CC n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Fukushima CC n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima CC n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_1			Capacity	2010-01-01	2100-01-01	595	TU Availability CCGT	Multiply					
+TU Joetsu CC n1_1			Marginal Heat Rate	2010-01-01	2100-01-01	6.25							
+TU Joetsu CC n1_1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Joetsu CC n1_1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_1			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Joetsu CC n1_1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_2			Capacity	2010-01-01	2100-01-01	595	TU Availability CCGT	Multiply					
+TU Joetsu CC n1_2			Marginal Heat Rate	2010-01-01	2100-01-01	6.164383562							
+TU Joetsu CC n1_2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Joetsu CC n1_2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_2			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Joetsu CC n1_2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Joetsu CC n1_2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_1			Capacity	2010-01-01	2100-01-01	595	TU Availability CCGT	Multiply					
+TU Joetsu CC n2_1			Marginal Heat Rate	2010-01-01	2100-01-01	6.081081081							
+TU Joetsu CC n2_1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Joetsu CC n2_1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_1			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Joetsu CC n2_1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_2			Capacity	2010-01-01	2100-01-01	595	TU Availability CCGT	Multiply					
+TU Joetsu CC n2_2			Marginal Heat Rate	2010-01-01	2100-01-01	6							
+TU Joetsu CC n2_2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Joetsu CC n2_2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_2			Fuel	2010-01-01	2100-01-01	TU Station Gas							
+TU Joetsu CC n2_2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Joetsu CC n2_2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Niigata n4			Capacity	2010-01-01	2100-01-01	250	TU Availability LSFO	Multiply					
+TU Niigata n4			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Niigata n4			Variable Cost	2010-01-01	2100-01-01	1							
+TU Niigata n4			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Niigata n4			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Niigata n4			Fuel	2010-01-01	2100-01-01	TU Station LSFO							
+TU Niigata n4			Minimum Load	2010-01-01	2100-01-01	0							
+TU Niigata n4			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Niigata n4			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Akita n5			Capacity	2010-01-01	2100-01-01	333	TU Availability LSFO	Multiply					
+TU Akita n5			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Akita n5			Variable Cost	2010-01-01	2100-01-01	1							
+TU Akita n5			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Akita n5			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Akita n5			Fuel	2010-01-01	2100-01-01	TU Station LSFO							
+TU Akita n5			Minimum Load	2010-01-01	2100-01-01	0							
+TU Akita n5			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Akita n5			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Akita n2			Capacity	2010-01-01	2100-01-01	350	TU Availability LSFO	Multiply					
+TU Akita n2			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Akita n2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Akita n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Akita n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Akita n2			Fuel	2010-01-01	2100-01-01	TU Station LSFO							
+TU Akita n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Akita n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Akita n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Akita n3			Capacity	2010-01-01	2100-01-01	350	TU Availability LSFO	Multiply					
+TU Akita n3			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Akita n3			Variable Cost	2010-01-01	2100-01-01	1							
+TU Akita n3			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Akita n3			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Akita n3			Fuel	2010-01-01	2100-01-01	TU Station LSFO							
+TU Akita n3			Minimum Load	2010-01-01	2100-01-01	0							
+TU Akita n3			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Akita n3			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_2			Capacity	2010-01-01	2100-01-01	350	TU Availability LSFO	Multiply					
+TU Higashi Niigata Minato_2			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Higashi Niigata Minato_2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata Minato_2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_2			Fuel	2010-01-01	2100-01-01	TU Station LSFO							
+TU Higashi Niigata Minato_2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_1			Capacity	2010-01-01	2100-01-01	350	TU Availability LSFO	Multiply					
+TU Higashi Niigata Minato_1			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Higashi Niigata Minato_1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata Minato_1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_1			Fuel	2010-01-01	2100-01-01	TU Station LSFO							
+TU Higashi Niigata Minato_1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata Minato_1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Akita n4			Capacity	2010-01-01	2100-01-01	600	TU Availability LSFO	Multiply					
+TU Akita n4			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Akita n4			Variable Cost	2010-01-01	2100-01-01	1							
+TU Akita n4			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Akita n4			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Akita n4			Fuel	2010-01-01	2100-01-01	TU Station LSFO							
+TU Akita n4			Minimum Load	2010-01-01	2100-01-01	0							
+TU Akita n4			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Akita n4			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n1			Capacity	2010-01-01	2100-01-01	600	TU Availability LSFO	Multiply					
+TU Higashi Niigata ST n1			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Higashi Niigata ST n1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata ST n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n1			Fuel	2010-01-01	2100-01-01	TU Station LSFO							
+TU Higashi Niigata ST n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n2			Capacity	2010-01-01	2100-01-01	600	TU Availability Nuclear	Multiply					
+TU Higashi Niigata ST n2			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Higashi Niigata ST n2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashi Niigata ST n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n2			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Higashi Niigata ST n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashi Niigata ST n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n2			Capacity	2010-01-01	2100-01-01	230	TU Availability Nuclear	Multiply					
+TU Fukushima Daini Nuclear n2			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Fukushima Daini Nuclear n2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Fukushima Daini Nuclear n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n2			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Fukushima Daini Nuclear n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n1			Capacity	2010-01-01	2100-01-01	250	TU Availability Nuclear	Multiply					
+TU Fukushima Daini Nuclear n1			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Fukushima Daini Nuclear n1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Fukushima Daini Nuclear n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n1			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Fukushima Daini Nuclear n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n4			Capacity	2010-01-01	2100-01-01	250	TU Availability Nuclear	Multiply					
+TU Fukushima Daini Nuclear n4			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Fukushima Daini Nuclear n4			Variable Cost	2010-01-01	2100-01-01	1							
+TU Fukushima Daini Nuclear n4			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n4			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n4			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Fukushima Daini Nuclear n4			Minimum Load	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n4			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n4			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n3			Capacity	2010-01-01	2100-01-01	290	TU Availability Nuclear	Multiply					
+TU Fukushima Daini Nuclear n3			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Fukushima Daini Nuclear n3			Variable Cost	2010-01-01	2100-01-01	1							
+TU Fukushima Daini Nuclear n3			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n3			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n3			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Fukushima Daini Nuclear n3			Minimum Load	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n3			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Fukushima Daini Nuclear n3			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n1			Capacity	2010-01-01	2100-01-01	524	TU Availability Nuclear	Multiply					
+TU Onagawa Nuclear n1			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Onagawa Nuclear n1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Onagawa Nuclear n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n1			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Onagawa Nuclear n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n2			Capacity	2010-01-01	2100-01-01	825	TU Availability Nuclear	Multiply					
+TU Onagawa Nuclear n2			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Onagawa Nuclear n2			Variable Cost	2010-01-01	2100-01-01	1							
+TU Onagawa Nuclear n2			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n2			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n2			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Onagawa Nuclear n2			Minimum Load	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n2			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n2			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n3			Capacity	2010-01-01	2100-01-01	825	TU Availability Nuclear	Multiply					
+TU Onagawa Nuclear n3			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Onagawa Nuclear n3			Variable Cost	2010-01-01	2100-01-01	1							
+TU Onagawa Nuclear n3			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n3			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n3			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Onagawa Nuclear n3			Minimum Load	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n3			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Onagawa Nuclear n3			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashidori n1			Capacity	2010-01-01	2100-01-01	1100	TU Availability Nuclear	Multiply					
+TU Higashidori n1			Marginal Heat Rate	2010-01-01	2100-01-01	9							
+TU Higashidori n1			Variable Cost	2010-01-01	2100-01-01	1							
+TU Higashidori n1			Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashidori n1			Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+TU Higashidori n1			Fuel	2010-01-01	2100-01-01	TU Station Uranium							
+TU Higashidori n1			Minimum Load	2010-01-01	2100-01-01	0							
+TU Higashidori n1			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+TU Higashidori n1			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							

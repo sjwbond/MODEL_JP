@@ -1,0 +1,69 @@
+Object_Name	Object_Type
+JP Onshore Generators	Group
+JP Offshore Generators	Group
+JP RWE Onshore Generators	Group
+JP RWE Offshore Generators	Group
+JP Wind Generators	Group
+JP RWE Wind Generators	Group
+JP Solar Generators	Group
+JP RWE Solar Generators	Group
+JP RWE Renewables Generators	Group
+JP RWE Conventional Generators	Group
+JP RWE Generators	Group
+JP Gas Generators	Group
+JP Coal Generators	Group
+JP Lignite Generators	Group
+JP Nuclear Generators	Group
+JP Hard Coal Generators	Group
+JP CCGT Generators	Group
+JP RWE CCGT Generators	Group
+JP OCGT Generators	Group
+JP Biomass Generators	Group
+JP CHP Generators	Group
+JP Liquid Generators	Group
+JP ROR Generators	Group
+JP Storage Generators	Group
+JP PumpedStorage Generators	Group
+JP Batteries	Group
+JP Hydro Storage Generators	Group
+TO Onshore Generators	Group
+TO Offshore Generators	Group
+TO RWE Onshore Generators	Group
+TO RWE Offshore Generators	Group
+TO Wind Generators	Group
+TO RWE Wind Generators	Group
+TO Solar Generators	Group
+TO RWE Solar Generators	Group
+TO RWE Renewables Generators	Group
+TO RWE Conventional Generators	Group
+TO RWE Generators	Group
+TO Gas Generators	Group
+TO Coal Generators	Group
+TO Lignite Generators	Group
+TO Nuclear Generators	Group
+TO Hard Coal Generators	Group
+TO CCGT Generators	Group
+TO RWE CCGT Generators	Group
+TO OCGT Generators	Group
+TO Biomass Generators	Group
+TO CHP Generators	Group
+TO Liquid Generators	Group
+TO ROR Generators	Group
+TO Storage Generators	Group
+TO PumpedStorage Generators	Group
+TO Batteries	Group
+TO Hydro Storage Generators	Group
+TO Gas Generators	Group
+TO Coal Generators	Group
+TO Lignite Generators	Group
+TO Nuclear Generators	Group
+TO Hard Coal Generators	Group
+TO CCGT Generators	Group
+TO OCGT Generators	Group
+TO Biomass Generators	Group
+TO CHP Generators	Group
+TO Liquid Generators	Group
+TO ROR Generators	Group
+TO Storage Generators	Group
+TO PumpedStorage Generators	Group
+TO Batteries	Group

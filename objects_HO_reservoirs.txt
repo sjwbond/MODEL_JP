@@ -1,0 +1,5 @@
+Object_Name	Object_Type
+HO JP_RES_Hokkaido	Reservoir
+HO JP_RES_Hokkaido Inflow	Variable
+HO JP_RES_Hokkaido Inflow File	DataSource
+HO JP_RES_Hokkaido Inflow TS	DBTimeSeries

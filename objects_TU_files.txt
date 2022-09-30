@@ -1,0 +1,4 @@
+Object_Name	Object_Type
+TU Fuel Price File	DataSource
+TU Historic Day Ahead File	DataSource
+TU Installed Capacity File	DataSource

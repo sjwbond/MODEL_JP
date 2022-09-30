@@ -1,0 +1,19 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+JAPAN Offshore 100m 848 42.0 141.25 105M Windspeed			value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWS			value	2010-01-01	2100-01-01	105	JAPAN Offshore 100m 848 42.0 141.25 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc			value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 105M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 105M HHc			value	2010-01-01	2100-01-01	105	height_coefficient	Multiply					
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc+HHc			value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc	JAPAN Offshore 100m 848 42.0 141.25 105M HHc	Add					
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc+HHc	JAPAN Offshore 100m 848 42.0 141.25 WSc	Add					
+JAPAN Offshore 100m 801 43.5 140.0 110M Windspeed			value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWS			value	2010-01-01	2100-01-01	110	JAPAN Offshore 100m 801 43.5 140.0 Base Wind Speed	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc			value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 110M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 110M HHc			value	2010-01-01	2100-01-01	110	height_coefficient	Multiply					
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc+HHc			value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc	JAPAN Offshore 100m 801 43.5 140.0 110M HHc	Add					
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc+HHc	JAPAN Offshore 100m 801 43.5 140.0 WSc	Add					
+JAPAN Onshore 100m 807 43.5 143.75 68M Windspeed			value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc+HHc+WSc	windspeed_constant	Add					
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWS			value	2010-01-01	2100-01-01	68	JAPAN Onshore 100m 807 43.5 143.75 Base Wind Speed	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc			value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 68M HHxWS	height_x_windspeed_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 68M HHc			value	2010-01-01	2100-01-01	68	height_coefficient	Multiply					
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc+HHc			value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc	JAPAN Onshore 100m 807 43.5 143.75 68M HHc	Add					
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc+HHc	JAPAN Onshore 100m 807 43.5 143.75 WSc	Add					

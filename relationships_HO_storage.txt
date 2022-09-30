@@ -1,0 +1,129 @@
+Object_Name	Parent_Object
+HO Batteries 2020	HO
+HO Batteries 2020	HO Batteries
+HO Batteries 2021	HO
+HO Batteries 2021	HO Batteries
+HO Batteries 2022	HO
+HO Batteries 2022	HO Batteries
+HO Batteries 2023	HO
+HO Batteries 2023	HO Batteries
+HO Batteries 2024	HO
+HO Batteries 2024	HO Batteries
+HO Batteries 2025	HO
+HO Batteries 2025	HO Batteries
+HO Batteries 2026	HO
+HO Batteries 2026	HO Batteries
+HO Batteries 2027	HO
+HO Batteries 2027	HO Batteries
+HO Batteries 2028	HO
+HO Batteries 2028	HO Batteries
+HO Batteries 2029	HO
+HO Batteries 2029	HO Batteries
+HO Batteries 2030	HO
+HO Batteries 2030	HO Batteries
+HO Batteries 2031	HO
+HO Batteries 2031	HO Batteries
+HO Batteries 2032	HO
+HO Batteries 2032	HO Batteries
+HO Batteries 2033	HO
+HO Batteries 2033	HO Batteries
+HO Batteries 2034	HO
+HO Batteries 2034	HO Batteries
+HO Batteries 2035	HO
+HO Batteries 2035	HO Batteries
+HO Batteries 2036	HO
+HO Batteries 2036	HO Batteries
+HO Batteries 2037	HO
+HO Batteries 2037	HO Batteries
+HO Batteries 2038	HO
+HO Batteries 2038	HO Batteries
+HO Batteries 2039	HO
+HO Batteries 2039	HO Batteries
+HO Batteries 2040	HO
+HO Batteries 2040	HO Batteries
+HO Pumped Storage	HO
+HO Pumped Storage	HO PumpedStorage Generators
+HO Batteries 2h 2020	HO
+HO Batteries 2h 2020	HO Batteries
+HO Batteries 2h 2021	HO
+HO Batteries 2h 2021	HO Batteries
+HO Batteries 2h 2022	HO
+HO Batteries 2h 2022	HO Batteries
+HO Batteries 2h 2023	HO
+HO Batteries 2h 2023	HO Batteries
+HO Batteries 2h 2024	HO
+HO Batteries 2h 2024	HO Batteries
+HO Batteries 2h 2025	HO
+HO Batteries 2h 2025	HO Batteries
+HO Batteries 2h 2026	HO
+HO Batteries 2h 2026	HO Batteries
+HO Batteries 2h 2027	HO
+HO Batteries 2h 2027	HO Batteries
+HO Batteries 2h 2028	HO
+HO Batteries 2h 2028	HO Batteries
+HO Batteries 2h 2029	HO
+HO Batteries 2h 2029	HO Batteries
+HO Batteries 2h 2030	HO
+HO Batteries 2h 2030	HO Batteries
+HO Batteries 2h 2031	HO
+HO Batteries 2h 2031	HO Batteries
+HO Batteries 2h 2032	HO
+HO Batteries 2h 2032	HO Batteries
+HO Batteries 2h 2033	HO
+HO Batteries 2h 2033	HO Batteries
+HO Batteries 2h 2034	HO
+HO Batteries 2h 2034	HO Batteries
+HO Batteries 2h 2035	HO
+HO Batteries 2h 2035	HO Batteries
+HO Batteries 2h 2036	HO
+HO Batteries 2h 2036	HO Batteries
+HO Batteries 2h 2037	HO
+HO Batteries 2h 2037	HO Batteries
+HO Batteries 2h 2038	HO
+HO Batteries 2h 2038	HO Batteries
+HO Batteries 2h 2039	HO
+HO Batteries 2h 2039	HO Batteries
+HO Batteries 2h 2040	HO
+HO Batteries 2h 2040	HO Batteries
+HO Batteries 4h 2020	HO
+HO Batteries 4h 2020	HO Batteries
+HO Batteries 4h 2021	HO
+HO Batteries 4h 2021	HO Batteries
+HO Batteries 4h 2022	HO
+HO Batteries 4h 2022	HO Batteries
+HO Batteries 4h 2023	HO
+HO Batteries 4h 2023	HO Batteries
+HO Batteries 4h 2024	HO
+HO Batteries 4h 2024	HO Batteries
+HO Batteries 4h 2025	HO
+HO Batteries 4h 2025	HO Batteries
+HO Batteries 4h 2026	HO
+HO Batteries 4h 2026	HO Batteries
+HO Batteries 4h 2027	HO
+HO Batteries 4h 2027	HO Batteries
+HO Batteries 4h 2028	HO
+HO Batteries 4h 2028	HO Batteries
+HO Batteries 4h 2029	HO
+HO Batteries 4h 2029	HO Batteries
+HO Batteries 4h 2030	HO
+HO Batteries 4h 2030	HO Batteries
+HO Batteries 4h 2031	HO
+HO Batteries 4h 2031	HO Batteries
+HO Batteries 4h 2032	HO
+HO Batteries 4h 2032	HO Batteries
+HO Batteries 4h 2033	HO
+HO Batteries 4h 2033	HO Batteries
+HO Batteries 4h 2034	HO
+HO Batteries 4h 2034	HO Batteries
+HO Batteries 4h 2035	HO
+HO Batteries 4h 2035	HO Batteries
+HO Batteries 4h 2036	HO
+HO Batteries 4h 2036	HO Batteries
+HO Batteries 4h 2037	HO
+HO Batteries 4h 2037	HO Batteries
+HO Batteries 4h 2038	HO
+HO Batteries 4h 2038	HO Batteries
+HO Batteries 4h 2039	HO
+HO Batteries 4h 2039	HO Batteries
+HO Batteries 4h 2040	HO
+HO Batteries 4h 2040	HO Batteries

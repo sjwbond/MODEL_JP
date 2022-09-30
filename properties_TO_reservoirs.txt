@@ -1,0 +1,7 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TO JP_RES_Shiroyama			max_storage	2010-01-01	2100-01-01	409200							
+TO JP_RES_Shiroyama			min_storage	2010-01-01	2100-01-01	40920							
+TO JP_RES_Shiroyama			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	4.58333333333333E-02	Multiply					
+TO JP_RES_Shiroyama			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+TO JP_RES_Shiroyama			save_data	2010-01-01	2100-01-01	1							
+TO JP_RES_Shiroyama			save_blocks	2010-01-01	2100-01-01	1							

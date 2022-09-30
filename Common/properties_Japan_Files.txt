@@ -1,0 +1,31 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TO Historic Day Ahead File			Data_Type	2010-01-01	2100-01-01	File							
+TO Installed Capacity File			Data_Type	2010-01-01	2100-01-01	File							
+TO Historic Day Ahead File			Location	2010-01-01	2100-01-01	/Variables/Demand/TO/Historic Day Ahead.txt							
+TO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/TO/Installed Capacity.txt							
+TO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/NP_2020Q3/TO/Installed Capacity.txt							NP 2020Q3
+TO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/E&D 2020Q3/TO/Installed Capacity.txt							E&D 2020Q3
+TO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/ELEC 2020Q3/TO/Installed Capacity.txt							ELEC 2020Q3
+TO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/NP_2022Q1/TO/Installed Capacity.txt							NP_2022Q1
+TO Historic Day Ahead File			Location_Type	2010-01-01	2100-01-01	Relative							
+TO Installed Capacity File			Location_Type	2010-01-01	2100-01-01	Relative							
+TU Historic Day Ahead File			Data_Type	2010-01-01	2100-01-01	File							
+TU Installed Capacity File			Data_Type	2010-01-01	2100-01-01	File							
+TU Historic Day Ahead File			Location	2010-01-01	2100-01-01	/Variables/Demand/TU/Historic Day Ahead.txt							
+TU Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/TU/Installed Capacity.txt							
+TU Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/NP_2020Q3/TU/Installed Capacity.txt							NP 2020Q3
+TU Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/E&D 2020Q3/TU/Installed Capacity.txt							E&D 2020Q3
+TU Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/ELEC 2020Q3/TU/Installed Capacity.txt							ELEC 2020Q3
+TU Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/NP_2022Q1/TU/Installed Capacity.txt							NP_2022Q1
+TU Historic Day Ahead File			Location_Type	2010-01-01	2100-01-01	Relative							
+TU Installed Capacity File			Location_Type	2010-01-01	2100-01-01	Relative							
+HO Historic Day Ahead File			Data_Type	2010-01-01	2100-01-01	File							
+HO Installed Capacity File			Data_Type	2010-01-01	2100-01-01	File							
+HO Historic Day Ahead File			Location	2010-01-01	2100-01-01	/Variables/Demand/HO/Historic Day Ahead.txt							
+HO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/HO/Installed Capacity.txt							
+HO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/NP_2020Q3/HO/Installed Capacity.txt							NP 2020Q3
+HO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/E&D 2020Q3/HO/Installed Capacity.txt							E&D 2020Q3
+HO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/ELEC 2020Q3/HO/Installed Capacity.txt							ELEC 2020Q3
+HO Installed Capacity File			Location	2010-01-01	2100-01-01	/Variables/Capacity/NP_2022Q1/HO/Installed Capacity.txt							NP_2022Q1
+HO Historic Day Ahead File			Location_Type	2010-01-01	2100-01-01	Relative							
+HO Installed Capacity File			Location_Type	2010-01-01	2100-01-01	Relative							

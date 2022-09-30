@@ -1,0 +1,4 @@
+Object_Name	Parent_Object	Parent_Property
+TO JP_PP_Shiroyama	TO
+TO JP_PP_Shiroyama	JP Hydro Storage Generators
+TO FR_RES_Ain_1_Vouglans	TO JP_PP_Shiroyama	upstream_reservoir

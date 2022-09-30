@@ -1,0 +1,28 @@
+Object_Name	Object_Type
+TU Onshore Generators	Group
+TU Offshore Generators	Group
+TU RWE Onshore Generators	Group
+TU RWE Offshore Generators	Group
+TU Wind Generators	Group
+TU RWE Wind Generators	Group
+TU Solar Generators	Group
+TU RWE Solar Generators	Group
+TU RWE Renewables Generators	Group
+TU RWE Conventional Generators	Group
+TU RWE Generators	Group
+TU Gas Generators	Group
+TU Coal Generators	Group
+TU Lignite Generators	Group
+TU Nuclear Generators	Group
+TU Hard Coal Generators	Group
+TU CCGT Generators	Group
+TU RWE CCGT Generators	Group
+TU OCGT Generators	Group
+TU Biomass Generators	Group
+TU CHP Generators	Group
+TU Liquid Generators	Group
+TU ROR Generators	Group
+TU Storage Generators	Group
+TU PumpedStorage Generators	Group
+TU Batteries	Group
+TU Hydro Storage Generators	Group

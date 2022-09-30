@@ -1,0 +1,129 @@
+Object_Name	Parent_Object
+TU Batteries 2020	TU
+TU Batteries 2020	TU Batteries
+TU Batteries 2021	TU
+TU Batteries 2021	TU Batteries
+TU Batteries 2022	TU
+TU Batteries 2022	TU Batteries
+TU Batteries 2023	TU
+TU Batteries 2023	TU Batteries
+TU Batteries 2024	TU
+TU Batteries 2024	TU Batteries
+TU Batteries 2025	TU
+TU Batteries 2025	TU Batteries
+TU Batteries 2026	TU
+TU Batteries 2026	TU Batteries
+TU Batteries 2027	TU
+TU Batteries 2027	TU Batteries
+TU Batteries 2028	TU
+TU Batteries 2028	TU Batteries
+TU Batteries 2029	TU
+TU Batteries 2029	TU Batteries
+TU Batteries 2030	TU
+TU Batteries 2030	TU Batteries
+TU Batteries 2031	TU
+TU Batteries 2031	TU Batteries
+TU Batteries 2032	TU
+TU Batteries 2032	TU Batteries
+TU Batteries 2033	TU
+TU Batteries 2033	TU Batteries
+TU Batteries 2034	TU
+TU Batteries 2034	TU Batteries
+TU Batteries 2035	TU
+TU Batteries 2035	TU Batteries
+TU Batteries 2036	TU
+TU Batteries 2036	TU Batteries
+TU Batteries 2037	TU
+TU Batteries 2037	TU Batteries
+TU Batteries 2038	TU
+TU Batteries 2038	TU Batteries
+TU Batteries 2039	TU
+TU Batteries 2039	TU Batteries
+TU Batteries 2040	TU
+TU Batteries 2040	TU Batteries
+TU Pumped Storage	TU
+TU Pumped Storage	TU PumpedStorage Generators
+TU Batteries 2h 2020	TU
+TU Batteries 2h 2020	TU Batteries
+TU Batteries 2h 2021	TU
+TU Batteries 2h 2021	TU Batteries
+TU Batteries 2h 2022	TU
+TU Batteries 2h 2022	TU Batteries
+TU Batteries 2h 2023	TU
+TU Batteries 2h 2023	TU Batteries
+TU Batteries 2h 2024	TU
+TU Batteries 2h 2024	TU Batteries
+TU Batteries 2h 2025	TU
+TU Batteries 2h 2025	TU Batteries
+TU Batteries 2h 2026	TU
+TU Batteries 2h 2026	TU Batteries
+TU Batteries 2h 2027	TU
+TU Batteries 2h 2027	TU Batteries
+TU Batteries 2h 2028	TU
+TU Batteries 2h 2028	TU Batteries
+TU Batteries 2h 2029	TU
+TU Batteries 2h 2029	TU Batteries
+TU Batteries 2h 2030	TU
+TU Batteries 2h 2030	TU Batteries
+TU Batteries 2h 2031	TU
+TU Batteries 2h 2031	TU Batteries
+TU Batteries 2h 2032	TU
+TU Batteries 2h 2032	TU Batteries
+TU Batteries 2h 2033	TU
+TU Batteries 2h 2033	TU Batteries
+TU Batteries 2h 2034	TU
+TU Batteries 2h 2034	TU Batteries
+TU Batteries 2h 2035	TU
+TU Batteries 2h 2035	TU Batteries
+TU Batteries 2h 2036	TU
+TU Batteries 2h 2036	TU Batteries
+TU Batteries 2h 2037	TU
+TU Batteries 2h 2037	TU Batteries
+TU Batteries 2h 2038	TU
+TU Batteries 2h 2038	TU Batteries
+TU Batteries 2h 2039	TU
+TU Batteries 2h 2039	TU Batteries
+TU Batteries 2h 2040	TU
+TU Batteries 2h 2040	TU Batteries
+TU Batteries 4h 2020	TU
+TU Batteries 4h 2020	TU Batteries
+TU Batteries 4h 2021	TU
+TU Batteries 4h 2021	TU Batteries
+TU Batteries 4h 2022	TU
+TU Batteries 4h 2022	TU Batteries
+TU Batteries 4h 2023	TU
+TU Batteries 4h 2023	TU Batteries
+TU Batteries 4h 2024	TU
+TU Batteries 4h 2024	TU Batteries
+TU Batteries 4h 2025	TU
+TU Batteries 4h 2025	TU Batteries
+TU Batteries 4h 2026	TU
+TU Batteries 4h 2026	TU Batteries
+TU Batteries 4h 2027	TU
+TU Batteries 4h 2027	TU Batteries
+TU Batteries 4h 2028	TU
+TU Batteries 4h 2028	TU Batteries
+TU Batteries 4h 2029	TU
+TU Batteries 4h 2029	TU Batteries
+TU Batteries 4h 2030	TU
+TU Batteries 4h 2030	TU Batteries
+TU Batteries 4h 2031	TU
+TU Batteries 4h 2031	TU Batteries
+TU Batteries 4h 2032	TU
+TU Batteries 4h 2032	TU Batteries
+TU Batteries 4h 2033	TU
+TU Batteries 4h 2033	TU Batteries
+TU Batteries 4h 2034	TU
+TU Batteries 4h 2034	TU Batteries
+TU Batteries 4h 2035	TU
+TU Batteries 4h 2035	TU Batteries
+TU Batteries 4h 2036	TU
+TU Batteries 4h 2036	TU Batteries
+TU Batteries 4h 2037	TU
+TU Batteries 4h 2037	TU Batteries
+TU Batteries 4h 2038	TU
+TU Batteries 4h 2038	TU Batteries
+TU Batteries 4h 2039	TU
+TU Batteries 4h 2039	TU Batteries
+TU Batteries 4h 2040	TU
+TU Batteries 4h 2040	TU Batteries

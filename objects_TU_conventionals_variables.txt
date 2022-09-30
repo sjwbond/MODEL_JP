@@ -1,0 +1,11 @@
+Object_Name	Object_Type
+TU Availability Coal	Variable
+TU Availability CCGT	Variable
+TU Availability OCGT	Variable
+TU Availability Biomass	Variable
+TU Availability Lignite	Variable
+TU Availability Nuclear	Variable
+TU Availability CHP	Variable
+TU Availability Liquid	Variable
+TU Availability Hard Coal	Variable
+TU Availability LSFO	Variable

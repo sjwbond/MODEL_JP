@@ -1,0 +1,5 @@
+Object_Name	Object_Type
+TU JP_RES_Shiroyama	Reservoir
+TU JP_RES_Shiroyama Inflow	Variable
+TU JP_RES_Shiroyama Inflow File	DataSource
+TU JP_RES_Shiroyama Inflow TS	DBTimeSeries

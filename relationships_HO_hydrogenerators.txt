@@ -1,0 +1,4 @@
+Object_Name	Parent_Object	Parent_Property
+HO JP_PP_Hokkaido	HO
+HO JP_PP_Hokkaido	HO Hydro Storage Generators
+HO JP_RES_Hokkaido	HO JP_PP_Hokkaido	upstream_reservoir

@@ -1,0 +1,56 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TO Station Coal			Currency	2010-01-01	2100-01-01	EUR							
+TO Station Coal			LHV	2010-01-01	2100-01-01	0.97							
+TO Station Coal			Price	2010-01-01	2100-01-01	TO Station Coal Price	TO Station Coal Stochastic	Multiply					
+TO Station Coal			ton/GJ	2010-01-01	2100-01-01	0.09							
+TO Station Coal			Unit	2010-01-01	2100-01-01	GJ							
+TO Station Coal Base			Value	2010-01-01	2100-01-01	Japan Coal							
+TO Station Coal Price			Value	2010-01-01	2100-01-01	TO Station Coal Base	TO Station Coal Delivery Adjustment	Multiply					
+TO Station Coal Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+TO Station Coal Stochastic			Value	2010-01-01	2100-01-01	1							
+TO Station Gas			Currency	2010-01-01	2100-01-01	EUR							
+TO Station Gas			LHV	2010-01-01	2100-01-01	0.92							
+TO Station Gas			Price	2010-01-01	2100-01-01	TO Station Gas Price	TO Station Gas Stochastic	Multiply					
+TO Station Gas			ton/GJ	2010-01-01	2100-01-01	0.056							
+TO Station Gas			Unit	2010-01-01	2100-01-01	GJ							
+TO Station Gas Base			Value	2010-01-01	2100-01-01	Japan Gas							
+TO Station Gas Price			Value	2010-01-01	2100-01-01	TO Station Gas Base	TO Station Gas Delivery Adjustment	Multiply					
+TO Station Gas Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+TO Station Gas Stochastic			Value	2010-01-01	2100-01-01	1							
+TO Station Biomass			Currency	2010-01-01	2100-01-01	EUR							
+TO Station Biomass			LHV	2010-01-01	2100-01-01	1							
+TO Station Biomass			Price	2010-01-01	2100-01-01	TO Station Biomass Price	TO Station Biomass Stochastic	Multiply					
+TO Station Biomass			ton/GJ	2010-01-01	2100-01-01	0							
+TO Station Biomass			Unit	2010-01-01	2100-01-01	GJ							
+TO Station Biomass Base			Value	2010-01-01	2100-01-01	Japan Biomass							
+TO Station Biomass Price			Value	2010-01-01	2100-01-01	TO Station Biomass Base	TO Station Biomass Delivery Adjustment	Multiply					
+TO Station Biomass Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+TO Station Biomass Stochastic			Value	2010-01-01	2100-01-01	1							
+TO Station Lignite			Currency	2010-01-01	2100-01-01	EUR							
+TO Station Lignite			LHV	2010-01-01	2100-01-01	0.96							
+TO Station Lignite			Price	2010-01-01	2100-01-01	TO Station Lignite Price	TO Station Lignite Stochastic	Multiply					
+TO Station Lignite			ton/GJ	2010-01-01	2100-01-01	0.114							
+TO Station Lignite			Unit	2010-01-01	2100-01-01	GJ							
+TO Station Lignite Base			Value	2010-01-01	2100-01-01	Japan Lignite							
+TO Station Lignite Price			Value	2010-01-01	2100-01-01	TO Station Lignite Base	TO Station Lignite Delivery Adjustment	Multiply					
+TO Station Lignite Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+TO Station Lignite Stochastic			Value	2010-01-01	2100-01-01	1							
+TO Station Uranium			Currency	2010-01-01	2100-01-01	EUR							
+TO Station Uranium			LHV	2010-01-01	2100-01-01	1							
+TO Station Uranium			Price	2010-01-01	2100-01-01	TO Station Uranium Price	TO Station Uranium Stochastic	Multiply					
+TO Station Uranium			ton/GJ	2010-01-01	2100-01-01	0							
+TO Station Uranium			Unit	2010-01-01	2100-01-01	GJ							
+TO Station Uranium Base			Value	2010-01-01	2100-01-01	Japan Uranium							
+TO Station Uranium Price			Value	2010-01-01	2100-01-01	TO Station Uranium Base	TO Station Uranium Delivery Adjustment	Multiply					
+TO Station Uranium Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+TO Station Uranium Stochastic			Value	2010-01-01	2100-01-01	1							
+TO Station LSFO			Currency	2010-01-01	2100-01-01	EUR							
+TO Station LSFO			LHV	2010-01-01	2100-01-01	0.95							
+TO Station LSFO			Price	2010-01-01	2100-01-01	TO Station LSFO Price	TO Station LSFO Stochastic	Multiply					
+TO Station LSFO			ton/GJ	2010-01-01	2100-01-01	0.06							
+TO Station LSFO			Unit	2010-01-01	2100-01-01	GJ							
+TO Station LSFO Base			Value	2010-01-01	2100-01-01	Japan LSFO							
+TO Station LSFO Price			Value	2010-01-01	2100-01-01	TO Station LSFO Base	TO Station LSFO Delivery Adjustment	Multiply					
+TO Station LSFO Delivery Adjustment			Value	2010-01-01	2100-01-01	1.1							
+TO Station LSFO Stochastic			Value	2010-01-01	2100-01-01	1							
+TO Station Gas Stochastic			Value	2010-01-01	2100-01-01	Gas Stochastic File							UseFuelStochastics

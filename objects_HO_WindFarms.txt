@@ -1,0 +1,30 @@
+Object_Name	Object_Type
+HO Generic JPN offshore	Generator
+JAPAN Offshore 100m 848 42.0 141.25 105M Windspeed	Variable
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWS	Variable
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc	Variable
+JAPAN Offshore 100m 848 42.0 141.25 105M HHc	Variable
+JAPAN Offshore 100m 848 42.0 141.25 105M WSc	Variable
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 848 42.0 141.25 105M HHxWSc+HHc+WSc+C	Variable
+HO Ishikari Bay wind	Generator
+JAPAN Offshore 100m 801 43.5 140.0 110M Windspeed	Variable
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWS	Variable
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc	Variable
+JAPAN Offshore 100m 801 43.5 140.0 110M HHc	Variable
+JAPAN Offshore 100m 801 43.5 140.0 110M WSc	Variable
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc+HHc	Variable
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc+HHc+WSc	Variable
+JAPAN Offshore 100m 801 43.5 140.0 110M HHxWSc+HHc+WSc+C	Variable
+HO Soya Misaki wind	Generator
+JAPAN Onshore 100m 807 43.5 143.75 68M Windspeed	Variable
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWS	Variable
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc	Variable
+JAPAN Onshore 100m 807 43.5 143.75 68M HHc	Variable
+JAPAN Onshore 100m 807 43.5 143.75 68M WSc	Variable
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc+HHc	Variable
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc+HHc+WSc	Variable
+JAPAN Onshore 100m 807 43.5 143.75 68M HHxWSc+HHc+WSc+C	Variable
+HO Tempoku wind	Generator
+HO Tomamae wind	Generator

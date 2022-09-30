@@ -1,0 +1,2 @@
+Object_Name	Object_Type
+TO JP_PP_Shiroyama	Hydro_Generator

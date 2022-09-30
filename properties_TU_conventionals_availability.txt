@@ -1,0 +1,121 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability Coal			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability CCGT			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability OCGT			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability Biomass			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability Lignite			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability Nuclear			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability CHP			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability Liquid			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability Hard Coal			Value	2010-01-01	2100-01-01	0.95			M	 12			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 1			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 2			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 3			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 4			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 5			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 6			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 7			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 8			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 9			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 10			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 11			
+TU Availability LSFO			Value	2010-01-01	2100-01-01	0.95			M	 12			

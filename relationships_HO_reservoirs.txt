@@ -1,0 +1,2 @@
+Object_Name	Parent_Object
+HO JP_RES_Hokkaido	HO

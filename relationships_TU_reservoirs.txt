@@ -1,0 +1,2 @@
+Object_Name	Parent_Object
+TU JP_RES_Shiroyama	TU

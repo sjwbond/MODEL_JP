@@ -1,0 +1,11 @@
+Object_Name	Parent_Object
+TO Generic JPN offshore	JP Onshore Generators
+TO Generic JPN offshore	TO
+TO Ibaraki Kashima port North	JP Offshore Generators
+TO Ibaraki Kashima port North	TO
+TO Ibaraki Kashima port South	JP Offshore Generators
+TO Ibaraki Kashima port South	TO
+TO Kashima Wind	JP Onshore Generators
+TO Kashima Wind	TO
+TO Kamisu Offshore	JP Onshore Generators
+TO Kamisu Offshore	TO

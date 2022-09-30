@@ -1,0 +1,13 @@
+Object_Name	Parent_Object
+TU Generic JPN offshore	TU Onshore Generators
+TU Generic JPN offshore	TU
+TU Yurihonjo	TU Offshore Generators
+TU Yurihonjo	TU
+TU Happou-Noshiro	TU Offshore Generators
+TU Happou-Noshiro	TU
+TU Noshiro Port	TU Offshore Generators
+TU Noshiro Port	TU
+TU Akita Port	TU Offshore Generators
+TU Akita Port	TU
+TU Noheji	TU Onshore Generators
+TU Noheji	TU

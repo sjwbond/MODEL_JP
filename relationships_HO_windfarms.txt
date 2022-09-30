@@ -1,0 +1,11 @@
+Object_Name	Parent_Object
+HO Generic JPN offshore	HO Onshore Generators
+HO Generic JPN offshore	HO
+HO Ishikari Bay wind	HO Offshore Generators
+HO Ishikari Bay wind	HO
+HO Soya Misaki wind	HO Onshore Generators
+HO Soya Misaki wind	HO
+HO Tempoku wind	HO Onshore Generators
+HO Tempoku wind	HO
+HO Tomamae wind	HO Onshore Generators
+HO Tomamae wind	HO
